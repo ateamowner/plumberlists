@@ -34,6 +34,8 @@ Source repo: [https://github.com/ateamowner/plumberlists](https://github.com/ate
 - `public/.nojekyll` is copied into `out/`
 - Deploy: `.github/workflows/pages.yml` builds on `main`, uploads `out/`, and deploys with GitHub Pages
 
+Pages source was set to GitHub Actions and the custom domain to plumberlists.com on 2026-08-28.
+
 ## Porkbun DNS (do not apply in this repo; do not change treelist.ai)
 
 Keep Porkbun nameservers. Add these records for GitHub Pages ([official docs](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)):
