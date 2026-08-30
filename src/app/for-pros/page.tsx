@@ -5,7 +5,7 @@ import { liveCitySlugs, servicePath, site } from "@/config/site";
 
 export const metadata: Metadata = {
   title: `For plumbing companies — ${site.name}`,
-  description: `How contractors buy ${site.name} listings and exclusive leads. Standard, featured, and exclusive. No credit card on this page.`,
+  description: `How contractors buy ${site.name} listings and exclusive leads. Featured — paid placement is $99/month self-serve. Exclusive is email quote only. No credit card on the homeowner form.`,
 };
 
 export default function ForProsPage() {
@@ -35,11 +35,22 @@ export default function ForProsPage() {
           </p>
         </li>
         <li className="rounded-lg border border-border bg-card p-4">
-          <p className="font-semibold">Featured listing</p>
+          <p className="font-semibold">Featured — paid placement</p>
           <p className="mt-1 text-sm leading-6 text-muted-foreground">
             A paid upgrade. It is visually labeled “Featured — paid placement”
             so homeowners can tell it is an ad. Featured sits above standard.
+            This is not exclusive. There is no exclusive SLA and no lead-count
+            guarantee.
           </p>
+          <p className="mt-3 text-sm leading-6">
+            Self-serve: $99/month. Checkout is on Stripe, not on this page.
+          </p>
+          <a
+            href={site.featuredCheckoutUrl}
+            className="mt-3 inline-flex h-11 items-center justify-center rounded-lg bg-primary px-4 text-base font-medium text-primary-foreground hover:bg-primary/90"
+          >
+            Subscribe — $99/month
+          </a>
         </li>
         <li className="rounded-lg border border-border bg-card p-4">
           <p className="font-semibold">Exclusive leads</p>
@@ -48,6 +59,7 @@ export default function ForProsPage() {
             drain cleaning). Exclusive is labeled “Exclusive — paid placement.”
             Quote form traffic on that URL is routed to you first while the
             term is active — only if you are on the approved payer list.
+            Exclusive is email-quote only. There is no self-serve checkout.
           </p>
         </li>
       </ul>
@@ -72,9 +84,17 @@ export default function ForProsPage() {
 
       <h2 className="mt-10 font-heading text-2xl font-semibold">Pricing</h2>
       <p className="mt-3 leading-7">
-        City rates are not published on this page. Email and we will quote a
-        Miami Valley market and a term. Do not send card numbers to the
-        homeowner form.
+        Featured — paid placement is $99/month, self-serve.{" "}
+        <a href={site.featuredCheckoutUrl} className="underline underline-offset-2">
+          Subscribe — $99/month
+        </a>
+        . Checkout is the live Stripe Payment Link for this product; we do not
+        take a card number on this site.
+      </p>
+      <p className="mt-3 leading-7">
+        Exclusive leads stay email-quote only. Those city rates are not
+        published on this page. Email and we will quote a Miami Valley market
+        and a term. Do not send card numbers to the homeowner form.
       </p>
       <p className="mt-3 leading-7">
         Email:{" "}
