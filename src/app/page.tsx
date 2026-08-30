@@ -34,7 +34,7 @@ export default function HomePage() {
             labeled.
           </p>
           <p className="mt-3 max-w-2xl text-base leading-7 text-muted-foreground">
-            Homeowners use the form. Companies buy a listing or exclusive leads
+            Homeowners use the form. Companies buy Featured — paid placement
             on the{" "}
             <Link href="/for-pros/" className="underline underline-offset-2">
               For Pros

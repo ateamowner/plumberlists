@@ -16,6 +16,11 @@ export const site = {
   /** Native HTML POST to Formsubmit. No fetch/XHR, no API key. */
   formAction: "https://formsubmit.co/owner@ateamcontractings.com",
   formRedirect: "https://plumberlists.com/request-sent/",
+  /**
+   * Live Stripe Payment Link for Featured — paid placement ($99/month).
+   * Do not recreate or change this product in Stripe from the site repo.
+   */
+  featuredCheckoutUrl: "https://buy.stripe.com/6oUcN62yh8PibSJ4Rpdwc0b",
   tagline: "A directory of plumbers. Not a plumber.",
   year: 2026,
   description:

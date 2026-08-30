@@ -138,7 +138,7 @@ export function hubFaqs(city: City): Faq[] {
     },
     {
       question: `How do contractors get on this ${city.name} page?`,
-      answer: `See the For Pros page. Companies can buy a standard listing, a labeled featured spot, or exclusive leads for a city and service. There is no credit-card form on this site.`,
+      answer: `See the For Pros page. Companies can buy Featured — paid placement ($99/month, self-serve). That is a labeled ad, not exclusive, and there is no lead-count SLA. There is no credit-card form on this site.`,
     },
   ];
 }
