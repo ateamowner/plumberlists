@@ -4,6 +4,7 @@ import { Disclosure } from "@/components/disclosure";
 import { QuoteFormLoader } from "@/components/quote-form-loader";
 import {
   cities,
+  cityPath,
   liveCitySlugs,
   servicePath,
   services,
@@ -13,6 +14,7 @@ import {
 export const metadata: Metadata = {
   title: `${site.name} — plumber directory`,
   description: site.description,
+  alternates: { canonical: "/" },
 };
 
 export default function HomePage() {
@@ -41,6 +43,14 @@ export default function HomePage() {
             </Link>{" "}
             page. Until a listing goes live on a URL, we still take the request
             and hold it.
+          </p>
+          <p className="mt-5">
+            <Link
+              href="/for-pros/"
+              className="inline-flex h-11 items-center justify-center rounded-lg bg-primary px-4 text-base font-medium text-primary-foreground hover:bg-primary/90"
+            >
+              Featured — $99/month
+            </Link>
           </p>
           <Disclosure className="mt-4" />
         </div>
@@ -74,7 +84,7 @@ export default function HomePage() {
                 </Link>
               </p>
               <p className="mt-2">
-                <Link href={`/${city.slug}`} className="text-sm hover:underline">
+                <Link href={cityPath(city)} className="text-sm hover:underline">
                   All {city.name} services
                 </Link>
               </p>

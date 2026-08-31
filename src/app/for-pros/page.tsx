@@ -6,6 +6,7 @@ import { liveCitySlugs, servicePath, site } from "@/config/site";
 export const metadata: Metadata = {
   title: `For plumbing companies — ${site.name}`,
   description: `How contractors buy Featured — paid placement on ${site.name}. $99/month self-serve. Not exclusive. No lead-count SLA. No credit card on the homeowner form.`,
+  alternates: { canonical: "/for-pros/" },
 };
 
 export default function ForProsPage() {
