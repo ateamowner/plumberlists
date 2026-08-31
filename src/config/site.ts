@@ -131,6 +131,7 @@ export const cities: City[] = [
     status: "live",
     nearbySlugs: [
       "kettering-oh",
+      "oakwood-oh",
       "beavercreek-oh",
       "huber-heights-oh",
       "vandalia-oh",
@@ -153,6 +154,7 @@ export const cities: City[] = [
     status: "live",
     nearbySlugs: [
       "dayton-oh",
+      "oakwood-oh",
       "centerville-oh",
       "beavercreek-oh",
       "miamisburg-oh",
@@ -194,6 +196,7 @@ export const cities: City[] = [
     status: "live",
     nearbySlugs: [
       "kettering-oh",
+      "oakwood-oh",
       "miamisburg-oh",
       "beavercreek-oh",
       "dayton-oh",
@@ -319,6 +322,26 @@ export const cities: City[] = [
       "Canal-era downtown houses with crawlspaces sit next to later Miami County subdivisions on slabs.",
     winter:
       "Historic downtown crawlspaces freeze first; later subdivision slabs have a different freeze story (hose bibs and unfinished bonus rooms).",
+    utility: "AES Ohio",
+  },
+  {
+    slug: "oakwood-oh",
+    name: "Oakwood",
+    state: "Ohio",
+    stateAbbr: "OH",
+    status: "live",
+    nearbySlugs: [
+      "dayton-oh",
+      "kettering-oh",
+      "centerville-oh",
+      "beavercreek-oh",
+    ],
+    setting:
+      "Oakwood is a small inner-ring city immediately south of Dayton, with tree-lined streets and early 20th-century two-stories. AES Ohio is typical. Tighter lots and older laterals than a later Kettering ranch. Winter freeze hits crawlspaces and hose bibs on that older stock first.",
+    housing:
+      "Tudor, colonial, and foursquare houses on shaded lots — unfinished basements or short crawlspaces, not a 1990s slab subdivision.",
+    winter:
+      "Mature shade and older crawlspaces freeze first after a Miami Valley polar-vortex night; hose bibs and poorly insulated supply runs split on the early 20th-century stock.",
     utility: "AES Ohio",
   },
 ];
