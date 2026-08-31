@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { Disclosure } from "@/components/disclosure";
+import { HeaderPrimaryCta } from "@/components/header-primary-cta";
 import { site } from "@/config/site";
 
 export function SiteHeader() {
@@ -21,15 +22,10 @@ export function SiteHeader() {
           <Link href="/#cities" className="hover:underline">
             Cities
           </Link>
-          <Link href="/for-pros/" className="hidden hover:underline sm:inline">
+          <Link href="/for-pros/" className="hover:underline">
             For pros
           </Link>
-          <a
-            href="#quote"
-            className="inline-flex h-10 items-center rounded-md bg-primary px-3 text-primary-foreground hover:bg-primary/90"
-          >
-            Get a quote
-          </a>
+          <HeaderPrimaryCta />
         </nav>
       </div>
       <div className="border-t border-border bg-muted/50 px-4 py-2 sm:px-6">
