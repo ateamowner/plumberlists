@@ -99,6 +99,15 @@ const copy: Record<string, string> = {
     "A downtown Tipp crawlspace tank is a different carry than a later subdivision garage. Electric vs gas (AES Ohio on the bill) belongs in the note. We cite national replacement ranges, not a Miami County survey.",
   "tipp-city-oh:emergency-plumbing":
     "Tipp City emergencies after a freeze hit historic downtown crawlspaces first; later slabs usually fail at hose bibs or unfinished bonus rooms. If a line is open or there is no water, mark emergency on the form.",
+
+  "oakwood-oh:plumbing":
+    "Oakwood plumbing is often an early 20th-century Tudor, colonial, or foursquare on a tree-lined lot immediately south of Dayton. AES Ohio is typical. Older galvanized or copper under a short crawlspace is a different job than a later Kettering ranch slab. We will not invent an Oakwood-only price.",
+  "oakwood-oh:drain-cleaning":
+    "On an Oakwood two-story, a slow kitchen or hall bath is often the original lateral under a tree-lined street. Roots and grease in older clay or cast iron show up more than a brand-new subdivision clog. We do not invent an inner-ring drain price.",
+  "oakwood-oh:water-heater":
+    "Oakwood tanks usually sit in an unfinished basement or a short crawlspace on an early 20th-century lot. Getting a tank in or out of a Tudor or foursquare is tighter access than a Kettering garage. Electric units sit on AES Ohio; gas needs a vent that still drafts. National ranges only.",
+  "oakwood-oh:emergency-plumbing":
+    "An Oakwood emergency after a polar-vortex night is often a crawlspace line or a hose bib that split on older stock. Tree-lined lots do not skip freeze. If a line is open or the house has no water, mark emergency on the form.",
 };
 
 export function uniqueLocalCopy(city: City, service: Service): string {

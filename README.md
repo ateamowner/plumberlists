@@ -76,8 +76,9 @@ Live cities (all Miami Valley / Dayton area):
 - [/vandalia-oh/plumbing](/vandalia-oh/plumbing) — Best Plumbing in Vandalia — 2026
 - [/springfield-oh/plumbing](/springfield-oh/plumbing) — Best Plumbing in Springfield — 2026
 - [/tipp-city-oh/plumbing](/tipp-city-oh/plumbing) — Best Plumbing in Tipp City — 2026
+- [/oakwood-oh/plumbing](/oakwood-oh/plumbing) — Best Plumbing in Oakwood — 2026
 
-City hubs: `/dayton-oh`, `/kettering-oh`, `/beavercreek-oh`, `/centerville-oh`, `/huber-heights-oh`, `/fairborn-oh`, `/miamisburg-oh`, `/xenia-oh`, `/vandalia-oh`, `/springfield-oh`, `/tipp-city-oh`.
+City hubs: `/dayton-oh`, `/kettering-oh`, `/beavercreek-oh`, `/centerville-oh`, `/huber-heights-oh`, `/fairborn-oh`, `/miamisburg-oh`, `/xenia-oh`, `/vandalia-oh`, `/springfield-oh`, `/tipp-city-oh`, `/oakwood-oh`.
 
 Related services (unique H1, intro, form, links back): `drain-cleaning`, `water-heater`, `emergency-plumbing`.
 
