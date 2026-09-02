@@ -108,6 +108,15 @@ const copy: Record<string, string> = {
     "Oakwood tanks usually sit in an unfinished basement or a short crawlspace on an early 20th-century lot. Getting a tank in or out of a Tudor or foursquare is tighter access than a Kettering garage. Electric units sit on AES Ohio; gas needs a vent that still drafts. National ranges only.",
   "oakwood-oh:emergency-plumbing":
     "An Oakwood emergency after a polar-vortex night is often a crawlspace line or a hose bib that split on older stock. Tree-lined lots do not skip freeze. If a line is open or the house has no water, mark emergency on the form.",
+
+  "west-carrollton-oh:plumbing":
+    "West Carrollton plumbing is often a 1950s–70s ranch or split-level on the I-75 / Dixie Drive corridor, with older downtown stock near Central Avenue. AES Ohio is typical. Flatter river-valley lots than a Miamisburg hillside; original laterals and garage-wall supply are a different job than an Oakwood Tudor crawlspace. We will not invent a West Carrollton-only price.",
+  "west-carrollton-oh:drain-cleaning":
+    "On a West Carrollton ranch, a slow kitchen or tub line is often the original lateral under a Dixie Drive street with mature trees. Downtown laterals can be older clay or cast iron; later ranch mains are shorter. Roots and grease show up more than a brand-new subdivision clog. We do not invent a river-corridor drain price.",
+  "west-carrollton-oh:water-heater":
+    "West Carrollton tanks usually sit in a garage, utility alcove, or unfinished basement on a postwar lot. Getting a tank in or out of a ranch is simpler access than a Miamisburg hillside two-story, but river-adjacent crawlspaces still get cold. Electric units sit on AES Ohio; gas needs a vent that still drafts. National ranges only.",
+  "west-carrollton-oh:emergency-plumbing":
+    "A West Carrollton emergency after a polar-vortex night is often a garage-wall line or a river-adjacent crawlspace pipe that froze, then opened. Postwar ranches lose heat in those corners first. If a line is open or the house has no water, mark emergency on the form.",
 };
 
 export function uniqueLocalCopy(city: City, service: Service): string {
