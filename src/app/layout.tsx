@@ -58,6 +58,18 @@ export default function RootLayout({
       lang="en"
       className={`${sans.variable} ${serif.variable} h-full scroll-smooth antialiased`}
     >
+      <head>
+        {/*
+          Webmaster verification placeholders — do not invent codes.
+          Bing Webmaster Tools (msvalidate.01): Anthony must add
+          plumberlists.com in Bing Webmaster Tools, then replace this
+          comment with <meta name="msvalidate.01" content="PASTE_CODE" />.
+          Google site verification: HTML file is already at
+          /googled3ae2edf58b5b2f8.html. Add
+          <meta name="google-site-verification" content="PASTE_CODE" />
+          only after Anthony pastes a real Search Console code.
+        */}
+      </head>
       <body className="flex min-h-full flex-col bg-background text-foreground">
         <style>{`:root { ${themeVars}; }`}</style>
         <SiteHeader />

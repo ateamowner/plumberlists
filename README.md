@@ -146,5 +146,13 @@ National published ranges only (not a Dayton survey):
 ## SEO
 
 - `sitemap.xml` and `robots.txt` are generated from the city/service config.
+- Sitemap `<loc>` values keep a trailing slash (including the homepage `https://plumberlists.com/`). Do not revert to no-slash locs.
+- `robots.txt` `Sitemap:` points at `https://plumberlists.com/sitemap.xml`. Money pages (homepage, city hubs, service pages, `/for-pros/`, featured, quote, contact) stay allowed. Only `/request-sent/` is disallowed.
 - Every city and city × service page includes JSON-LD: `LocalBusiness` for PlumberLists the publisher (not a vendor), `FAQPage` matching the visible FAQs, and `BreadcrumbList`.
 - Locked H1 on city × service pages: `Best {Service} in {City} — 2026`.
+
+## IndexNow and Bing Webmaster
+
+IndexNow key file (public by design, unique to plumberlists.com): [`public/501c87b49c5782ddc058aaea38764d39.txt`](public/501c87b49c5782ddc058aaea38764d39.txt). After GitHub Pages deploy, `.github/workflows/pages.yml` POSTs this host, key, keyLocation, and the built sitemap locs to `https://api.indexnow.org/indexnow`. No Bing API secret and no secret env var.
+
+**Anthony:** add `plumberlists.com` in [Bing Webmaster Tools](https://www.bing.com/webmasters). Then paste the real `msvalidate.01` verification code into the HTML comment slot in `src/app/layout.tsx`. Do not invent a code. Google HTML-file verification is already at `/googled3ae2edf58b5b2f8.html`; a `google-site-verification` meta is optional and also needs a real code from Search Console.
