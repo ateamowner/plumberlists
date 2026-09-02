@@ -136,6 +136,7 @@ export const cities: City[] = [
       "huber-heights-oh",
       "vandalia-oh",
       "miamisburg-oh",
+      "west-carrollton-oh",
       "fairborn-oh",
     ],
     setting:
@@ -158,6 +159,7 @@ export const cities: City[] = [
       "centerville-oh",
       "beavercreek-oh",
       "miamisburg-oh",
+      "west-carrollton-oh",
     ],
     setting:
       "Kettering is a southern Dayton suburb of mid-century ranches and split-levels on AES Ohio. Mature trees and older laterals sit under quiet streets. Garage and crawlspace pipes freeze when insulation is thin.",
@@ -255,7 +257,12 @@ export const cities: City[] = [
     state: "Ohio",
     stateAbbr: "OH",
     status: "live",
-    nearbySlugs: ["dayton-oh", "kettering-oh", "centerville-oh"],
+    nearbySlugs: [
+      "dayton-oh",
+      "west-carrollton-oh",
+      "kettering-oh",
+      "centerville-oh",
+    ],
     setting:
       "Miamisburg sits on the Great Miami River with hillside lots and a historic downtown. AES Ohio serves most homes. Older clay laterals and tight staging on hillsides matter. Exposed crawlspaces freeze on the bluff side of a lot.",
     housing:
@@ -335,6 +342,7 @@ export const cities: City[] = [
       "kettering-oh",
       "centerville-oh",
       "beavercreek-oh",
+      "west-carrollton-oh",
     ],
     setting:
       "Oakwood is a small inner-ring city immediately south of Dayton, with tree-lined streets and early 20th-century two-stories. AES Ohio is typical. Tighter lots and older laterals than a later Kettering ranch. Winter freeze hits crawlspaces and hose bibs on that older stock first.",
@@ -342,6 +350,27 @@ export const cities: City[] = [
       "Tudor, colonial, and foursquare houses on shaded lots — unfinished basements or short crawlspaces, not a 1990s slab subdivision.",
     winter:
       "Mature shade and older crawlspaces freeze first after a Miami Valley polar-vortex night; hose bibs and poorly insulated supply runs split on the early 20th-century stock.",
+    utility: "AES Ohio",
+  },
+  {
+    slug: "west-carrollton-oh",
+    name: "West Carrollton",
+    state: "Ohio",
+    stateAbbr: "OH",
+    status: "live",
+    nearbySlugs: [
+      "dayton-oh",
+      "miamisburg-oh",
+      "kettering-oh",
+      "oakwood-oh",
+      "centerville-oh",
+    ],
+    setting:
+      "West Carrollton sits on the Great Miami River immediately south of Dayton and north of Miamisburg, along the I-75 / Dixie Drive corridor. AES Ohio is typical. Postwar ranches sit next to older downtown stock on flatter river-valley lots than a Miamisburg hillside. Winter freeze hits garage-wall supply and river-adjacent crawlspaces first.",
+    housing:
+      "1950s–70s ranches and split-levels on flatter river-valley lots than a Miamisburg hillside — unfinished basements or short crawlspaces, not an Oakwood Tudor.",
+    winter:
+      "River-adjacent crawlspaces and unheated garage walls freeze after a Miami Valley polar-vortex night; hose bibs and poorly insulated supply runs on postwar stock split first.",
     utility: "AES Ohio",
   },
 ];
