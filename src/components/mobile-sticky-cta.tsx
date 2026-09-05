@@ -10,19 +10,28 @@ export function MobileStickyCta() {
   const [afterHero, setAfterHero] = useState(false);
 
   useEffect(() => {
-    const hero = document.getElementById("hero") ?? document.getElementById("quote");
-    if (!hero) {
+    const targets = ["hero", "quote"]
+      .map((id) => document.getElementById(id))
+      .filter((el): el is HTMLElement => Boolean(el));
+
+    if (targets.length === 0) {
       setAfterHero(true);
       return;
     }
 
+    const visible = new Set<Element>();
     const observer = new IntersectionObserver(
-      ([entry]) => {
-        setAfterHero(!entry.isIntersecting);
+      (entries) => {
+        for (const entry of entries) {
+          if (entry.isIntersecting) visible.add(entry.target);
+          else visible.delete(entry.target);
+        }
+        setAfterHero(visible.size === 0);
       },
-      { threshold: 0 }
+      { threshold: 0, rootMargin: "0px 0px -64px 0px" }
     );
-    observer.observe(hero);
+
+    for (const target of targets) observer.observe(target);
     return () => observer.disconnect();
   }, [pathname]);
 
