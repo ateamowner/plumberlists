@@ -7,8 +7,10 @@ import { FaqList } from "@/components/faq-list";
 import { HowToChoose } from "@/components/how-to-choose";
 import { NearbyCityLinks, RelatedServiceLinks } from "@/components/internal-links";
 import { JsonLd } from "@/components/json-ld";
+import { FeaturedPath } from "@/components/featured-path";
 import { ListingsBlock } from "@/components/listings-block";
 import { QuoteFormLoader } from "@/components/quote-form-loader";
+import { TrustStrip } from "@/components/trust-strip";
 import {
   cities,
   cityPath,
@@ -107,29 +109,31 @@ export default async function ServicePage({
       />
 
       <div className="mt-4 grid gap-8 lg:grid-cols-[minmax(0,1fr)_22rem] lg:grid-rows-[auto_1fr]">
-        <header className="lg:col-start-1">
+        <header id="hero" className="lg:col-start-1">
           <p className="text-sm font-medium text-primary">
             {city.name}, {city.stateAbbr}
           </p>
-          <h1 className="mt-2 font-heading text-3xl font-semibold tracking-tight text-balance sm:text-4xl">
+          <h1 className="type-h1 mt-2 font-heading font-semibold tracking-tight text-balance">
             {heading}
           </h1>
           <p className="mt-3 rounded-md border border-border bg-muted/60 px-3 py-2 text-sm">
             {site.name} is a directory, not a plumber. Paid spots are labeled.
           </p>
           {intro.map((paragraph) => (
-            <p key={paragraph} className="mt-4 text-base leading-7">
+            <p key={paragraph} className="mt-4">
               {paragraph}
             </p>
           ))}
           <Disclosure className="mt-4" />
         </header>
 
-        <aside className="lg:col-start-2 lg:row-span-2 lg:self-start lg:sticky lg:top-6">
+        <aside className="lg:col-start-2 lg:row-span-2 lg:self-start lg:sticky lg:top-24">
           <QuoteFormLoader city={city} service={service} />
+          {listings.length === 0 ? <FeaturedPath compact /> : null}
         </aside>
 
         <div className="lg:col-start-1">
+          <TrustStrip />
           <HowToChoose content={choose} />
           <CostGuide content={cost} />
           <FaqList faqs={questions} />

@@ -7,6 +7,7 @@ import { FaqList } from "@/components/faq-list";
 import { NearbyCityLinks } from "@/components/internal-links";
 import { JsonLd } from "@/components/json-ld";
 import { QuoteFormLoader } from "@/components/quote-form-loader";
+import { TrustStrip } from "@/components/trust-strip";
 import {
   cities,
   cityPath,
@@ -75,10 +76,10 @@ export default async function CityHubPage({
         ]}
       />
 
-      <div className="mt-4 grid gap-8 lg:grid-cols-[minmax(0,1fr)_22rem]">
-        <div>
+      <div className="mt-4 grid gap-8 lg:grid-cols-[minmax(0,1fr)_22rem] lg:grid-rows-[auto_1fr]">
+        <header id="hero" className="lg:col-start-1">
           <p className="text-sm font-medium text-primary">{city.state}</p>
-          <h1 className="mt-2 font-heading text-3xl font-semibold tracking-tight sm:text-4xl">
+          <h1 className="type-h1 mt-2 font-heading font-semibold tracking-tight">
             Plumbing in {city.name}, {city.stateAbbr}
           </h1>
           <p className="mt-3 rounded-md border border-border bg-muted/60 px-3 py-2 text-sm">
@@ -95,7 +96,14 @@ export default async function CityHubPage({
             {city.housing} {city.winter}
           </p>
           <Disclosure className="mt-4" />
+        </header>
 
+        <aside className="lg:col-start-2 lg:row-span-2 lg:self-start lg:sticky lg:top-24">
+          {plumbing ? <QuoteFormLoader city={city} service={plumbing} /> : null}
+        </aside>
+
+        <div className="lg:col-start-1">
+          <TrustStrip />
           <h2 className="mt-8 font-heading text-xl font-semibold">
             Services in {city.name}
           </h2>
@@ -120,9 +128,6 @@ export default async function CityHubPage({
           <FaqList faqs={questions} />
           <NearbyCityLinks city={city} />
         </div>
-        <aside className="lg:sticky lg:top-6 lg:self-start">
-          {plumbing ? <QuoteFormLoader city={city} service={plumbing} /> : null}
-        </aside>
       </div>
     </article>
   );

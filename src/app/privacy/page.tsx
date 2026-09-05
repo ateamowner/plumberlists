@@ -23,10 +23,11 @@ export default function PrivacyPage() {
 
       <h2 className="mt-8 font-heading text-2xl font-semibold">What we collect</h2>
       <p className="mt-3 leading-7">
-        From the quote form: name, phone, email, ZIP, service type, timing,
-        optional property type and message, SMS consent, and privacy consent.
-        Hidden fields may include page URL, city, city slug, state, service,
-        listing id, source, gclid, utm_source, utm_medium, and utm_campaign.
+        From the quote form: required phone, email, ZIP, service type, timing,
+        SMS consent, and privacy consent. Optional name, property type, and
+        message. Hidden fields may include page URL, city, city slug, state,
+        service, listing id, source, gclid, utm_source, utm_medium, and
+        utm_campaign.
       </p>
 
       <h2 className="mt-8 font-heading text-2xl font-semibold">How we use it</h2>
@@ -42,9 +43,8 @@ export default function PrivacyPage() {
 
       <h2 className="mt-8 font-heading text-2xl font-semibold">SMS</h2>
       <p className="mt-3 leading-7">
-        SMS consent is optional. If you check it, the company that eventually
-        receives your request may text you about that job. Consent is not a
-        condition of submitting the form.
+        SMS consent is required to submit the form. If you check it, the company
+        that eventually receives your request may text you about that job.
       </p>
 
       <h2 className="mt-8 font-heading text-2xl font-semibold">What we do not do</h2>
