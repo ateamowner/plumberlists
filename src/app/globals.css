@@ -3,7 +3,7 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-source-sans);
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
   --font-heading: var(--font-source-serif);
   --color-ring: var(--ring);
   --color-input: var(--input);
@@ -50,11 +50,35 @@
   }
   body {
     @apply bg-background text-foreground font-sans;
+    font-size: 16px;
+    line-height: 26px;
   }
   html {
     @apply font-sans;
   }
   #quote {
     scroll-margin-top: 5.5rem;
+  }
+}
+
+@layer components {
+  .type-h1 {
+    font-size: 32px;
+    line-height: 40px;
+  }
+  .type-label {
+    font-size: 13px;
+    line-height: 18px;
+  }
+  .type-button {
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: 500;
+  }
+  @media (min-width: 640px) {
+    .type-h1 {
+      font-size: 40px;
+      line-height: 48px;
+    }
   }
 }

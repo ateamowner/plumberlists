@@ -408,6 +408,12 @@ export function cityPath(city: City | string): string {
   return withTrailingSlash(`/${slug}`);
 }
 
+/** One-line card copy from existing setting text. Do not invent a new city field. */
+export function cityOneLiner(city: City): string {
+  const first = city.setting.split(/(?<=\.)\s/)[0]?.trim() ?? city.setting;
+  return first;
+}
+
 export function servicePath(city: City | string, service: Service | string): string {
   const citySlug = typeof city === "string" ? city : city.slug;
   const serviceSlug = typeof service === "string" ? service : service.slug;

@@ -6,6 +6,7 @@ import { QuoteFormLoader } from "@/components/quote-form-loader";
 import { TrustStrip } from "@/components/trust-strip";
 import {
   cities,
+  cityOneLiner,
   cityPath,
   liveCitySlugs,
   servicePath,
@@ -24,24 +25,24 @@ export default function HomePage() {
 
   return (
     <div className="mx-auto w-full max-w-6xl px-4 py-10 sm:px-6">
-      <section className="grid gap-8 lg:grid-cols-[minmax(0,1fr)_22rem]">
+      <section id="hero" className="grid gap-8 lg:grid-cols-[minmax(0,1fr)_22rem]">
         <div>
-          <p className="text-sm font-medium text-primary">{site.tagline}</p>
-          <h1 className="mt-2 font-heading text-4xl font-semibold tracking-tight text-balance sm:text-5xl">
+          <p className="type-label font-medium text-primary">{site.tagline}</p>
+          <h1 className="type-h1 mt-2 font-heading font-semibold tracking-tight text-balance">
             Find a plumber by city. Request a quote. Skip the fake shop page.
           </h1>
-          <p className="mt-4 max-w-2xl text-lg leading-8">
+          <p className="mt-4 max-w-2xl">
             {site.name} is a lead-generation directory for plumbers in the
             Dayton / Miami Valley. We are not a plumber. We do not own a van,
             and we do not invent company names, star ratings, or city-specific
             prices. Each city has its own URL. Featured spots are paid and
             labeled.
           </p>
-          <p className="mt-3 max-w-2xl text-base leading-7 text-muted-foreground">
+          <p className="mt-3 max-w-2xl text-muted-foreground">
             Homeowners use the form. Until a listing goes live on a URL, we
             still take the request and hold it. Companies buy Featured on the{" "}
             <Link href="/for-pros/" className="underline underline-offset-2">
-              For Pros
+              For pros
             </Link>{" "}
             page — that path stays below, not in this form.
           </p>
@@ -71,10 +72,12 @@ export default function HomePage() {
               className="flex flex-col rounded-lg border border-border bg-card p-5"
             >
               <h3 className="font-heading text-xl font-semibold">
-                {city.name}, {city.stateAbbr}
+                <Link href={cityPath(city)} className="hover:underline">
+                  {city.name}, {city.stateAbbr}
+                </Link>
               </h3>
-              <p className="mt-2 flex-1 text-sm leading-6 text-muted-foreground">
-                {city.setting}
+              <p className="mt-2 flex-1 truncate text-muted-foreground">
+                {cityOneLiner(city)}
               </p>
               <p className="mt-4">
                 <Link
@@ -82,11 +85,6 @@ export default function HomePage() {
                   className="font-medium underline underline-offset-2"
                 >
                   Best Plumbing in {city.name} — {site.year}
-                </Link>
-              </p>
-              <p className="mt-2">
-                <Link href={cityPath(city)} className="text-sm hover:underline">
-                  All {city.name} services
                 </Link>
               </p>
             </li>

@@ -1,14 +1,14 @@
 import type { Metadata } from "next";
-import { Source_Sans_3, Source_Serif_4 } from "next/font/google";
+import { Inter, Source_Serif_4 } from "next/font/google";
 import { MobileStickyCta } from "@/components/mobile-sticky-cta";
 import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
 import { site } from "@/config/site";
 import "./globals.css";
 
-const sans = Source_Sans_3({
+const sans = Inter({
   subsets: ["latin"],
-  variable: "--font-source-sans",
+  variable: "--font-inter",
   display: "swap",
 });
 
@@ -71,7 +71,7 @@ export default function RootLayout({
           only after Anthony pastes a real Search Console code.
         */}
       </head>
-      <body className="flex min-h-full flex-col bg-background pb-20 text-foreground md:pb-0">
+      <body className="flex min-h-full flex-col bg-background text-foreground">
         <style>{`:root { ${themeVars}; }`}</style>
         <SiteHeader />
         <main className="flex-1">{children}</main>

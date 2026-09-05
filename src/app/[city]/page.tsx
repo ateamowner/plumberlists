@@ -77,9 +77,9 @@ export default async function CityHubPage({
       />
 
       <div className="mt-4 grid gap-8 lg:grid-cols-[minmax(0,1fr)_22rem] lg:grid-rows-[auto_1fr]">
-        <header className="lg:col-start-1">
+        <header id="hero" className="lg:col-start-1">
           <p className="text-sm font-medium text-primary">{city.state}</p>
-          <h1 className="mt-2 font-heading text-3xl font-semibold tracking-tight sm:text-4xl">
+          <h1 className="type-h1 mt-2 font-heading font-semibold tracking-tight">
             Plumbing in {city.name}, {city.stateAbbr}
           </h1>
           <p className="mt-3 rounded-md border border-border bg-muted/60 px-3 py-2 text-sm">

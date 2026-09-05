@@ -109,18 +109,18 @@ export default async function ServicePage({
       />
 
       <div className="mt-4 grid gap-8 lg:grid-cols-[minmax(0,1fr)_22rem] lg:grid-rows-[auto_1fr]">
-        <header className="lg:col-start-1">
+        <header id="hero" className="lg:col-start-1">
           <p className="text-sm font-medium text-primary">
             {city.name}, {city.stateAbbr}
           </p>
-          <h1 className="mt-2 font-heading text-3xl font-semibold tracking-tight text-balance sm:text-4xl">
+          <h1 className="type-h1 mt-2 font-heading font-semibold tracking-tight text-balance">
             {heading}
           </h1>
           <p className="mt-3 rounded-md border border-border bg-muted/60 px-3 py-2 text-sm">
             {site.name} is a directory, not a plumber. Paid spots are labeled.
           </p>
           {intro.map((paragraph) => (
-            <p key={paragraph} className="mt-4 text-base leading-7">
+            <p key={paragraph} className="mt-4">
               {paragraph}
             </p>
           ))}

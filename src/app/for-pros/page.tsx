@@ -50,10 +50,10 @@ export default function ForProsPage() {
       </h2>
       <p className="mt-3 leading-7">
         The form requires phone, email, ZIP, service type, and timing first.
-        Optional name, property type, message, and SMS consent sit behind More
-        details. Privacy consent stays required and visible. Hidden fields carry
-        page URL, city, state, service, gclid, and utm tags. There is no
-        credit-card field on {site.name}.
+        Optional name, property type, and message sit behind More details. SMS
+        and privacy consent stay required and visible. Hidden fields carry page
+        URL, city, state, service, gclid, and utm tags. There is no credit-card
+        field on {site.name}.
       </p>
       <p className="mt-3 leading-7">
         Every quote posts to Formsubmit at {site.leadsEmail}. We persist every

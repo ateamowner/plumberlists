@@ -128,7 +128,7 @@ The quote form is a **native HTML POST** (no `fetch` / XHR). Action: `https://fo
 
 Never invent a Web3Forms (or other) key. Never use `treelist@agentmail.to`.
 
-Fields (v2): required first — phone, email, ZIP, service, timing — then required privacy consent. Optional name, property type, message, and SMS consent sit behind a “More details” disclosure. Hidden city/service, page_url, gclid, and utm_*.
+Fields (v2): required first — phone, email, ZIP, service, timing. Optional name, property type, and message sit behind a “More details” disclosure. SMS and privacy consent stay required and visible. Hidden city/service, page_url, gclid, and utm_*.
 
 The browser leaves the city page and lands on `/request-sent/`.
 

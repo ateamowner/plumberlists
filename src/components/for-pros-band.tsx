@@ -22,15 +22,15 @@ export function ForProsBand() {
       <div className="mt-5 flex flex-wrap items-center gap-3">
         <a
           href={site.featuredCheckoutUrl}
-          className="inline-flex h-11 items-center justify-center rounded-lg bg-primary px-4 text-base font-medium text-primary-foreground hover:bg-primary/90"
+          className="type-button inline-flex h-11 items-center justify-center rounded-lg bg-primary px-4 text-primary-foreground hover:bg-primary/90"
         >
           Featured — $99/month
         </a>
         <Link
           href="/for-pros/"
-          className="inline-flex h-11 items-center justify-center rounded-lg border border-border px-4 text-base font-medium hover:bg-muted"
+          className="type-button inline-flex h-11 items-center justify-center rounded-lg border border-border px-4 hover:bg-muted"
         >
-          For Pros
+          For pros
         </Link>
       </div>
     </section>
