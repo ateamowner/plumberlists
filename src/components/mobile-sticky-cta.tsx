@@ -25,6 +25,7 @@ export function MobileStickyCta() {
       setQuoteMostlyVisible(false);
       return;
     }
+    const quote = form;
 
     const observer = new IntersectionObserver(
       ([entry]) => {
@@ -32,22 +33,22 @@ export function MobileStickyCta() {
       },
       { threshold: [0, 0.4, 1] }
     );
-    observer.observe(form);
+    observer.observe(quote);
 
     function onFocusIn(event: FocusEvent) {
-      if (form.contains(event.target as Node)) setFormFocused(true);
+      if (quote.contains(event.target as Node)) setFormFocused(true);
     }
     function onFocusOut(event: FocusEvent) {
-      if (!form.contains(event.relatedTarget as Node)) setFormFocused(false);
+      if (!quote.contains(event.relatedTarget as Node)) setFormFocused(false);
     }
 
-    form.addEventListener("focusin", onFocusIn);
-    form.addEventListener("focusout", onFocusOut);
+    quote.addEventListener("focusin", onFocusIn);
+    quote.addEventListener("focusout", onFocusOut);
 
     return () => {
       observer.disconnect();
-      form.removeEventListener("focusin", onFocusIn);
-      form.removeEventListener("focusout", onFocusOut);
+      quote.removeEventListener("focusin", onFocusIn);
+      quote.removeEventListener("focusout", onFocusOut);
     };
   }, [pathname, hiddenRoute]);
 
