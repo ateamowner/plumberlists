@@ -143,37 +143,31 @@ export function hubFaqs(city: City): Faq[] {
   ];
 }
 
-/** Homepage FAQs — match visible honesty copy. No invented ratings or contractor counts. */
+/** Homepage FAQs — visible copy and JSON-LD must match verbatim. */
 export function homeFaqs(): Faq[] {
   return [
     {
-      question: `Is ${site.name} a plumber?`,
-      answer: `No. ${site.name} is a lead-generation directory for plumbers in the Dayton / Miami Valley. We are not a plumber. We do not own a van, and we do not perform field work.`,
+      question: `Is ${site.name} a plumbing company?`,
+      answer: `No. ${site.name} is a lead-generation directory. We do not send a truck, pull permits, or invent company names. Featured — paid placement spots are paid and labeled.`,
     },
     {
-      question: "Are Featured listings ads?",
+      question: "Why are some listings marked Featured?",
       answer:
-        "Yes. Featured spots are paid and labeled. Companies buy Featured — paid placement on the For pros page. Homeowners use the quote form. That path stays off the homeowner form.",
+        "Featured — paid placement is a labeled paid upgrade so homeowners can tell it is an ad. It is not exclusive and has no lead-count guarantee.",
     },
     {
-      question: "What happens after I submit the quote form?",
-      answer:
-        "Until a listing goes live on a URL, we still take the request and hold it. We do not invent a contractor to fill an empty listing, and we do not send a lead to anyone who is not on the approved list.",
+      question: "What happens after I submit the form?",
+      answer: `We store the request at ${site.leadsEmail} and hold it. If a listing is live for that URL and the company is on the approved payer list, we can route it. If the URL is empty, we still take the request and hold it. We do not invent a contractor to fill the gap.`,
     },
     {
-      question: "Are the city pages real URLs?",
+      question: "Do you invent star ratings or city-specific prices?",
       answer:
-        "Yes. Each city has its own URL. Dayton / Miami Valley first. Every city listed on this homepage is a real page so internal links do not 404.",
+        "No. We do not invent company names, star ratings, or city-specific prices. Cost guides cite national published ranges only.",
     },
     {
-      question: "Do you publish star ratings or city-specific prices?",
+      question: "Which cities do you cover?",
       answer:
-        "No. We do not invent company names, star ratings, or city-specific prices. National cost ranges on city pages are cited to Angi — not a local survey.",
-    },
-    {
-      question: "How do plumbing companies get on this directory?",
-      answer:
-        "Companies buy Featured — paid placement on the For pros page. Checkout is Stripe. The homeowner form never takes a card. Featured is not exclusive and has no lead-count SLA.",
+        "Dayton / Miami Valley first — each city has its own URL so internal links do not 404. Open a city page from the homepage list for that market’s form.",
     },
   ];
 }

@@ -9,14 +9,28 @@ import {
 } from "@/config/site";
 import type { Faq } from "@/lib/content";
 
+function siteOrigin() {
+  return site.url.replace(/\/$/, "");
+}
+
+function siteUrl() {
+  return `${siteOrigin()}/`;
+}
+
+export function organizationId() {
+  return `${siteOrigin()}/#organization`;
+}
+
+/** City/hub publisher. Organization, not LocalBusiness — this directory is not a plumber. */
 export function publisherLocalBusiness(city: City) {
   return {
     "@context": "https://schema.org",
-    "@type": "LocalBusiness",
+    "@type": "Organization",
+    "@id": organizationId(),
     name: site.legalName,
     alternateName: site.name,
     description: `${site.name} is a directory that publishes city pages for plumbing and routes quote requests to listed companies when an approved listing is live. ${site.name} is not a plumber and does not perform field work.`,
-    url: site.url,
+    url: siteUrl(),
     email: site.email,
     areaServed: {
       "@type": "City",
@@ -45,14 +59,6 @@ export function faqPageSchema(faqs: Faq[]) {
   };
 }
 
-function siteOrigin() {
-  return site.url.replace(/\/$/, "");
-}
-
-export function organizationId() {
-  return `${siteOrigin()}/#organization`;
-}
-
 /** Homepage Organization — directory, not a field plumber. No invented address/phone. */
 export function organizationSchema() {
   return {
@@ -61,9 +67,10 @@ export function organizationSchema() {
     "@id": organizationId(),
     name: site.legalName,
     alternateName: site.name,
-    url: site.url,
+    url: siteUrl(),
     email: site.email,
-    description: `${site.name} is a lead-generation directory for plumbers. It is not a field plumber and does not perform plumbing work.`,
+    description:
+      "Lead-generation directory for plumbers in the Dayton / Miami Valley. Paid placements are labeled. Not a plumber.",
   };
 }
 
@@ -77,7 +84,8 @@ export function websiteSchema() {
     "@type": "WebSite",
     "@id": `${siteOrigin()}/#website`,
     name: site.name,
-    url: site.url,
+    url: siteUrl(),
+    description: site.description,
     publisher: {
       "@id": organizationId(),
     },

@@ -36,8 +36,8 @@ export default function HomePage() {
     <div className="mx-auto w-full max-w-6xl px-4 py-10 sm:px-6">
       <JsonLd
         data={[
-          organizationSchema(),
           websiteSchema(),
+          organizationSchema(),
           faqPageSchema(questions),
         ]}
       />
@@ -108,6 +108,8 @@ export default function HomePage() {
         </ul>
       </section>
 
+      <FaqList faqs={questions} />
+
       <section className="mt-14">
         <h2 className="font-heading text-2xl font-semibold">
           What is on a city page
@@ -142,8 +144,6 @@ export default function HomePage() {
           ))}
         </ul>
       </section>
-
-      <FaqList faqs={questions} />
     </div>
   );
 }
