@@ -15,29 +15,34 @@ function normalizePath(pathname: string): string {
 /**
  * Mobile conversion bar — same homeowner pattern as hvaclists / roofinglists /
  * solarlists. Visible under 768px only. Hides on For Pros and Privacy, when
- * #quote is at least 40% in view, or when focus is inside the form.
+ * Send request is at least 40% in view, or when focus is inside the form.
+ * Observe the submit button (not the tall #quote card) so the bar stays up
+ * while the homepage submit is still below the first viewport.
  */
 export function MobileStickyCta() {
   const pathname = usePathname();
   const path = normalizePath(pathname);
-  const [formInView, setFormInView] = useState(false);
+  const [submitInView, setSubmitInView] = useState(false);
   const [formFocused, setFormFocused] = useState(false);
 
   useEffect(() => {
     const form = document.getElementById("quote");
     if (!form) {
-      setFormInView(false);
+      setSubmitInView(false);
       setFormFocused(false);
       return;
     }
 
+    const submit =
+      form.querySelector<HTMLElement>('button[type="submit"]') ?? form;
+
     const observer = new IntersectionObserver(
       ([entry]) => {
-        setFormInView(entry.intersectionRatio >= 0.4);
+        setSubmitInView(entry.intersectionRatio >= 0.4);
       },
       { threshold: [0, 0.4, 1] }
     );
-    observer.observe(form);
+    observer.observe(submit);
 
     const onFocusIn = () => setFormFocused(true);
     const onFocusOut = (event: FocusEvent) => {
@@ -55,7 +60,7 @@ export function MobileStickyCta() {
     };
   }, [pathname]);
 
-  if (HIDE_ON.has(path) || formInView || formFocused) return null;
+  if (HIDE_ON.has(path) || submitInView || formFocused) return null;
 
   return (
     <>
