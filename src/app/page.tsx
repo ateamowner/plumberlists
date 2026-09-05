@@ -26,6 +26,12 @@ export const metadata: Metadata = {
   title: `${site.name} — plumber directory`,
   description: site.description,
   alternates: { canonical: "/" },
+  openGraph: {
+    description: site.description,
+  },
+  twitter: {
+    description: site.description,
+  },
 };
 
 export default function HomePage() {
