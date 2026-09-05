@@ -24,7 +24,7 @@ export const site = {
   tagline: "A directory of plumbers. Not a plumber.",
   year: 2026,
   description:
-    "PlumberLists is a lead-generation directory for plumbers in the Dayton / Miami Valley. We publish a unique page per city, label paid placements, and hold quote requests until a listed company is approved.",
+    "Find plumbers in Dayton / Miami Valley. Unique city pages, paid spots labeled, quote requests held until an approved company is assigned.",
   disclosure:
     "PlumberLists is a directory, not a plumber. Paid spots are labeled. We do not invent company names, star ratings, or city-specific prices.",
   theme: {
