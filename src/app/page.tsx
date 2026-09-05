@@ -1,7 +1,9 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { Disclosure } from "@/components/disclosure";
+import { FaqList } from "@/components/faq-list";
 import { ForProsBand } from "@/components/for-pros-band";
+import { JsonLd } from "@/components/json-ld";
 import { QuoteFormLoader } from "@/components/quote-form-loader";
 import { TrustStrip } from "@/components/trust-strip";
 import {
@@ -13,6 +15,12 @@ import {
   services,
   site,
 } from "@/config/site";
+import { homeFaqs } from "@/lib/content";
+import {
+  faqPageSchema,
+  organizationSchema,
+  websiteSchema,
+} from "@/lib/schema";
 
 export const metadata: Metadata = {
   title: `${site.name} — plumber directory`,
@@ -22,9 +30,17 @@ export const metadata: Metadata = {
 
 export default function HomePage() {
   const live = cities.filter((city) => liveCitySlugs.includes(city.slug));
+  const questions = homeFaqs();
 
   return (
     <div className="mx-auto w-full max-w-6xl px-4 py-10 sm:px-6">
+      <JsonLd
+        data={[
+          organizationSchema(),
+          websiteSchema(),
+          faqPageSchema(questions),
+        ]}
+      />
       <section id="hero" className="grid gap-8 lg:grid-cols-[minmax(0,1fr)_22rem]">
         <div>
           <p className="type-label font-medium text-primary">{site.tagline}</p>
@@ -126,6 +142,8 @@ export default function HomePage() {
           ))}
         </ul>
       </section>
+
+      <FaqList faqs={questions} />
     </div>
   );
 }

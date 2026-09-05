@@ -143,6 +143,41 @@ export function hubFaqs(city: City): Faq[] {
   ];
 }
 
+/** Homepage FAQs — match visible honesty copy. No invented ratings or contractor counts. */
+export function homeFaqs(): Faq[] {
+  return [
+    {
+      question: `Is ${site.name} a plumber?`,
+      answer: `No. ${site.name} is a lead-generation directory for plumbers in the Dayton / Miami Valley. We are not a plumber. We do not own a van, and we do not perform field work.`,
+    },
+    {
+      question: "Are Featured listings ads?",
+      answer:
+        "Yes. Featured spots are paid and labeled. Companies buy Featured — paid placement on the For pros page. Homeowners use the quote form. That path stays off the homeowner form.",
+    },
+    {
+      question: "What happens after I submit the quote form?",
+      answer:
+        "Until a listing goes live on a URL, we still take the request and hold it. We do not invent a contractor to fill an empty listing, and we do not send a lead to anyone who is not on the approved list.",
+    },
+    {
+      question: "Are the city pages real URLs?",
+      answer:
+        "Yes. Each city has its own URL. Dayton / Miami Valley first. Every city listed on this homepage is a real page so internal links do not 404.",
+    },
+    {
+      question: "Do you publish star ratings or city-specific prices?",
+      answer:
+        "No. We do not invent company names, star ratings, or city-specific prices. National cost ranges on city pages are cited to Angi — not a local survey.",
+    },
+    {
+      question: "How do plumbing companies get on this directory?",
+      answer:
+        "Companies buy Featured — paid placement on the For pros page. Checkout is Stripe. The homeowner form never takes a card. Featured is not exclusive and has no lead-count SLA.",
+    },
+  ];
+}
+
 export function metaDescription(city: City, service: Service): string {
   return `${lockedH1(service, city)}. Compare listed companies, read a national cost range, and request a callback. ${site.name} is a directory, not a plumber.`;
 }

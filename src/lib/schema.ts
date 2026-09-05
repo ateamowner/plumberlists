@@ -45,6 +45,45 @@ export function faqPageSchema(faqs: Faq[]) {
   };
 }
 
+function siteOrigin() {
+  return site.url.replace(/\/$/, "");
+}
+
+export function organizationId() {
+  return `${siteOrigin()}/#organization`;
+}
+
+/** Homepage Organization — directory, not a field plumber. No invented address/phone. */
+export function organizationSchema() {
+  return {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": organizationId(),
+    name: site.legalName,
+    alternateName: site.name,
+    url: site.url,
+    email: site.email,
+    description: `${site.name} is a lead-generation directory for plumbers. It is not a field plumber and does not perform plumbing work.`,
+  };
+}
+
+/**
+ * Homepage WebSite. SearchAction is omitted — there is no on-site search URL.
+ * Publisher points at Organization via @id.
+ */
+export function websiteSchema() {
+  return {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": `${siteOrigin()}/#website`,
+    name: site.name,
+    url: site.url,
+    publisher: {
+      "@id": organizationId(),
+    },
+  };
+}
+
 export function breadcrumbSchema(items: { name: string; path: string }[]) {
   return {
     "@context": "https://schema.org",
