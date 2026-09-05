@@ -28,7 +28,7 @@ export default function HomePage() {
       <section id="hero" className="grid gap-8 md:grid-cols-[minmax(0,1fr)_22rem]">
         <div>
           <p className="type-label font-medium text-primary">{site.tagline}</p>
-          <h1 className="type-h1 mt-2 font-heading font-semibold tracking-tight text-balance">
+          <h1 className="type-h1 mt-2 font-heading font-semibold tracking-tight md:text-balance">
             Find a plumber by city. Request a quote. Skip the fake shop page.
           </h1>
           <p className="mt-4 max-w-2xl">

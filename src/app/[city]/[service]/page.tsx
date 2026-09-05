@@ -108,7 +108,7 @@ export default async function ServicePage({
 
       <div className="mt-4 grid gap-8 md:grid-cols-[minmax(0,1fr)_22rem] md:grid-rows-[auto_1fr]">
         <header id="hero" className="md:col-start-1">
-          <h1 className="type-h1 font-heading font-semibold tracking-tight text-balance">
+          <h1 className="type-h1 font-heading font-semibold tracking-tight md:text-balance">
             {heading}
           </h1>
           <p className="mt-3">

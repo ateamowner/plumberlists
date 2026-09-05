@@ -14,7 +14,7 @@ export function MobileStickyCta() {
   const pathname = usePathname();
   const path = normalizePath(pathname ?? "/");
   const hiddenRoute = path === "/for-pros" || path === "/privacy";
-  const [quoteMostlyVisible, setQuoteMostlyVisible] = useState(false);
+  const [submitInView, setSubmitInView] = useState(false);
   const [formFocused, setFormFocused] = useState(false);
 
   useEffect(() => {
@@ -22,18 +22,20 @@ export function MobileStickyCta() {
 
     const form = document.getElementById("quote");
     if (!form) {
-      setQuoteMostlyVisible(false);
+      setSubmitInView(false);
       return;
     }
     const quote = form;
+    const submit =
+      quote.querySelector<HTMLElement>('button[type="submit"]') ?? quote;
 
     const observer = new IntersectionObserver(
       ([entry]) => {
-        setQuoteMostlyVisible(entry.intersectionRatio >= 0.4);
+        setSubmitInView(entry.isIntersecting);
       },
-      { threshold: [0, 0.4, 1] }
+      { threshold: 0.4 }
     );
-    observer.observe(quote);
+    observer.observe(submit);
 
     function onFocusIn(event: FocusEvent) {
       if (quote.contains(event.target as Node)) setFormFocused(true);
@@ -52,7 +54,7 @@ export function MobileStickyCta() {
     };
   }, [pathname, hiddenRoute]);
 
-  if (hiddenRoute || quoteMostlyVisible || formFocused) return null;
+  if (hiddenRoute || submitInView || formFocused) return null;
 
   const href = documentHasQuote(path) ? "#quote" : "/#quote";
 
