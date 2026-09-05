@@ -143,6 +143,35 @@ export function hubFaqs(city: City): Faq[] {
   ];
 }
 
+/** Homepage FAQs — visible copy and JSON-LD must match verbatim. */
+export function homeFaqs(): Faq[] {
+  return [
+    {
+      question: `Is ${site.name} a plumbing company?`,
+      answer: `No. ${site.name} is a lead-generation directory. We do not send a truck, pull permits, or invent company names. Featured — paid placement spots are paid and labeled.`,
+    },
+    {
+      question: "Why are some listings marked Featured?",
+      answer:
+        "Featured — paid placement is a labeled paid upgrade so homeowners can tell it is an ad. It is not exclusive and has no lead-count guarantee.",
+    },
+    {
+      question: "What happens after I submit the form?",
+      answer: `We store the request at ${site.leadsEmail} and hold it. If a listing is live for that URL and the company is on the approved payer list, we can route it. If the URL is empty, we still take the request and hold it. We do not invent a contractor to fill the gap.`,
+    },
+    {
+      question: "Do you invent star ratings or city-specific prices?",
+      answer:
+        "No. We do not invent company names, star ratings, or city-specific prices. Cost guides cite national published ranges only.",
+    },
+    {
+      question: "Which cities do you cover?",
+      answer:
+        "Dayton / Miami Valley first — each city has its own URL so internal links do not 404. Open a city page from the homepage list for that market’s form.",
+    },
+  ];
+}
+
 export function metaDescription(city: City, service: Service): string {
   return `${lockedH1(service, city)}. Compare listed companies, read a national cost range, and request a callback. ${site.name} is a directory, not a plumber.`;
 }

@@ -9,14 +9,28 @@ import {
 } from "@/config/site";
 import type { Faq } from "@/lib/content";
 
+function siteOrigin() {
+  return site.url.replace(/\/$/, "");
+}
+
+function siteUrl() {
+  return `${siteOrigin()}/`;
+}
+
+export function organizationId() {
+  return `${siteOrigin()}/#organization`;
+}
+
+/** City/hub publisher. Organization, not LocalBusiness — this directory is not a plumber. */
 export function publisherLocalBusiness(city: City) {
   return {
     "@context": "https://schema.org",
-    "@type": "LocalBusiness",
+    "@type": "Organization",
+    "@id": organizationId(),
     name: site.legalName,
     alternateName: site.name,
     description: `${site.name} is a directory that publishes city pages for plumbing and routes quote requests to listed companies when an approved listing is live. ${site.name} is not a plumber and does not perform field work.`,
-    url: site.url,
+    url: siteUrl(),
     email: site.email,
     areaServed: {
       "@type": "City",
@@ -42,6 +56,39 @@ export function faqPageSchema(faqs: Faq[]) {
         text: faq.answer,
       },
     })),
+  };
+}
+
+/** Homepage Organization — directory, not a field plumber. No invented address/phone. */
+export function organizationSchema() {
+  return {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": organizationId(),
+    name: site.legalName,
+    alternateName: site.name,
+    url: siteUrl(),
+    email: site.email,
+    description:
+      "Lead-generation directory for plumbers in the Dayton / Miami Valley. Paid placements are labeled. Not a plumber.",
+  };
+}
+
+/**
+ * Homepage WebSite. SearchAction is omitted — there is no on-site search URL.
+ * Publisher points at Organization via @id.
+ */
+export function websiteSchema() {
+  return {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": `${siteOrigin()}/#website`,
+    name: site.name,
+    url: siteUrl(),
+    description: site.description,
+    publisher: {
+      "@id": organizationId(),
+    },
   };
 }
 
