@@ -50,7 +50,7 @@ export default function HomePage() {
       <section id="hero" className="grid gap-8 lg:grid-cols-[minmax(0,1fr)_22rem]">
         <div>
           <p className="type-label font-medium text-primary">{site.tagline}</p>
-          <h1 className="type-h1 mt-2 font-heading font-semibold tracking-tight text-balance">
+          <h1 className="type-h1 mt-2 font-heading font-semibold tracking-tight sm:text-balance">
             Find a plumber by city. Request a quote. Skip the fake shop page.
           </h1>
           <p className="mt-4 max-w-2xl">
@@ -76,10 +76,6 @@ export default function HomePage() {
       <div className="mt-10">
         <TrustStrip />
       </div>
-
-      <section className="mt-10">
-        <ForProsBand />
-      </section>
 
       <section id="cities" className="mt-14">
         <h2 className="font-heading text-2xl font-semibold">Live cities</h2>
@@ -112,6 +108,10 @@ export default function HomePage() {
             </li>
           ))}
         </ul>
+      </section>
+
+      <section className="mt-14">
+        <ForProsBand />
       </section>
 
       <FaqList faqs={questions} />
