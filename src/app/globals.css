@@ -54,4 +54,7 @@
   html {
     @apply font-sans;
   }
+  #quote {
+    scroll-margin-top: 5.5rem;
+  }
 }

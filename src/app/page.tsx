@@ -1,7 +1,9 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { Disclosure } from "@/components/disclosure";
+import { ForProsBand } from "@/components/for-pros-band";
 import { QuoteFormLoader } from "@/components/quote-form-loader";
+import { TrustStrip } from "@/components/trust-strip";
 import {
   cities,
   cityPath,
@@ -36,25 +38,24 @@ export default function HomePage() {
             labeled.
           </p>
           <p className="mt-3 max-w-2xl text-base leading-7 text-muted-foreground">
-            Homeowners use the form. Companies buy Featured — paid placement
-            on the{" "}
+            Homeowners use the form. Until a listing goes live on a URL, we
+            still take the request and hold it. Companies buy Featured on the{" "}
             <Link href="/for-pros/" className="underline underline-offset-2">
               For Pros
             </Link>{" "}
-            page. Until a listing goes live on a URL, we still take the request
-            and hold it.
-          </p>
-          <p className="mt-5">
-            <Link
-              href="/for-pros/"
-              className="inline-flex h-11 items-center justify-center rounded-lg bg-primary px-4 text-base font-medium text-primary-foreground hover:bg-primary/90"
-            >
-              Featured — $99/month
-            </Link>
+            page — that path stays below, not in this form.
           </p>
           <Disclosure className="mt-4" />
         </div>
         <QuoteFormLoader />
+      </section>
+
+      <div className="mt-10">
+        <TrustStrip />
+      </div>
+
+      <section className="mt-10">
+        <ForProsBand />
       </section>
 
       <section id="cities" className="mt-14">

@@ -1,3 +1,4 @@
+import { FeaturedPath } from "@/components/featured-path";
 import { site } from "@/config/site";
 import type { Listing } from "@/types/listing";
 
@@ -19,10 +20,7 @@ export function ListingsBlock({ listings }: { listings: Listing[] }) {
       </p>
 
       {listings.length === 0 ? (
-        <p className="mt-4 rounded-lg border border-dashed border-border bg-muted/50 px-4 py-6 text-base">
-          No live listings on this URL yet. Use the form. We take the request
-          and hold it until a company on the approved list can take it.
-        </p>
+        <FeaturedPath />
       ) : (
         <ul className="mt-4 space-y-3">
           {listings.map((listing) => (
