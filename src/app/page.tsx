@@ -69,7 +69,7 @@ export default function HomePage() {
           {live.map((city) => (
             <li
               key={city.slug}
-              className="flex flex-col rounded-lg border border-border bg-card p-5"
+              className="flex min-w-0 flex-col overflow-hidden rounded-lg border border-border bg-card p-5"
             >
               <h3 className="font-heading text-xl font-semibold">
                 <Link href={cityPath(city)} className="hover:underline">

@@ -6,8 +6,11 @@ const CHIPS = [
 
 export function TrustStrip() {
   return (
-    <section aria-label="Trust" className="border-y border-border bg-card py-3">
-      <ul className="flex flex-wrap items-center justify-center gap-2">
+    <section
+      aria-label="Trust"
+      className="max-w-full overflow-x-hidden border-y border-border bg-card py-3"
+    >
+      <ul className="flex max-w-full flex-wrap items-center justify-center gap-2">
         {CHIPS.map((chip) => (
           <li
             key={chip}
