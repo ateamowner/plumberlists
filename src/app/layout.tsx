@@ -57,7 +57,7 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${sans.variable} ${serif.variable} h-full scroll-smooth antialiased`}
+      className={`${sans.variable} ${serif.variable} h-full overflow-x-hidden scroll-smooth antialiased`}
     >
       <head>
         {/*
@@ -71,10 +71,10 @@ export default function RootLayout({
           only after Anthony pastes a real Search Console code.
         */}
       </head>
-      <body className="flex min-h-full flex-col bg-background text-foreground">
+      <body className="flex min-h-full flex-col overflow-x-hidden bg-background text-foreground">
         <style>{`:root { ${themeVars}; }`}</style>
         <SiteHeader />
-        <main className="flex-1">{children}</main>
+        <main className="min-w-0 flex-1 overflow-x-hidden">{children}</main>
         <SiteFooter />
         <MobileStickyCta />
       </body>
