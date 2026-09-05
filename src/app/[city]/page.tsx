@@ -7,7 +7,6 @@ import { FaqList } from "@/components/faq-list";
 import { NearbyCityLinks } from "@/components/internal-links";
 import { JsonLd } from "@/components/json-ld";
 import { QuoteFormLoader } from "@/components/quote-form-loader";
-import { TrustStrip } from "@/components/trust-strip";
 import {
   cities,
   cityPath,
@@ -76,34 +75,32 @@ export default async function CityHubPage({
         ]}
       />
 
-      <div className="mt-4 grid gap-8 lg:grid-cols-[minmax(0,1fr)_22rem] lg:grid-rows-[auto_1fr]">
-        <header id="hero" className="lg:col-start-1">
-          <p className="text-sm font-medium text-primary">{city.state}</p>
-          <h1 className="type-h1 mt-2 font-heading font-semibold tracking-tight">
+      <div className="mt-4 grid gap-8 md:grid-cols-[minmax(0,1fr)_22rem] md:grid-rows-[auto_1fr]">
+        <header id="hero" className="md:col-start-1">
+          <h1 className="type-h1 font-heading font-semibold tracking-tight">
             Plumbing in {city.name}, {city.stateAbbr}
           </h1>
-          <p className="mt-3 rounded-md border border-border bg-muted/60 px-3 py-2 text-sm">
+          <p className="mt-3">
             {site.name} is a directory, not a plumber. Paid spots are labeled.
           </p>
-          <p className="mt-4 text-base leading-7">
+        </header>
+
+        <aside className="md:col-start-2 md:row-span-2 md:self-start md:sticky md:top-24">
+          {plumbing ? <QuoteFormLoader city={city} service={plumbing} /> : null}
+        </aside>
+
+        <div className="md:col-start-1">
+          <p>
             This is the {city.name} index on {site.name} — a directory, not a
             contractor website. Open a service page for listings (when we have
             them) and a quote form. Featured spots are paid and labeled. Until
             a listing is live, we still take the request and hold it.
           </p>
-          <p className="mt-3 text-base leading-7">{city.setting}</p>
-          <p className="mt-3 text-base leading-7">
+          <p className="mt-3">{city.setting}</p>
+          <p className="mt-3">
             {city.housing} {city.winter}
           </p>
           <Disclosure className="mt-4" />
-        </header>
-
-        <aside className="lg:col-start-2 lg:row-span-2 lg:self-start lg:sticky lg:top-24">
-          {plumbing ? <QuoteFormLoader city={city} service={plumbing} /> : null}
-        </aside>
-
-        <div className="lg:col-start-1">
-          <TrustStrip />
           <h2 className="mt-8 font-heading text-xl font-semibold">
             Services in {city.name}
           </h2>

@@ -2,15 +2,13 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { Breadcrumbs } from "@/components/breadcrumbs";
 import { CostGuide } from "@/components/cost-guide";
-import { Disclosure } from "@/components/disclosure";
 import { FaqList } from "@/components/faq-list";
+import { FeaturedPath } from "@/components/featured-path";
 import { HowToChoose } from "@/components/how-to-choose";
 import { NearbyCityLinks, RelatedServiceLinks } from "@/components/internal-links";
 import { JsonLd } from "@/components/json-ld";
-import { FeaturedPath } from "@/components/featured-path";
 import { ListingsBlock } from "@/components/listings-block";
 import { QuoteFormLoader } from "@/components/quote-form-loader";
-import { TrustStrip } from "@/components/trust-strip";
 import {
   cities,
   cityPath,
@@ -108,32 +106,27 @@ export default async function ServicePage({
         ]}
       />
 
-      <div className="mt-4 grid gap-8 lg:grid-cols-[minmax(0,1fr)_22rem] lg:grid-rows-[auto_1fr]">
-        <header id="hero" className="lg:col-start-1">
-          <p className="text-sm font-medium text-primary">
-            {city.name}, {city.stateAbbr}
-          </p>
-          <h1 className="type-h1 mt-2 font-heading font-semibold tracking-tight text-balance">
+      <div className="mt-4 grid gap-8 md:grid-cols-[minmax(0,1fr)_22rem] md:grid-rows-[auto_1fr]">
+        <header id="hero" className="md:col-start-1">
+          <h1 className="type-h1 font-heading font-semibold tracking-tight text-balance">
             {heading}
           </h1>
-          <p className="mt-3 rounded-md border border-border bg-muted/60 px-3 py-2 text-sm">
+          <p className="mt-3">
             {site.name} is a directory, not a plumber. Paid spots are labeled.
           </p>
+        </header>
+
+        <aside className="md:col-start-2 md:row-span-2 md:self-start md:sticky md:top-24">
+          <QuoteFormLoader city={city} service={service} />
+          {listings.length === 0 ? <FeaturedPath /> : null}
+        </aside>
+
+        <div className="md:col-start-1">
           {intro.map((paragraph) => (
             <p key={paragraph} className="mt-4">
               {paragraph}
             </p>
           ))}
-          <Disclosure className="mt-4" />
-        </header>
-
-        <aside className="lg:col-start-2 lg:row-span-2 lg:self-start lg:sticky lg:top-24">
-          <QuoteFormLoader city={city} service={service} />
-          {listings.length === 0 ? <FeaturedPath compact /> : null}
-        </aside>
-
-        <div className="lg:col-start-1">
-          <TrustStrip />
           <HowToChoose content={choose} />
           <CostGuide content={cost} />
           <FaqList faqs={questions} />

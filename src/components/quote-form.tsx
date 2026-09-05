@@ -12,7 +12,9 @@ import {
 } from "@/config/site";
 
 const fieldClassName =
-  "h-11 w-full rounded-lg border border-input bg-card px-2.5 text-base outline-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 md:text-sm";
+  "h-[44px] w-full rounded-lg border border-input bg-card px-2.5 text-base outline-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50";
+
+const gridClassName = "mt-[12px] grid gap-[12px] md:mt-[14px] md:gap-[14px] md:grid-cols-2";
 
 type Draft = {
   name: string;
@@ -29,13 +31,20 @@ type Draft = {
 
 const drafts = new Map<string, Draft>();
 
+function defaultServiceValue(service?: Service): string {
+  if (service?.formValue && service.formValue !== "other") {
+    return service.formValue;
+  }
+  return "plumbing";
+}
+
 function emptyDraft(service?: Service): Draft {
   return {
     name: "",
     phone: "",
     email: "",
     zip: "",
-    service_type: service?.formValue ?? "plumbing",
+    service_type: defaultServiceValue(service),
     timing: service?.slug === "emergency-plumbing" ? "emergency" : "this_week",
     property_type: "",
     message: "",
@@ -134,17 +143,14 @@ export function QuoteForm({ city, service, listingId, compact }: QuoteFormProps)
           }
         }, 50);
       }}
-      className="scroll-mt-24 rounded-[16px] border border-border bg-card p-5 shadow-[0_8px_24px_rgba(19,32,43,0.08)]"
+      className="scroll-mt-24 rounded-[16px] border border-border bg-card p-5 shadow-[0_8px_24px_rgba(0,0,0,0.06)] md:p-6"
     >
-      <h2 className="font-heading text-lg font-semibold sm:text-xl">
+      <h2 className="font-heading text-lg font-semibold md:text-xl">
         Request a callback
       </h2>
-      <p className="mt-1 text-sm text-muted-foreground">
-        No credit card. We take the request and hold it until a listed company
-        can take it.
-      </p>
+      <p className="mt-1 type-label text-muted-foreground">No credit card.</p>
 
-      <div className={`mt-4 grid gap-3 ${compact ? "" : "sm:grid-cols-2"}`}>
+      <div className={compact ? "mt-[12px] grid gap-[12px]" : gridClassName}>
         <Field label="Phone" htmlFor="phone">
           <input
             id="phone"
@@ -174,8 +180,10 @@ export function QuoteForm({ city, service, listingId, compact }: QuoteFormProps)
           <input
             id="zip"
             name="zip"
+            type="text"
             required
             inputMode="numeric"
+            maxLength={10}
             autoComplete="postal-code"
             className={fieldClassName}
             value={draft.zip}
@@ -201,7 +209,7 @@ export function QuoteForm({ city, service, listingId, compact }: QuoteFormProps)
         <Field
           label="Timing"
           htmlFor="timing"
-          className={compact ? "" : "sm:col-span-2"}
+          className={compact ? "" : "md:col-span-2"}
         >
           <select
             id="timing"
@@ -220,15 +228,15 @@ export function QuoteForm({ city, service, listingId, compact }: QuoteFormProps)
         </Field>
       </div>
 
-      <details className="mt-4 rounded-lg border border-border bg-muted/40 px-3 py-2">
-        <summary className="cursor-pointer text-sm font-medium">
+      <details className="mt-[12px] rounded-lg border border-border bg-muted/40 px-3 py-2 md:mt-[14px]">
+        <summary className="cursor-pointer type-label font-medium text-muted-foreground">
           More details
         </summary>
-        <div className={`mt-3 grid gap-3 ${compact ? "" : "sm:grid-cols-2"}`}>
+        <div className={compact ? "mt-[12px] grid gap-[12px]" : gridClassName}>
           <Field
             label="Name (optional)"
             htmlFor="name"
-            className={compact ? "" : "sm:col-span-2"}
+            className={compact ? "" : "md:col-span-2"}
           >
             <input
               id="name"
@@ -242,7 +250,7 @@ export function QuoteForm({ city, service, listingId, compact }: QuoteFormProps)
           <Field
             label="Property type (optional)"
             htmlFor="property_type"
-            className={compact ? "" : "sm:col-span-2"}
+            className={compact ? "" : "md:col-span-2"}
           >
             <select
               id="property_type"
@@ -259,12 +267,12 @@ export function QuoteForm({ city, service, listingId, compact }: QuoteFormProps)
             </select>
           </Field>
         </div>
-        <Field label="Message (optional)" htmlFor="message" className="mt-3">
+        <Field label="Message (optional)" htmlFor="message" className="mt-[12px] md:mt-[14px]">
           <textarea
             id="message"
             name="message"
             rows={4}
-            className="min-h-24 w-full rounded-lg border border-input bg-card px-2.5 py-2 text-base outline-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 md:text-sm"
+            className="min-h-24 w-full rounded-lg border border-input bg-card px-2.5 py-2 text-base outline-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50"
             placeholder="What needs work, access notes, or a photo description."
             value={draft.message}
             onChange={(event) => onTextChange("message", event.target.value)}
@@ -272,19 +280,18 @@ export function QuoteForm({ city, service, listingId, compact }: QuoteFormProps)
         </Field>
       </details>
 
-      <label className="mt-4 flex items-start gap-2 type-label">
+      <label className="mt-[12px] flex items-start gap-2 type-label text-muted-foreground md:mt-[14px]">
         <input
           type="checkbox"
           name="sms_consent"
           value="true"
-          required
           className="mt-1 size-4 accent-primary"
           checked={draft.sms_consent}
           onChange={(event) => update("sms_consent", event.target.checked)}
         />
-        <span>You may text me about this request at the number I provided. Required.</span>
+        <span>You may text me about this request at the number I provided.</span>
       </label>
-      <label className="mt-2 flex items-start gap-2 type-label">
+      <label className="mt-[12px] flex items-start gap-2 type-label text-muted-foreground md:mt-[14px]">
         <input
           type="checkbox"
           name="privacy_consent"
@@ -299,7 +306,7 @@ export function QuoteForm({ city, service, listingId, compact }: QuoteFormProps)
           <Link href="/privacy/" className="underline underline-offset-2">
             privacy policy
           </Link>
-          . Required.
+          .
         </span>
       </label>
 
@@ -329,7 +336,7 @@ export function QuoteForm({ city, service, listingId, compact }: QuoteFormProps)
 
       <button
         type="submit"
-        className="type-button mt-4 inline-flex h-11 w-full items-center justify-center rounded-lg bg-primary text-primary-foreground hover:bg-primary/90"
+        className="type-button mt-[12px] inline-flex h-[48px] w-full items-center justify-center rounded-[10px] bg-primary text-primary-foreground hover:bg-primary/90 md:mt-[14px]"
       >
         Send request
       </button>
@@ -362,7 +369,10 @@ function Field({
 }) {
   return (
     <div className={className}>
-      <label htmlFor={htmlFor} className="type-label mb-1.5 block font-medium">
+      <label
+        htmlFor={htmlFor}
+        className="type-label mb-1.5 block font-medium text-muted-foreground"
+      >
         {label}
       </label>
       {children}

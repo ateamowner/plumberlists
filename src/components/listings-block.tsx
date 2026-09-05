@@ -1,4 +1,3 @@
-import { FeaturedPath } from "@/components/featured-path";
 import { site } from "@/config/site";
 import type { Listing } from "@/types/listing";
 
@@ -9,6 +8,8 @@ const TIER_LABEL: Record<Listing["tier"], string> = {
 };
 
 export function ListingsBlock({ listings }: { listings: Listing[] }) {
+  if (listings.length === 0) return null;
+
   return (
     <section id="listings" className="mt-10">
       <h2 className="font-heading text-xl font-semibold sm:text-2xl">
@@ -19,10 +20,7 @@ export function ListingsBlock({ listings }: { listings: Listing[] }) {
         Featured — paid placement spots are paid and labeled.
       </p>
 
-      {listings.length === 0 ? (
-        <FeaturedPath />
-      ) : (
-        <ul className="mt-4 space-y-3">
+      <ul className="mt-4 space-y-3">
           {listings.map((listing) => (
             <li
               key={`${listing.tier}-${listing.name}`}
@@ -94,7 +92,6 @@ export function ListingsBlock({ listings }: { listings: Listing[] }) {
             </li>
           ))}
         </ul>
-      )}
     </section>
   );
 }
