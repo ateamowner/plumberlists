@@ -78,8 +78,9 @@ Live cities (all Miami Valley / Dayton area):
 - [/tipp-city-oh/plumbing](/tipp-city-oh/plumbing) — Best Plumbing in Tipp City — 2026
 - [/oakwood-oh/plumbing](/oakwood-oh/plumbing) — Best Plumbing in Oakwood — 2026
 - [/west-carrollton-oh/plumbing](/west-carrollton-oh/plumbing) — Best Plumbing in West Carrollton — 2026
+- [/trotwood-oh/plumbing](/trotwood-oh/plumbing) — Best Plumbing in Trotwood — 2026
 
-City hubs: `/dayton-oh`, `/kettering-oh`, `/beavercreek-oh`, `/centerville-oh`, `/huber-heights-oh`, `/fairborn-oh`, `/miamisburg-oh`, `/xenia-oh`, `/vandalia-oh`, `/springfield-oh`, `/tipp-city-oh`, `/oakwood-oh`, `/west-carrollton-oh`.
+City hubs: `/dayton-oh`, `/kettering-oh`, `/beavercreek-oh`, `/centerville-oh`, `/huber-heights-oh`, `/fairborn-oh`, `/miamisburg-oh`, `/xenia-oh`, `/vandalia-oh`, `/springfield-oh`, `/tipp-city-oh`, `/oakwood-oh`, `/west-carrollton-oh`, `/trotwood-oh`.
 
 Related services (unique H1, intro, form, links back): `drain-cleaning`, `water-heater`, `emergency-plumbing`.
 

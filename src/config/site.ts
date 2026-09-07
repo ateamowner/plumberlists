@@ -135,6 +135,7 @@ export const cities: City[] = [
       "beavercreek-oh",
       "huber-heights-oh",
       "vandalia-oh",
+      "trotwood-oh",
       "miamisburg-oh",
       "west-carrollton-oh",
       "fairborn-oh",
@@ -220,6 +221,7 @@ export const cities: City[] = [
     nearbySlugs: [
       "dayton-oh",
       "vandalia-oh",
+      "trotwood-oh",
       "fairborn-oh",
       "springfield-oh",
     ],
@@ -292,7 +294,12 @@ export const cities: City[] = [
     state: "Ohio",
     stateAbbr: "OH",
     status: "live",
-    nearbySlugs: ["dayton-oh", "huber-heights-oh", "tipp-city-oh"],
+    nearbySlugs: [
+      "dayton-oh",
+      "huber-heights-oh",
+      "trotwood-oh",
+      "tipp-city-oh",
+    ],
     setting:
       "Vandalia sits north of Dayton on the I-70 / airport corridor. AES Ohio is the usual bill. Ranches and tri-levels are simpler geometry than a Centerville colonial. Freeze shows up in low utility rooms and unheated additions.",
     housing:
@@ -322,7 +329,12 @@ export const cities: City[] = [
     state: "Ohio",
     stateAbbr: "OH",
     status: "live",
-    nearbySlugs: ["vandalia-oh", "huber-heights-oh", "dayton-oh"],
+    nearbySlugs: [
+      "vandalia-oh",
+      "huber-heights-oh",
+      "trotwood-oh",
+      "dayton-oh",
+    ],
     setting:
       "Tipp City is a Miami County town north of Dayton: a canal-era downtown plus later subdivisions. AES Ohio is typical. Historic downtown crawlspaces and newer suburban slabs are different jobs. Winter freeze hits the older downtown stock first.",
     housing:
@@ -364,6 +376,7 @@ export const cities: City[] = [
       "kettering-oh",
       "oakwood-oh",
       "centerville-oh",
+      "trotwood-oh",
     ],
     setting:
       "West Carrollton sits on the Great Miami River immediately south of Dayton and north of Miamisburg, along the I-75 / Dixie Drive corridor. AES Ohio is typical. Postwar ranches sit next to older downtown stock on flatter river-valley lots than a Miamisburg hillside. Winter freeze hits garage-wall supply and river-adjacent crawlspaces first.",
@@ -371,6 +384,27 @@ export const cities: City[] = [
       "1950s–70s ranches and split-levels on flatter river-valley lots than a Miamisburg hillside — unfinished basements or short crawlspaces, not an Oakwood Tudor.",
     winter:
       "River-adjacent crawlspaces and unheated garage walls freeze after a Miami Valley polar-vortex night; hose bibs and poorly insulated supply runs on postwar stock split first.",
+    utility: "AES Ohio",
+  },
+  {
+    slug: "trotwood-oh",
+    name: "Trotwood",
+    state: "Ohio",
+    stateAbbr: "OH",
+    status: "live",
+    nearbySlugs: [
+      "dayton-oh",
+      "vandalia-oh",
+      "huber-heights-oh",
+      "tipp-city-oh",
+      "west-carrollton-oh",
+    ],
+    setting:
+      "Trotwood is a northwest Dayton inner-ring city along the Salem Avenue / SR 49 corridor. AES Ohio is typical. Postwar ranches and modest two-stories sit on flatter lots than a Miamisburg hillside, older than a later Huber Heights subdivision street. Winter freeze hits unheated garage utility walls and Salem-corridor crawlspaces first.",
+    housing:
+      "1950s–70s ranches and modest two-stories on the Salem Avenue / SR 49 corridor — original laterals and short crawlspaces, not a canal-era Tipp downtown or an Oakwood Tudor.",
+    winter:
+      "Unheated garage utility walls and postwar crawlspaces freeze after a Miami Valley polar-vortex night; hose bibs and poorly insulated supply runs on Salem-corridor stock split first.",
     utility: "AES Ohio",
   },
 ];
