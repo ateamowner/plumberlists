@@ -117,6 +117,15 @@ const copy: Record<string, string> = {
     "West Carrollton tanks usually sit in a garage, utility alcove, or unfinished basement on a postwar lot. Getting a tank in or out of a ranch is simpler access than a Miamisburg hillside two-story, but river-adjacent crawlspaces still get cold. Electric units sit on AES Ohio; gas needs a vent that still drafts. National ranges only.",
   "west-carrollton-oh:emergency-plumbing":
     "A West Carrollton emergency after a polar-vortex night is often a garage-wall line or a river-adjacent crawlspace pipe that froze, then opened. Postwar ranches lose heat in those corners first. If a line is open or the house has no water, mark emergency on the form.",
+
+  "trotwood-oh:plumbing":
+    "Trotwood plumbing is often a 1950s–70s ranch or modest two-story on the Salem Avenue / SR 49 corridor northwest of Dayton. AES Ohio is typical. Inner-ring lots are flatter than a Miamisburg hillside; original laterals and garage-wall supply are a different job than a Vandalia airport-corridor tri-level. We will not invent a Trotwood-only price.",
+  "trotwood-oh:drain-cleaning":
+    "On a Trotwood ranch, a slow kitchen or tub line is often the original lateral under a Salem Avenue street with mature trees. Inner-ring laterals can be older clay or cast iron; later ranch mains are shorter. Roots and grease show up more than a brand-new subdivision clog. We do not invent a northwest-corridor drain price.",
+  "trotwood-oh:water-heater":
+    "Trotwood tanks usually sit in a garage, utility alcove, or unfinished basement on a postwar Salem-corridor lot. Getting a tank in or out of a ranch is simpler access than a Dayton city two-story, but unheated garage walls still get cold. Electric units sit on AES Ohio; gas needs a vent that still drafts. National ranges only.",
+  "trotwood-oh:emergency-plumbing":
+    "A Trotwood emergency after a polar-vortex night is often a garage-wall line or a postwar crawlspace pipe that froze, then opened. Salem Avenue / SR 49 ranches lose heat in those corners first. If a line is open or the house has no water, mark emergency on the form.",
 };
 
 export function uniqueLocalCopy(city: City, service: Service): string {
