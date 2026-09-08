@@ -40,7 +40,10 @@ jobs:
           test "$(tr -d '\r\n' < out/501c87b49c5782ddc058aaea38764d39.txt)" = "501c87b49c5782ddc058aaea38764d39"
           grep -F '<loc>https://plumberlists.com/</loc>' out/sitemap.xml
           grep -F '<loc>https://plumberlists.com/dayton-oh/plumbing/</loc>' out/sitemap.xml
+          grep -F '<loc>https://plumberlists.com/privacy/</loc>' out/sitemap.xml
           ! grep -E '<loc>https://plumberlists.com</loc>' out/sitemap.xml
+          grep -F 'rel="canonical" href="https://plumberlists.com/privacy/"' out/privacy/index.html
+          ! grep -F 'www.plumberlists.com' out/privacy/index.html
           grep -F 'Sitemap: https://plumberlists.com/sitemap.xml' out/robots.txt
           ! grep -E 'Disallow:[[:space:]]*/($|for-pros|dayton-oh|featured|contact|quote)' out/robots.txt
           grep -F 'Page not found | PlumberLists' out/404.html
