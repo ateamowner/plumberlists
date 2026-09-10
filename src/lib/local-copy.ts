@@ -126,6 +126,15 @@ const copy: Record<string, string> = {
     "Trotwood tanks usually sit in a garage, utility alcove, or unfinished basement on a postwar Salem-corridor lot. Getting a tank in or out of a ranch is simpler access than a Dayton city two-story, but unheated garage walls still get cold. Electric units sit on AES Ohio; gas needs a vent that still drafts. National ranges only.",
   "trotwood-oh:emergency-plumbing":
     "A Trotwood emergency after a polar-vortex night is often a garage-wall line or a postwar crawlspace pipe that froze, then opened. Salem Avenue / SR 49 ranches lose heat in those corners first. If a line is open or the house has no water, mark emergency on the form.",
+
+  "englewood-oh:plumbing":
+    "Englewood plumbing splits between an older National Road (US-40) core and later I-70-adjacent subdivisions northwest of Dayton. AES Ohio is typical. Downtown two-stories with unfinished basements or short crawlspaces are a different job than a later subdivision garage-wall run. We will not invent an Englewood-only price.",
+  "englewood-oh:drain-cleaning":
+    "On an Englewood National Road street, a slow kitchen or hall bath is often the original lateral under the older core. Later I-70 subdivision mains are newer plastic with shorter runs. Roots and grease still clog both. We do not invent a US-40-corridor drain price.",
+  "englewood-oh:water-heater":
+    "An Englewood tank in the older National Road core usually sits in an unfinished basement or short crawlspace; later I-70 subdivision tanks sit in a garage or utility alcove. Getting a tank in or out of a downtown two-story is tighter access than a later ranch. Electric units sit on AES Ohio; gas needs a vent that still drafts. National ranges only.",
+  "englewood-oh:emergency-plumbing":
+    "An Englewood emergency after a polar-vortex night is often a National Road crawlspace line in the older core, or a hose bib / garage-wall split on a later I-70 subdivision lot. The two housing stocks fail in different corners. If a line is open or the house has no water, mark emergency on the form.",
 };
 
 export function uniqueLocalCopy(city: City, service: Service): string {
