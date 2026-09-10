@@ -136,6 +136,7 @@ export const cities: City[] = [
       "huber-heights-oh",
       "vandalia-oh",
       "trotwood-oh",
+      "englewood-oh",
       "miamisburg-oh",
       "west-carrollton-oh",
       "fairborn-oh",
@@ -222,6 +223,7 @@ export const cities: City[] = [
       "dayton-oh",
       "vandalia-oh",
       "trotwood-oh",
+      "englewood-oh",
       "fairborn-oh",
       "springfield-oh",
     ],
@@ -298,6 +300,7 @@ export const cities: City[] = [
       "dayton-oh",
       "huber-heights-oh",
       "trotwood-oh",
+      "englewood-oh",
       "tipp-city-oh",
     ],
     setting:
@@ -333,6 +336,7 @@ export const cities: City[] = [
       "vandalia-oh",
       "huber-heights-oh",
       "trotwood-oh",
+      "englewood-oh",
       "dayton-oh",
     ],
     setting:
@@ -395,6 +399,7 @@ export const cities: City[] = [
     nearbySlugs: [
       "dayton-oh",
       "vandalia-oh",
+      "englewood-oh",
       "huber-heights-oh",
       "tipp-city-oh",
       "west-carrollton-oh",
@@ -405,6 +410,27 @@ export const cities: City[] = [
       "1950s–70s ranches and modest two-stories on the Salem Avenue / SR 49 corridor — original laterals and short crawlspaces, not a canal-era Tipp downtown or an Oakwood Tudor.",
     winter:
       "Unheated garage utility walls and postwar crawlspaces freeze after a Miami Valley polar-vortex night; hose bibs and poorly insulated supply runs on Salem-corridor stock split first.",
+    utility: "AES Ohio",
+  },
+  {
+    slug: "englewood-oh",
+    name: "Englewood",
+    state: "Ohio",
+    stateAbbr: "OH",
+    status: "live",
+    nearbySlugs: [
+      "vandalia-oh",
+      "trotwood-oh",
+      "dayton-oh",
+      "huber-heights-oh",
+      "tipp-city-oh",
+    ],
+    setting:
+      "Englewood sits northwest of Dayton where I-70 meets the National Road (US-40). AES Ohio is typical. A small older downtown core along US-40 sits next to later subdivision streets toward the interstate — not a Salem Avenue inner-ring ranch town and not an airport-corridor tri-level suburb. Winter freeze hits National Road crawlspaces first, then unheated garage walls on later lots.",
+    housing:
+      "Older National Road two-stories and modest downtown stock sit next to later I-70-adjacent subdivisions — unfinished basements or short crawlspaces in the core, slabs and garage utility walls on later streets.",
+    winter:
+      "National Road crawlspaces freeze first after a Miami Valley polar-vortex night; later subdivision lots fail at hose bibs and unheated garage walls rather than a Trotwood Salem-corridor ranch pattern.",
     utility: "AES Ohio",
   },
 ];
