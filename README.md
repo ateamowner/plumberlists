@@ -63,7 +63,7 @@ Do **not** change `treelist.ai` DNS.
 
 ## City pages
 
-Live cities (all Miami Valley / Dayton area):
+Live cities (Dayton / Miami Valley, plus Syracuse, NY and Toledo, OH):
 
 - [/dayton-oh/plumbing](/dayton-oh/plumbing) — Best Plumbing in Dayton — 2026
 - [/kettering-oh/plumbing](/kettering-oh/plumbing) — Best Plumbing in Kettering — 2026
@@ -80,8 +80,10 @@ Live cities (all Miami Valley / Dayton area):
 - [/west-carrollton-oh/plumbing](/west-carrollton-oh/plumbing) — Best Plumbing in West Carrollton — 2026
 - [/trotwood-oh/plumbing](/trotwood-oh/plumbing) — Best Plumbing in Trotwood — 2026
 - [/englewood-oh/plumbing](/englewood-oh/plumbing) — Best Plumbing in Englewood — 2026
+- [/syracuse-ny/plumbing](/syracuse-ny/plumbing) — Best Plumbing in Syracuse — 2026
+- [/toledo-oh/plumbing](/toledo-oh/plumbing) — Best Plumbing in Toledo — 2026
 
-City hubs: `/dayton-oh`, `/kettering-oh`, `/beavercreek-oh`, `/centerville-oh`, `/huber-heights-oh`, `/fairborn-oh`, `/miamisburg-oh`, `/xenia-oh`, `/vandalia-oh`, `/springfield-oh`, `/tipp-city-oh`, `/oakwood-oh`, `/west-carrollton-oh`, `/trotwood-oh`, `/englewood-oh`.
+City hubs: `/dayton-oh`, `/kettering-oh`, `/beavercreek-oh`, `/centerville-oh`, `/huber-heights-oh`, `/fairborn-oh`, `/miamisburg-oh`, `/xenia-oh`, `/vandalia-oh`, `/springfield-oh`, `/tipp-city-oh`, `/oakwood-oh`, `/west-carrollton-oh`, `/trotwood-oh`, `/englewood-oh`, `/syracuse-ny`, `/toledo-oh`.
 
 Related services (unique H1, intro, form, links back): `drain-cleaning`, `water-heater`, `emergency-plumbing`.
 

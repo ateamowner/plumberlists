@@ -135,6 +135,24 @@ const copy: Record<string, string> = {
     "An Englewood tank in the older National Road core usually sits in an unfinished basement or short crawlspace; later I-70 subdivision tanks sit in a garage or utility alcove. Getting a tank in or out of a downtown two-story is tighter access than a later ranch. Electric units sit on AES Ohio; gas needs a vent that still drafts. National ranges only.",
   "englewood-oh:emergency-plumbing":
     "An Englewood emergency after a polar-vortex night is often a National Road crawlspace line in the older core, or a hose bib / garage-wall split on a later I-70 subdivision lot. The two housing stocks fail in different corners. If a line is open or the house has no water, mark emergency on the form.",
+
+  "syracuse-ny:plumbing":
+    "Syracuse plumbing splits between older Eastwood bungalows and Strathmore two-stories and later Onondaga County subdivision streets. National Grid is typical. Unfinished-basement galvanized or copper on an Eastwood lot is a different job than a later Cicero or Clay garage-wall run. We will not invent a Syracuse-only price.",
+  "syracuse-ny:drain-cleaning":
+    "On an Eastwood or Strathmore street, a slow kitchen or hall bath is often the original lateral under an older city lot. Later suburban mains toward Cicero or Clay are newer plastic with shorter runs. Roots and lake-effect freeze-thaw still clog both. We do not invent a Central New York drain price.",
+  "syracuse-ny:water-heater":
+    "A Syracuse tank in Eastwood or Strathmore usually sits in an unfinished basement; later subdivision tanks sit in a garage or utility alcove. Getting a tank in or out of a Strathmore two-story is tighter access than a later ranch. Electric units sit on National Grid; gas needs a vent that still drafts. National ranges only.",
+  "syracuse-ny:emergency-plumbing":
+    "A Syracuse emergency after a lake-effect week and a polar-vortex night is often an Eastwood or Strathmore basement line that froze, then opened, or a hose bib / garage-wall split on a later lot. The two housing stocks fail in different corners. If a line is open or the house has no water, mark emergency on the form.",
+
+  "toledo-oh:plumbing":
+    "Toledo plumbing splits between Old West End Victorians and other pre-war city two-stories and later suburban streets toward Sylvania and Perrysburg. Toledo Edison is typical. Unfinished-basement laterals on a Maumee-adjacent lot are a different job than a later subdivision garage-wall run. We will not invent a Toledo-only price.",
+  "toledo-oh:drain-cleaning":
+    "On an Old West End street, a slow kitchen or hall bath is often the original lateral under a Victorian lot. Later suburban mains toward Sylvania or Perrysburg are newer plastic with shorter runs. Roots and grease still clog both. We do not invent a Maumee-corridor drain price.",
+  "toledo-oh:water-heater":
+    "A Toledo tank in the Old West End usually sits in an unfinished basement; later suburban tanks sit in a garage or utility alcove. Getting a tank in or out of a Victorian two-story is tighter access than a later ranch. Electric units sit on Toledo Edison; gas needs a vent that still drafts. National ranges only.",
+  "toledo-oh:emergency-plumbing":
+    "A Toledo emergency after a northwest-Ohio polar-vortex night is often an Old West End basement line that froze, then opened, or a hose bib / garage-wall split on a later Sylvania- or Perrysburg-facing lot. River-adjacent crawlspaces fail in a different corner. If a line is open or the house has no water, mark emergency on the form.",
 };
 
 export function uniqueLocalCopy(city: City, service: Service): string {
