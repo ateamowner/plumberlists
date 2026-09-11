@@ -37,7 +37,7 @@ export function howToChoose(
       },
       {
         title: "Local jobs",
-        body: `Ask for recent addresses in ${city.name} or nearby Miami Valley towns — not a generic photo set. ${city.housing} Access changes the job.`,
+        body: `Ask for recent addresses in ${city.name} or nearby towns — not a generic photo set. ${city.housing} Access changes the job.`,
       },
       {
         title: "Written scope",
