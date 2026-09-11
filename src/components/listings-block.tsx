@@ -1,4 +1,4 @@
-import { FeaturedPath } from "@/components/featured-path";
+import { EmptyMatchState } from "@/components/empty-match-state";
 import { site } from "@/config/site";
 import type { Listing } from "@/types/listing";
 
@@ -20,13 +20,13 @@ export function ListingsBlock({ listings }: { listings: Listing[] }) {
       </p>
 
       {listings.length === 0 ? (
-        <FeaturedPath />
+        <EmptyMatchState />
       ) : (
         <ul className="mt-4 space-y-3">
           {listings.map((listing) => (
             <li
               key={`${listing.tier}-${listing.name}`}
-              className="rounded-lg border border-border bg-card p-4"
+              className="rounded-[14px] border border-border bg-card p-4 shadow-card"
             >
               <div className="flex flex-wrap items-center gap-2">
                 {listing.tier !== "standard" ? (

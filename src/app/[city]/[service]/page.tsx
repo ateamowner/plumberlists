@@ -7,7 +7,6 @@ import { FaqList } from "@/components/faq-list";
 import { HowToChoose } from "@/components/how-to-choose";
 import { NearbyCityLinks, RelatedServiceLinks } from "@/components/internal-links";
 import { JsonLd } from "@/components/json-ld";
-import { FeaturedPath } from "@/components/featured-path";
 import { ListingsBlock } from "@/components/listings-block";
 import { QuoteFormLoader } from "@/components/quote-form-loader";
 import { TrustStrip } from "@/components/trust-strip";
@@ -129,15 +128,14 @@ export default async function ServicePage({
 
         <aside className="lg:col-start-2 lg:row-span-2 lg:self-start lg:sticky lg:top-24">
           <QuoteFormLoader city={city} service={service} />
-          {listings.length === 0 ? <FeaturedPath compact /> : null}
         </aside>
 
         <div className="lg:col-start-1">
           <TrustStrip />
+          <ListingsBlock listings={listings} />
           <HowToChoose content={choose} />
           <CostGuide content={cost} />
           <FaqList faqs={questions} />
-          <ListingsBlock listings={listings} />
           <RelatedServiceLinks city={city} current={service} />
           <NearbyCityLinks city={city} serviceSlug={service.slug} />
         </div>

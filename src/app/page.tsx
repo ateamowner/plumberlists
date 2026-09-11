@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
-import Link from "next/link";
-import { Disclosure } from "@/components/disclosure";
+import { CityCardGrid } from "@/components/city-card-grid";
 import { FaqList } from "@/components/faq-list";
 import { ForProsBand } from "@/components/for-pros-band";
 import { JsonLd } from "@/components/json-ld";
@@ -8,10 +7,8 @@ import { QuoteFormLoader } from "@/components/quote-form-loader";
 import { TrustStrip } from "@/components/trust-strip";
 import {
   cities,
-  cityOneLiner,
   cityPath,
   liveCitySlugs,
-  servicePath,
   services,
   site,
 } from "@/config/site";
@@ -51,24 +48,9 @@ export default function HomePage() {
         <div>
           <p className="type-label font-medium text-primary">{site.tagline}</p>
           <h1 className="type-h1 mt-2 font-heading font-semibold tracking-tight sm:text-balance">
-            Find a plumber by city. Request a quote. Skip the fake shop page.
+            {site.hero.h1}
           </h1>
-          <p className="mt-4 max-w-2xl">
-            {site.name} is a lead-generation directory for plumbers in the
-            Dayton / Miami Valley. We are not a plumber. We do not own a van,
-            and we do not invent company names, star ratings, or city-specific
-            prices. Each city has its own URL. Featured spots are paid and
-            labeled.
-          </p>
-          <p className="mt-3 max-w-2xl text-muted-foreground">
-            Homeowners use the form. Until a listing goes live on a URL, we
-            still take the request and hold it. Companies buy Featured on the{" "}
-            <Link href="/for-pros/" className="underline underline-offset-2">
-              For pros
-            </Link>{" "}
-            page — that path stays below, not in this form.
-          </p>
-          <Disclosure className="mt-4" />
+          <p className="mt-4 max-w-2xl">{site.hero.subline}</p>
         </div>
         <QuoteFormLoader />
       </section>
@@ -83,31 +65,14 @@ export default function HomePage() {
           Dayton / Miami Valley first. Every city below is a real page so
           internal links do not 404.
         </p>
-        <ul className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          {live.map((city) => (
-            <li
-              key={city.slug}
-              className="flex min-w-0 flex-col overflow-hidden rounded-lg border border-border bg-card p-5"
-            >
-              <h3 className="font-heading text-xl font-semibold">
-                <Link href={cityPath(city)} className="hover:underline">
-                  {city.name}, {city.stateAbbr}
-                </Link>
-              </h3>
-              <p className="mt-2 flex-1 truncate text-muted-foreground">
-                {cityOneLiner(city)}
-              </p>
-              <p className="mt-4">
-                <Link
-                  href={servicePath(city, "plumbing")}
-                  className="font-medium underline underline-offset-2"
-                >
-                  Best Plumbing in {city.name} — {site.year}
-                </Link>
-              </p>
-            </li>
-          ))}
-        </ul>
+        <CityCardGrid
+          cities={live.map((city) => ({
+            slug: city.slug,
+            name: city.name,
+            stateAbbr: city.stateAbbr,
+            href: cityPath(city),
+          }))}
+        />
       </section>
 
       <section className="mt-14">
@@ -131,7 +96,7 @@ export default function HomePage() {
           ].map((item) => (
             <li
               key={item}
-              className="rounded-lg border border-border bg-card px-4 py-3 text-sm leading-6"
+              className="rounded-[14px] border border-border bg-card px-4 py-3 text-sm leading-6"
             >
               {item}
             </li>

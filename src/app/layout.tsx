@@ -45,6 +45,7 @@ const themeVars = Object.entries({
   "--input": site.theme.border,
   "--ring": site.theme.ring,
   "--destructive": "#8b1e1e",
+  "--shadow-card": site.theme.shadow,
 })
   .map(([key, value]) => `${key}: ${value}`)
   .join("; ");

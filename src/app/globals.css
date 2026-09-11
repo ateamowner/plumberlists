@@ -19,28 +19,29 @@
   --color-primary: var(--primary);
   --color-card-foreground: var(--card-foreground);
   --color-card: var(--card);
-  --radius-sm: 0.3rem;
-  --radius-md: 0.4rem;
-  --radius-lg: 0.5rem;
-  --radius-xl: 0.75rem;
+  --radius-sm: 0.5rem;
+  --radius-md: 0.625rem;
+  --radius-lg: 0.875rem;
+  --radius-xl: 0.875rem;
+  --shadow-card: 0 12px 32px rgba(19, 32, 43, 0.1);
 }
 
 :root {
-  --background: #eef3f7;
+  --background: #f5f1ea;
   --foreground: #13202b;
-  --card: #fbfdff;
+  --card: #fffdf9;
   --card-foreground: #13202b;
   --primary: #0b4f6c;
-  --primary-foreground: #f4fafc;
-  --secondary: #dce6ee;
+  --primary-foreground: #fffdf9;
+  --secondary: #ede6da;
   --secondary-foreground: #13202b;
-  --muted: #dce6ee;
-  --muted-foreground: #3d4d5a;
-  --accent: #e8c48a;
+  --muted: #ede6da;
+  --muted-foreground: #5c5348;
+  --accent: #d4a24c;
   --accent-foreground: #3d2e0a;
   --destructive: #8b1e1e;
-  --border: #b7c5d0;
-  --input: #b7c5d0;
+  --border: #d9d0c2;
+  --input: #d9d0c2;
   --ring: #0b4f6c;
 }
 
@@ -81,5 +82,8 @@
       font-size: 40px;
       line-height: 48px;
     }
+  }
+  .shadow-card {
+    box-shadow: var(--shadow-card);
   }
 }

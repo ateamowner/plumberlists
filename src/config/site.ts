@@ -27,19 +27,36 @@ export const site = {
     "Find plumbers in Dayton / Miami Valley. Unique city pages, paid spots labeled, quote requests held until an approved company is assigned.",
   disclosure:
     "PlumberLists is a directory, not a plumber. Paid spots are labeled. We do not invent company names, star ratings, or city-specific prices.",
+  hero: {
+    h1: "Need a plumber who actually calls back?",
+    subline:
+      "PlumberLists is a directory, not a contractor. Paid spots are labeled.",
+  },
+  trustStrip: [
+    "No credit card",
+    "Paid spots labeled",
+    "We hold your request",
+  ] as const,
+  emptyMatch: {
+    headline:
+      "No public list here yet — your request still gets held for a match.",
+    followUp: "Usually follow up within one business day",
+  },
   theme: {
-    background: "#eef3f7",
-    foreground: "#13202b",
-    card: "#fbfdff",
-    primary: "#0b4f6c",
-    primaryForeground: "#f4fafc",
-    muted: "#dce6ee",
-    mutedForeground: "#3d4d5a",
-    accent: "#e8c48a",
-    accentForeground: "#3d2e0a",
-    border: "#b7c5d0",
-    featured: "#8a4b12",
-    ring: "#0b4f6c",
+    background: "#F5F1EA",
+    foreground: "#13202B",
+    card: "#FFFDF9",
+    primary: "#0B4F6C",
+    primaryForeground: "#FFFDF9",
+    muted: "#EDE6DA",
+    mutedForeground: "#5C5348",
+    accent: "#D4A24C",
+    accentForeground: "#3D2E0A",
+    border: "#D9D0C2",
+    featured: "#8A4B12",
+    ring: "#0B4F6C",
+    radius: "14px",
+    shadow: "0 12px 32px rgba(19,32,43,.10)",
   },
 } as const;
 
