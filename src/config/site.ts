@@ -151,6 +151,7 @@ export const cities: City[] = [
       "oakwood-oh",
       "beavercreek-oh",
       "huber-heights-oh",
+      "riverside-oh",
       "vandalia-oh",
       "trotwood-oh",
       "englewood-oh",
@@ -177,6 +178,7 @@ export const cities: City[] = [
       "oakwood-oh",
       "centerville-oh",
       "beavercreek-oh",
+      "riverside-oh",
       "miamisburg-oh",
       "west-carrollton-oh",
     ],
@@ -198,6 +200,7 @@ export const cities: City[] = [
       "dayton-oh",
       "kettering-oh",
       "fairborn-oh",
+      "riverside-oh",
       "xenia-oh",
       "centerville-oh",
     ],
@@ -238,6 +241,7 @@ export const cities: City[] = [
     status: "live",
     nearbySlugs: [
       "dayton-oh",
+      "riverside-oh",
       "vandalia-oh",
       "trotwood-oh",
       "englewood-oh",
@@ -260,6 +264,7 @@ export const cities: City[] = [
     status: "live",
     nearbySlugs: [
       "dayton-oh",
+      "riverside-oh",
       "beavercreek-oh",
       "huber-heights-oh",
       "xenia-oh",
@@ -334,7 +339,12 @@ export const cities: City[] = [
     state: "Ohio",
     stateAbbr: "OH",
     status: "live",
-    nearbySlugs: ["huber-heights-oh", "fairborn-oh", "xenia-oh"],
+    nearbySlugs: [
+      "huber-heights-oh",
+      "riverside-oh",
+      "fairborn-oh",
+      "xenia-oh",
+    ],
     setting:
       "Springfield is a Clark County city northeast of Dayton with older city lots and brick two-stories. AES Ohio is common. Unfinished basements and aging laterals are typical. Winter freeze in those basements is a recurring reason people request a plumber.",
     housing:
@@ -448,6 +458,28 @@ export const cities: City[] = [
       "Older National Road two-stories and modest downtown stock sit next to later I-70-adjacent subdivisions — unfinished basements or short crawlspaces in the core, slabs and garage utility walls on later streets.",
     winter:
       "National Road crawlspaces freeze first after a Miami Valley polar-vortex night; later subdivision lots fail at hose bibs and unheated garage walls rather than a Trotwood Salem-corridor ranch pattern.",
+    utility: "AES Ohio",
+  },
+  {
+    slug: "riverside-oh",
+    name: "Riverside",
+    state: "Ohio",
+    stateAbbr: "OH",
+    status: "live",
+    nearbySlugs: [
+      "dayton-oh",
+      "huber-heights-oh",
+      "fairborn-oh",
+      "beavercreek-oh",
+      "kettering-oh",
+      "springfield-oh",
+    ],
+    setting:
+      "Riverside sits on the east and northeast edge of Dayton along the Airway Road / Harshman corridor, next to Wright-Patterson Air Force Base. AES Ohio is typical. Older east-side city lots sit next to later subdivision streets toward the base — not an I-70 / National Road town, not a Salem Avenue inner-ring ranch suburb, and not a south I-75 river-valley city. Winter freeze hits unfinished basements on the older east-side stock first, then hose bibs and unheated garage walls on later lots.",
+    housing:
+      "Older east-Dayton two-stories and postwar ranches on the Harshman / Airway corridor sit next to later Wright-Patt-adjacent subdivision lots — unfinished basements or short crawlspaces on the older stock, slabs and garage utility walls on later streets.",
+    winter:
+      "Older east-side basements and crawlspaces freeze first after a Miami Valley polar-vortex night; later subdivision lots fail at hose bibs and unheated garage walls rather than a West Carrollton river-valley or Englewood National Road pattern.",
     utility: "AES Ohio",
   },
   {

@@ -136,6 +136,15 @@ const copy: Record<string, string> = {
   "englewood-oh:emergency-plumbing":
     "An Englewood emergency after a polar-vortex night is often a National Road crawlspace line in the older core, or a hose bib / garage-wall split on a later I-70 subdivision lot. The two housing stocks fail in different corners. If a line is open or the house has no water, mark emergency on the form.",
 
+  "riverside-oh:plumbing":
+    "Riverside plumbing splits between older east-Dayton stock on the Harshman / Airway corridor and later Wright-Patt-adjacent subdivision streets. AES Ohio is typical. Unfinished-basement galvanized or copper on an older east-side lot is a different job than a later garage-wall run toward the base. We will not invent a Riverside-only price.",
+  "riverside-oh:drain-cleaning":
+    "On an older Riverside east-side street, a slow kitchen or hall bath is often the original lateral under a Harshman- or Airway-corridor lot. Later subdivision mains toward Wright-Patt are newer plastic with shorter runs. Roots and grease still clog both. We do not invent an east-Dayton drain price.",
+  "riverside-oh:water-heater":
+    "A Riverside tank on older east-side stock usually sits in an unfinished basement or short crawlspace; later Wright-Patt-adjacent subdivision tanks sit in a garage or utility alcove. Getting a tank in or out of an older two-story is tighter access than a later ranch. Electric units sit on AES Ohio; gas needs a vent that still drafts. National ranges only.",
+  "riverside-oh:emergency-plumbing":
+    "A Riverside emergency after a polar-vortex night is often an older east-side basement line that froze, then opened, or a hose bib / garage-wall split on a later Wright-Patt-adjacent lot. The two housing stocks fail in different corners. If a line is open or the house has no water, mark emergency on the form.",
+
   "syracuse-ny:plumbing":
     "Syracuse plumbing splits between older Eastwood bungalows and Strathmore two-stories and later Onondaga County subdivision streets. National Grid is typical. Unfinished-basement galvanized or copper on an Eastwood lot is a different job than a later Cicero or Clay garage-wall run. We will not invent a Syracuse-only price.",
   "syracuse-ny:drain-cleaning":
