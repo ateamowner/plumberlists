@@ -145,6 +145,15 @@ const copy: Record<string, string> = {
   "riverside-oh:emergency-plumbing":
     "A Riverside emergency after a polar-vortex night is often an older east-side basement line that froze, then opened, or a hose bib / garage-wall split on a later Wright-Patt-adjacent lot. The two housing stocks fail in different corners. If a line is open or the house has no water, mark emergency on the form.",
 
+  "moraine-oh:plumbing":
+    "Moraine plumbing is often an older industrial-adjacent house on the Dixie Drive / I-75 corridor south of Dayton, or a later subdivision street between the city and West Carrollton/Miamisburg. AES Ohio is typical. Mixed galvanized, copper, and later PVC in an unfinished basement is a different job than a later slab garage-wall run. We will not invent a Moraine-only price.",
+  "moraine-oh:drain-cleaning":
+    "On an older Moraine industrial-adjacent street, a slow kitchen or hall bath is often the original lateral under a Dixie Drive / I-75 lot. Later south-Dayton subdivision mains toward West Carrollton are newer plastic with shorter runs. Roots and grease still clog both. We do not invent a south-Dayton drain price.",
+  "moraine-oh:water-heater":
+    "A Moraine tank on older industrial-residential stock usually sits in an unfinished basement or short crawlspace; later I-75-corridor subdivision tanks sit in a garage or utility alcove. Getting a tank in or out of an older two-story is tighter access than a later ranch. Electric units sit on AES Ohio; gas needs a vent that still drafts. National ranges only.",
+  "moraine-oh:emergency-plumbing":
+    "A Moraine emergency after a polar-vortex night is often an older industrial-adjacent basement line that froze, then opened, or a hose bib / garage-wall split on a later Dixie Drive / I-75 subdivision lot. The two housing stocks fail in different corners. If a line is open or the house has no water, mark emergency on the form.",
+
   "syracuse-ny:plumbing":
     "Syracuse plumbing splits between older Eastwood bungalows and Strathmore two-stories and later Onondaga County subdivision streets. National Grid is typical. Unfinished-basement galvanized or copper on an Eastwood lot is a different job than a later Cicero or Clay garage-wall run. We will not invent a Syracuse-only price.",
   "syracuse-ny:drain-cleaning":
