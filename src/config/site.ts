@@ -157,6 +157,7 @@ export const cities: City[] = [
       "englewood-oh",
       "miamisburg-oh",
       "west-carrollton-oh",
+      "moraine-oh",
       "fairborn-oh",
     ],
     setting:
@@ -181,6 +182,7 @@ export const cities: City[] = [
       "riverside-oh",
       "miamisburg-oh",
       "west-carrollton-oh",
+      "moraine-oh",
     ],
     setting:
       "Kettering is a southern Dayton suburb of mid-century ranches and split-levels on AES Ohio. Mature trees and older laterals sit under quiet streets. Garage and crawlspace pipes freeze when insulation is thin.",
@@ -224,6 +226,7 @@ export const cities: City[] = [
       "miamisburg-oh",
       "beavercreek-oh",
       "dayton-oh",
+      "moraine-oh",
     ],
     setting:
       "Centerville and the Washington Township overlap south of Dayton have 1960s–90s colonials on AES Ohio. More bathrooms and longer runs than a Kettering ranch. Ice-season slab and crawlspace leaks show up after a freeze-thaw week.",
@@ -288,6 +291,7 @@ export const cities: City[] = [
       "west-carrollton-oh",
       "kettering-oh",
       "centerville-oh",
+      "moraine-oh",
     ],
     setting:
       "Miamisburg sits on the Great Miami River with hillside lots and a historic downtown. AES Ohio serves most homes. Older clay laterals and tight staging on hillsides matter. Exposed crawlspaces freeze on the bluff side of a lot.",
@@ -386,6 +390,7 @@ export const cities: City[] = [
       "centerville-oh",
       "beavercreek-oh",
       "west-carrollton-oh",
+      "moraine-oh",
     ],
     setting:
       "Oakwood is a small inner-ring city immediately south of Dayton, with tree-lined streets and early 20th-century two-stories. AES Ohio is typical. Tighter lots and older laterals than a later Kettering ranch. Winter freeze hits crawlspaces and hose bibs on that older stock first.",
@@ -408,6 +413,7 @@ export const cities: City[] = [
       "oakwood-oh",
       "centerville-oh",
       "trotwood-oh",
+      "moraine-oh",
     ],
     setting:
       "West Carrollton sits on the Great Miami River immediately south of Dayton and north of Miamisburg, along the I-75 / Dixie Drive corridor. AES Ohio is typical. Postwar ranches sit next to older downtown stock on flatter river-valley lots than a Miamisburg hillside. Winter freeze hits garage-wall supply and river-adjacent crawlspaces first.",
@@ -480,6 +486,28 @@ export const cities: City[] = [
       "Older east-Dayton two-stories and postwar ranches on the Harshman / Airway corridor sit next to later Wright-Patt-adjacent subdivision lots — unfinished basements or short crawlspaces on the older stock, slabs and garage utility walls on later streets.",
     winter:
       "Older east-side basements and crawlspaces freeze first after a Miami Valley polar-vortex night; later subdivision lots fail at hose bibs and unheated garage walls rather than a West Carrollton river-valley or Englewood National Road pattern.",
+    utility: "AES Ohio",
+  },
+  {
+    slug: "moraine-oh",
+    name: "Moraine",
+    state: "Ohio",
+    stateAbbr: "OH",
+    status: "live",
+    nearbySlugs: [
+      "dayton-oh",
+      "west-carrollton-oh",
+      "kettering-oh",
+      "oakwood-oh",
+      "centerville-oh",
+      "miamisburg-oh",
+    ],
+    setting:
+      "Moraine sits immediately south of Dayton along the Dixie Drive / I-75 corridor, between the city and West Carrollton/Miamisburg. AES Ohio is typical. Older industrial-adjacent streets mix with later subdivision stock — not an Airway / Harshman east-side town, not a Salem Avenue ranch suburb, and not an I-70 / National Road interchange. Winter freeze hits unfinished basements on the older industrial-residential blocks first, then hose bibs and unheated garage walls on later lots.",
+    housing:
+      "Older industrial-adjacent two-stories and postwar houses on the Dixie Drive / I-75 corridor sit next to later south-Dayton subdivision lots — unfinished basements or short crawlspaces on the older mix, slabs and garage utility walls on later streets.",
+    winter:
+      "Older industrial-residential basements and crawlspaces freeze first after a Miami Valley polar-vortex night; later subdivision lots fail at hose bibs and unheated garage walls rather than a West Carrollton river-valley or Riverside Wright-Patt pattern.",
     utility: "AES Ohio",
   },
   {
