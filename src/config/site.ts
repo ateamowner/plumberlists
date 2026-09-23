@@ -158,6 +158,7 @@ export const cities: City[] = [
       "miamisburg-oh",
       "west-carrollton-oh",
       "moraine-oh",
+      "bellbrook-oh",
       "fairborn-oh",
     ],
     setting:
@@ -183,6 +184,7 @@ export const cities: City[] = [
       "miamisburg-oh",
       "west-carrollton-oh",
       "moraine-oh",
+      "bellbrook-oh",
     ],
     setting:
       "Kettering is a southern Dayton suburb of mid-century ranches and split-levels on AES Ohio. Mature trees and older laterals sit under quiet streets. Garage and crawlspace pipes freeze when insulation is thin.",
@@ -205,6 +207,7 @@ export const cities: City[] = [
       "riverside-oh",
       "xenia-oh",
       "centerville-oh",
+      "bellbrook-oh",
     ],
     setting:
       "Beavercreek sits east of Dayton near Wright-Patterson Air Force Base. AES Ohio serves most bills. Wider subdivision lots mix with older laterals; winter freeze still finds unheated additions and hose bibs.",
@@ -227,6 +230,7 @@ export const cities: City[] = [
       "beavercreek-oh",
       "dayton-oh",
       "moraine-oh",
+      "bellbrook-oh",
     ],
     setting:
       "Centerville and the Washington Township overlap south of Dayton have 1960s–90s colonials on AES Ohio. More bathrooms and longer runs than a Kettering ranch. Ice-season slab and crawlspace leaks show up after a freeze-thaw week.",
@@ -307,7 +311,12 @@ export const cities: City[] = [
     state: "Ohio",
     stateAbbr: "OH",
     status: "live",
-    nearbySlugs: ["beavercreek-oh", "fairborn-oh", "springfield-oh"],
+    nearbySlugs: [
+      "beavercreek-oh",
+      "fairborn-oh",
+      "springfield-oh",
+      "bellbrook-oh",
+    ],
     setting:
       "Xenia is the Greene County seat, with older housing mixed with post-storm rebuilds. AES Ohio is typical. Wind-driven cold and winter freeze hit older pipes that a newer rebuild does not have.",
     housing:
@@ -391,6 +400,7 @@ export const cities: City[] = [
       "beavercreek-oh",
       "west-carrollton-oh",
       "moraine-oh",
+      "bellbrook-oh",
     ],
     setting:
       "Oakwood is a small inner-ring city immediately south of Dayton, with tree-lined streets and early 20th-century two-stories. AES Ohio is typical. Tighter lots and older laterals than a later Kettering ranch. Winter freeze hits crawlspaces and hose bibs on that older stock first.",
@@ -508,6 +518,28 @@ export const cities: City[] = [
       "Older industrial-adjacent two-stories and postwar houses on the Dixie Drive / I-75 corridor sit next to later south-Dayton subdivision lots — unfinished basements or short crawlspaces on the older mix, slabs and garage utility walls on later streets.",
     winter:
       "Older industrial-residential basements and crawlspaces freeze first after a Miami Valley polar-vortex night; later subdivision lots fail at hose bibs and unheated garage walls rather than a West Carrollton river-valley or Riverside Wright-Patt pattern.",
+    utility: "AES Ohio",
+  },
+  {
+    slug: "bellbrook-oh",
+    name: "Bellbrook",
+    state: "Ohio",
+    stateAbbr: "OH",
+    status: "live",
+    nearbySlugs: [
+      "centerville-oh",
+      "kettering-oh",
+      "beavercreek-oh",
+      "xenia-oh",
+      "dayton-oh",
+      "oakwood-oh",
+    ],
+    setting:
+      "Bellbrook is an eastern Greene County suburb southeast of Dayton, Kettering, and Centerville, on the Sugarcreek Township side of Little Sugar Creek. AES Ohio is typical. Historic downtown houses along Franklin Street and the Feedwire Road corridor sit next to later subdivision streets toward Centerville and Springboro — not a Dixie Drive industrial mix, not an Airway Road base town, and not a Salem Avenue or National Road ranch suburb. Winter freeze hits unfinished basements on the older village stock first, then hose bibs and unheated garage walls on later lots.",
+    housing:
+      "Older village two-stories and modest downtown houses along Franklin Street sit next to later Sugarcreek Township subdivision lots toward Centerville and Springboro — unfinished basements or short crawlspaces in the historic core, slabs and garage utility walls on later streets.",
+    winter:
+      "Older village basements and crawlspaces along Franklin Street and Little Sugar Creek freeze first after a Miami Valley polar-vortex night; later subdivision lots toward Centerville fail at hose bibs and unheated garage walls rather than a Dixie Drive industrial-residential or Airway Road pattern.",
     utility: "AES Ohio",
   },
   {
