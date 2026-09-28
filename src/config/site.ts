@@ -159,6 +159,7 @@ export const cities: City[] = [
       "west-carrollton-oh",
       "moraine-oh",
       "bellbrook-oh",
+      "springboro-oh",
       "fairborn-oh",
     ],
     setting:
@@ -185,6 +186,7 @@ export const cities: City[] = [
       "west-carrollton-oh",
       "moraine-oh",
       "bellbrook-oh",
+      "springboro-oh",
     ],
     setting:
       "Kettering is a southern Dayton suburb of mid-century ranches and split-levels on AES Ohio. Mature trees and older laterals sit under quiet streets. Garage and crawlspace pipes freeze when insulation is thin.",
@@ -231,6 +233,7 @@ export const cities: City[] = [
       "dayton-oh",
       "moraine-oh",
       "bellbrook-oh",
+      "springboro-oh",
     ],
     setting:
       "Centerville and the Washington Township overlap south of Dayton have 1960s–90s colonials on AES Ohio. More bathrooms and longer runs than a Kettering ranch. Ice-season slab and crawlspace leaks show up after a freeze-thaw week.",
@@ -296,6 +299,7 @@ export const cities: City[] = [
       "kettering-oh",
       "centerville-oh",
       "moraine-oh",
+      "springboro-oh",
     ],
     setting:
       "Miamisburg sits on the Great Miami River with hillside lots and a historic downtown. AES Ohio serves most homes. Older clay laterals and tight staging on hillsides matter. Exposed crawlspaces freeze on the bluff side of a lot.",
@@ -424,6 +428,7 @@ export const cities: City[] = [
       "centerville-oh",
       "trotwood-oh",
       "moraine-oh",
+      "springboro-oh",
     ],
     setting:
       "West Carrollton sits on the Great Miami River immediately south of Dayton and north of Miamisburg, along the I-75 / Dixie Drive corridor. AES Ohio is typical. Postwar ranches sit next to older downtown stock on flatter river-valley lots than a Miamisburg hillside. Winter freeze hits garage-wall supply and river-adjacent crawlspaces first.",
@@ -533,6 +538,7 @@ export const cities: City[] = [
       "xenia-oh",
       "dayton-oh",
       "oakwood-oh",
+      "springboro-oh",
     ],
     setting:
       "Bellbrook is an eastern Greene County suburb southeast of Dayton, Kettering, and Centerville, on the Sugarcreek Township side of Little Sugar Creek. AES Ohio is typical. Historic downtown houses along Franklin Street and the Feedwire Road corridor sit next to later subdivision streets toward Centerville and Springboro — not a Dixie Drive industrial mix, not an Airway Road base town, and not a Salem Avenue or National Road ranch suburb. Winter freeze hits unfinished basements on the older village stock first, then hose bibs and unheated garage walls on later lots.",
@@ -540,6 +546,28 @@ export const cities: City[] = [
       "Older village two-stories and modest downtown houses along Franklin Street sit next to later Sugarcreek Township subdivision lots toward Centerville and Springboro — unfinished basements or short crawlspaces in the historic core, slabs and garage utility walls on later streets.",
     winter:
       "Older village basements and crawlspaces along Franklin Street and Little Sugar Creek freeze first after a Miami Valley polar-vortex night; later subdivision lots toward Centerville fail at hose bibs and unheated garage walls rather than a Dixie Drive industrial-residential or Airway Road pattern.",
+    utility: "AES Ohio",
+  },
+  {
+    slug: "springboro-oh",
+    name: "Springboro",
+    state: "Ohio",
+    stateAbbr: "OH",
+    status: "live",
+    nearbySlugs: [
+      "centerville-oh",
+      "miamisburg-oh",
+      "dayton-oh",
+      "kettering-oh",
+      "bellbrook-oh",
+      "west-carrollton-oh",
+    ],
+    setting:
+      "Springboro is a southern Warren County suburb between Centerville/Miamisburg and Franklin on the I-75 / OH-73 corridor, on the Clearcreek Township side. AES Ohio is typical. Historic downtown houses along Main Street / OH-73 sit next to later subdivision stock toward Centerville and the Austin Road / I-75 interchange — not Bellbrook's Franklin Street / Little Sugar Creek Greene County village, not a Dixie Drive industrial mix, and not a West Carrollton river-valley ranch suburb. Winter freeze hits unfinished basements on the older village stock first, then hose bibs and unheated garage walls on later lots.",
+    housing:
+      "Older village two-stories and modest downtown houses along Main Street / OH-73 sit next to later Clearcreek Township subdivision lots toward Centerville and the Austin Road / I-75 interchange — unfinished basements or short crawlspaces in the historic core, slabs and garage utility walls on later streets.",
+    winter:
+      "Older village basements and crawlspaces along Main Street / OH-73 freeze first after a Miami Valley polar-vortex night; later subdivision lots toward Centerville and Austin Road fail at hose bibs and unheated garage walls rather than a Franklin Street / Little Sugar Creek, Dixie Drive industrial-residential, or West Carrollton river-valley pattern.",
     utility: "AES Ohio",
   },
   {
