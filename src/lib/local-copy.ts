@@ -163,6 +163,15 @@ const copy: Record<string, string> = {
   "bellbrook-oh:emergency-plumbing":
     "A Bellbrook emergency after a polar-vortex night is often an older village basement line along Franklin Street or Little Sugar Creek that froze, then opened, or a hose bib / garage-wall split on a later subdivision lot toward Centerville. The two housing stocks fail in different corners. If a line is open or the house has no water, mark emergency on the form.",
 
+  "springboro-oh:plumbing":
+    "Springboro plumbing splits between older village houses along Main Street / OH-73 and later Clearcreek Township subdivision streets toward Centerville and the Austin Road / I-75 interchange. AES Ohio is typical. Unfinished-basement galvanized or copper on a historic downtown lot is a different job than a later garage-wall run. We will not invent a Springboro-only price.",
+  "springboro-oh:drain-cleaning":
+    "On an older Springboro village street, a slow kitchen or hall bath is often the original lateral under a Main Street / OH-73 lot. Later subdivision mains toward Centerville and Austin Road are newer plastic with shorter runs. Roots and grease still clog both. We do not invent a southern Warren County drain price.",
+  "springboro-oh:water-heater":
+    "A Springboro tank in the older village core usually sits in an unfinished basement or short crawlspace along Main Street / OH-73; later Clearcreek Township tanks toward Centerville sit in a garage or utility alcove. Getting a tank in or out of an older downtown two-story is tighter access than a later ranch. Electric units sit on AES Ohio; gas needs a vent that still drafts. National ranges only.",
+  "springboro-oh:emergency-plumbing":
+    "A Springboro emergency after a polar-vortex night is often an older village basement line along Main Street / OH-73 that froze, then opened, or a hose bib / garage-wall split on a later subdivision lot toward Centerville or Austin Road. The two housing stocks fail in different corners. If a line is open or the house has no water, mark emergency on the form.",
+
   "syracuse-ny:plumbing":
     "Syracuse plumbing splits between older Eastwood bungalows and Strathmore two-stories and later Onondaga County subdivision streets. National Grid is typical. Unfinished-basement galvanized or copper on an Eastwood lot is a different job than a later Cicero or Clay garage-wall run. We will not invent a Syracuse-only price.",
   "syracuse-ny:drain-cleaning":
