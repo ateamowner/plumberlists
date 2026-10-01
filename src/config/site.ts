@@ -161,6 +161,7 @@ export const cities: City[] = [
       "bellbrook-oh",
       "springboro-oh",
       "fairborn-oh",
+      "troy-oh",
     ],
     setting:
       "Dayton sits in the Miami Valley on older city lots. AES Ohio is the usual electric utility. Pre-war and postwar houses often mix galvanized, copper, and later PVC — access in basements and alleys matters more than a suburban slab.",
@@ -257,6 +258,7 @@ export const cities: City[] = [
       "englewood-oh",
       "fairborn-oh",
       "springfield-oh",
+      "troy-oh",
     ],
     setting:
       "Huber Heights is a northern Dayton suburb of 1950s–70s brick ranches. AES Ohio is typical. Many original supply lines are aging. Unheated garage utility walls freeze first in a Miami Valley winter.",
@@ -341,6 +343,7 @@ export const cities: City[] = [
       "trotwood-oh",
       "englewood-oh",
       "tipp-city-oh",
+      "troy-oh",
     ],
     setting:
       "Vandalia sits north of Dayton on the I-70 / airport corridor. AES Ohio is the usual bill. Ranches and tri-levels are simpler geometry than a Centerville colonial. Freeze shows up in low utility rooms and unheated additions.",
@@ -361,6 +364,7 @@ export const cities: City[] = [
       "riverside-oh",
       "fairborn-oh",
       "xenia-oh",
+      "troy-oh",
     ],
     setting:
       "Springfield is a Clark County city northeast of Dayton with older city lots and brick two-stories. AES Ohio is common. Unfinished basements and aging laterals are typical. Winter freeze in those basements is a recurring reason people request a plumber.",
@@ -382,6 +386,7 @@ export const cities: City[] = [
       "trotwood-oh",
       "englewood-oh",
       "dayton-oh",
+      "troy-oh",
     ],
     setting:
       "Tipp City is a Miami County town north of Dayton: a canal-era downtown plus later subdivisions. AES Ohio is typical. Historic downtown crawlspaces and newer suburban slabs are different jobs. Winter freeze hits the older downtown stock first.",
@@ -472,6 +477,7 @@ export const cities: City[] = [
       "dayton-oh",
       "huber-heights-oh",
       "tipp-city-oh",
+      "troy-oh",
     ],
     setting:
       "Englewood sits northwest of Dayton where I-70 meets the National Road (US-40). AES Ohio is typical. A small older downtown core along US-40 sits next to later subdivision streets toward the interstate — not a Salem Avenue inner-ring ranch town and not an airport-corridor tri-level suburb. Winter freeze hits National Road crawlspaces first, then unheated garage walls on later lots.",
@@ -568,6 +574,28 @@ export const cities: City[] = [
       "Older village two-stories and modest downtown houses along Main Street / OH-73 sit next to later Clearcreek Township subdivision lots toward Centerville and the Austin Road / I-75 interchange — unfinished basements or short crawlspaces in the historic core, slabs and garage utility walls on later streets.",
     winter:
       "Older village basements and crawlspaces along Main Street / OH-73 freeze first after a Miami Valley polar-vortex night; later subdivision lots toward Centerville and Austin Road fail at hose bibs and unheated garage walls rather than a Franklin Street / Little Sugar Creek, Dixie Drive industrial-residential, or West Carrollton river-valley pattern.",
+    utility: "AES Ohio",
+  },
+  {
+    slug: "troy-oh",
+    name: "Troy",
+    state: "Ohio",
+    stateAbbr: "OH",
+    status: "live",
+    nearbySlugs: [
+      "tipp-city-oh",
+      "vandalia-oh",
+      "dayton-oh",
+      "englewood-oh",
+      "huber-heights-oh",
+      "springfield-oh",
+    ],
+    setting:
+      "Troy is the Miami County seat north of Dayton on the Great Miami River / I-75 corridor. AES Ohio is typical. A larger county-seat historic core along Market Street and the downtown square sits next to later schools and subdivision stock toward Tipp City and Casstown — not Springboro's Warren County Main Street / OH-73 village, not Bellbrook's Franklin Street Greene County core, and not Tipp City's smaller canal-era suburb identity. Winter freeze hits unfinished basements on the older river-adjacent downtown stock first, then hose bibs and unheated garage walls on later lots.",
+    housing:
+      "Older downtown two-stories and river-adjacent houses along Market Street and the square sit next to later Miami County subdivision lots toward Tipp City and Casstown — unfinished basements or short crawlspaces in the historic core, slabs and garage utility walls on later streets.",
+    winter:
+      "Older downtown basements near the river and Market Street freeze first after a Miami Valley polar-vortex night; later subdivision lots toward Tipp City fail at hose bibs and unheated garage walls rather than a Springboro Main Street / OH-73, Bellbrook Franklin Street, or smaller Tipp City canal-suburb pattern.",
     utility: "AES Ohio",
   },
   {

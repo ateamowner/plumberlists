@@ -172,6 +172,16 @@ const copy: Record<string, string> = {
   "springboro-oh:emergency-plumbing":
     "A Springboro emergency after a polar-vortex night is often an older village basement line along Main Street / OH-73 that froze, then opened, or a hose bib / garage-wall split on a later subdivision lot toward Centerville or Austin Road. The two housing stocks fail in different corners. If a line is open or the house has no water, mark emergency on the form.",
 
+
+  "troy-oh:plumbing":
+    "Troy plumbing splits between older Miami County seat houses along Market Street and the downtown square and later subdivision streets toward Tipp City and Casstown. AES Ohio is typical. Unfinished-basement galvanized or copper on a river-adjacent downtown lot is a different job than a later garage-wall run. We will not invent a Troy-only price.",
+  "troy-oh:drain-cleaning":
+    "On an older Troy downtown street, a slow kitchen or hall bath is often the original lateral under a Market Street / square lot. Later subdivision mains toward Tipp City and Casstown are newer plastic with shorter runs. Roots and grease still clog both. We do not invent a Miami County seat drain price.",
+  "troy-oh:water-heater":
+    "A Troy tank in the older downtown core usually sits in an unfinished basement or short crawlspace along Market Street or the river; later Miami County tanks toward Tipp City sit in a garage or utility alcove. Getting a tank in or out of an older county-seat two-story is tighter access than a later ranch. Electric units sit on AES Ohio; gas needs a vent that still drafts. National ranges only.",
+  "troy-oh:emergency-plumbing":
+    "A Troy emergency after a polar-vortex night is often an older downtown basement line near the river or Market Street that froze, then opened, or a hose bib / garage-wall split on a later subdivision lot toward Tipp City. The two housing stocks fail in different corners. If a line is open or the house has no water, mark emergency on the form.",
+
   "syracuse-ny:plumbing":
     "Syracuse plumbing splits between older Eastwood bungalows and Strathmore two-stories and later Onondaga County subdivision streets. National Grid is typical. Unfinished-basement galvanized or copper on an Eastwood lot is a different job than a later Cicero or Clay garage-wall run. We will not invent a Syracuse-only price.",
   "syracuse-ny:drain-cleaning":

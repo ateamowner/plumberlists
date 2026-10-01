@@ -84,10 +84,11 @@ Live cities (Dayton / Miami Valley, plus Syracuse, NY and Toledo, OH):
 - [/moraine-oh/plumbing](/moraine-oh/plumbing) — Best Plumbing in Moraine — 2026
 - [/bellbrook-oh/plumbing](/bellbrook-oh/plumbing) — Best Plumbing in Bellbrook — 2026
 - [/springboro-oh/plumbing](/springboro-oh/plumbing) — Best Plumbing in Springboro — 2026
+- [/troy-oh/plumbing](/troy-oh/plumbing) — Best Plumbing in Troy — 2026
 - [/syracuse-ny/plumbing](/syracuse-ny/plumbing) — Best Plumbing in Syracuse — 2026
 - [/toledo-oh/plumbing](/toledo-oh/plumbing) — Best Plumbing in Toledo — 2026
 
-City hubs: `/dayton-oh`, `/kettering-oh`, `/beavercreek-oh`, `/centerville-oh`, `/huber-heights-oh`, `/fairborn-oh`, `/miamisburg-oh`, `/xenia-oh`, `/vandalia-oh`, `/springfield-oh`, `/tipp-city-oh`, `/oakwood-oh`, `/west-carrollton-oh`, `/trotwood-oh`, `/englewood-oh`, `/riverside-oh`, `/moraine-oh`, `/bellbrook-oh`, `/springboro-oh`, `/syracuse-ny`, `/toledo-oh`.
+City hubs: `/dayton-oh`, `/kettering-oh`, `/beavercreek-oh`, `/centerville-oh`, `/huber-heights-oh`, `/fairborn-oh`, `/miamisburg-oh`, `/xenia-oh`, `/vandalia-oh`, `/springfield-oh`, `/tipp-city-oh`, `/oakwood-oh`, `/west-carrollton-oh`, `/trotwood-oh`, `/englewood-oh`, `/riverside-oh`, `/moraine-oh`, `/bellbrook-oh`, `/springboro-oh`, `/troy-oh`, `/syracuse-ny`, `/toledo-oh`.
 
 Related services (unique H1, intro, form, links back): `drain-cleaning`, `water-heater`, `emergency-plumbing`.
 
