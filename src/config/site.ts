@@ -162,6 +162,7 @@ export const cities: City[] = [
       "springboro-oh",
       "fairborn-oh",
       "troy-oh",
+      "clayton-oh",
     ],
     setting:
       "Dayton sits in the Miami Valley on older city lots. AES Ohio is the usual electric utility. Pre-war and postwar houses often mix galvanized, copper, and later PVC — access in basements and alleys matters more than a suburban slab.",
@@ -259,6 +260,7 @@ export const cities: City[] = [
       "fairborn-oh",
       "springfield-oh",
       "troy-oh",
+      "clayton-oh",
     ],
     setting:
       "Huber Heights is a northern Dayton suburb of 1950s–70s brick ranches. AES Ohio is typical. Many original supply lines are aging. Unheated garage utility walls freeze first in a Miami Valley winter.",
@@ -344,6 +346,7 @@ export const cities: City[] = [
       "englewood-oh",
       "tipp-city-oh",
       "troy-oh",
+      "clayton-oh",
     ],
     setting:
       "Vandalia sits north of Dayton on the I-70 / airport corridor. AES Ohio is the usual bill. Ranches and tri-levels are simpler geometry than a Centerville colonial. Freeze shows up in low utility rooms and unheated additions.",
@@ -387,6 +390,7 @@ export const cities: City[] = [
       "englewood-oh",
       "dayton-oh",
       "troy-oh",
+      "clayton-oh",
     ],
     setting:
       "Tipp City is a Miami County town north of Dayton: a canal-era downtown plus later subdivisions. AES Ohio is typical. Historic downtown crawlspaces and newer suburban slabs are different jobs. Winter freeze hits the older downtown stock first.",
@@ -456,6 +460,7 @@ export const cities: City[] = [
       "huber-heights-oh",
       "tipp-city-oh",
       "west-carrollton-oh",
+      "clayton-oh",
     ],
     setting:
       "Trotwood is a northwest Dayton inner-ring city along the Salem Avenue / SR 49 corridor. AES Ohio is typical. Postwar ranches and modest two-stories sit on flatter lots than a Miamisburg hillside, older than a later Huber Heights subdivision street. Winter freeze hits unheated garage utility walls and Salem-corridor crawlspaces first.",
@@ -478,6 +483,7 @@ export const cities: City[] = [
       "huber-heights-oh",
       "tipp-city-oh",
       "troy-oh",
+      "clayton-oh",
     ],
     setting:
       "Englewood sits northwest of Dayton where I-70 meets the National Road (US-40). AES Ohio is typical. A small older downtown core along US-40 sits next to later subdivision streets toward the interstate — not a Salem Avenue inner-ring ranch town and not an airport-corridor tri-level suburb. Winter freeze hits National Road crawlspaces first, then unheated garage walls on later lots.",
@@ -596,6 +602,28 @@ export const cities: City[] = [
       "Older downtown two-stories and river-adjacent houses along Market Street and the square sit next to later Miami County subdivision lots toward Tipp City and Casstown — unfinished basements or short crawlspaces in the historic core, slabs and garage utility walls on later streets.",
     winter:
       "Older downtown basements near the river and Market Street freeze first after a Miami Valley polar-vortex night; later subdivision lots toward Tipp City fail at hose bibs and unheated garage walls rather than a Springboro Main Street / OH-73, Bellbrook Franklin Street, or smaller Tipp City canal-suburb pattern.",
+    utility: "AES Ohio",
+  },
+  {
+    slug: "clayton-oh",
+    name: "Clayton",
+    state: "Ohio",
+    stateAbbr: "OH",
+    status: "live",
+    nearbySlugs: [
+      "englewood-oh",
+      "trotwood-oh",
+      "dayton-oh",
+      "vandalia-oh",
+      "tipp-city-oh",
+      "huber-heights-oh",
+    ],
+    setting:
+      "Clayton is a northwest Montgomery County city north of Dayton in the Northmont area, formed in 1998 when the old village of Clayton (first platted as Salem) merged with the rest of Randolph Township. AES Ohio is typical. Older township farmhouses and larger rural-edge lots around the original Old Salem Road village sit next to later subdivision streets near I-70 toward Englewood, Union, and Trotwood — not Englewood's small National Road downtown, not Trotwood's Salem Avenue inner-ring ranch blocks, and not a Vandalia airport-corridor tri-level suburb. Winter freeze hits long supply runs and crawlspaces on the older township houses first, then hose bibs and unheated garage walls on later lots.",
+    housing:
+      "Older township farmhouses and modest houses on larger former Randolph Township parcels sit next to later Northmont-area subdivision lots toward Englewood and Union — crawlspaces, unfinished basements, and longer service runs on the older stock, slabs and garage utility walls on later streets.",
+    winter:
+      "Older township crawlspaces and long exposed runs on rural-edge lots freeze first after a Miami Valley polar-vortex night; later subdivision lots toward Englewood fail at hose bibs and unheated garage walls rather than an Englewood National Road, Trotwood Salem-corridor ranch, or Vandalia airport-corridor pattern.",
     utility: "AES Ohio",
   },
   {

@@ -182,6 +182,15 @@ const copy: Record<string, string> = {
   "troy-oh:emergency-plumbing":
     "A Troy emergency after a polar-vortex night is often an older downtown basement line near the river or Market Street that froze, then opened, or a hose bib / garage-wall split on a later subdivision lot toward Tipp City. The two housing stocks fail in different corners. If a line is open or the house has no water, mark emergency on the form.",
 
+  "clayton-oh:plumbing":
+    "Clayton plumbing splits between older Randolph Township farmhouses on larger rural-edge parcels and later Northmont-area subdivision streets toward Englewood and Union. AES Ohio is typical. A long service run into a township-era crawlspace or unfinished basement is a different job than a later garage-wall run on a newer lot. We will not invent a Clayton-only price.",
+  "clayton-oh:drain-cleaning":
+    "On an older Clayton township property, a slow kitchen or hall bath is often an original line on a longer run across a bigger lot. Later subdivision mains toward Englewood and Union are newer plastic with shorter runs. Roots and grease still clog both. We do not invent a northwest Montgomery County drain price.",
+  "clayton-oh:water-heater":
+    "A Clayton tank in an older township farmhouse usually sits in an unfinished basement, utility room, or off a crawlspace; later subdivision tanks toward Englewood and Union sit in a garage or utility alcove. Getting a tank in or out of an older farmhouse is tighter access than a later ranch. Electric units sit on AES Ohio; gas needs a vent that still drafts. National ranges only.",
+  "clayton-oh:emergency-plumbing":
+    "A Clayton emergency after a polar-vortex night is often a long exposed line or crawlspace run on an older township property that froze, then opened, or a hose bib / garage-wall split on a later subdivision lot toward Englewood. The two housing stocks fail in different corners. If a line is open or the house has no water, mark emergency on the form.",
+
   "syracuse-ny:plumbing":
     "Syracuse plumbing splits between older Eastwood bungalows and Strathmore two-stories and later Onondaga County subdivision streets. National Grid is typical. Unfinished-basement galvanized or copper on an Eastwood lot is a different job than a later Cicero or Clay garage-wall run. We will not invent a Syracuse-only price.",
   "syracuse-ny:drain-cleaning":
