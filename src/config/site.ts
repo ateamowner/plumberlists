@@ -163,6 +163,7 @@ export const cities: City[] = [
       "fairborn-oh",
       "troy-oh",
       "clayton-oh",
+      "brookville-oh",
     ],
     setting:
       "Dayton sits in the Miami Valley on older city lots. AES Ohio is the usual electric utility. Pre-war and postwar houses often mix galvanized, copper, and later PVC — access in basements and alleys matters more than a suburban slab.",
@@ -461,6 +462,7 @@ export const cities: City[] = [
       "tipp-city-oh",
       "west-carrollton-oh",
       "clayton-oh",
+      "brookville-oh",
     ],
     setting:
       "Trotwood is a northwest Dayton inner-ring city along the Salem Avenue / SR 49 corridor. AES Ohio is typical. Postwar ranches and modest two-stories sit on flatter lots than a Miamisburg hillside, older than a later Huber Heights subdivision street. Winter freeze hits unheated garage utility walls and Salem-corridor crawlspaces first.",
@@ -484,6 +486,7 @@ export const cities: City[] = [
       "tipp-city-oh",
       "troy-oh",
       "clayton-oh",
+      "brookville-oh",
     ],
     setting:
       "Englewood sits northwest of Dayton where I-70 meets the National Road (US-40). AES Ohio is typical. A small older downtown core along US-40 sits next to later subdivision streets toward the interstate — not a Salem Avenue inner-ring ranch town and not an airport-corridor tri-level suburb. Winter freeze hits National Road crawlspaces first, then unheated garage walls on later lots.",
@@ -617,6 +620,7 @@ export const cities: City[] = [
       "vandalia-oh",
       "tipp-city-oh",
       "huber-heights-oh",
+      "brookville-oh",
     ],
     setting:
       "Clayton is a northwest Montgomery County city north of Dayton in the Northmont area, formed in 1998 when the old village of Clayton (first platted as Salem) merged with the rest of Randolph Township. AES Ohio is typical. Older township farmhouses and larger rural-edge lots around the original Old Salem Road village sit next to later subdivision streets near I-70 toward Englewood, Union, and Trotwood — not Englewood's small National Road downtown, not Trotwood's Salem Avenue inner-ring ranch blocks, and not a Vandalia airport-corridor tri-level suburb. Winter freeze hits long supply runs and crawlspaces on the older township houses first, then hose bibs and unheated garage walls on later lots.",
@@ -624,6 +628,26 @@ export const cities: City[] = [
       "Older township farmhouses and modest houses on larger former Randolph Township parcels sit next to later Northmont-area subdivision lots toward Englewood and Union — crawlspaces, unfinished basements, and longer service runs on the older stock, slabs and garage utility walls on later streets.",
     winter:
       "Older township crawlspaces and long exposed runs on rural-edge lots freeze first after a Miami Valley polar-vortex night; later subdivision lots toward Englewood fail at hose bibs and unheated garage walls rather than an Englewood National Road, Trotwood Salem-corridor ranch, or Vandalia airport-corridor pattern.",
+    utility: "AES Ohio",
+  },
+  {
+    slug: "brookville-oh",
+    name: "Brookville",
+    state: "Ohio",
+    stateAbbr: "OH",
+    status: "live",
+    nearbySlugs: [
+      "clayton-oh",
+      "englewood-oh",
+      "trotwood-oh",
+      "dayton-oh",
+    ],
+    setting:
+      "Brookville is a small western Montgomery County city on I-70 at the SR 49 exit, about 15 miles west of downtown Dayton in the old Perry Township farm belt. AES Ohio is typical. A compact older downtown around Market Street sits next to later subdivision streets and rural-edge lots on well and septic out toward the Preble County line — not Clayton's merged Randolph Township subdivisions, not Englewood's National Road core, and not Trotwood's Salem Avenue inner-ring ranches. Winter freeze hits older downtown crawlspaces and long rural service runs first, then hose bibs and unheated garage walls on later lots.",
+    housing:
+      "Older downtown houses with crawlspaces and unfinished basements, Perry Township farmhouses on larger parcels (some on private wells), and later subdivision ranches and two-stories near the I-70 interchange — tight older access versus slab and garage utility walls on newer streets.",
+    winter:
+      "Downtown crawlspaces and long exposed runs to rural-edge farmhouses and well tanks freeze first after a Miami Valley polar-vortex night; later subdivision lots near I-70 fail at hose bibs and unheated garage walls rather than a Clayton township, Englewood National Road, or Trotwood Salem-corridor pattern.",
     utility: "AES Ohio",
   },
   {
