@@ -164,6 +164,7 @@ export const cities: City[] = [
       "troy-oh",
       "clayton-oh",
       "brookville-oh",
+      "germantown-oh",
     ],
     setting:
       "Dayton sits in the Miami Valley on older city lots. AES Ohio is the usual electric utility. Pre-war and postwar houses often mix galvanized, copper, and later PVC — access in basements and alleys matters more than a suburban slab.",
@@ -305,6 +306,7 @@ export const cities: City[] = [
       "centerville-oh",
       "moraine-oh",
       "springboro-oh",
+      "germantown-oh",
     ],
     setting:
       "Miamisburg sits on the Great Miami River with hillside lots and a historic downtown. AES Ohio serves most homes. Older clay laterals and tight staging on hillsides matter. Exposed crawlspaces freeze on the bluff side of a lot.",
@@ -439,6 +441,7 @@ export const cities: City[] = [
       "trotwood-oh",
       "moraine-oh",
       "springboro-oh",
+      "germantown-oh",
     ],
     setting:
       "West Carrollton sits on the Great Miami River immediately south of Dayton and north of Miamisburg, along the I-75 / Dixie Drive corridor. AES Ohio is typical. Postwar ranches sit next to older downtown stock on flatter river-valley lots than a Miamisburg hillside. Winter freeze hits garage-wall supply and river-adjacent crawlspaces first.",
@@ -576,6 +579,7 @@ export const cities: City[] = [
       "kettering-oh",
       "bellbrook-oh",
       "west-carrollton-oh",
+      "germantown-oh",
     ],
     setting:
       "Springboro is a southern Warren County suburb between Centerville/Miamisburg and Franklin on the I-75 / OH-73 corridor, on the Clearcreek Township side. AES Ohio is typical. Historic downtown houses along Main Street / OH-73 sit next to later subdivision stock toward Centerville and the Austin Road / I-75 interchange — not Bellbrook's Franklin Street / Little Sugar Creek Greene County village, not a Dixie Drive industrial mix, and not a West Carrollton river-valley ranch suburb. Winter freeze hits unfinished basements on the older village stock first, then hose bibs and unheated garage walls on later lots.",
@@ -648,6 +652,26 @@ export const cities: City[] = [
       "Older downtown houses with crawlspaces and unfinished basements, Perry Township farmhouses on larger parcels (some on private wells), and later subdivision ranches and two-stories near the I-70 interchange — tight older access versus slab and garage utility walls on newer streets.",
     winter:
       "Downtown crawlspaces and long exposed runs to rural-edge farmhouses and well tanks freeze first after a Miami Valley polar-vortex night; later subdivision lots near I-70 fail at hose bibs and unheated garage walls rather than a Clayton township, Englewood National Road, or Trotwood Salem-corridor pattern.",
+    utility: "AES Ohio",
+  },
+  {
+    slug: "germantown-oh",
+    name: "Germantown",
+    state: "Ohio",
+    stateAbbr: "OH",
+    status: "live",
+    nearbySlugs: [
+      "miamisburg-oh",
+      "springboro-oh",
+      "west-carrollton-oh",
+      "dayton-oh",
+    ],
+    setting:
+      "Germantown is a small southwest Montgomery County city on Twin Creek along SR 4 and SR 725, west of Miamisburg and the I-75 corridor in the old German Township farm belt. AES Ohio is typical. A compact historic downtown sits next to later subdivision streets and rural-edge lots on well and septic out toward Farmersville and the Butler and Preble county lines — not Miamisburg's Great Miami River hillsides, not Springboro's OH-73 Warren County village, and not West Carrollton's Dixie Drive river-valley ranches. Winter freeze hits older downtown basements and crawlspaces first, then long rural service runs, hose bibs, and unheated garage walls on later lots.",
+    housing:
+      "Older downtown two-stories and cottages with unfinished basements or crawlspaces, German Township farmhouses on larger parcels (some on private wells and septic), and later subdivision ranches and two-stories on the edges of town — tight older access versus slab and garage utility walls on newer streets.",
+    winter:
+      "Older downtown crawlspaces and long exposed runs to rural-edge farmhouses and well tanks freeze first after a Miami Valley polar-vortex night; later subdivision lots fail at hose bibs and unheated garage walls rather than a Miamisburg hillside, Springboro OH-73 village, or West Carrollton river-valley pattern.",
     utility: "AES Ohio",
   },
   {
