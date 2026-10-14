@@ -200,6 +200,15 @@ const copy: Record<string, string> = {
   "brookville-oh:emergency-plumbing":
     "A Brookville emergency after a polar-vortex night is often a downtown crawlspace line or a long exposed run to a rural well tank that froze, then opened, or a hose bib / garage-wall split on a later subdivision lot near I-70. If a line is open or the house has no water, mark emergency on the form.",
 
+  "germantown-oh:plumbing":
+    "Germantown plumbing splits between a compact historic downtown, German Township farmhouses on bigger parcels (some on private wells and septic), and later subdivision streets on the edges of town along SR 4 and SR 725. AES Ohio is typical. A crawlspace run under an older downtown house or a long line out to a well tank is a different job than a garage-wall run on a newer lot. We will not invent a Germantown-only price.",
+  "germantown-oh:drain-cleaning":
+    "On an older Germantown downtown house, a slow kitchen or hall bath is often an original line in a basement or tight crawlspace. Rural-edge farmhouses toward Farmersville may be on septic, which changes what a backup means. Later subdivision mains are newer plastic with shorter runs. We do not invent a southwest Montgomery County drain price.",
+  "germantown-oh:water-heater":
+    "A Germantown tank in an older downtown house or German Township farmhouse usually sits in an unfinished basement or utility room; later subdivision tanks sit in a garage or utility alcove. Well-water homes can scale a tank faster. Electric units sit on AES Ohio; gas needs a vent that still drafts. National ranges only.",
+  "germantown-oh:emergency-plumbing":
+    "A Germantown emergency after a polar-vortex night is often a downtown crawlspace line or a long exposed run to a rural well tank that froze, then opened, or a hose bib / garage-wall split on a later subdivision lot. If a line is open or the house has no water, mark emergency on the form.",
+
   "syracuse-ny:plumbing":
     "Syracuse plumbing splits between older Eastwood bungalows and Strathmore two-stories and later Onondaga County subdivision streets. National Grid is typical. Unfinished-basement galvanized or copper on an Eastwood lot is a different job than a later Cicero or Clay garage-wall run. We will not invent a Syracuse-only price.",
   "syracuse-ny:drain-cleaning":
