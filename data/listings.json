@@ -382,5 +382,389 @@
     "blurb": "Beavercreek shop covering the northern ring including Tipp City when a licensed residential plumber is needed. Beavercreek shop (N. Fairfield Rd) on the City of Dayton Registered Plumbing Contractors list (Lic No 1787, active as of 6/4/2026). Phone from deansplumbing.net. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.deansplumbing.net/",
     "tier": "standard",
     "profile_url": "https://www.deansplumbing.net/"
+  },
+  {
+    "city_slug": "oakwood-oh",
+    "service_slug": "plumbing",
+    "name": "Oakwood Plumbing Company",
+    "areas_served": [
+      "Oakwood",
+      "Kettering",
+      "Moraine",
+      "Dayton"
+    ],
+    "phone": "(937) 985-4077",
+    "license_id": "City of Dayton Plumbing Reg. 010543; OH License #49247",
+    "blurb": "Oakwood is in the company name and its listed office ZIP (45419). Founded 2018 by Gordon Mains; shop on Encrete Ln in Moraine, office listed as Oakwood 45419. City of Dayton registered plumbing contractor (Lic No 010543, active as of 6/4/2026); site shows OH License #49247; also on Public Health Dayton & Montgomery County's 2026 certified backflow tester list. Public map listing shows 5.0 from 453 reviews (exa.ai place data, Oct 2026). Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.oakwoodplumbingcompany.com/about-us and https://inspections.phdmc.org/data/insp_rpts/ehbfcont.pdf and https://exa.ai/library/place/phs5qg845lb",
+    "tier": "standard",
+    "profile_url": "https://www.oakwoodplumbingcompany.com/"
+  },
+  {
+    "city_slug": "oakwood-oh",
+    "service_slug": "plumbing",
+    "name": "Southtowne Plumbing, Inc.",
+    "areas_served": [
+      "Oakwood",
+      "Centerville",
+      "Kettering",
+      "Bellbrook"
+    ],
+    "phone": "(937) 433-0910",
+    "license_id": "City of Dayton Plumbing Reg. 009943; License #20097",
+    "blurb": "South-suburb shop that names Oakwood in its service area. Centerville shop (62 E Franklin St) in business since 1982; site lists Bellbrook, Kettering, Oakwood, Springboro, Franklin, and Waynesville in its service area. City of Dayton registered plumbing contractor (Lic No 009943, active as of 6/4/2026); site shows License #20097; on the 2026 PHDMC certified backflow tester list. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.southtowneplumbing.com/ and https://inspections.phdmc.org/data/insp_rpts/ehbfcont.pdf",
+    "tier": "standard",
+    "profile_url": "https://www.southtowneplumbing.com/"
+  },
+  {
+    "city_slug": "oakwood-oh",
+    "service_slug": "plumbing",
+    "name": "Complete Plumbing",
+    "areas_served": [
+      "Oakwood",
+      "Moraine",
+      "Kettering",
+      "Dayton"
+    ],
+    "phone": "(937) 299-7044",
+    "license_id": "City of Dayton Plumbing Reg. 1555; Ohio License #33764",
+    "blurb": "Names Oakwood in its service area and says it quotes a price before starting. Family-run shop at 3060 Springboro Pike (Moraine/Dayton 45439) since 1997; no subcontractors. City of Dayton registered plumbing contractor (Lic No 1555, active as of 6/4/2026); site cites Master Plumber #1555 and Ohio License #33764 and lists Oakwood in its Miami Valley service area. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.completeplumbingdayton.com/",
+    "tier": "standard",
+    "profile_url": "https://www.completeplumbingdayton.com/"
+  },
+  {
+    "city_slug": "moraine-oh",
+    "service_slug": "plumbing",
+    "name": "Five Star Plumbing, LLC",
+    "areas_served": [
+      "Moraine",
+      "West Carrollton",
+      "Kettering",
+      "Dayton"
+    ],
+    "phone": "(937) 902-6195",
+    "license_id": "City of Dayton Plumbing Reg. 1675",
+    "blurb": "Moraine-based: the shop on Sandridge Dr is inside city limits. Family-owned Moraine shop (2200 Sandridge Dr) started in 1997 by master plumber John Veda; residential, commercial, and new-construction work plus tankless installs. City of Dayton registered plumbing contractor (Lic No 1675, active as of 6/4/2026). Phone from fivestarplumbingservices.com. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.fivestarplumbingservices.com/about-us/ and https://www.bbb.org/us/oh/moraine/profile/plumber/five-star-plumbing-llc-0322-16960",
+    "tier": "standard",
+    "profile_url": "https://www.fivestarplumbingservices.com/"
+  },
+  {
+    "city_slug": "moraine-oh",
+    "service_slug": "plumbing",
+    "name": "Complete Plumbing",
+    "areas_served": [
+      "Moraine",
+      "Dayton",
+      "West Carrollton",
+      "Miamisburg"
+    ],
+    "phone": "(937) 299-7044",
+    "license_id": "City of Dayton Plumbing Reg. 1555; Ohio License #33764",
+    "blurb": "Shop sits on Springboro Pike in the 45439 ZIP Moraine shares. Family-run shop at 3060 Springboro Pike (Moraine/Dayton 45439) since 1997; no subcontractors. City of Dayton registered plumbing contractor (Lic No 1555, active as of 6/4/2026); site cites Master Plumber #1555 and Ohio License #33764 and lists Moraine in its Miami Valley service area. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.completeplumbingdayton.com/",
+    "tier": "standard",
+    "profile_url": "https://www.completeplumbingdayton.com/"
+  },
+  {
+    "city_slug": "moraine-oh",
+    "service_slug": "plumbing",
+    "name": "Oakwood Plumbing Company",
+    "areas_served": [
+      "Moraine",
+      "Oakwood",
+      "Kettering",
+      "Dayton"
+    ],
+    "phone": "(937) 985-4077",
+    "license_id": "City of Dayton Plumbing Reg. 010543; OH License #49247",
+    "blurb": "Shop is on Encrete Ln in Moraine. Founded 2018 by Gordon Mains; shop on Encrete Ln in Moraine, office listed as Oakwood 45419. City of Dayton registered plumbing contractor (Lic No 010543, active as of 6/4/2026); site shows OH License #49247; also on Public Health Dayton & Montgomery County's 2026 certified backflow tester list. Public map listing shows 5.0 from 453 reviews (exa.ai place data, Oct 2026). Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.oakwoodplumbingcompany.com/about-us and https://inspections.phdmc.org/data/insp_rpts/ehbfcont.pdf and https://exa.ai/library/place/phs5qg845lb",
+    "tier": "standard",
+    "profile_url": "https://www.oakwoodplumbingcompany.com/"
+  },
+  {
+    "city_slug": "west-carrollton-oh",
+    "service_slug": "plumbing",
+    "name": "Stebbins Plumbing & Heating",
+    "areas_served": [
+      "West Carrollton",
+      "Moraine",
+      "Miamisburg",
+      "Dayton"
+    ],
+    "phone": "(937) 859-4534",
+    "license_id": "City of Dayton Plumbing Reg. 009945",
+    "blurb": "West Carrollton's own century-old shop on E Dixie Dr. West Carrollton shop at 621 E Dixie Dr, family-owned since 1926 (100 years in 2026). BBB A+ and accredited since 1993. City of Dayton registered plumbing contractor (Lic No 009945, active as of 6/4/2026). Public map listing shows 4.6 from 19 reviews (exa.ai place data, Oct 2026). Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://stebbinsplumbing.com/ and https://www.bbb.org/us/oh/dayton/profile/plumber/stebbins-plumbing-0322-6140",
+    "tier": "standard",
+    "profile_url": "https://stebbinsplumbing.com/"
+  },
+  {
+    "city_slug": "west-carrollton-oh",
+    "service_slug": "plumbing",
+    "name": "Complete Plumbing",
+    "areas_served": [
+      "West Carrollton",
+      "Moraine",
+      "Miamisburg",
+      "Dayton"
+    ],
+    "phone": "(937) 299-7044",
+    "license_id": "City of Dayton Plumbing Reg. 1555; Ohio License #33764",
+    "blurb": "Names West Carrollton in its service area. Family-run shop at 3060 Springboro Pike (Moraine/Dayton 45439) since 1997; no subcontractors. City of Dayton registered plumbing contractor (Lic No 1555, active as of 6/4/2026); site cites Master Plumber #1555 and Ohio License #33764 and lists West Carrollton in its Miami Valley service area. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.completeplumbingdayton.com/",
+    "tier": "standard",
+    "profile_url": "https://www.completeplumbingdayton.com/"
+  },
+  {
+    "city_slug": "west-carrollton-oh",
+    "service_slug": "plumbing",
+    "name": "Five Star Plumbing, LLC",
+    "areas_served": [
+      "West Carrollton",
+      "Moraine",
+      "Miamisburg",
+      "Kettering"
+    ],
+    "phone": "(937) 902-6195",
+    "license_id": "City of Dayton Plumbing Reg. 1675",
+    "blurb": "Shop is in neighboring Moraine. Family-owned Moraine shop (2200 Sandridge Dr) started in 1997 by master plumber John Veda; residential, commercial, and new-construction work plus tankless installs. City of Dayton registered plumbing contractor (Lic No 1675, active as of 6/4/2026). Phone from fivestarplumbingservices.com. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.fivestarplumbingservices.com/about-us/ and https://www.bbb.org/us/oh/moraine/profile/plumber/five-star-plumbing-llc-0322-16960",
+    "tier": "standard",
+    "profile_url": "https://www.fivestarplumbingservices.com/"
+  },
+  {
+    "city_slug": "englewood-oh",
+    "service_slug": "plumbing",
+    "name": "Joe Schmitt & Sons Plumbing & Heating, LLC",
+    "areas_served": [
+      "Englewood",
+      "Clayton",
+      "Union",
+      "Vandalia"
+    ],
+    "phone": "(937) 836-3086",
+    "license_id": "City of Dayton Plumbing Reg. 009941; OH PL.25677",
+    "blurb": "Englewood's hometown shop on Alta Ave, in business since 1955. Englewood shop at 500 Alta Ave, started 1955; BBB A+ and accredited since 1982. City of Dayton registered plumbing contractor (Lic No 009941, active as of 6/4/2026); Ohio plumbing license PL.25677 per BuildZoom's state-record check. Plumbing, water heaters, boilers, softeners, radiant heat. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.bbb.org/us/oh/englewood/profile/plumber/joe-schmitt-sons-plumbing-htg-llc-0322-3593 and https://www.buildzoom.com/contractor/joe-schmitt-sons-llc",
+    "tier": "standard",
+    "profile_url": "https://www.bbb.org/us/oh/englewood/profile/plumber/joe-schmitt-sons-plumbing-htg-llc-0322-3593"
+  },
+  {
+    "city_slug": "englewood-oh",
+    "service_slug": "plumbing",
+    "name": "Complete Plumbing",
+    "areas_served": [
+      "Englewood",
+      "Clayton",
+      "Vandalia",
+      "Dayton"
+    ],
+    "phone": "(937) 299-7044",
+    "license_id": "City of Dayton Plumbing Reg. 1555; Ohio License #33764",
+    "blurb": "Lists Englewood in its service area. Family-run shop at 3060 Springboro Pike (Moraine/Dayton 45439) since 1997; no subcontractors. City of Dayton registered plumbing contractor (Lic No 1555, active as of 6/4/2026); site cites Master Plumber #1555 and Ohio License #33764 and lists Englewood in its Miami Valley service area. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.completeplumbingdayton.com/",
+    "tier": "standard",
+    "profile_url": "https://www.completeplumbingdayton.com/"
+  },
+  {
+    "city_slug": "englewood-oh",
+    "service_slug": "plumbing",
+    "name": "Heeter Plumbing, LLC",
+    "areas_served": [
+      "Englewood",
+      "Vandalia",
+      "Dayton",
+      "Huber Heights"
+    ],
+    "phone": "(937) 890-5526",
+    "license_id": "City of Dayton Plumbing Reg. 1691",
+    "blurb": "North Dayton shop on N. Dixie Dr, a few miles from Englewood. Family-owned shop on N. Dixie Dr (Dayton 45414, the Northridge/Vandalia side), residential and commercial plumbing, drain, water heater, and sewer line work around Dayton. City of Dayton registered plumbing contractor (Lic No 1691, active as of 6/4/2026). Phone from heeterplumbing.com. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://heeterplumbing.com/",
+    "tier": "standard",
+    "profile_url": "https://heeterplumbing.com/"
+  },
+  {
+    "city_slug": "clayton-oh",
+    "service_slug": "plumbing",
+    "name": "Evans Plumbing, LLC",
+    "areas_served": [
+      "Clayton",
+      "Englewood",
+      "Union",
+      "Brookville"
+    ],
+    "phone": "(937) 832-8723",
+    "license_id": "City of Dayton Plumbing Reg. 1838",
+    "blurb": "Huls Dr address is in the 45315 ZIP that covers Clayton; does custom-home and new-build plumbing. Shop at 355 Huls Dr (Englewood/Clayton 45315) run by Alan Evans Jr.; custom-home, multifamily, and commercial plumbing with free onsite estimates; also a registered backflow technician. City of Dayton registered plumbing contractor (Lic No 1838, active as of 6/4/2026). Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://evansplumbingllc.com/contact-us/ and https://darkecountyhealth.org/wp-content/uploads/2025/05/PLUMBING_INSTALLERS_5_01_2025.pdf",
+    "tier": "standard",
+    "profile_url": "https://evansplumbingllc.com/"
+  },
+  {
+    "city_slug": "clayton-oh",
+    "service_slug": "plumbing",
+    "name": "Joe Schmitt & Sons Plumbing & Heating, LLC",
+    "areas_served": [
+      "Clayton",
+      "Englewood",
+      "Union",
+      "Trotwood"
+    ],
+    "phone": "(937) 836-3086",
+    "license_id": "City of Dayton Plumbing Reg. 009941; OH PL.25677",
+    "blurb": "Englewood shop next door to Clayton that also services boilers, water heaters, and softeners. Englewood shop at 500 Alta Ave, started 1955; BBB A+ and accredited since 1982. City of Dayton registered plumbing contractor (Lic No 009941, active as of 6/4/2026); Ohio plumbing license PL.25677 per BuildZoom's state-record check. Plumbing, water heaters, boilers, softeners, radiant heat. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.bbb.org/us/oh/englewood/profile/plumber/joe-schmitt-sons-plumbing-htg-llc-0322-3593 and https://www.buildzoom.com/contractor/joe-schmitt-sons-llc",
+    "tier": "standard",
+    "profile_url": "https://www.bbb.org/us/oh/englewood/profile/plumber/joe-schmitt-sons-plumbing-htg-llc-0322-3593"
+  },
+  {
+    "city_slug": "clayton-oh",
+    "service_slug": "plumbing",
+    "name": "Complete Plumbing",
+    "areas_served": [
+      "Clayton",
+      "Englewood",
+      "Dayton",
+      "Trotwood"
+    ],
+    "phone": "(937) 299-7044",
+    "license_id": "City of Dayton Plumbing Reg. 1555; Ohio License #33764",
+    "blurb": "Names Clayton in its service area. Family-run shop at 3060 Springboro Pike (Moraine/Dayton 45439) since 1997; no subcontractors. City of Dayton registered plumbing contractor (Lic No 1555, active as of 6/4/2026); site cites Master Plumber #1555 and Ohio License #33764 and lists Clayton in its Miami Valley service area. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.completeplumbingdayton.com/",
+    "tier": "standard",
+    "profile_url": "https://www.completeplumbingdayton.com/"
+  },
+  {
+    "city_slug": "trotwood-oh",
+    "service_slug": "plumbing",
+    "name": "Brooks Piping & Plumbing Co., LLC",
+    "areas_served": [
+      "Trotwood",
+      "Dayton",
+      "Clayton",
+      "Englewood"
+    ],
+    "phone": "(937) 770-1224",
+    "license_id": "City of Dayton Plumbing Reg. 1880",
+    "blurb": "Trotwood's own shop on E Main St. Trotwood shop at 20 E Main St (dba Brooks Plumbing Pro): residential and commercial plumbing, water heaters, gas piping, emergency calls. City of Dayton registered plumbing contractor (Lic No 1880, active as of 6/4/2026) and on PHDMC's 2026 certified backflow tester list. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://inspections.phdmc.org/data/insp_rpts/ehbfcont.pdf and https://www.bbb.org/us/oh/trotwood/profile/plumber/brooks-plumbing-pro-0322-39496",
+    "tier": "standard",
+    "profile_url": "https://www.bbb.org/us/oh/trotwood/profile/plumber/brooks-plumbing-pro-0322-39496"
+  },
+  {
+    "city_slug": "trotwood-oh",
+    "service_slug": "plumbing",
+    "name": "Joe Schmitt & Sons Plumbing & Heating, LLC",
+    "areas_served": [
+      "Trotwood",
+      "Englewood",
+      "Clayton",
+      "Union"
+    ],
+    "phone": "(937) 836-3086",
+    "license_id": "City of Dayton Plumbing Reg. 009941; OH PL.25677",
+    "blurb": "Englewood shop just north of Trotwood, in business since 1955. Englewood shop at 500 Alta Ave, started 1955; BBB A+ and accredited since 1982. City of Dayton registered plumbing contractor (Lic No 009941, active as of 6/4/2026); Ohio plumbing license PL.25677 per BuildZoom's state-record check. Plumbing, water heaters, boilers, softeners, radiant heat. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.bbb.org/us/oh/englewood/profile/plumber/joe-schmitt-sons-plumbing-htg-llc-0322-3593 and https://www.buildzoom.com/contractor/joe-schmitt-sons-llc",
+    "tier": "standard",
+    "profile_url": "https://www.bbb.org/us/oh/englewood/profile/plumber/joe-schmitt-sons-plumbing-htg-llc-0322-3593"
+  },
+  {
+    "city_slug": "trotwood-oh",
+    "service_slug": "plumbing",
+    "name": "Heeter Plumbing, LLC",
+    "areas_served": [
+      "Trotwood",
+      "Dayton",
+      "Englewood",
+      "Vandalia"
+    ],
+    "phone": "(937) 890-5526",
+    "license_id": "City of Dayton Plumbing Reg. 1691",
+    "blurb": "North Dayton shop on N. Dixie Dr serving Dayton and nearby suburbs. Family-owned shop on N. Dixie Dr (Dayton 45414, the Northridge/Vandalia side), residential and commercial plumbing, drain, water heater, and sewer line work around Dayton. City of Dayton registered plumbing contractor (Lic No 1691, active as of 6/4/2026). Phone from heeterplumbing.com. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://heeterplumbing.com/",
+    "tier": "standard",
+    "profile_url": "https://heeterplumbing.com/"
+  },
+  {
+    "city_slug": "springboro-oh",
+    "service_slug": "plumbing",
+    "name": "Stage 1 Plumbing, Inc.",
+    "areas_served": [
+      "Springboro",
+      "Franklin",
+      "Miamisburg",
+      "Centerville"
+    ],
+    "phone": "(937) 271-8456",
+    "license_id": "City of Dayton Plumbing Reg. 009955; OH LIC #15284",
+    "blurb": "Springboro's own shop on McCray Blvd, with residential new-construction and remodel experience. Springboro shop (410 McCray Blvd) in business since 1991; BBB A+; residential repair, remodels, and new-construction plumbing for Dayton-area builders. City of Dayton registered plumbing contractor (Lic No 009955, active as of 6/4/2026); site shows OH LIC #15284. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and http://www.stage1plumbing.com/ and https://www.bbb.org/us/oh/springboro/profile/plumber/stage-1-plumbing-inc-0322-15000044",
+    "tier": "standard",
+    "profile_url": "http://www.stage1plumbing.com/"
+  },
+  {
+    "city_slug": "springboro-oh",
+    "service_slug": "plumbing",
+    "name": "Southtowne Plumbing, Inc.",
+    "areas_served": [
+      "Springboro",
+      "Centerville",
+      "Franklin",
+      "Waynesville"
+    ],
+    "phone": "(937) 433-0910",
+    "license_id": "City of Dayton Plumbing Reg. 009943; License #20097",
+    "blurb": "Centerville shop that names Springboro in its service area. Centerville shop (62 E Franklin St) in business since 1982; site lists Bellbrook, Kettering, Oakwood, Springboro, Franklin, and Waynesville in its service area. City of Dayton registered plumbing contractor (Lic No 009943, active as of 6/4/2026); site shows License #20097; on the 2026 PHDMC certified backflow tester list. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.southtowneplumbing.com/ and https://inspections.phdmc.org/data/insp_rpts/ehbfcont.pdf",
+    "tier": "standard",
+    "profile_url": "https://www.southtowneplumbing.com/"
+  },
+  {
+    "city_slug": "springboro-oh",
+    "service_slug": "plumbing",
+    "name": "Complete Plumbing",
+    "areas_served": [
+      "Springboro",
+      "Miamisburg",
+      "Centerville",
+      "Franklin"
+    ],
+    "phone": "(937) 299-7044",
+    "license_id": "City of Dayton Plumbing Reg. 1555; Ohio License #33764",
+    "blurb": "Up Springboro Pike from Moraine; its site FAQ says it serves Springboro. Family-run shop at 3060 Springboro Pike (Moraine/Dayton 45439) since 1997; no subcontractors. City of Dayton registered plumbing contractor (Lic No 1555, active as of 6/4/2026); site cites Master Plumber #1555 and Ohio License #33764 and lists Springboro in its Miami Valley service area. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.completeplumbingdayton.com/",
+    "tier": "standard",
+    "profile_url": "https://www.completeplumbingdayton.com/"
+  },
+  {
+    "city_slug": "bellbrook-oh",
+    "service_slug": "plumbing",
+    "name": "Southtowne Plumbing, Inc.",
+    "areas_served": [
+      "Bellbrook",
+      "Centerville",
+      "Sugarcreek Township",
+      "Kettering"
+    ],
+    "phone": "(937) 433-0910",
+    "license_id": "City of Dayton Plumbing Reg. 009943; License #20097",
+    "blurb": "Names Bellbrook in its service area. Centerville shop (62 E Franklin St) in business since 1982; site lists Bellbrook, Kettering, Oakwood, Springboro, Franklin, and Waynesville in its service area. City of Dayton registered plumbing contractor (Lic No 009943, active as of 6/4/2026); site shows License #20097; on the 2026 PHDMC certified backflow tester list. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.southtowneplumbing.com/ and https://inspections.phdmc.org/data/insp_rpts/ehbfcont.pdf",
+    "tier": "standard",
+    "profile_url": "https://www.southtowneplumbing.com/"
+  },
+  {
+    "city_slug": "bellbrook-oh",
+    "service_slug": "plumbing",
+    "name": "Dean's Plumbing",
+    "areas_served": [
+      "Bellbrook",
+      "Beavercreek",
+      "Sugarcreek Township",
+      "Xenia"
+    ],
+    "phone": "(937) 372-0821",
+    "license_id": "City of Dayton Plumbing Reg. 1787",
+    "blurb": "Neighboring Beavercreek shop that lists Bellbrook among the towns it serves. Locally owned Beavercreek shop (N. Fairfield Rd) that answers 24/7; deansplumbing.net lists Bellbrook, Oakwood, Springboro, Kettering, and Centerville among the towns it serves. City of Dayton registered plumbing contractor (Lic No 1787, active as of 6/4/2026). Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.deansplumbing.net/",
+    "tier": "standard",
+    "profile_url": "https://www.deansplumbing.net/"
+  },
+  {
+    "city_slug": "bellbrook-oh",
+    "service_slug": "plumbing",
+    "name": "Complete Plumbing",
+    "areas_served": [
+      "Bellbrook",
+      "Centerville",
+      "Kettering",
+      "Beavercreek"
+    ],
+    "phone": "(937) 299-7044",
+    "license_id": "City of Dayton Plumbing Reg. 1555; Ohio License #33764",
+    "blurb": "Lists Bellbrook in its Miami Valley service area. Family-run shop at 3060 Springboro Pike (Moraine/Dayton 45439) since 1997; no subcontractors. City of Dayton registered plumbing contractor (Lic No 1555, active as of 6/4/2026); site cites Master Plumber #1555 and Ohio License #33764 and lists Bellbrook in its Miami Valley service area. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.completeplumbingdayton.com/",
+    "tier": "standard",
+    "profile_url": "https://www.completeplumbingdayton.com/"
   }
 ]
