@@ -1,1 +1,386 @@
-[]
+[
+  {
+    "city_slug": "beavercreek-oh",
+    "service_slug": "plumbing",
+    "name": "Dean's Plumbing",
+    "areas_served": [
+      "Beavercreek",
+      "Dayton",
+      "Xenia",
+      "Fairborn"
+    ],
+    "phone": "(937) 372-0821",
+    "license_id": "City of Dayton Plumbing Reg. 1787",
+    "blurb": "Home-base fit for Beavercreek subdivisions near Wright-Patterson \u2014 longer supply runs and HOA-front lots are the local pattern. Beavercreek shop (N. Fairfield Rd) on the City of Dayton Registered Plumbing Contractors list (Lic No 1787, active as of 6/4/2026). Phone from deansplumbing.net. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.deansplumbing.net/",
+    "tier": "standard",
+    "profile_url": "https://www.deansplumbing.net/"
+  },
+  {
+    "city_slug": "beavercreek-oh",
+    "service_slug": "plumbing",
+    "name": "Bear Plumbing Services, LLC",
+    "areas_served": [
+      "Beavercreek",
+      "Dayton",
+      "Fairborn",
+      "Xenia"
+    ],
+    "phone": "(937) 426-6901",
+    "license_id": "City of Dayton Plumbing Reg. 1637",
+    "blurb": "Local Beavercreek address; covers Greene and Montgomery County residential calls. Beavercreek shop (Space Dr) on the City of Dayton Registered Plumbing Contractors list (Lic No 1637, active as of 6/4/2026). Phone from bearplumbingservices.com. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.bearplumbingservices.com/",
+    "tier": "standard",
+    "profile_url": "https://www.bearplumbingservices.com/"
+  },
+  {
+    "city_slug": "beavercreek-oh",
+    "service_slug": "plumbing",
+    "name": "Complete Plumbing",
+    "areas_served": [
+      "Beavercreek",
+      "Dayton",
+      "Centerville",
+      "Fairborn"
+    ],
+    "phone": "(937) 299-7044",
+    "license_id": "City of Dayton Plumbing Reg. 1555",
+    "blurb": "Lists Beavercreek on its Miami Valley service area; useful when a multi-bath subdivision job needs a full residential crew. Family-owned Dayton/Moraine shop (Springboro Pike) since 1997. City of Dayton plumbing registration Lic No 1555 (list dated 6/4/2026); site also cites Master Plumber #1555. Phone from completeplumbingdayton.com. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.completeplumbingdayton.com/",
+    "tier": "standard",
+    "profile_url": "https://www.completeplumbingdayton.com/"
+  },
+  {
+    "city_slug": "centerville-oh",
+    "service_slug": "plumbing",
+    "name": "Schott Plumbing, Inc.",
+    "areas_served": [
+      "Centerville",
+      "Kettering",
+      "Oakwood",
+      "Dayton"
+    ],
+    "phone": "(937) 299-7751",
+    "license_id": "City of Dayton Plumbing Reg. 009942",
+    "blurb": "Long south-suburb footprint that matches Centerville/Washington Township colonials with longer copper or PEX runs. South Dayton shop (Lance Dr) serving Miami Valley suburbs since the 1950s. City of Dayton plumbing registration Lic No 009942 (list dated 6/4/2026). Business phone from schottplumbing.com. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://schottplumbing.com/",
+    "tier": "standard",
+    "profile_url": "https://schottplumbing.com/"
+  },
+  {
+    "city_slug": "centerville-oh",
+    "service_slug": "plumbing",
+    "name": "A-Abel Plumbing Inc.",
+    "areas_served": [
+      "Centerville",
+      "Dayton",
+      "Kettering",
+      "Miamisburg"
+    ],
+    "phone": "(937) 434-4343",
+    "license_id": "City of Dayton Plumbing Reg. 1693",
+    "blurb": "Large Dayton shop that covers Centerville residential plumbing alongside HVAC/electrical under the same family brand. Dayton family of companies (Congress Park Dr) with City of Dayton plumbing registration Lic No 1693 (active as of 6/4/2026). Business phone from a-abel.com. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://a-abel.com/",
+    "tier": "standard",
+    "profile_url": "https://a-abel.com/"
+  },
+  {
+    "city_slug": "centerville-oh",
+    "service_slug": "plumbing",
+    "name": "Complete Plumbing",
+    "areas_served": [
+      "Centerville",
+      "Dayton",
+      "Springboro",
+      "Miamisburg"
+    ],
+    "phone": "(937) 299-7044",
+    "license_id": "City of Dayton Plumbing Reg. 1555",
+    "blurb": "Explicitly lists Centerville on completeplumbingdayton.com; family crew since 1997 for two-story fixture and water-heater work. Family-owned Dayton/Moraine shop (Springboro Pike) since 1997. City of Dayton plumbing registration Lic No 1555 (list dated 6/4/2026); site also cites Master Plumber #1555. Phone from completeplumbingdayton.com. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.completeplumbingdayton.com/",
+    "tier": "standard",
+    "profile_url": "https://www.completeplumbingdayton.com/"
+  },
+  {
+    "city_slug": "huber-heights-oh",
+    "service_slug": "plumbing",
+    "name": "Heeter Plumbing, LLC",
+    "areas_served": [
+      "Huber Heights",
+      "Dayton",
+      "Vandalia",
+      "Fairborn"
+    ],
+    "phone": "(937) 890-5526",
+    "license_id": "City of Dayton Plumbing Reg. 1691",
+    "blurb": "North Dayton Dixie corridor shop \u2014 short drive to Huber Heights postwar ranches and garage utility walls. Family-owned Dayton shop (N. Dixie Dr) on the City of Dayton Registered Plumbing Contractors list (Lic No 1691, active as of 6/4/2026). Phone from heeterplumbing.com. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://heeterplumbing.com/",
+    "tier": "standard",
+    "profile_url": "https://heeterplumbing.com/"
+  },
+  {
+    "city_slug": "huber-heights-oh",
+    "service_slug": "plumbing",
+    "name": "Complete Plumbing",
+    "areas_served": [
+      "Huber Heights",
+      "Dayton",
+      "Vandalia",
+      "Tipp City"
+    ],
+    "phone": "(937) 299-7044",
+    "license_id": "City of Dayton Plumbing Reg. 1555",
+    "blurb": "Lists Huber Heights in its published service area; licensed crew for one-bath ranch repairs and tank swaps. Family-owned Dayton/Moraine shop (Springboro Pike) since 1997. City of Dayton plumbing registration Lic No 1555 (list dated 6/4/2026); site also cites Master Plumber #1555. Phone from completeplumbingdayton.com. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.completeplumbingdayton.com/",
+    "tier": "standard",
+    "profile_url": "https://www.completeplumbingdayton.com/"
+  },
+  {
+    "city_slug": "huber-heights-oh",
+    "service_slug": "plumbing",
+    "name": "Dean's Plumbing",
+    "areas_served": [
+      "Huber Heights",
+      "Dayton",
+      "Beavercreek",
+      "Fairborn"
+    ],
+    "phone": "(937) 372-0821",
+    "license_id": "City of Dayton Plumbing Reg. 1787",
+    "blurb": "East-side Beavercreek shop that regularly covers northern Miami Valley suburbs including Huber Heights. Beavercreek shop (N. Fairfield Rd) on the City of Dayton Registered Plumbing Contractors list (Lic No 1787, active as of 6/4/2026). Phone from deansplumbing.net. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.deansplumbing.net/",
+    "tier": "standard",
+    "profile_url": "https://www.deansplumbing.net/"
+  },
+  {
+    "city_slug": "fairborn-oh",
+    "service_slug": "plumbing",
+    "name": "Bear Plumbing Services, LLC",
+    "areas_served": [
+      "Fairborn",
+      "Beavercreek",
+      "Dayton",
+      "Xenia"
+    ],
+    "phone": "(937) 426-6901",
+    "license_id": "City of Dayton Plumbing Reg. 1637",
+    "blurb": "Beavercreek base next to Wright-Patterson; Fairborn downtown and military-adjacent housing are in the same Greene County ring. Beavercreek shop (Space Dr) on the City of Dayton Registered Plumbing Contractors list (Lic No 1637, active as of 6/4/2026). Phone from bearplumbingservices.com. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.bearplumbingservices.com/",
+    "tier": "standard",
+    "profile_url": "https://www.bearplumbingservices.com/"
+  },
+  {
+    "city_slug": "fairborn-oh",
+    "service_slug": "plumbing",
+    "name": "Dean's Plumbing",
+    "areas_served": [
+      "Fairborn",
+      "Beavercreek",
+      "Dayton",
+      "Xenia"
+    ],
+    "phone": "(937) 372-0821",
+    "license_id": "City of Dayton Plumbing Reg. 1787",
+    "blurb": "N. Fairfield Rd shop minutes from Fairborn \u2014 crawlspace access and freeze-prone hose bibs are the usual first notes. Beavercreek shop (N. Fairfield Rd) on the City of Dayton Registered Plumbing Contractors list (Lic No 1787, active as of 6/4/2026). Phone from deansplumbing.net. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.deansplumbing.net/",
+    "tier": "standard",
+    "profile_url": "https://www.deansplumbing.net/"
+  },
+  {
+    "city_slug": "fairborn-oh",
+    "service_slug": "plumbing",
+    "name": "Heeter Plumbing, LLC",
+    "areas_served": [
+      "Fairborn",
+      "Dayton",
+      "Huber Heights",
+      "Beavercreek"
+    ],
+    "phone": "(937) 890-5526",
+    "license_id": "City of Dayton Plumbing Reg. 1691",
+    "blurb": "Dayton-registered shop that covers Fairborn from the west; useful for AES Ohio electric-tank and supply repairs. Family-owned Dayton shop (N. Dixie Dr) on the City of Dayton Registered Plumbing Contractors list (Lic No 1691, active as of 6/4/2026). Phone from heeterplumbing.com. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://heeterplumbing.com/",
+    "tier": "standard",
+    "profile_url": "https://heeterplumbing.com/"
+  },
+  {
+    "city_slug": "miamisburg-oh",
+    "service_slug": "plumbing",
+    "name": "Complete Plumbing",
+    "areas_served": [
+      "Miamisburg",
+      "Dayton",
+      "Centerville",
+      "West Carrollton"
+    ],
+    "phone": "(937) 299-7044",
+    "license_id": "City of Dayton Plumbing Reg. 1555",
+    "blurb": "Springboro Pike shop south of Dayton; lists Miamisburg and handles older hillside laterals plus newer subdivision work. Family-owned Dayton/Moraine shop (Springboro Pike) since 1997. City of Dayton plumbing registration Lic No 1555 (list dated 6/4/2026); site also cites Master Plumber #1555. Phone from completeplumbingdayton.com. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.completeplumbingdayton.com/",
+    "tier": "standard",
+    "profile_url": "https://www.completeplumbingdayton.com/"
+  },
+  {
+    "city_slug": "miamisburg-oh",
+    "service_slug": "plumbing",
+    "name": "Schott Plumbing, Inc.",
+    "areas_served": [
+      "Miamisburg",
+      "Dayton",
+      "Centerville",
+      "Kettering"
+    ],
+    "phone": "(937) 299-7751",
+    "license_id": "City of Dayton Plumbing Reg. 009942",
+    "blurb": "South Dayton Lance Dr location aligns with Miamisburg and the River corridor suburbs. South Dayton shop (Lance Dr) serving Miami Valley suburbs since the 1950s. City of Dayton plumbing registration Lic No 009942 (list dated 6/4/2026). Business phone from schottplumbing.com. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://schottplumbing.com/",
+    "tier": "standard",
+    "profile_url": "https://schottplumbing.com/"
+  },
+  {
+    "city_slug": "miamisburg-oh",
+    "service_slug": "plumbing",
+    "name": "A-Abel Plumbing Inc.",
+    "areas_served": [
+      "Miamisburg",
+      "Dayton",
+      "Centerville",
+      "Springboro"
+    ],
+    "phone": "(937) 434-4343",
+    "license_id": "City of Dayton Plumbing Reg. 1693",
+    "blurb": "Congress Park Dr company serving the southern Miami Valley; City of Dayton Reg. 1693 for residential plumbing. Dayton family of companies (Congress Park Dr) with City of Dayton plumbing registration Lic No 1693 (active as of 6/4/2026). Business phone from a-abel.com. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://a-abel.com/",
+    "tier": "standard",
+    "profile_url": "https://a-abel.com/"
+  },
+  {
+    "city_slug": "xenia-oh",
+    "service_slug": "plumbing",
+    "name": "Dean's Plumbing",
+    "areas_served": [
+      "Xenia",
+      "Beavercreek",
+      "Fairborn",
+      "Dayton"
+    ],
+    "phone": "(937) 372-0821",
+    "license_id": "City of Dayton Plumbing Reg. 1787",
+    "blurb": "Beavercreek home base with Xenia on the eastern Greene County route \u2014 good fit for older downtown stock and newer edges. Beavercreek shop (N. Fairfield Rd) on the City of Dayton Registered Plumbing Contractors list (Lic No 1787, active as of 6/4/2026). Phone from deansplumbing.net. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.deansplumbing.net/",
+    "tier": "standard",
+    "profile_url": "https://www.deansplumbing.net/"
+  },
+  {
+    "city_slug": "xenia-oh",
+    "service_slug": "plumbing",
+    "name": "Bear Plumbing Services, LLC",
+    "areas_served": [
+      "Xenia",
+      "Beavercreek",
+      "Fairborn",
+      "Dayton"
+    ],
+    "phone": "(937) 426-6901",
+    "license_id": "City of Dayton Plumbing Reg. 1637",
+    "blurb": "Beavercreek Space Dr shop covering Greene County residential plumbing including Xenia. Beavercreek shop (Space Dr) on the City of Dayton Registered Plumbing Contractors list (Lic No 1637, active as of 6/4/2026). Phone from bearplumbingservices.com. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.bearplumbingservices.com/",
+    "tier": "standard",
+    "profile_url": "https://www.bearplumbingservices.com/"
+  },
+  {
+    "city_slug": "xenia-oh",
+    "service_slug": "plumbing",
+    "name": "Schott Plumbing, Inc.",
+    "areas_served": [
+      "Xenia",
+      "Dayton",
+      "Beavercreek",
+      "Kettering"
+    ],
+    "phone": "(937) 299-7751",
+    "license_id": "City of Dayton Plumbing Reg. 009942",
+    "blurb": "Dayton-registered south-suburb shop that reaches Xenia for planned residential plumbing, not inventing local prices. South Dayton shop (Lance Dr) serving Miami Valley suburbs since the 1950s. City of Dayton plumbing registration Lic No 009942 (list dated 6/4/2026). Business phone from schottplumbing.com. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://schottplumbing.com/",
+    "tier": "standard",
+    "profile_url": "https://schottplumbing.com/"
+  },
+  {
+    "city_slug": "vandalia-oh",
+    "service_slug": "plumbing",
+    "name": "Heeter Plumbing, LLC",
+    "areas_served": [
+      "Vandalia",
+      "Dayton",
+      "Englewood",
+      "Tipp City"
+    ],
+    "phone": "(937) 890-5526",
+    "license_id": "City of Dayton Plumbing Reg. 1691",
+    "blurb": "N. Dixie Dr shop in the Vandalia/Englewood corridor \u2014 natural fit for airport-adjacent ranches and short laterals. Family-owned Dayton shop (N. Dixie Dr) on the City of Dayton Registered Plumbing Contractors list (Lic No 1691, active as of 6/4/2026). Phone from heeterplumbing.com. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://heeterplumbing.com/",
+    "tier": "standard",
+    "profile_url": "https://heeterplumbing.com/"
+  },
+  {
+    "city_slug": "vandalia-oh",
+    "service_slug": "plumbing",
+    "name": "Complete Plumbing",
+    "areas_served": [
+      "Vandalia",
+      "Dayton",
+      "Tipp City",
+      "Huber Heights"
+    ],
+    "phone": "(937) 299-7044",
+    "license_id": "City of Dayton Plumbing Reg. 1555",
+    "blurb": "Lists Vandalia on its Miami Valley service area; Master Plumber #1555 / City Reg. 1555. Family-owned Dayton/Moraine shop (Springboro Pike) since 1997. City of Dayton plumbing registration Lic No 1555 (list dated 6/4/2026); site also cites Master Plumber #1555. Phone from completeplumbingdayton.com. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.completeplumbingdayton.com/",
+    "tier": "standard",
+    "profile_url": "https://www.completeplumbingdayton.com/"
+  },
+  {
+    "city_slug": "vandalia-oh",
+    "service_slug": "plumbing",
+    "name": "Bear Plumbing Services, LLC",
+    "areas_served": [
+      "Vandalia",
+      "Dayton",
+      "Huber Heights",
+      "Tipp City"
+    ],
+    "phone": "(937) 426-6901",
+    "license_id": "City of Dayton Plumbing Reg. 1637",
+    "blurb": "Beavercreek-registered shop that takes northern Montgomery County residential calls including Vandalia. Beavercreek shop (Space Dr) on the City of Dayton Registered Plumbing Contractors list (Lic No 1637, active as of 6/4/2026). Phone from bearplumbingservices.com. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.bearplumbingservices.com/",
+    "tier": "standard",
+    "profile_url": "https://www.bearplumbingservices.com/"
+  },
+  {
+    "city_slug": "tipp-city-oh",
+    "service_slug": "plumbing",
+    "name": "Heeter Plumbing, LLC",
+    "areas_served": [
+      "Tipp City",
+      "Vandalia",
+      "Troy",
+      "Dayton"
+    ],
+    "phone": "(937) 890-5526",
+    "license_id": "City of Dayton Plumbing Reg. 1691",
+    "blurb": "Dixie corridor shop that already lists Tipp City and Troy among northern Miami Valley towns it serves. Family-owned Dayton shop (N. Dixie Dr) on the City of Dayton Registered Plumbing Contractors list (Lic No 1691, active as of 6/4/2026). Phone from heeterplumbing.com. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://heeterplumbing.com/",
+    "tier": "standard",
+    "profile_url": "https://heeterplumbing.com/"
+  },
+  {
+    "city_slug": "tipp-city-oh",
+    "service_slug": "plumbing",
+    "name": "Complete Plumbing",
+    "areas_served": [
+      "Tipp City",
+      "Dayton",
+      "Troy",
+      "Vandalia"
+    ],
+    "phone": "(937) 299-7044",
+    "license_id": "City of Dayton Plumbing Reg. 1555",
+    "blurb": "Published service area includes Tipp City; family crew for tank swaps and supply repairs on AES Ohio. Family-owned Dayton/Moraine shop (Springboro Pike) since 1997. City of Dayton plumbing registration Lic No 1555 (list dated 6/4/2026); site also cites Master Plumber #1555. Phone from completeplumbingdayton.com. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.completeplumbingdayton.com/",
+    "tier": "standard",
+    "profile_url": "https://www.completeplumbingdayton.com/"
+  },
+  {
+    "city_slug": "tipp-city-oh",
+    "service_slug": "plumbing",
+    "name": "Dean's Plumbing",
+    "areas_served": [
+      "Tipp City",
+      "Dayton",
+      "Beavercreek",
+      "Vandalia"
+    ],
+    "phone": "(937) 372-0821",
+    "license_id": "City of Dayton Plumbing Reg. 1787",
+    "blurb": "Beavercreek shop covering the northern ring including Tipp City when a licensed residential plumber is needed. Beavercreek shop (N. Fairfield Rd) on the City of Dayton Registered Plumbing Contractors list (Lic No 1787, active as of 6/4/2026). Phone from deansplumbing.net. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.deansplumbing.net/",
+    "tier": "standard",
+    "profile_url": "https://www.deansplumbing.net/"
+  }
+]
