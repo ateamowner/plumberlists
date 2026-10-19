@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "city_slug": "dayton-oh",
+    "service_slug": "plumbing",
+    "name": "Dean's Plumbing",
+    "areas_served": ["Dayton", "Beavercreek", "Xenia", "Kettering"],
+    "phone": "(937) 372-0821",
+    "license_id": "City of Dayton Plumbing Reg. 1787",
+    "blurb": "Family-operated Beavercreek shop serving the Dayton metro. Active on the City of Dayton Registered Plumbing Contractors list (as of 6/4/2026, Lic No 1787). Phone from deansplumbing.net. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.deansplumbing.net/",
+    "tier": "standard",
+    "profile_url": "https://www.deansplumbing.net/"
+  },
+  {
+    "city_slug": "dayton-oh",
+    "service_slug": "plumbing",
+    "name": "Heeter Plumbing, LLC",
+    "areas_served": ["Dayton", "Vandalia", "Englewood", "Tipp City", "Troy"],
+    "phone": "(937) 890-5526",
+    "license_id": "City of Dayton Plumbing Reg. 1691",
+    "blurb": "Family-owned Dayton shop (N. Dixie Dr). Active on the City of Dayton Registered Plumbing Contractors list (as of 6/4/2026, Lic No 1691). Phone from heeterplumbing.com. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://heeterplumbing.com/",
+    "tier": "standard",
+    "profile_url": "https://heeterplumbing.com/"
+  },
+  {
+    "city_slug": "dayton-oh",
+    "service_slug": "plumbing",
+    "name": "Schott Plumbing, Inc.",
+    "areas_served": ["Dayton", "Oakwood", "Kettering", "Centerville"],
+    "phone": "(937) 299-7751",
+    "license_id": "City of Dayton Plumbing Reg. 009942",
+    "blurb": "Dayton shop serving the south suburbs since the 1950s (Lance Dr). Active on the City of Dayton Registered Plumbing Contractors list (as of 6/4/2026, Lic No 009942). Business phone from schottplumbing.com. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://schottplumbing.com/",
+    "tier": "standard",
+    "profile_url": "https://schottplumbing.com/"
+  },
+  {
+    "city_slug": "kettering-oh",
+    "service_slug": "plumbing",
+    "name": "Dean's Plumbing",
+    "areas_served": ["Kettering", "Dayton", "Beavercreek", "Centerville"],
+    "phone": "(937) 372-0821",
+    "license_id": "City of Dayton Plumbing Reg. 1787",
+    "blurb": "Beavercreek-based family shop that covers Kettering and the eastern Dayton suburbs. Active City of Dayton plumbing registration Lic No 1787 (list dated 6/4/2026). Phone from deansplumbing.net. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.deansplumbing.net/",
+    "tier": "standard",
+    "profile_url": "https://www.deansplumbing.net/"
+  },
+  {
+    "city_slug": "kettering-oh",
+    "service_slug": "plumbing",
+    "name": "Heeter Plumbing, LLC",
+    "areas_served": ["Kettering", "Dayton", "Huber Heights", "Fairborn"],
+    "phone": "(937) 890-5526",
+    "license_id": "City of Dayton Plumbing Reg. 1691",
+    "blurb": "Dayton-area family shop on the City of Dayton Registered Plumbing Contractors list (Lic No 1691, active as of 6/4/2026). Phone from heeterplumbing.com. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://heeterplumbing.com/",
+    "tier": "standard",
+    "profile_url": "https://heeterplumbing.com/"
+  },
+  {
+    "city_slug": "kettering-oh",
+    "service_slug": "plumbing",
+    "name": "Schott Plumbing, Inc.",
+    "areas_served": ["Kettering", "Dayton", "Oakwood", "Centerville"],
+    "phone": "(937) 299-7751",
+    "license_id": "City of Dayton Plumbing Reg. 009942",
+    "blurb": "South Dayton shop with City of Dayton plumbing registration Lic No 009942 (list dated 6/4/2026). Business phone from schottplumbing.com. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://schottplumbing.com/",
+    "tier": "standard",
+    "profile_url": "https://schottplumbing.com/"
+  }
+]
