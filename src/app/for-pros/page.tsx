@@ -2,11 +2,17 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { Disclosure } from "@/components/disclosure";
 import { liveCitySlugs, servicePath, site } from "@/config/site";
+import { shareMeta } from "@/lib/share-meta";
+
+const title = `For Plumbing Companies: Featured Listings on ${site.name}`;
+const description =
+  `How contractors buy Featured — paid placement on ${site.name}. $99/month self-serve. Not exclusive. No lead-count SLA. No credit card on the homeowner form.`;
 
 export const metadata: Metadata = {
-  title: `For plumbing companies — ${site.name}`,
-  description: `How contractors buy Featured — paid placement on ${site.name}. $99/month self-serve. Not exclusive. No lead-count SLA. No credit card on the homeowner form.`,
+  title,
+  description,
   alternates: { canonical: "/for-pros/" },
+  ...shareMeta(title, description, "/for-pros/"),
 };
 
 export default function ForProsPage() {
