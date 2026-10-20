@@ -766,5 +766,316 @@
     "blurb": "Lists Bellbrook in its Miami Valley service area. Family-run shop at 3060 Springboro Pike (Moraine/Dayton 45439) since 1997; no subcontractors. City of Dayton registered plumbing contractor (Lic No 1555, active as of 6/4/2026); site cites Master Plumber #1555 and Ohio License #33764 and lists Bellbrook in its Miami Valley service area. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.completeplumbingdayton.com/",
     "tier": "standard",
     "profile_url": "https://www.completeplumbingdayton.com/"
+  },
+  {
+    "city_slug": "springfield-oh",
+    "service_slug": "plumbing",
+    "name": "Roto-Rooter Plumbing & Water Cleanup (Springfield)",
+    "areas_served": [
+      "Springfield",
+      "New Carlisle",
+      "Enon",
+      "Urbana"
+    ],
+    "phone": "(937) 284-8278",
+    "license_id": "City of Dayton Plumbing Reg. 1498; Clark County CCHD registered",
+    "blurb": "Local Springfield branch (Troy Rd) that answers 24/7 for frozen-basement breaks and root-clogged clay laterals in older Springfield housing. Roto-Rooter (937-353-7093) appears on the Clark County Combined Health District list of registered businesses with state-certified backflow inspectors, and the same number is on the City of Dayton Registered Plumbing Contractors list (Lic No 1498, active as of 6/4/2026). Its Springfield page shows 4.9 from 409 reviews. Phone from rotorooter.com/springfieldoh. Sources: https://ccchd.com/wp-content/uploads/2026/07/2026_BackflowInspectorsList_.pdf and https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.rotorooter.com/springfieldoh/",
+    "tier": "standard",
+    "profile_url": "https://www.rotorooter.com/springfieldoh/"
+  },
+  {
+    "city_slug": "springfield-oh",
+    "service_slug": "plumbing",
+    "name": "Puckett Plumbing, Heating, Air & Electrical",
+    "areas_served": [
+      "Springfield",
+      "Fairborn",
+      "Riverside",
+      "Beavercreek"
+    ],
+    "phone": "(937) 879-7657",
+    "license_id": "City of Dayton Plumbing Reg. 1829; Clark County CCHD registered",
+    "blurb": "Family-owned since 1953 (Haddix Rd, Fairborn, on the Clark County side of Wright-Patt) and says it serves Clark, Montgomery and Greene counties, so Springfield is home turf. On the Clark County Combined Health District list of registered businesses with certified backflow inspectors and on the City of Dayton Registered Plumbing Contractors list (Lic No 1829, active as of 6/4/2026). Phone from puckettplumbingheatingandair.com. Sources: https://ccchd.com/wp-content/uploads/2026/07/2026_BackflowInspectorsList_.pdf and https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.puckettplumbingheatingandair.com/about-us",
+    "tier": "standard",
+    "profile_url": "https://www.puckettplumbingheatingandair.com/"
+  },
+  {
+    "city_slug": "springfield-oh",
+    "service_slug": "plumbing",
+    "name": "Belair Plumbing",
+    "areas_served": [
+      "Springfield"
+    ],
+    "phone": "(937) 342-8585",
+    "license_id": "Ohio Plumbing Contractor PL.12289; Clark County CCHD registered",
+    "blurb": "Springfield-based shop with Springfield gas-line permit history on BuildZoom, a fit for older brick two-stories that need supply or gas work. On the Clark County Combined Health District list of registered businesses with certified backflow inspectors; Ohio plumbing contractor license PL.12289 shown active as of September 2026 in BuildZoom's Ohio license data. Phone from the CCHD list and BBB. Sources: https://ccchd.com/wp-content/uploads/2026/07/2026_BackflowInspectorsList_.pdf and https://www.buildzoom.com/contractor/belair-plumbing and https://www.bbb.org/us/oh/springfield/profile/plumber/belair-plumbing-0322-360022266",
+    "tier": "standard",
+    "profile_url": "https://www.bbb.org/us/oh/springfield/profile/plumber/belair-plumbing-0322-360022266"
+  },
+  {
+    "city_slug": "riverside-oh",
+    "service_slug": "plumbing",
+    "name": "Advantage Plumbing & Drain Solutions",
+    "areas_served": [
+      "Riverside",
+      "Dayton",
+      "Beavercreek",
+      "Huber Heights"
+    ],
+    "phone": "(937) 519-1430",
+    "license_id": "City of Dayton Plumbing Reg. 011255",
+    "blurb": "Publishes a Riverside service page covering the Harshman Road / Eastwood Lake side of town, with a $99 standard-hours diagnostic credited to same-day repairs and 8 AM-10 PM, 7-day scheduling. Vandalia shop (N. Dixie Dr) on the City of Dayton Registered Plumbing Contractors list (Lic No 011255, active as of 6/4/2026); operating since 2020 and cites 900+ Google reviews averaging 4.9 on its own site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://theadvantageteam.com/plumber-riverside-ohio/",
+    "tier": "standard",
+    "profile_url": "https://theadvantageteam.com/plumber-riverside-ohio/"
+  },
+  {
+    "city_slug": "riverside-oh",
+    "service_slug": "plumbing",
+    "name": "Thomas & Galbraith Heating, Cooling & Plumbing",
+    "areas_served": [
+      "Riverside",
+      "Dayton",
+      "Centerville"
+    ],
+    "phone": "(513) 327-2578",
+    "license_id": "City of Dayton Plumbing Reg. 010843; Ohio PL.49661",
+    "blurb": "24/7 crew with a Riverside page for water heaters, sump pumps and frozen-pipe repair, which matters for older east-side basements. Dayton office (Webster St) on the City of Dayton Registered Plumbing Contractors list (Lic No 010843, active as of 6/4/2026); site lists Ohio plumbing license PL.49661. Phone from its Riverside page. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://thomasgalbraith.com/location/riverside-plumbers/",
+    "tier": "standard",
+    "profile_url": "https://thomasgalbraith.com/location/riverside-plumbers/"
+  },
+  {
+    "city_slug": "riverside-oh",
+    "service_slug": "plumbing",
+    "name": "Puckett Plumbing, Heating, Air & Electrical",
+    "areas_served": [
+      "Riverside",
+      "Fairborn",
+      "Beavercreek",
+      "Huber Heights"
+    ],
+    "phone": "(937) 879-7657",
+    "license_id": "City of Dayton Plumbing Reg. 1829",
+    "blurb": "Fairborn shop (Haddix Rd) near Wright-Patterson, next door to Riverside; family-owned since 1953 and serving Montgomery, Greene and Clark counties. City of Dayton Registered Plumbing Contractors list (Lic No 1829, active as of 6/4/2026); also on the Clark County CCHD registered backflow list. Phone from puckettplumbingheatingandair.com. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.puckettplumbingheatingandair.com/",
+    "tier": "standard",
+    "profile_url": "https://www.puckettplumbingheatingandair.com/"
+  },
+  {
+    "city_slug": "troy-oh",
+    "service_slug": "plumbing",
+    "name": "Wat-Kem Mechanical, Inc.",
+    "areas_served": [
+      "Troy",
+      "Piqua",
+      "Tipp City",
+      "Huber Heights"
+    ],
+    "phone": "(937) 573-3072",
+    "license_id": "City of Dayton Plumbing Reg. 1625; Ohio Lic. #21672",
+    "blurb": "Troy-based (S. County Rd 25A) since 1965, with water-line, gas-line, water-heater and water-softener and backflow work for Troy and nearby Miami County towns. On the City of Dayton Registered Plumbing Contractors list (Lic No 1625, active as of 6/4/2026) and the Clark County CCHD registered backflow list; site lists State of Ohio License #21672. Phone from watkem.com. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.watkem.com/about",
+    "tier": "standard",
+    "profile_url": "https://www.watkem.com/"
+  },
+  {
+    "city_slug": "troy-oh",
+    "service_slug": "plumbing",
+    "name": "Korrect Plumbing, Heating & A/C",
+    "areas_served": [
+      "Troy",
+      "Tipp City",
+      "Piqua",
+      "Dayton"
+    ],
+    "phone": "(937) 837-2333",
+    "license_id": "City of Dayton Plumbing Reg. 1244; Ohio Lic. #21100, #48006",
+    "blurb": "Family-owned since 1950 with a Troy office (S. Cherry St); its Troy page calls out 18-22 GPG hard water, softener work and old clay laterals near downtown and the river. Dayton shop (W. Third St) on the City of Dayton Registered Plumbing Contractors list (Lic No 1244, active as of 6/4/2026); site lists License #21100 and #48006. Phone from korrectplumbing.com. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://korrectplumbing.com/areas-categories/plumber-troy-oh",
+    "tier": "standard",
+    "profile_url": "https://korrectplumbing.com/areas-categories/plumber-troy-oh"
+  },
+  {
+    "city_slug": "troy-oh",
+    "service_slug": "plumbing",
+    "name": "Trust Plumbing LLC",
+    "areas_served": [
+      "Troy",
+      "Tipp City",
+      "Vandalia",
+      "Brookville"
+    ],
+    "phone": "(937) 329-6534",
+    "license_id": "Ohio Lic. #48700; Backflow #11755",
+    "blurb": "Husband-and-wife master-plumber shop founded in 2020 that opened a Troy office on Public Square in May 2025 (Troy Area Chamber member). Site lists OH License #48700 and Backflow #11755 and names Troy and Tipp City in its service area; Birdeye shows 5.0 from 230 reviews. Phone from trustplumbingllc.com. Sources: https://www.trustplumbingllc.com/ and https://business.troyohiochamber.com/list/details/trust-plumbing-llc-4037294 and https://miamivalleytoday.com/trust-plumbing-celebrates-troy-location-opening/ and https://reviews.birdeye.com/trust-plumbing-llc-167037608377138",
+    "tier": "standard",
+    "profile_url": "https://www.trustplumbingllc.com/"
+  },
+  {
+    "city_slug": "brookville-oh",
+    "service_slug": "plumbing",
+    "name": "Trust Plumbing LLC",
+    "areas_served": [
+      "Brookville",
+      "Clayton",
+      "Englewood",
+      "Troy"
+    ],
+    "phone": "(937) 329-6534",
+    "license_id": "Ohio Lic. #48700; Backflow #11755",
+    "blurb": "Brookville-listed (Birdeye) master-plumber shop that lists Brookville, Clayton and Englewood first in its service area, a fit for downtown crawlspaces and Perry Township farmhouse runs. Site lists OH License #48700 and Backflow #11755; Birdeye shows 5.0 from 230 reviews. Phone from trustplumbingllc.com. Sources: https://www.trustplumbingllc.com/ and https://reviews.birdeye.com/trust-plumbing-llc-167037608377138",
+    "tier": "standard",
+    "profile_url": "https://www.trustplumbingllc.com/"
+  },
+  {
+    "city_slug": "brookville-oh",
+    "service_slug": "plumbing",
+    "name": "Ed Rike Plumbing, Heating & Air",
+    "areas_served": [
+      "Brookville",
+      "Lewisburg",
+      "Englewood",
+      "Dayton"
+    ],
+    "phone": "(937) 962-2939",
+    "license_id": "City of Dayton Plumbing Reg. 1727",
+    "blurb": "Has a Brookville location (Nutrition Way) and answers live 24/7; family-owned since 1992 with farm and agricultural plumbing, useful for well-tank and long rural service lines west of town. Lewisburg shop on the City of Dayton Registered Plumbing Contractors list (Lic No 1727, active as of 6/4/2026). Phone from edrikeplumbing.com. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://edrikeplumbing.com/ and https://edrikeplumbing.com/locations/lewisburg/",
+    "tier": "standard",
+    "profile_url": "https://edrikeplumbing.com/"
+  },
+  {
+    "city_slug": "brookville-oh",
+    "service_slug": "plumbing",
+    "name": "Gem City Mechanical, Inc.",
+    "areas_served": [
+      "Brookville"
+    ],
+    "phone": "(937) 884-5209",
+    "license_id": "City of Dayton Plumbing Reg. 1879; OCILB #23851",
+    "blurb": "Brookville-based (Wengerlawn Rd) residential and commercial plumbing, HVAC and backflow contractor with 30+ years in the trades. On the City of Dayton Registered Plumbing Contractors list (Lic No 1879, active as of 6/4/2026); site lists OCILB License #23851 and Ohio backflow certification #2913. Phone from the Dayton list. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://gemcitymechanical.com/",
+    "tier": "standard",
+    "profile_url": "https://gemcitymechanical.com/"
+  },
+  {
+    "city_slug": "germantown-oh",
+    "service_slug": "plumbing",
+    "name": "ACT Plumbing LLC",
+    "areas_served": [
+      "Germantown"
+    ],
+    "phone": "(937) 855-0453",
+    "license_id": "City of Dayton Plumbing Reg. 010575",
+    "blurb": "The in-town option: shop on N. Butter St in Germantown, handy for downtown basements and German Township farmhouses on well and septic. On the City of Dayton Registered Plumbing Contractors list (Lic No 010575, active as of 6/4/2026) and the Warren County Health District 2026 registered plumber list. Phone from both lists. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://warrencohealthoh.gov/environmental/company-lists/registered-plumber-list",
+    "tier": "standard",
+    "profile_url": ""
+  },
+  {
+    "city_slug": "germantown-oh",
+    "service_slug": "plumbing",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Germantown",
+      "Miamisburg",
+      "Dayton"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise with a dedicated Germantown page and 24/7 scheduling for main-line and drain calls. Its Germantown page shows 4.6 from 873 customer reviews and lists License #13244 (Linden Ave, Dayton). Phone from mrrooter.com. Source: https://www.mrrooter.com/locations/ohio/germantown/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/locations/ohio/germantown/"
+  },
+  {
+    "city_slug": "germantown-oh",
+    "service_slug": "plumbing",
+    "name": "Complete Plumbing",
+    "areas_served": [
+      "Germantown",
+      "Miamisburg",
+      "Springboro",
+      "Dayton"
+    ],
+    "phone": "(937) 299-7044",
+    "license_id": "City of Dayton Plumbing Reg. 1555; Ohio Lic. #33764",
+    "blurb": "Names Germantown on its Miami Valley service list; family-owned since 1997 with a full residential crew for water heaters and repipes in older downtown two-stories. Dayton/Moraine shop (Springboro Pike) on the City of Dayton Registered Plumbing Contractors list (Lic No 1555, active as of 6/4/2026); site cites Master Plumber #1555 and Ohio License #33764. Phone from completeplumbingdayton.com. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.completeplumbingdayton.com/",
+    "tier": "standard",
+    "profile_url": "https://www.completeplumbingdayton.com/"
+  },
+  {
+    "city_slug": "toledo-oh",
+    "service_slug": "plumbing",
+    "name": "Ace Plumbing, LLC",
+    "areas_served": [
+      "Toledo",
+      "Sylvania",
+      "Oregon",
+      "Maumee",
+      "Perrysburg"
+    ],
+    "phone": "(419) 461-1944",
+    "license_id": "City of Toledo Plumbing Contractor PLC-16-00214",
+    "blurb": "North Toledo shop (Douglas Rd) covering Toledo, Sylvania, Oregon, Maumee and Perrysburg; BBB lists the business as started in 1996. On the City of Toledo registered plumbing contractors list (PLC-16-00214, list updated 10/14/2026); Birdeye shows 4.8 from 339 reviews. Phone from the Toledo list and aceplumbingusa.com. Sources: https://toledo.oh.gov/business/how-to-build-in-the-city/registered-contractors/plumbing-contractors and https://www.aceplumbingusa.com/ and https://reviews.birdeye.com/d/plumbing/toledo-oh/",
+    "tier": "standard",
+    "profile_url": "https://www.aceplumbingusa.com/"
+  },
+  {
+    "city_slug": "toledo-oh",
+    "service_slug": "plumbing",
+    "name": "Joe Ganzel Plumbing, Inc.",
+    "areas_served": [
+      "Toledo"
+    ],
+    "phone": "(419) 865-6512",
+    "license_id": "City of Toledo Plumbing Contractor PLC-16-00058",
+    "blurb": "Family-owned residential plumber serving Toledo since 1960, now in its third generation (Rall Rd, west Toledo); a steady pick for Old West End cellars and later suburban ranches. On the City of Toledo registered plumbing contractors list (PLC-16-00058 and PLC26-00022, list updated 10/14/2026); Birdeye shows 4.7 from 89 reviews. Sources: https://toledo.oh.gov/business/how-to-build-in-the-city/registered-contractors/plumbing-contractors and https://jganzelplbg.com/about/ and https://reviews.birdeye.com/d/plumbing/toledo-oh/",
+    "tier": "standard",
+    "profile_url": "https://jganzelplbg.com/"
+  },
+  {
+    "city_slug": "toledo-oh",
+    "service_slug": "plumbing",
+    "name": "Action Sewer Cleaning & Plumbing LLC",
+    "areas_served": [
+      "Toledo"
+    ],
+    "phone": "(419) 704-3663",
+    "license_id": "City of Toledo Plumbing Contractor PLC-21-00001",
+    "blurb": "Sylvania Ave shop focused on sewer and drain cleaning plus water-line work, the usual fix for root-clogged laterals under older Toledo streets. On the City of Toledo registered plumbing contractors list (PLC-21-00001, list updated 10/14/2026) and the City of Maumee registered plumbing list; Birdeye shows 4.8 from 121 reviews. Sources: https://toledo.oh.gov/business/how-to-build-in-the-city/registered-contractors/plumbing-contractors and https://www.actionsewerandplumbing.com/ and https://reviews.birdeye.com/d/plumbing/toledo-oh/",
+    "tier": "standard",
+    "profile_url": "https://www.actionsewerandplumbing.com/"
+  },
+  {
+    "city_slug": "syracuse-ny",
+    "service_slug": "plumbing",
+    "name": "AP Plumbing",
+    "areas_served": [
+      "Syracuse"
+    ],
+    "phone": "(315) 588-3533",
+    "license_id": "Onondaga County licensed master plumber business (WEP list)",
+    "blurb": "Syracuse location with emergency service; says it has served the area for over 35 years, and BBB lists it as started in 1986. On Onondaga County WEP's master list of businesses run by active licensed master plumbers (updated January 2025); Birdeye shows 4.7 from 660 reviews. Phone from applumbing.com/syracuse. Sources: https://onondaga.gov/wep/plumbingcontrol/plumbing-plumberlist/ and https://applumbing.com/syracuse/ and https://reviews.birdeye.com/d/plumbing/syracuse-ny/",
+    "tier": "standard",
+    "profile_url": "https://applumbing.com/syracuse/"
+  },
+  {
+    "city_slug": "syracuse-ny",
+    "service_slug": "plumbing",
+    "name": "P.A. Leone & Sons Plumbing & Heating",
+    "areas_served": [
+      "Syracuse"
+    ],
+    "phone": "(315) 472-3677",
+    "license_id": "Onondaga County licensed master plumber business (WEP list)",
+    "blurb": "Syracuse family firm since 1955 (Basin St) doing residential and commercial plumbing and heating, a long track record on the city's older housing stock. On Onondaga County WEP's master list of licensed master plumber businesses (updated January 2025); Birdeye shows 4.8 from 19 reviews. Phone from the WEP list. Sources: https://onondaga.gov/wep/plumbingcontrol/plumbing-plumberlist/ and https://leoneplumbing.com/about-us/ and https://reviews.birdeye.com/d/plumbing/syracuse-ny/",
+    "tier": "standard",
+    "profile_url": "https://leoneplumbing.com/"
+  },
+  {
+    "city_slug": "syracuse-ny",
+    "service_slug": "plumbing",
+    "name": "Syracuse Plumbing LLC",
+    "areas_served": [
+      "Syracuse"
+    ],
+    "phone": "(315) 472-6299",
+    "license_id": "Onondaga County licensed master plumber business (WEP list)",
+    "blurb": "City-based shop (Burnet Ave) for drain cleaning, leaks, water heaters and emergency calls after a lake-effect freeze. On Onondaga County WEP's master list of licensed master plumber businesses (updated January 2025); Birdeye shows 4.6 from 59 reviews. Phone from the WEP list. Sources: https://onondaga.gov/wep/plumbingcontrol/plumbing-plumberlist/ and https://reviews.birdeye.com/syracuse-plumbing-llc-166444043860106",
+    "tier": "standard",
+    "profile_url": "https://reviews.birdeye.com/syracuse-plumbing-llc-166444043860106"
   }
 ]
