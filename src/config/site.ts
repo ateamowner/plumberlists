@@ -674,36 +674,6 @@ export const cities: City[] = [
       "Older downtown crawlspaces and long exposed runs to rural-edge farmhouses and well tanks freeze first after a Miami Valley polar-vortex night; later subdivision lots fail at hose bibs and unheated garage walls rather than a Miamisburg hillside, Springboro OH-73 village, or West Carrollton river-valley pattern.",
     utility: "AES Ohio",
   },
-  {
-    slug: "syracuse-ny",
-    name: "Syracuse",
-    state: "New York",
-    stateAbbr: "NY",
-    status: "live",
-    nearbySlugs: [],
-    setting:
-      "Syracuse sits in Central New York south of Lake Ontario, where lake-effect snow is the winter that matters. National Grid is the usual electric bill. Older Eastwood bungalows and Strathmore two-stories sit on city lots with unfinished basements, not a later Cicero or Clay subdivision slab. Winter freeze hits those basements and poorly insulated supply runs after a lake-effect week, then a polar-vortex night.",
-    housing:
-      "Eastwood bungalows and colonials and Strathmore historic two-stories typically have unfinished basements or short crawlspaces, galvanized or copper under older city lots, not a 1990s Onondaga County slab.",
-    winter:
-      "Lake-effect weeks from Lake Ontario keep crawlspaces and unheated basement corners cold; hose bibs and poorly insulated supply runs split after a polar-vortex night on that older Eastwood and Strathmore stock.",
-    utility: "National Grid",
-  },
-  {
-    slug: "toledo-oh",
-    name: "Toledo",
-    state: "Ohio",
-    stateAbbr: "OH",
-    status: "live",
-    nearbySlugs: [],
-    setting:
-      "Toledo sits on the Maumee River in northwest Ohio, with Lake Erie to the north. Toledo Edison (FirstEnergy) is the usual electric bill, not AES Ohio. The Old West End’s late-Victorian two-stories sit next to later suburban streets toward Sylvania and Perrysburg. Winter freeze hits unfinished Old West End basements first, then unheated garage walls on later lots.",
-    housing:
-      "Old West End Victorians and other pre-war city two-stories have unfinished basements and tight side yards; later northwest-Ohio suburban ranches and colonials sit on slabs or short crawlspaces with garage utility walls.",
-    winter:
-      "River-adjacent and Old West End basements freeze after a northwest-Ohio polar-vortex night; later suburban lots fail at hose bibs and unheated garage walls rather than a Victorian cellar pattern.",
-    utility: "Toledo Edison",
-  },
 ];
 
 export const liveCitySlugs = cities
@@ -749,6 +719,14 @@ export function servicePath(city: City | string, service: Service | string): str
   const citySlug = typeof city === "string" ? city : city.slug;
   const serviceSlug = typeof service === "string" ? service : service.slug;
   return withTrailingSlash(`/${citySlug}/${serviceSlug}`);
+}
+
+/** Pages with fewer verified listings than this are noindexed, dropped from the sitemap, and lose "Best" in the title (Anthony 2026-10-21). */
+export const MIN_INDEXABLE_LISTINGS = 3;
+
+/** Plain title/H1 for a page that does not yet have enough verified listings. */
+export function plainTitle(service: Service, city: City): string {
+  return `${serviceTitleNoun[service.slug] ?? service.name} in ${city.name}, ${city.stateAbbr}`;
 }
 
 export function lockedH1(service: Service, city: City): string {
