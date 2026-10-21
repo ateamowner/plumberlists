@@ -22,7 +22,7 @@ export function organizationId() {
   return `${siteOrigin()}/#organization`;
 }
 
-/** City/hub publisher. Organization, not LocalBusiness — this directory is not a plumber. */
+/** City/hub publisher. Organization, not LocalBusiness, this directory is not a plumber. */
 export function publisherLocalBusiness(city: City) {
   return {
     "@context": "https://schema.org",
@@ -60,7 +60,7 @@ export function faqPageSchema(faqs: Faq[]) {
   };
 }
 
-/** Homepage Organization — directory, not a field plumber. No invented address/phone. */
+/** Homepage Organization, directory, not a field plumber. No invented address/phone. */
 export function organizationSchema() {
   return {
     "@context": "https://schema.org",
@@ -76,7 +76,7 @@ export function organizationSchema() {
 }
 
 /**
- * Homepage WebSite. SearchAction is omitted — there is no on-site search URL.
+ * Homepage WebSite. SearchAction is omitted, there is no on-site search URL.
  * Publisher points at Organization via @id.
  */
 export function websiteSchema() {
@@ -125,7 +125,7 @@ export function servicePageHeadline(city: City, service: Service) {
   return lockedH1(service, city);
 }
 
-/** ItemList of real listed plumbers — never AggregateRating. Empty → omit. */
+/** ItemList of real listed plumbers, never AggregateRating. Empty → omit. */
 export function listingsItemListSchema(
   city: City,
   service: Service,

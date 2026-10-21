@@ -6,7 +6,7 @@ import { shareMeta } from "@/lib/share-meta";
 
 const title = `For Plumbing Companies: Featured Listings on ${site.name}`;
 const description =
-  `How contractors buy Featured — paid placement on ${site.name}. $99/month self-serve. Not exclusive. No lead-count SLA. No credit card on the homeowner form.`;
+  `How contractors buy Featured (paid placement) on ${site.name}. $99/month self-serve. Not exclusive. No lead-count SLA. No credit card on the homeowner form.`;
 
 export const metadata: Metadata = {
   title,
@@ -23,7 +23,7 @@ export default function ForProsPage() {
       </h1>
       <Disclosure className="mt-4" />
       <p className="mt-4 text-lg leading-8">
-        {site.name} sells Featured — paid placement on city × service URLs.
+        {site.name} sells Featured (paid placement) on city × service URLs.
         Homeowners see a directory, not a fake contractor homepage. You are not
         buying a website. You are buying a labeled place on a page people
         already use to request a callback.
@@ -33,9 +33,9 @@ export default function ForProsPage() {
         What you can buy
       </h2>
       <div className="mt-4 rounded-lg border border-border bg-card p-4">
-        <p className="font-semibold">Featured — paid placement</p>
+        <p className="font-semibold">Featured (paid placement)</p>
         <p className="mt-1 text-sm leading-6 text-muted-foreground">
-          A paid upgrade. It is visually labeled “Featured — paid placement”
+          A paid upgrade. It is visually labeled “Featured (paid placement)”
           so homeowners can tell it is an ad. Featured sits above standard.
           This is not exclusive. There is no exclusive SLA and no lead-count
           guarantee.
@@ -47,7 +47,7 @@ export default function ForProsPage() {
           href={site.featuredCheckoutUrl}
           className="mt-3 inline-flex h-11 items-center justify-center rounded-lg bg-primary px-4 text-base font-medium text-primary-foreground hover:bg-primary/90"
         >
-          Subscribe — $99/month
+          Subscribe, $99/month
         </a>
       </div>
 
@@ -62,19 +62,17 @@ export default function ForProsPage() {
         field on {site.name}.
       </p>
       <p className="mt-3 leading-7">
-        Every quote posts to Formsubmit at {site.leadsEmail}. We persist every
-        request. If a listing is live for that URL and that company is on the
-        approved payer list, we can route it. If the URL is empty — as it is
-        today — we still take the request and hold it. We do not invent a
-        contractor to fill the gap, and we do not send a lead to anyone who is
-        not on the approved list.
+        Every quote request posts to Formsubmit at {site.leadsEmail}, and we
+        review each one. Companies listed on the page a homeowner used are the
+        first we contact about that job. We never invent a contractor to fill a
+        page, and we never send a lead to a company we have not checked.
       </p>
 
       <h2 className="mt-10 font-heading text-2xl font-semibold">Pricing</h2>
       <p className="mt-3 leading-7">
-        Featured — paid placement is $99/month, self-serve.{" "}
+        Featured (paid placement) is $99/month, self-serve.{" "}
         <a href={site.featuredCheckoutUrl} className="underline underline-offset-2">
-          Subscribe — $99/month
+          Subscribe, $99/month
         </a>
         . Checkout is the live Stripe Payment Link for this product; we do not
         take a card number on this site. Featured is not exclusive and has no

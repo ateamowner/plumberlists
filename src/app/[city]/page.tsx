@@ -89,10 +89,10 @@ export default async function CityHubPage({
             {site.name} is a directory, not a plumber. Paid spots are labeled.
           </p>
           <p className="mt-4 text-base leading-7">
-            This is the {city.name} index on {site.name} — a directory, not a
+            This is the {city.name} index on {site.name}, a directory, not a
             contractor website. Open a service page for listings (when we have
             them) and a quote form. Featured spots are paid and labeled. Until
-            a listing is live, we still take the request and hold it.
+            a listing is live, we still take the request and follow up.
           </p>
           <p className="mt-3 text-base leading-7">{city.setting}</p>
           <p className="mt-3 text-base leading-7">
@@ -118,7 +118,7 @@ export default async function CityHubPage({
                   className="block rounded-lg border border-border bg-card px-4 py-3 hover:border-primary"
                 >
                   <span className="font-medium">
-                    Best {service.name} in {city.name} — {site.year}
+                    Best {service.name} in {city.name}, {site.year}
                   </span>
                   <span className="mt-1 block text-sm text-muted-foreground">
                     {service.blurb}

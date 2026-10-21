@@ -73,7 +73,7 @@ export default function RootLayout({
     >
       <head>
         {/*
-          Webmaster verification placeholders — do not invent codes.
+          Webmaster verification placeholders, do not invent codes.
           Bing Webmaster Tools (msvalidate.01): Anthony must add
           plumberlists.com in Bing Webmaster Tools, then replace this
           comment with <meta name="msvalidate.01" content="PASTE_CODE" />.

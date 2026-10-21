@@ -87,10 +87,10 @@ export default function HomePage() {
         </h2>
         <ol className="mt-4 grid gap-3 md:grid-cols-2">
           {[
-            "A locked H1: Best {Service} in {City} — 2026",
+            "A locked H1: Best {Service} in {City}, 2026",
             "A disclosure that this is a directory, paid spots are labeled, and we are not a plumber",
             "How to choose: license, local jobs, written scope, reviews with addresses, who shows up, warranty, emergency vs planned",
-            "National cost ranges cited to Angi — not a local survey",
+            "National cost ranges cited to Angi, not a local survey",
             "Five FAQs that match the on-page questions in schema",
             "Listings from a data file, or an empty state with the quote form",
           ].map((item) => (

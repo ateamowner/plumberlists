@@ -12,7 +12,7 @@ import { uniqueLocalCopy } from "@/lib/local-copy";
 export type Faq = { question: string; answer: string };
 
 export function introParagraphs(city: City, service: Service): string[] {
-  const directory = `${site.name} is a directory of plumbers — not one shop and not a contractor website. Featured — paid placement spots on this page are paid and labeled. If the listings block is empty, use the form anyway. We take the request and hold it until a company on the approved list can take it.`;
+  const directory = `${site.name} is a directory of local plumbers, not one shop. Call a listed company directly, or send the short form and we will follow up, usually within one business day. Featured (paid placement) spots are labeled.`;
 
   return [
     `This page is ${site.name}'s ${city.name}, ${city.stateAbbr} listing for ${service.name.toLowerCase()}. ${directory}`,
@@ -29,7 +29,7 @@ export function howToChoose(
   items: { title: string; body: string }[];
 } {
   return {
-    lead: `How to choose a ${service.name.toLowerCase()} company in ${city.name} — the same checks apply whether you found a listing here or a truck on the street.`,
+    lead: `How to choose a ${service.name.toLowerCase()} company in ${city.name}, the same checks apply whether you found a listing here or a truck on the street.`,
     items: [
       {
         title: "License",
@@ -37,7 +37,7 @@ export function howToChoose(
       },
       {
         title: "Local jobs",
-        body: `Ask for recent addresses in ${city.name} or nearby towns — not a generic photo set. ${city.housing} Access changes the job.`,
+        body: `Ask for recent addresses in ${city.name} or nearby towns, not a generic photo set. ${city.housing} Access changes the job.`,
       },
       {
         title: "Written scope",
@@ -91,11 +91,11 @@ export function faqs(city: City, service: Service): Faq[] {
   return [
     {
       question: `Is ${site.name} a ${service.name.toLowerCase()} company in ${city.name}?`,
-      answer: `No. ${site.name} is a directory and lead-routing site. We do not pull permits, open walls, or send a truck. We are not a plumber. Featured — paid placement spots, when present, are paid and labeled.`,
+      answer: `No. ${site.name} is a directory. We do not pull permits, open walls, or send a truck. We are not a plumber. Featured (paid placement) spots, when present, are paid and labeled.`,
     },
     {
       question: `Why are some listings marked Featured?`,
-      answer: `Those are paid placements. Featured — paid placement is a labeled upgrade so homeowners can tell it is an ad. Standard listings, when we have them, are not marked as paid upgrades. We do not invent companies to fill empty slots.`,
+      answer: `Those are paid placements. Featured (paid placement) is a labeled upgrade so homeowners can tell it is an ad. Standard listings, when we have them, are not marked as paid upgrades. We do not invent companies to fill empty slots.`,
     },
     {
       question: `What does ${service.name.toLowerCase()} cost in ${city.name}?`,
@@ -103,7 +103,7 @@ export function faqs(city: City, service: Service): Faq[] {
     },
     {
       question: `What happens after I submit the form on this ${city.name} page?`,
-      answer: `We store the request at the operator inbox (${site.leadsEmail}) and hold it. If a listing is live for this URL and that company is on the approved payer list, we can route it. There is no payer list in this repo yet, so the request stays with the operator. You should get a phone call from a local company when one is assigned — not from a ${site.name} plumber. We still take the request if the listings block is empty.`,
+      answer: `Your request goes to ${site.leadsEmail}. We review it, usually within one business day, and follow up about next steps. When a local company takes the job, that company calls you directly, not a ${site.name} plumber. You can also call any company listed on this page yourself.`,
     },
     {
       question:
@@ -112,7 +112,7 @@ export function faqs(city: City, service: Service): Faq[] {
           : `Which towns near ${city.name} have their own ${site.name} pages?`,
       answer:
         nearbyNames.length > 0
-          ? `Yes — we keep a separate URL for nearby cities so you can open a real page instead of a comma list. From ${city.name} that includes ${joinAnd(nearbyNames)}. Each of those pages has its own quote form.`
+          ? `Yes, we keep a separate URL for nearby cities so you can open a real page instead of a comma list. From ${city.name} that includes ${joinAnd(nearbyNames)}. Each of those pages has its own quote form.`
           : `We publish one URL per city. If you do not see your town, send the form with your ZIP and we will hold the request.`,
     },
   ];
@@ -122,7 +122,7 @@ export function hubFaqs(city: City): Faq[] {
   return [
     {
       question: `What is the ${city.name} ${site.name} hub?`,
-      answer: `This is the city index — not a contractor homepage. From here you can open ${city.name} pages for plumbing, drain cleaning, water heater, and emergency plumbing.`,
+      answer: `This is the city index, not a contractor homepage. From here you can open ${city.name} pages for plumbing, drain cleaning, water heater, and emergency plumbing.`,
     },
     {
       question: `Does ${site.name} do plumbing in ${city.name}?`,
@@ -130,7 +130,7 @@ export function hubFaqs(city: City): Faq[] {
     },
     {
       question: `Are featured listings ads?`,
-      answer: `Featured — paid placement spots are paid and labeled on the service pages. We do not invent company names to fill a page.`,
+      answer: `Featured (paid placement) spots are paid and labeled on the service pages. We do not invent company names to fill a page.`,
     },
     {
       question: `Where is the quote form?`,
@@ -138,26 +138,26 @@ export function hubFaqs(city: City): Faq[] {
     },
     {
       question: `How do contractors get on this ${city.name} page?`,
-      answer: `See the For Pros page. Companies can buy Featured — paid placement ($99/month, self-serve). That is a labeled ad. There is no lead-count SLA. There is no credit-card form on this site.`,
+      answer: `See the For Pros page. Companies can buy Featured (paid placement) ($99/month, self-serve). That is a labeled ad. There is no lead-count SLA. There is no credit-card form on this site.`,
     },
   ];
 }
 
-/** Homepage FAQs — visible copy and JSON-LD must match verbatim. */
+/** Homepage FAQs, visible copy and JSON-LD must match verbatim. */
 export function homeFaqs(): Faq[] {
   return [
     {
       question: `Is ${site.name} a plumbing company?`,
-      answer: `No. ${site.name} is a lead-generation directory. We do not send a truck, pull permits, or invent company names. Featured — paid placement spots are paid and labeled.`,
+      answer: `No. ${site.name} is a directory. We do not send a truck, pull permits, or invent company names. Featured (paid placement) spots are paid and labeled.`,
     },
     {
       question: "Why are some listings marked Featured?",
       answer:
-        "Featured — paid placement is a labeled paid upgrade so homeowners can tell it is an ad. It is not exclusive and has no lead-count guarantee.",
+        "Featured (paid placement) is a labeled paid upgrade so homeowners can tell it is an ad. It is not exclusive and has no lead-count guarantee.",
     },
     {
       question: "What happens after I submit the form?",
-      answer: `We store the request at ${site.leadsEmail} and hold it. If a listing is live for that URL and the company is on the approved payer list, we can route it. If the URL is empty, we still take the request and hold it. We do not invent a contractor to fill the gap.`,
+      answer: `We store the request at ${site.leadsEmail} and review it. We only pass a request to a local company we have checked, and we never invent a contractor to fill a page.`,
     },
     {
       question: "Do you invent star ratings or city-specific prices?",
@@ -167,7 +167,7 @@ export function homeFaqs(): Faq[] {
     {
       question: "Which cities do you cover?",
       answer:
-        "Dayton / Miami Valley first — each city has its own URL so internal links do not 404. Open a city page from the homepage list for that market’s form.",
+        "Dayton / Miami Valley first, each city has its own URL so internal links do not 404. Open a city page from the homepage list for that market’s form.",
     },
   ];
 }

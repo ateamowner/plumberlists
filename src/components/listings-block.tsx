@@ -3,8 +3,8 @@ import { site } from "@/config/site";
 import type { Listing } from "@/types/listing";
 
 const TIER_LABEL: Record<Listing["tier"], string> = {
-  featured: "Featured — paid placement",
-  exclusive: "Exclusive — paid placement",
+  featured: "Featured (paid placement)",
+  exclusive: "Exclusive (paid placement)",
   standard: "Listing",
 };
 
@@ -16,7 +16,7 @@ export function ListingsBlock({ listings }: { listings: Listing[] }) {
       </h2>
       <p className="mt-2 text-sm text-muted-foreground">
         {site.name} does not invent company names, phone numbers, or licenses.
-        Featured — paid placement spots are paid and labeled.
+        Featured (paid placement) spots are paid and labeled.
       </p>
 
       {listings.length === 0 ? (

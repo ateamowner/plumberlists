@@ -151,8 +151,8 @@ export function QuoteForm({ city, service, listingId, compact }: QuoteFormProps)
         Request a callback
       </h2>
       <p className="mt-1 text-sm text-muted-foreground">
-        No credit card. We take the request and hold it until a listed company
-        can take it.
+        No credit card, no obligation. We review every request and follow up,
+        usually within one business day.
       </p>
 
       <ol

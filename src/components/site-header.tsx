@@ -13,7 +13,7 @@ export function SiteHeader() {
               {site.name}
             </p>
             <p className="hidden text-xs text-muted-foreground sm:block sm:text-sm">
-              Plumber directory — not a plumber
+              Plumber directory, not a plumber
             </p>
           </Link>
           <nav

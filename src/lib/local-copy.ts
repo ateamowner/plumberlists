@@ -2,9 +2,9 @@ import type { City, Service } from "@/config/site";
 
 const copy: Record<string, string> = {
   "dayton-oh:plumbing":
-    "A Dayton plumbing request is usually an older Miami Valley house: tight lots, an unfinished basement, and a mix of galvanized, copper, and later PVC. AES Ohio is the electric bill, not the plumber — but a winter outage is when exposed basement lines freeze. We do not publish a Dayton-only price.",
+    "A Dayton plumbing request is usually an older Miami Valley house: tight lots, an unfinished basement, and a mix of galvanized, copper, and later PVC. AES Ohio is the electric bill, not the plumber, but a winter outage is when exposed basement lines freeze. We do not publish a Dayton-only price.",
   "dayton-oh:drain-cleaning":
-    "Dayton drain jobs often start in pre-war and postwar laterals under older city lots — clay, cast iron, or a later patch. Roots and grease in alley-accessible mains show up more than a brand-new subdivision clog. This page is not a city survey of drain prices.",
+    "Dayton drain jobs often start in pre-war and postwar laterals under older city lots, clay, cast iron, or a later patch. Roots and grease in alley-accessible mains show up more than a brand-new subdivision clog. This page is not a city survey of drain prices.",
   "dayton-oh:water-heater":
     "Most Dayton tanks sit on a basement pad. Fuel type (gas vs electric on an AES Ohio bill) and whether the vent and drain pan still make sense after a freeze-thaw week belong in the first note. We will not invent a Dayton water-heater dollar figure.",
   "dayton-oh:emergency-plumbing":
@@ -20,18 +20,18 @@ const copy: Record<string, string> = {
     "A Kettering emergency after a hard freeze is often a garage-wall line or a hose bib that split. Mid-century ranches lose heat in those corners first. Mark the form emergency if water is running or the house has no water.",
 
   "beavercreek-oh:plumbing":
-    "Beavercreek lots near Wright-Patterson are wider than Dayton city lots, but AES Ohio bills and winter freeze still apply. Newer subdivisions hide older laterals on some streets. Longer supply runs to extra baths are the local pattern — not a Beavercreek price we invented.",
+    "Beavercreek lots near Wright-Patterson are wider than Dayton city lots, but AES Ohio bills and winter freeze still apply. Newer subdivisions hide older laterals on some streets. Longer supply runs to extra baths are the local pattern, not a Beavercreek price we invented.",
   "beavercreek-oh:drain-cleaning":
     "Beavercreek drain work is often a subdivision main or a kitchen line in a house with more fixtures than a Huber ranch. HOA-front yards change where a cleanout can be opened. National published ranges are the only dollars on this page.",
   "beavercreek-oh:water-heater":
     "Beavercreek water heaters sit in basements, garages, or utility rooms on AES Ohio. Extra bathrooms change recovery more than a city-lot bungalow. We cite a national range only; we will not invent a Wright-Patt-adjacent price.",
   "beavercreek-oh:emergency-plumbing":
-    "Emergency plumbing in Beavercreek after a polar-vortex night is still burst hose bibs and unheated additions — wider lots do not skip freeze. If a line is open or sewage is up, say emergency on the form.",
+    "Emergency plumbing in Beavercreek after a polar-vortex night is still burst hose bibs and unheated additions, wider lots do not skip freeze. If a line is open or sewage is up, say emergency on the form.",
 
   "centerville-oh:plumbing":
     "Centerville colonials in the Washington Township overlap have more bathrooms and longer copper or PEX runs than a Kettering ranch. AES Ohio is typical. Ice-season slab and crawlspace leaks belong in the first visit notes. No Centerville-only dollar amount lives here.",
   "centerville-oh:drain-cleaning":
-    "A Centerville two-story can back up a hall bath while the kitchen still drains — longer runs and more fixtures. Historic-core access is tighter than a later township street. We do not publish a local drain survey.",
+    "A Centerville two-story can back up a hall bath while the kitchen still drains, longer runs and more fixtures. Historic-core access is tighter than a later township street. We do not publish a local drain survey.",
   "centerville-oh:water-heater":
     "More fixtures in a Centerville colonial change tank size questions. Gas vs electric (AES Ohio) and whether the current pad and vent survive an ice-season leak are the first filters. National ranges only.",
   "centerville-oh:emergency-plumbing":
@@ -44,7 +44,7 @@ const copy: Record<string, string> = {
   "huber-heights-oh:water-heater":
     "Many Huber tanks sit in a garage or utility alcove that gets cold. Electric units sit on an AES Ohio circuit; gas needs a vent that still drafts. A one-for-one swap is a different visit than a fuel change. National ranges only.",
   "huber-heights-oh:emergency-plumbing":
-    "A Huber Heights emergency in winter is often the garage-wall supply or a vacant ranch that lost heat. If water is spraying or the house has none, use emergency on the form — not a planned faucet swap.",
+    "A Huber Heights emergency in winter is often the garage-wall supply or a vacant ranch that lost heat. If water is spraying or the house has none, use emergency on the form, not a planned faucet swap.",
 
   "fairborn-oh:plumbing":
     "Fairborn plumbing splits between older downtown houses and military-adjacent housing next to Wright-Patterson. AES Ohio is typical. Crawlspaces that were never sealed are the local access problem. We do not invent a Fairborn price.",
