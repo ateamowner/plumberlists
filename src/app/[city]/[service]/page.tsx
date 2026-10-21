@@ -31,6 +31,7 @@ import {
 import { getListings } from "@/lib/listings";
 import {
   faqPageSchema,
+  listingsItemListSchema,
   publisherLocalBusiness,
   servicePageBreadcrumbs,
 } from "@/lib/schema";
@@ -96,7 +97,8 @@ export default async function ServicePage({
           publisherLocalBusiness(city),
           faqPageSchema(questions),
           servicePageBreadcrumbs(city, service),
-        ]}
+          listingsItemListSchema(city, service, listings),
+        ].filter(Boolean)}
       />
 
       <Breadcrumbs
