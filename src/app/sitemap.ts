@@ -8,6 +8,8 @@ import {
   withTrailingSlash,
 } from "@/config/site";
 
+import { getListings } from "@/lib/listings";
+import { MIN_INDEXABLE_LISTINGS } from "@/config/site";
 import {
   cityPageLastmod,
   homePageLastmod,
@@ -38,7 +40,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "weekly" as const,
       priority: city.status === "live" ? 0.8 : 0.4,
     },
-    ...services.map((service) => ({
+    ...services
+      .filter(
+        (service) =>
+          getListings(city.slug, service.slug).length >= MIN_INDEXABLE_LISTINGS
+      )
+      .map((service) => ({
       url: `${site.url}${servicePath(city, service)}`,
       lastModified: servicePageLastmod(city.slug, service.slug),
       changeFrequency: "weekly" as const,
