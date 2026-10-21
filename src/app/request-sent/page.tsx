@@ -4,7 +4,7 @@ import { Disclosure } from "@/components/disclosure";
 import { site } from "@/config/site";
 
 export const metadata: Metadata = {
-  title: `Request sent — ${site.name}`,
+  title: `Request sent, ${site.name}`,
   robots: { index: false, follow: false },
   alternates: { canonical: "/request-sent/" },
 };
@@ -13,13 +13,13 @@ export default function RequestSentPage() {
   return (
     <article className="mx-auto w-full max-w-xl px-4 py-16 sm:px-6">
       <h1 className="font-heading text-3xl font-semibold tracking-tight">
-        Request sent. We received it and will hold it.
+        Request sent. We will follow up, usually within one business day.
       </h1>
       <p className="mt-4 leading-7 text-muted-foreground">
         {site.name} is a directory, not a plumber. Your request went to{" "}
-        {site.leadsEmail}. Until a listing is live and that company is on the
-        approved payer list, we hold the request. A local company will call you
-        when one is assigned — not a {site.name} crew.
+        {site.leadsEmail}. We review every request, usually within one business
+        day, and follow up with next steps. When a local company takes the job,
+        that company calls you directly, not a {site.name} crew.
       </p>
       <Disclosure className="mt-4" />
       <p className="mt-6">

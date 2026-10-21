@@ -15,7 +15,7 @@ export function ForProsBand() {
         Featured is a labeled paid spot
       </h2>
       <p className="mt-2 max-w-2xl text-base leading-7 text-muted-foreground">
-        Homeowners use the quote form. Companies buy Featured — paid placement
+        Homeowners use the quote form. Companies buy Featured (paid placement)
         on a city page. This is not a fake shop site and it is not exclusive.
         Checkout is Stripe. The homeowner form never takes a card.
       </p>
@@ -24,7 +24,7 @@ export function ForProsBand() {
           href={site.featuredCheckoutUrl}
           className="type-button inline-flex h-11 items-center justify-center rounded-lg bg-primary px-4 text-primary-foreground hover:bg-primary/90"
         >
-          Featured — $99/month
+          Featured ($99/month)
         </a>
         <Link
           href="/for-pros/"

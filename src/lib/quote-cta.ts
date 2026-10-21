@@ -18,7 +18,7 @@ export function quoteCta(pathname: string | null): {
   if (path === "/for-pros") {
     return {
       href: site.featuredCheckoutUrl,
-      label: "Subscribe — $99/month",
+      label: "Subscribe, $99/month",
     };
   }
 

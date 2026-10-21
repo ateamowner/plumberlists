@@ -13,7 +13,7 @@ function normalizePath(pathname: string): string {
 }
 
 /**
- * Mobile conversion bar — same homeowner pattern as hvaclists / roofinglists /
+ * Mobile conversion bar, same homeowner pattern as hvaclists / roofinglists /
  * solarlists. Visible under 768px only. Hides on For Pros and Privacy, when
  * Send request is at least 40% in view, or when focus is inside the form.
  * Observe the submit button (not the tall #quote card) so the bar stays up

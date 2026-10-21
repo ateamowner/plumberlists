@@ -1,11 +1,17 @@
 import type { Metadata } from "next";
 import { Disclosure } from "@/components/disclosure";
 import { site } from "@/config/site";
+import { shareMeta } from "@/lib/share-meta";
+
+const title = `Privacy Policy, ${site.name}`;
+const description =
+  `How ${site.name} collects quote-form data and holds it for approved plumbing companies.`;
 
 export const metadata: Metadata = {
-  title: `Privacy — ${site.name}`,
-  description: `How ${site.name} collects quote-form data and holds it for approved plumbing companies.`,
+  title,
+  description,
   alternates: { canonical: "/privacy/" },
+  ...shareMeta(title, description, "/privacy/"),
 };
 
 export default function PrivacyPage() {
@@ -18,8 +24,8 @@ export default function PrivacyPage() {
       <Disclosure className="mt-4" />
       <p className="mt-4 leading-7">
         {site.name} ({site.domain}) is a directory. We collect information so
-        we can hold a quote request and, when a company is on the approved
-        payer list, route it. We are not a plumber.
+        we can review a quote request and pass it to a local company that can
+        help. We are not a plumber.
       </p>
 
       <h2 className="mt-8 font-heading text-2xl font-semibold">What we collect</h2>
@@ -37,9 +43,9 @@ export default function PrivacyPage() {
         <a href={`mailto:${site.leadsEmail}`} className="underline">
           {site.leadsEmail}
         </a>
-        . We hold every request. We do not send a lead to a contractor who is
-        not on the approved payer list. There is no payer list in this
-        repository, so the inbox is the operator address only.
+        . We review every request. We only share a request with a local company
+        we have checked, so that company can contact you about the job. We do
+        not sell your information.
       </p>
 
       <h2 className="mt-8 font-heading text-2xl font-semibold">SMS</h2>
