@@ -80,7 +80,7 @@ export default async function CityHubPage({
         <header id="hero" className="lg:col-start-1">
           <p className="text-sm font-medium text-primary">{city.state}</p>
           <h1 className="type-h1 mt-2 font-heading font-semibold tracking-tight">
-            Plumbing in {city.name}, {city.stateAbbr}
+            {`Plumbing in ${city.name}, ${city.stateAbbr}`}
           </h1>
           <p className="mt-3 rounded-md border border-border bg-muted/60 px-3 py-2 text-sm">
             {site.name} is a directory, not a plumber. Paid spots are labeled.
@@ -105,7 +105,7 @@ export default async function CityHubPage({
         <div className="lg:col-start-1">
           <TrustStrip />
           <h2 className="mt-8 font-heading text-xl font-semibold">
-            Services in {city.name}
+            {`Services in ${city.name}`}
           </h2>
           <ul className="mt-3 grid gap-3">
             {services.map((service) => (
