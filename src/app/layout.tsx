@@ -5,6 +5,7 @@ import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
 import { site } from "@/config/site";
 import "./globals.css";
+import { shareImage } from "@/lib/share-meta";
 
 const sans = Inter({
   subsets: ["latin"],
@@ -21,11 +22,21 @@ const serif = Source_Serif_4({
 export const metadata: Metadata = {
   metadataBase: new URL(site.url),
   title: {
-    default: `${site.name} — plumber directory`,
+    default: `Best Plumbers in Dayton & the Miami Valley | ${site.name}`,
     template: `%s`,
   },
   description: site.description,
   applicationName: site.name,
+  openGraph: {
+    siteName: site.name,
+    type: "website",
+    locale: "en_US",
+    images: [shareImage],
+  },
+  twitter: {
+    card: "summary_large_image",
+    images: [shareImage.url],
+  },
 };
 
 const themeVars = Object.entries({

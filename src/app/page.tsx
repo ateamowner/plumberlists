@@ -18,17 +18,17 @@ import {
   organizationSchema,
   websiteSchema,
 } from "@/lib/schema";
+import { shareMeta } from "@/lib/share-meta";
+
+const title = `Best Plumbers in Dayton & the Miami Valley | ${site.name}`;
+const description =
+  site.description;
 
 export const metadata: Metadata = {
-  title: `${site.name} — plumber directory`,
-  description: site.description,
+  title,
+  description,
   alternates: { canonical: "/" },
-  openGraph: {
-    description: site.description,
-  },
-  twitter: {
-    description: site.description,
-  },
+  ...shareMeta(title, description, "/"),
 };
 
 export default function HomePage() {
