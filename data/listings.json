@@ -1951,5 +1951,1682 @@
     "blurb": "South Dayton shop with City of Dayton plumbing registration Lic No 009942 (list dated 6/4/2026). Business phone from schottplumbing.com. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://schottplumbing.com/",
     "tier": "standard",
     "profile_url": "https://schottplumbing.com/"
+  },
+  {
+    "city_slug": "beavercreek-oh",
+    "service_slug": "water-heater",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Beavercreek"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Beavercreek: it has a Beavercreek service page, and the site offers water heater repair and replacement. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/beavercreek-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/beavercreek-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "beavercreek-oh",
+    "service_slug": "water-heater",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Beavercreek"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Beavercreek: it has a Beavercreek service page, and the site offers water heater repair and replacement. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/dayton/geo/beavercreek/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/dayton/geo/beavercreek/"
+  },
+  {
+    "city_slug": "beavercreek-oh",
+    "service_slug": "water-heater",
+    "name": "Evergreen Plumbing & Drains",
+    "areas_served": [
+      "Beavercreek"
+    ],
+    "phone": "(937) 609-5256",
+    "license_id": "City of Dayton Plumbing Reg. 011228; Ohio PL.50860",
+    "blurb": "South-suburb plumbing and drain company (Senate Dr, Washington Twp). Covers Beavercreek: it has a Beavercreek service page, and the site offers water heater repair and replacement. On the City of Dayton Registered Plumbing Contractors list (Lic No 011228, active as of 6/4/2026); site lists Ohio license PL.50860. Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://egpohio.com/service-area/beavercreek-oh",
+    "tier": "standard",
+    "profile_url": "https://egpohio.com/service-area/beavercreek-oh"
+  },
+  {
+    "city_slug": "beavercreek-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Beavercreek"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Beavercreek: it has a Beavercreek service page, and the site offers emergency plumbing service. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/beavercreek-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/beavercreek-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "beavercreek-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Beavercreek"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Beavercreek: it has a Beavercreek service page, and the site offers emergency plumbing service. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/dayton/geo/beavercreek/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/dayton/geo/beavercreek/"
+  },
+  {
+    "city_slug": "beavercreek-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Evergreen Plumbing & Drains",
+    "areas_served": [
+      "Beavercreek"
+    ],
+    "phone": "(937) 609-5256",
+    "license_id": "City of Dayton Plumbing Reg. 011228; Ohio PL.50860",
+    "blurb": "South-suburb plumbing and drain company (Senate Dr, Washington Twp). Covers Beavercreek: it has a Beavercreek service page, and the site offers emergency plumbing service. On the City of Dayton Registered Plumbing Contractors list (Lic No 011228, active as of 6/4/2026); site lists Ohio license PL.50860. Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://egpohio.com/service-area/beavercreek-oh",
+    "tier": "standard",
+    "profile_url": "https://egpohio.com/service-area/beavercreek-oh"
+  },
+  {
+    "city_slug": "bellbrook-oh",
+    "service_slug": "drain-cleaning",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Bellbrook"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Bellbrook: it has a Bellbrook service page, and the site offers drain cleaning. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/bellbrook-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/bellbrook-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "bellbrook-oh",
+    "service_slug": "drain-cleaning",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Bellbrook"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Bellbrook: it has a Bellbrook service page, and the site offers drain cleaning. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/locations/ohio/bellbrook/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/locations/ohio/bellbrook/"
+  },
+  {
+    "city_slug": "bellbrook-oh",
+    "service_slug": "drain-cleaning",
+    "name": "Evergreen Plumbing & Drains",
+    "areas_served": [
+      "Bellbrook"
+    ],
+    "phone": "(937) 609-5256",
+    "license_id": "City of Dayton Plumbing Reg. 011228; Ohio PL.50860",
+    "blurb": "South-suburb plumbing and drain company (Senate Dr, Washington Twp). Covers Bellbrook: it has a Bellbrook service page, and the site offers drain cleaning. On the City of Dayton Registered Plumbing Contractors list (Lic No 011228, active as of 6/4/2026); site lists Ohio license PL.50860. Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://egpohio.com/service-area/bellbrook-oh",
+    "tier": "standard",
+    "profile_url": "https://egpohio.com/service-area/bellbrook-oh"
+  },
+  {
+    "city_slug": "bellbrook-oh",
+    "service_slug": "water-heater",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Bellbrook"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Bellbrook: it has a Bellbrook service page, and the site offers water heater repair and replacement. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/bellbrook-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/bellbrook-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "bellbrook-oh",
+    "service_slug": "water-heater",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Bellbrook"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Bellbrook: it has a Bellbrook service page, and the site offers water heater repair and replacement. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/locations/ohio/bellbrook/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/locations/ohio/bellbrook/"
+  },
+  {
+    "city_slug": "bellbrook-oh",
+    "service_slug": "water-heater",
+    "name": "Evergreen Plumbing & Drains",
+    "areas_served": [
+      "Bellbrook"
+    ],
+    "phone": "(937) 609-5256",
+    "license_id": "City of Dayton Plumbing Reg. 011228; Ohio PL.50860",
+    "blurb": "South-suburb plumbing and drain company (Senate Dr, Washington Twp). Covers Bellbrook: it has a Bellbrook service page, and the site offers water heater repair and replacement. On the City of Dayton Registered Plumbing Contractors list (Lic No 011228, active as of 6/4/2026); site lists Ohio license PL.50860. Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://egpohio.com/service-area/bellbrook-oh",
+    "tier": "standard",
+    "profile_url": "https://egpohio.com/service-area/bellbrook-oh"
+  },
+  {
+    "city_slug": "bellbrook-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Bellbrook"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Bellbrook: it has a Bellbrook service page, and the site offers emergency plumbing service. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/bellbrook-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/bellbrook-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "bellbrook-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Bellbrook"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Bellbrook: it has a Bellbrook service page, and the site offers emergency plumbing service. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/locations/ohio/bellbrook/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/locations/ohio/bellbrook/"
+  },
+  {
+    "city_slug": "bellbrook-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Evergreen Plumbing & Drains",
+    "areas_served": [
+      "Bellbrook"
+    ],
+    "phone": "(937) 609-5256",
+    "license_id": "City of Dayton Plumbing Reg. 011228; Ohio PL.50860",
+    "blurb": "South-suburb plumbing and drain company (Senate Dr, Washington Twp). Covers Bellbrook: it has a Bellbrook service page, and the site offers emergency plumbing service. On the City of Dayton Registered Plumbing Contractors list (Lic No 011228, active as of 6/4/2026); site lists Ohio license PL.50860. Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://egpohio.com/service-area/bellbrook-oh",
+    "tier": "standard",
+    "profile_url": "https://egpohio.com/service-area/bellbrook-oh"
+  },
+  {
+    "city_slug": "brookville-oh",
+    "service_slug": "drain-cleaning",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Brookville"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Brookville: it has a Brookville service page, and the site offers drain cleaning. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/brookville-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/brookville-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "brookville-oh",
+    "service_slug": "drain-cleaning",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Brookville"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Brookville: it has a Brookville service page, and the site offers drain cleaning. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/locations/ohio/brookville/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/locations/ohio/brookville/"
+  },
+  {
+    "city_slug": "brookville-oh",
+    "service_slug": "drain-cleaning",
+    "name": "The Right Brothers Plumbing & Drains (All Drain Ohio, LLC)",
+    "areas_served": [
+      "Brookville"
+    ],
+    "phone": "(937) 884-3540",
+    "license_id": "City of Dayton Plumbing Reg. 010637 (All Drain Ohio, LLC, same 155 Haas Dr address)",
+    "blurb": "Greater Dayton plumbing and drain company (155 Haas Dr, Englewood). Covers Brookville: its service-area list names Brookville, and the site offers drain cleaning. Same address as All Drain Ohio, LLC on the City of Dayton Registered Plumbing Contractors list (Lic No 010637, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://therightbrothers.com/",
+    "tier": "standard",
+    "profile_url": "https://therightbrothers.com/"
+  },
+  {
+    "city_slug": "brookville-oh",
+    "service_slug": "water-heater",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Brookville"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Brookville: it has a Brookville service page, and the site offers water heater repair and replacement. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/brookville-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/brookville-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "brookville-oh",
+    "service_slug": "water-heater",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Brookville"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Brookville: it has a Brookville service page, and the site offers water heater repair and replacement. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/locations/ohio/brookville/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/locations/ohio/brookville/"
+  },
+  {
+    "city_slug": "brookville-oh",
+    "service_slug": "water-heater",
+    "name": "The Right Brothers Plumbing & Drains (All Drain Ohio, LLC)",
+    "areas_served": [
+      "Brookville"
+    ],
+    "phone": "(937) 884-3540",
+    "license_id": "City of Dayton Plumbing Reg. 010637 (All Drain Ohio, LLC, same 155 Haas Dr address)",
+    "blurb": "Greater Dayton plumbing and drain company (155 Haas Dr, Englewood). Covers Brookville: its service-area list names Brookville, and the site offers water heater repair and replacement. Same address as All Drain Ohio, LLC on the City of Dayton Registered Plumbing Contractors list (Lic No 010637, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://therightbrothers.com/",
+    "tier": "standard",
+    "profile_url": "https://therightbrothers.com/"
+  },
+  {
+    "city_slug": "brookville-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Brookville"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Brookville: it has a Brookville service page, and the site offers emergency plumbing service. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/brookville-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/brookville-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "brookville-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Brookville"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Brookville: it has a Brookville service page, and the site offers emergency plumbing service. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/locations/ohio/brookville/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/locations/ohio/brookville/"
+  },
+  {
+    "city_slug": "brookville-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "The Right Brothers Plumbing & Drains (All Drain Ohio, LLC)",
+    "areas_served": [
+      "Brookville"
+    ],
+    "phone": "(937) 884-3540",
+    "license_id": "City of Dayton Plumbing Reg. 010637 (All Drain Ohio, LLC, same 155 Haas Dr address)",
+    "blurb": "Greater Dayton plumbing and drain company (155 Haas Dr, Englewood). Covers Brookville: its service-area list names Brookville, and the site offers emergency plumbing service. Same address as All Drain Ohio, LLC on the City of Dayton Registered Plumbing Contractors list (Lic No 010637, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://therightbrothers.com/",
+    "tier": "standard",
+    "profile_url": "https://therightbrothers.com/"
+  },
+  {
+    "city_slug": "centerville-oh",
+    "service_slug": "water-heater",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Centerville"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Centerville: it has a Centerville service page, and the site offers water heater repair and replacement. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/centerville-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/centerville-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "centerville-oh",
+    "service_slug": "water-heater",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Centerville"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Centerville: it has a Centerville service page, and the site offers water heater repair and replacement. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/dayton/geo/centerville/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/dayton/geo/centerville/"
+  },
+  {
+    "city_slug": "centerville-oh",
+    "service_slug": "water-heater",
+    "name": "Evergreen Plumbing & Drains",
+    "areas_served": [
+      "Centerville"
+    ],
+    "phone": "(937) 609-5256",
+    "license_id": "City of Dayton Plumbing Reg. 011228; Ohio PL.50860",
+    "blurb": "South-suburb plumbing and drain company (Senate Dr, Washington Twp). Covers Centerville: it has a Centerville service page, and the site offers water heater repair and replacement. On the City of Dayton Registered Plumbing Contractors list (Lic No 011228, active as of 6/4/2026); site lists Ohio license PL.50860. Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://egpohio.com/service-area/centerville-oh",
+    "tier": "standard",
+    "profile_url": "https://egpohio.com/service-area/centerville-oh"
+  },
+  {
+    "city_slug": "centerville-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Centerville"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Centerville: it has a Centerville service page, and the site offers emergency plumbing service. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/centerville-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/centerville-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "centerville-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Centerville"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Centerville: it has a Centerville service page, and the site offers emergency plumbing service. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/dayton/geo/centerville/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/dayton/geo/centerville/"
+  },
+  {
+    "city_slug": "centerville-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Evergreen Plumbing & Drains",
+    "areas_served": [
+      "Centerville"
+    ],
+    "phone": "(937) 609-5256",
+    "license_id": "City of Dayton Plumbing Reg. 011228; Ohio PL.50860",
+    "blurb": "South-suburb plumbing and drain company (Senate Dr, Washington Twp). Covers Centerville: it has a Centerville service page, and the site offers emergency plumbing service. On the City of Dayton Registered Plumbing Contractors list (Lic No 011228, active as of 6/4/2026); site lists Ohio license PL.50860. Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://egpohio.com/service-area/centerville-oh",
+    "tier": "standard",
+    "profile_url": "https://egpohio.com/service-area/centerville-oh"
+  },
+  {
+    "city_slug": "clayton-oh",
+    "service_slug": "water-heater",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Clayton"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Clayton: it has a Clayton service page, and the site offers water heater repair and replacement. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/clayton-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/clayton-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "clayton-oh",
+    "service_slug": "water-heater",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Clayton"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Clayton: it has a Clayton service page, and the site offers water heater repair and replacement. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/locations/ohio/clayton/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/locations/ohio/clayton/"
+  },
+  {
+    "city_slug": "clayton-oh",
+    "service_slug": "water-heater",
+    "name": "The Right Brothers Plumbing & Drains (All Drain Ohio, LLC)",
+    "areas_served": [
+      "Clayton"
+    ],
+    "phone": "(937) 884-3540",
+    "license_id": "City of Dayton Plumbing Reg. 010637 (All Drain Ohio, LLC, same 155 Haas Dr address)",
+    "blurb": "Greater Dayton plumbing and drain company (155 Haas Dr, Englewood). Covers Clayton: it has a Clayton service page, and the site offers water heater repair and replacement. Same address as All Drain Ohio, LLC on the City of Dayton Registered Plumbing Contractors list (Lic No 010637, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://therightbrothers.com/area-served/clayton/",
+    "tier": "standard",
+    "profile_url": "https://therightbrothers.com/area-served/clayton/"
+  },
+  {
+    "city_slug": "clayton-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Clayton"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Clayton: it has a Clayton service page, and the site offers emergency plumbing service. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/clayton-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/clayton-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "clayton-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Clayton"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Clayton: it has a Clayton service page, and the site offers emergency plumbing service. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/locations/ohio/clayton/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/locations/ohio/clayton/"
+  },
+  {
+    "city_slug": "clayton-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "The Right Brothers Plumbing & Drains (All Drain Ohio, LLC)",
+    "areas_served": [
+      "Clayton"
+    ],
+    "phone": "(937) 884-3540",
+    "license_id": "City of Dayton Plumbing Reg. 010637 (All Drain Ohio, LLC, same 155 Haas Dr address)",
+    "blurb": "Greater Dayton plumbing and drain company (155 Haas Dr, Englewood). Covers Clayton: it has a Clayton service page, and the site offers emergency plumbing service. Same address as All Drain Ohio, LLC on the City of Dayton Registered Plumbing Contractors list (Lic No 010637, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://therightbrothers.com/area-served/clayton/",
+    "tier": "standard",
+    "profile_url": "https://therightbrothers.com/area-served/clayton/"
+  },
+  {
+    "city_slug": "dayton-oh",
+    "service_slug": "water-heater",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Dayton"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Dayton: it has a Dayton service page, and the site offers water heater repair and replacement. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/dayton-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/dayton-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "dayton-oh",
+    "service_slug": "water-heater",
+    "name": "Evergreen Plumbing & Drains",
+    "areas_served": [
+      "Dayton"
+    ],
+    "phone": "(937) 609-5256",
+    "license_id": "City of Dayton Plumbing Reg. 011228; Ohio PL.50860",
+    "blurb": "South-suburb plumbing and drain company (Senate Dr, Washington Twp). Covers Dayton: it has a Dayton service page, and the site offers water heater repair and replacement. On the City of Dayton Registered Plumbing Contractors list (Lic No 011228, active as of 6/4/2026); site lists Ohio license PL.50860. Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://egpohio.com/service-area/dayton-oh",
+    "tier": "standard",
+    "profile_url": "https://egpohio.com/service-area/dayton-oh"
+  },
+  {
+    "city_slug": "dayton-oh",
+    "service_slug": "water-heater",
+    "name": "The Right Brothers Plumbing & Drains (All Drain Ohio, LLC)",
+    "areas_served": [
+      "Dayton"
+    ],
+    "phone": "(937) 884-3540",
+    "license_id": "City of Dayton Plumbing Reg. 010637 (All Drain Ohio, LLC, same 155 Haas Dr address)",
+    "blurb": "Greater Dayton plumbing and drain company (155 Haas Dr, Englewood). Covers Dayton: its service-area list names Dayton, and the site offers water heater repair and replacement. Same address as All Drain Ohio, LLC on the City of Dayton Registered Plumbing Contractors list (Lic No 010637, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://therightbrothers.com/",
+    "tier": "standard",
+    "profile_url": "https://therightbrothers.com/"
+  },
+  {
+    "city_slug": "dayton-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Dayton"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Dayton: it has a Dayton service page, and the site offers emergency plumbing service. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/dayton-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/dayton-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "dayton-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Evergreen Plumbing & Drains",
+    "areas_served": [
+      "Dayton"
+    ],
+    "phone": "(937) 609-5256",
+    "license_id": "City of Dayton Plumbing Reg. 011228; Ohio PL.50860",
+    "blurb": "South-suburb plumbing and drain company (Senate Dr, Washington Twp). Covers Dayton: it has a Dayton service page, and the site offers emergency plumbing service. On the City of Dayton Registered Plumbing Contractors list (Lic No 011228, active as of 6/4/2026); site lists Ohio license PL.50860. Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://egpohio.com/service-area/dayton-oh",
+    "tier": "standard",
+    "profile_url": "https://egpohio.com/service-area/dayton-oh"
+  },
+  {
+    "city_slug": "dayton-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "The Right Brothers Plumbing & Drains (All Drain Ohio, LLC)",
+    "areas_served": [
+      "Dayton"
+    ],
+    "phone": "(937) 884-3540",
+    "license_id": "City of Dayton Plumbing Reg. 010637 (All Drain Ohio, LLC, same 155 Haas Dr address)",
+    "blurb": "Greater Dayton plumbing and drain company (155 Haas Dr, Englewood). Covers Dayton: its service-area list names Dayton, and the site offers emergency plumbing service. Same address as All Drain Ohio, LLC on the City of Dayton Registered Plumbing Contractors list (Lic No 010637, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://therightbrothers.com/",
+    "tier": "standard",
+    "profile_url": "https://therightbrothers.com/"
+  },
+  {
+    "city_slug": "englewood-oh",
+    "service_slug": "water-heater",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Englewood"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Englewood: it has a Englewood service page, and the site offers water heater repair and replacement. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/englewood-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/englewood-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "englewood-oh",
+    "service_slug": "water-heater",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Englewood"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Englewood: it has a Englewood service page, and the site offers water heater repair and replacement. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/locations/ohio/englewood/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/locations/ohio/englewood/"
+  },
+  {
+    "city_slug": "englewood-oh",
+    "service_slug": "water-heater",
+    "name": "The Right Brothers Plumbing & Drains (All Drain Ohio, LLC)",
+    "areas_served": [
+      "Englewood"
+    ],
+    "phone": "(937) 884-3540",
+    "license_id": "City of Dayton Plumbing Reg. 010637 (All Drain Ohio, LLC, same 155 Haas Dr address)",
+    "blurb": "Greater Dayton plumbing and drain company (155 Haas Dr, Englewood). Covers Englewood: it has a Englewood service page, and the site offers water heater repair and replacement. Same address as All Drain Ohio, LLC on the City of Dayton Registered Plumbing Contractors list (Lic No 010637, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://therightbrothers.com/area-served/englewood/",
+    "tier": "standard",
+    "profile_url": "https://therightbrothers.com/area-served/englewood/"
+  },
+  {
+    "city_slug": "englewood-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Englewood"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Englewood: it has a Englewood service page, and the site offers emergency plumbing service. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/englewood-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/englewood-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "englewood-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Englewood"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Englewood: it has a Englewood service page, and the site offers emergency plumbing service. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/locations/ohio/englewood/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/locations/ohio/englewood/"
+  },
+  {
+    "city_slug": "englewood-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "The Right Brothers Plumbing & Drains (All Drain Ohio, LLC)",
+    "areas_served": [
+      "Englewood"
+    ],
+    "phone": "(937) 884-3540",
+    "license_id": "City of Dayton Plumbing Reg. 010637 (All Drain Ohio, LLC, same 155 Haas Dr address)",
+    "blurb": "Greater Dayton plumbing and drain company (155 Haas Dr, Englewood). Covers Englewood: it has a Englewood service page, and the site offers emergency plumbing service. Same address as All Drain Ohio, LLC on the City of Dayton Registered Plumbing Contractors list (Lic No 010637, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://therightbrothers.com/area-served/englewood/",
+    "tier": "standard",
+    "profile_url": "https://therightbrothers.com/area-served/englewood/"
+  },
+  {
+    "city_slug": "fairborn-oh",
+    "service_slug": "water-heater",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Fairborn"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Fairborn: it has a Fairborn service page, and the site offers water heater repair and replacement. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/fairborn-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/fairborn-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "fairborn-oh",
+    "service_slug": "water-heater",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Fairborn"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Fairborn: it has a Fairborn service page, and the site offers water heater repair and replacement. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/dayton/geo/fairborn/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/dayton/geo/fairborn/"
+  },
+  {
+    "city_slug": "fairborn-oh",
+    "service_slug": "water-heater",
+    "name": "The Right Brothers Plumbing & Drains (All Drain Ohio, LLC)",
+    "areas_served": [
+      "Fairborn"
+    ],
+    "phone": "(937) 884-3540",
+    "license_id": "City of Dayton Plumbing Reg. 010637 (All Drain Ohio, LLC, same 155 Haas Dr address)",
+    "blurb": "Greater Dayton plumbing and drain company (155 Haas Dr, Englewood). Covers Fairborn: it has a Fairborn service page, and the site offers water heater repair and replacement. Same address as All Drain Ohio, LLC on the City of Dayton Registered Plumbing Contractors list (Lic No 010637, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://therightbrothers.com/area-served/fairborn/",
+    "tier": "standard",
+    "profile_url": "https://therightbrothers.com/area-served/fairborn/"
+  },
+  {
+    "city_slug": "fairborn-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Fairborn"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Fairborn: it has a Fairborn service page, and the site offers emergency plumbing service. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/fairborn-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/fairborn-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "fairborn-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Fairborn"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Fairborn: it has a Fairborn service page, and the site offers emergency plumbing service. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/dayton/geo/fairborn/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/dayton/geo/fairborn/"
+  },
+  {
+    "city_slug": "fairborn-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "The Right Brothers Plumbing & Drains (All Drain Ohio, LLC)",
+    "areas_served": [
+      "Fairborn"
+    ],
+    "phone": "(937) 884-3540",
+    "license_id": "City of Dayton Plumbing Reg. 010637 (All Drain Ohio, LLC, same 155 Haas Dr address)",
+    "blurb": "Greater Dayton plumbing and drain company (155 Haas Dr, Englewood). Covers Fairborn: it has a Fairborn service page, and the site offers emergency plumbing service. Same address as All Drain Ohio, LLC on the City of Dayton Registered Plumbing Contractors list (Lic No 010637, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://therightbrothers.com/area-served/fairborn/",
+    "tier": "standard",
+    "profile_url": "https://therightbrothers.com/area-served/fairborn/"
+  },
+  {
+    "city_slug": "huber-heights-oh",
+    "service_slug": "water-heater",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Huber Heights"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Huber Heights: it has a Huber Heights service page, and the site offers water heater repair and replacement. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/huber-heights-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/huber-heights-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "huber-heights-oh",
+    "service_slug": "water-heater",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Huber Heights"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Huber Heights: it has a Huber Heights service page, and the site offers water heater repair and replacement. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/dayton/geo/huber-heights/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/dayton/geo/huber-heights/"
+  },
+  {
+    "city_slug": "huber-heights-oh",
+    "service_slug": "water-heater",
+    "name": "Evergreen Plumbing & Drains",
+    "areas_served": [
+      "Huber Heights"
+    ],
+    "phone": "(937) 609-5256",
+    "license_id": "City of Dayton Plumbing Reg. 011228; Ohio PL.50860",
+    "blurb": "South-suburb plumbing and drain company (Senate Dr, Washington Twp). Covers Huber Heights: it has a Huber Heights service page, and the site offers water heater repair and replacement. On the City of Dayton Registered Plumbing Contractors list (Lic No 011228, active as of 6/4/2026); site lists Ohio license PL.50860. Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://egpohio.com/service-area/huber-heights-oh",
+    "tier": "standard",
+    "profile_url": "https://egpohio.com/service-area/huber-heights-oh"
+  },
+  {
+    "city_slug": "huber-heights-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Huber Heights"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Huber Heights: it has a Huber Heights service page, and the site offers emergency plumbing service. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/huber-heights-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/huber-heights-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "huber-heights-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Huber Heights"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Huber Heights: it has a Huber Heights service page, and the site offers emergency plumbing service. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/dayton/geo/huber-heights/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/dayton/geo/huber-heights/"
+  },
+  {
+    "city_slug": "huber-heights-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Evergreen Plumbing & Drains",
+    "areas_served": [
+      "Huber Heights"
+    ],
+    "phone": "(937) 609-5256",
+    "license_id": "City of Dayton Plumbing Reg. 011228; Ohio PL.50860",
+    "blurb": "South-suburb plumbing and drain company (Senate Dr, Washington Twp). Covers Huber Heights: it has a Huber Heights service page, and the site offers emergency plumbing service. On the City of Dayton Registered Plumbing Contractors list (Lic No 011228, active as of 6/4/2026); site lists Ohio license PL.50860. Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://egpohio.com/service-area/huber-heights-oh",
+    "tier": "standard",
+    "profile_url": "https://egpohio.com/service-area/huber-heights-oh"
+  },
+  {
+    "city_slug": "kettering-oh",
+    "service_slug": "water-heater",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Kettering"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Kettering: it has a Kettering service page, and the site offers water heater repair and replacement. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/kettering-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/kettering-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "kettering-oh",
+    "service_slug": "water-heater",
+    "name": "Evergreen Plumbing & Drains",
+    "areas_served": [
+      "Kettering"
+    ],
+    "phone": "(937) 609-5256",
+    "license_id": "City of Dayton Plumbing Reg. 011228; Ohio PL.50860",
+    "blurb": "South-suburb plumbing and drain company (Senate Dr, Washington Twp). Covers Kettering: it has a Kettering service page, and the site offers water heater repair and replacement. On the City of Dayton Registered Plumbing Contractors list (Lic No 011228, active as of 6/4/2026); site lists Ohio license PL.50860. Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://egpohio.com/service-area/kettering-oh",
+    "tier": "standard",
+    "profile_url": "https://egpohio.com/service-area/kettering-oh"
+  },
+  {
+    "city_slug": "kettering-oh",
+    "service_slug": "water-heater",
+    "name": "The Right Brothers Plumbing & Drains (All Drain Ohio, LLC)",
+    "areas_served": [
+      "Kettering"
+    ],
+    "phone": "(937) 884-3540",
+    "license_id": "City of Dayton Plumbing Reg. 010637 (All Drain Ohio, LLC, same 155 Haas Dr address)",
+    "blurb": "Greater Dayton plumbing and drain company (155 Haas Dr, Englewood). Covers Kettering: it has a Kettering service page, and the site offers water heater repair and replacement. Same address as All Drain Ohio, LLC on the City of Dayton Registered Plumbing Contractors list (Lic No 010637, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://therightbrothers.com/area-served/kettering/",
+    "tier": "standard",
+    "profile_url": "https://therightbrothers.com/area-served/kettering/"
+  },
+  {
+    "city_slug": "kettering-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Kettering"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Kettering: it has a Kettering service page, and the site offers emergency plumbing service. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/kettering-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/kettering-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "kettering-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Evergreen Plumbing & Drains",
+    "areas_served": [
+      "Kettering"
+    ],
+    "phone": "(937) 609-5256",
+    "license_id": "City of Dayton Plumbing Reg. 011228; Ohio PL.50860",
+    "blurb": "South-suburb plumbing and drain company (Senate Dr, Washington Twp). Covers Kettering: it has a Kettering service page, and the site offers emergency plumbing service. On the City of Dayton Registered Plumbing Contractors list (Lic No 011228, active as of 6/4/2026); site lists Ohio license PL.50860. Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://egpohio.com/service-area/kettering-oh",
+    "tier": "standard",
+    "profile_url": "https://egpohio.com/service-area/kettering-oh"
+  },
+  {
+    "city_slug": "kettering-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "The Right Brothers Plumbing & Drains (All Drain Ohio, LLC)",
+    "areas_served": [
+      "Kettering"
+    ],
+    "phone": "(937) 884-3540",
+    "license_id": "City of Dayton Plumbing Reg. 010637 (All Drain Ohio, LLC, same 155 Haas Dr address)",
+    "blurb": "Greater Dayton plumbing and drain company (155 Haas Dr, Englewood). Covers Kettering: it has a Kettering service page, and the site offers emergency plumbing service. Same address as All Drain Ohio, LLC on the City of Dayton Registered Plumbing Contractors list (Lic No 010637, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://therightbrothers.com/area-served/kettering/",
+    "tier": "standard",
+    "profile_url": "https://therightbrothers.com/area-served/kettering/"
+  },
+  {
+    "city_slug": "miamisburg-oh",
+    "service_slug": "water-heater",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Miamisburg"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Miamisburg: it has a Miamisburg service page, and the site offers water heater repair and replacement. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/miamisburg-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/miamisburg-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "miamisburg-oh",
+    "service_slug": "water-heater",
+    "name": "Evergreen Plumbing & Drains",
+    "areas_served": [
+      "Miamisburg"
+    ],
+    "phone": "(937) 609-5256",
+    "license_id": "City of Dayton Plumbing Reg. 011228; Ohio PL.50860",
+    "blurb": "South-suburb plumbing and drain company (Senate Dr, Washington Twp). Covers Miamisburg: it has a Miamisburg service page, and the site offers water heater repair and replacement. On the City of Dayton Registered Plumbing Contractors list (Lic No 011228, active as of 6/4/2026); site lists Ohio license PL.50860. Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://egpohio.com/service-area/miamisburg-oh",
+    "tier": "standard",
+    "profile_url": "https://egpohio.com/service-area/miamisburg-oh"
+  },
+  {
+    "city_slug": "miamisburg-oh",
+    "service_slug": "water-heater",
+    "name": "The Right Brothers Plumbing & Drains (All Drain Ohio, LLC)",
+    "areas_served": [
+      "Miamisburg"
+    ],
+    "phone": "(937) 884-3540",
+    "license_id": "City of Dayton Plumbing Reg. 010637 (All Drain Ohio, LLC, same 155 Haas Dr address)",
+    "blurb": "Greater Dayton plumbing and drain company (155 Haas Dr, Englewood). Covers Miamisburg: it has a Miamisburg service page, and the site offers water heater repair and replacement. Same address as All Drain Ohio, LLC on the City of Dayton Registered Plumbing Contractors list (Lic No 010637, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://therightbrothers.com/area-served/miamisburg/",
+    "tier": "standard",
+    "profile_url": "https://therightbrothers.com/area-served/miamisburg/"
+  },
+  {
+    "city_slug": "miamisburg-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Miamisburg"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Miamisburg: it has a Miamisburg service page, and the site offers emergency plumbing service. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/miamisburg-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/miamisburg-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "miamisburg-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Evergreen Plumbing & Drains",
+    "areas_served": [
+      "Miamisburg"
+    ],
+    "phone": "(937) 609-5256",
+    "license_id": "City of Dayton Plumbing Reg. 011228; Ohio PL.50860",
+    "blurb": "South-suburb plumbing and drain company (Senate Dr, Washington Twp). Covers Miamisburg: it has a Miamisburg service page, and the site offers emergency plumbing service. On the City of Dayton Registered Plumbing Contractors list (Lic No 011228, active as of 6/4/2026); site lists Ohio license PL.50860. Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://egpohio.com/service-area/miamisburg-oh",
+    "tier": "standard",
+    "profile_url": "https://egpohio.com/service-area/miamisburg-oh"
+  },
+  {
+    "city_slug": "miamisburg-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "The Right Brothers Plumbing & Drains (All Drain Ohio, LLC)",
+    "areas_served": [
+      "Miamisburg"
+    ],
+    "phone": "(937) 884-3540",
+    "license_id": "City of Dayton Plumbing Reg. 010637 (All Drain Ohio, LLC, same 155 Haas Dr address)",
+    "blurb": "Greater Dayton plumbing and drain company (155 Haas Dr, Englewood). Covers Miamisburg: it has a Miamisburg service page, and the site offers emergency plumbing service. Same address as All Drain Ohio, LLC on the City of Dayton Registered Plumbing Contractors list (Lic No 010637, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://therightbrothers.com/area-served/miamisburg/",
+    "tier": "standard",
+    "profile_url": "https://therightbrothers.com/area-served/miamisburg/"
+  },
+  {
+    "city_slug": "oakwood-oh",
+    "service_slug": "water-heater",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Oakwood"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Oakwood: it has a Oakwood service page, and the site offers water heater repair and replacement. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/oakwood-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/oakwood-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "oakwood-oh",
+    "service_slug": "water-heater",
+    "name": "Evergreen Plumbing & Drains",
+    "areas_served": [
+      "Oakwood"
+    ],
+    "phone": "(937) 609-5256",
+    "license_id": "City of Dayton Plumbing Reg. 011228; Ohio PL.50860",
+    "blurb": "South-suburb plumbing and drain company (Senate Dr, Washington Twp). Covers Oakwood: it has a Oakwood service page, and the site offers water heater repair and replacement. On the City of Dayton Registered Plumbing Contractors list (Lic No 011228, active as of 6/4/2026); site lists Ohio license PL.50860. Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://egpohio.com/service-area/oakwood-oh",
+    "tier": "standard",
+    "profile_url": "https://egpohio.com/service-area/oakwood-oh"
+  },
+  {
+    "city_slug": "oakwood-oh",
+    "service_slug": "water-heater",
+    "name": "Roto-Rooter Plumbing & Water Cleanup (Miamisburg/Dayton)",
+    "areas_served": [
+      "Oakwood"
+    ],
+    "phone": "(937) 228-7686",
+    "license_id": "City of Dayton Plumbing Reg. 1498",
+    "blurb": "Roto-Rooter branch on Byers Rd, Miamisburg. Covers Oakwood: its service-area list names Oakwood, and the site offers water heater repair and replacement. On the City of Dayton Registered Plumbing Contractors list (Lic No 1498, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.rotorooter.com/miamisburgoh/",
+    "tier": "standard",
+    "profile_url": "https://www.rotorooter.com/miamisburgoh/"
+  },
+  {
+    "city_slug": "oakwood-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Oakwood"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Oakwood: it has a Oakwood service page, and the site offers emergency plumbing service. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/oakwood-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/oakwood-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "oakwood-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Evergreen Plumbing & Drains",
+    "areas_served": [
+      "Oakwood"
+    ],
+    "phone": "(937) 609-5256",
+    "license_id": "City of Dayton Plumbing Reg. 011228; Ohio PL.50860",
+    "blurb": "South-suburb plumbing and drain company (Senate Dr, Washington Twp). Covers Oakwood: it has a Oakwood service page, and the site offers emergency plumbing service. On the City of Dayton Registered Plumbing Contractors list (Lic No 011228, active as of 6/4/2026); site lists Ohio license PL.50860. Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://egpohio.com/service-area/oakwood-oh",
+    "tier": "standard",
+    "profile_url": "https://egpohio.com/service-area/oakwood-oh"
+  },
+  {
+    "city_slug": "oakwood-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Roto-Rooter Plumbing & Water Cleanup (Miamisburg/Dayton)",
+    "areas_served": [
+      "Oakwood"
+    ],
+    "phone": "(937) 228-7686",
+    "license_id": "City of Dayton Plumbing Reg. 1498",
+    "blurb": "Roto-Rooter branch on Byers Rd, Miamisburg. Covers Oakwood: its service-area list names Oakwood, and the site offers emergency plumbing service. On the City of Dayton Registered Plumbing Contractors list (Lic No 1498, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.rotorooter.com/miamisburgoh/",
+    "tier": "standard",
+    "profile_url": "https://www.rotorooter.com/miamisburgoh/"
+  },
+  {
+    "city_slug": "springboro-oh",
+    "service_slug": "drain-cleaning",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Springboro"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Springboro: it has a Springboro service page, and the site offers drain cleaning. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/springboro-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/springboro-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "springboro-oh",
+    "service_slug": "drain-cleaning",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Springboro"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Springboro: it has a Springboro service page, and the site offers drain cleaning. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/locations/ohio/springboro/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/locations/ohio/springboro/"
+  },
+  {
+    "city_slug": "springboro-oh",
+    "service_slug": "drain-cleaning",
+    "name": "Evergreen Plumbing & Drains",
+    "areas_served": [
+      "Springboro"
+    ],
+    "phone": "(937) 609-5256",
+    "license_id": "City of Dayton Plumbing Reg. 011228; Ohio PL.50860",
+    "blurb": "South-suburb plumbing and drain company (Senate Dr, Washington Twp). Covers Springboro: it has a Springboro service page, and the site offers drain cleaning. On the City of Dayton Registered Plumbing Contractors list (Lic No 011228, active as of 6/4/2026); site lists Ohio license PL.50860. Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://egpohio.com/service-area/springboro-oh",
+    "tier": "standard",
+    "profile_url": "https://egpohio.com/service-area/springboro-oh"
+  },
+  {
+    "city_slug": "springboro-oh",
+    "service_slug": "water-heater",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Springboro"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Springboro: it has a Springboro service page, and the site offers water heater repair and replacement. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/springboro-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/springboro-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "springboro-oh",
+    "service_slug": "water-heater",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Springboro"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Springboro: it has a Springboro service page, and the site offers water heater repair and replacement. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/locations/ohio/springboro/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/locations/ohio/springboro/"
+  },
+  {
+    "city_slug": "springboro-oh",
+    "service_slug": "water-heater",
+    "name": "Evergreen Plumbing & Drains",
+    "areas_served": [
+      "Springboro"
+    ],
+    "phone": "(937) 609-5256",
+    "license_id": "City of Dayton Plumbing Reg. 011228; Ohio PL.50860",
+    "blurb": "South-suburb plumbing and drain company (Senate Dr, Washington Twp). Covers Springboro: it has a Springboro service page, and the site offers water heater repair and replacement. On the City of Dayton Registered Plumbing Contractors list (Lic No 011228, active as of 6/4/2026); site lists Ohio license PL.50860. Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://egpohio.com/service-area/springboro-oh",
+    "tier": "standard",
+    "profile_url": "https://egpohio.com/service-area/springboro-oh"
+  },
+  {
+    "city_slug": "springboro-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Springboro"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Springboro: it has a Springboro service page, and the site offers emergency plumbing service. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/springboro-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/springboro-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "springboro-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Springboro"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Springboro: it has a Springboro service page, and the site offers emergency plumbing service. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/locations/ohio/springboro/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/locations/ohio/springboro/"
+  },
+  {
+    "city_slug": "springboro-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Evergreen Plumbing & Drains",
+    "areas_served": [
+      "Springboro"
+    ],
+    "phone": "(937) 609-5256",
+    "license_id": "City of Dayton Plumbing Reg. 011228; Ohio PL.50860",
+    "blurb": "South-suburb plumbing and drain company (Senate Dr, Washington Twp). Covers Springboro: it has a Springboro service page, and the site offers emergency plumbing service. On the City of Dayton Registered Plumbing Contractors list (Lic No 011228, active as of 6/4/2026); site lists Ohio license PL.50860. Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://egpohio.com/service-area/springboro-oh",
+    "tier": "standard",
+    "profile_url": "https://egpohio.com/service-area/springboro-oh"
+  },
+  {
+    "city_slug": "springfield-oh",
+    "service_slug": "drain-cleaning",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Springfield"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Springfield: it has a Springfield service page, and the site offers drain cleaning. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/springfield-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/springfield-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "springfield-oh",
+    "service_slug": "drain-cleaning",
+    "name": "The Right Brothers Plumbing & Drains (All Drain Ohio, LLC)",
+    "areas_served": [
+      "Springfield"
+    ],
+    "phone": "(937) 884-3540",
+    "license_id": "City of Dayton Plumbing Reg. 010637 (All Drain Ohio, LLC, same 155 Haas Dr address)",
+    "blurb": "Greater Dayton plumbing and drain company (155 Haas Dr, Englewood). Covers Springfield: it has a Springfield service page, and the site offers drain cleaning. Same address as All Drain Ohio, LLC on the City of Dayton Registered Plumbing Contractors list (Lic No 010637, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://therightbrothers.com/area-served/springfield/",
+    "tier": "standard",
+    "profile_url": "https://therightbrothers.com/area-served/springfield/"
+  },
+  {
+    "city_slug": "springfield-oh",
+    "service_slug": "drain-cleaning",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Springfield"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Springfield: its service-area list names Springfield, and the site offers drain cleaning. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/dayton/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/dayton/"
+  },
+  {
+    "city_slug": "springfield-oh",
+    "service_slug": "water-heater",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Springfield"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Springfield: it has a Springfield service page, and the site offers water heater repair and replacement. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/springfield-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/springfield-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "springfield-oh",
+    "service_slug": "water-heater",
+    "name": "The Right Brothers Plumbing & Drains (All Drain Ohio, LLC)",
+    "areas_served": [
+      "Springfield"
+    ],
+    "phone": "(937) 884-3540",
+    "license_id": "City of Dayton Plumbing Reg. 010637 (All Drain Ohio, LLC, same 155 Haas Dr address)",
+    "blurb": "Greater Dayton plumbing and drain company (155 Haas Dr, Englewood). Covers Springfield: it has a Springfield service page, and the site offers water heater repair and replacement. Same address as All Drain Ohio, LLC on the City of Dayton Registered Plumbing Contractors list (Lic No 010637, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://therightbrothers.com/area-served/springfield/",
+    "tier": "standard",
+    "profile_url": "https://therightbrothers.com/area-served/springfield/"
+  },
+  {
+    "city_slug": "springfield-oh",
+    "service_slug": "water-heater",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Springfield"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Springfield: its service-area list names Springfield, and the site offers water heater repair and replacement. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/dayton/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/dayton/"
+  },
+  {
+    "city_slug": "springfield-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Springfield"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Springfield: it has a Springfield service page, and the site offers emergency plumbing service. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/springfield-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/springfield-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "springfield-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "The Right Brothers Plumbing & Drains (All Drain Ohio, LLC)",
+    "areas_served": [
+      "Springfield"
+    ],
+    "phone": "(937) 884-3540",
+    "license_id": "City of Dayton Plumbing Reg. 010637 (All Drain Ohio, LLC, same 155 Haas Dr address)",
+    "blurb": "Greater Dayton plumbing and drain company (155 Haas Dr, Englewood). Covers Springfield: it has a Springfield service page, and the site offers emergency plumbing service. Same address as All Drain Ohio, LLC on the City of Dayton Registered Plumbing Contractors list (Lic No 010637, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://therightbrothers.com/area-served/springfield/",
+    "tier": "standard",
+    "profile_url": "https://therightbrothers.com/area-served/springfield/"
+  },
+  {
+    "city_slug": "springfield-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Springfield"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Springfield: its service-area list names Springfield, and the site offers emergency plumbing service. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/dayton/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/dayton/"
+  },
+  {
+    "city_slug": "tipp-city-oh",
+    "service_slug": "water-heater",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Tipp City"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Tipp City: it has a Tipp City service page, and the site offers water heater repair and replacement. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/tipp-city-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/tipp-city-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "tipp-city-oh",
+    "service_slug": "water-heater",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Tipp City"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Tipp City: it has a Tipp City service page, and the site offers water heater repair and replacement. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/locations/ohio/tipp-city/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/locations/ohio/tipp-city/"
+  },
+  {
+    "city_slug": "tipp-city-oh",
+    "service_slug": "water-heater",
+    "name": "The Right Brothers Plumbing & Drains (All Drain Ohio, LLC)",
+    "areas_served": [
+      "Tipp City"
+    ],
+    "phone": "(937) 884-3540",
+    "license_id": "City of Dayton Plumbing Reg. 010637 (All Drain Ohio, LLC, same 155 Haas Dr address)",
+    "blurb": "Greater Dayton plumbing and drain company (155 Haas Dr, Englewood). Covers Tipp City: its service-area list names Tipp City, and the site offers water heater repair and replacement. Same address as All Drain Ohio, LLC on the City of Dayton Registered Plumbing Contractors list (Lic No 010637, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://therightbrothers.com/",
+    "tier": "standard",
+    "profile_url": "https://therightbrothers.com/"
+  },
+  {
+    "city_slug": "tipp-city-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Tipp City"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Tipp City: it has a Tipp City service page, and the site offers emergency plumbing service. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/tipp-city-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/tipp-city-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "tipp-city-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Tipp City"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Tipp City: it has a Tipp City service page, and the site offers emergency plumbing service. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/locations/ohio/tipp-city/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/locations/ohio/tipp-city/"
+  },
+  {
+    "city_slug": "tipp-city-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "The Right Brothers Plumbing & Drains (All Drain Ohio, LLC)",
+    "areas_served": [
+      "Tipp City"
+    ],
+    "phone": "(937) 884-3540",
+    "license_id": "City of Dayton Plumbing Reg. 010637 (All Drain Ohio, LLC, same 155 Haas Dr address)",
+    "blurb": "Greater Dayton plumbing and drain company (155 Haas Dr, Englewood). Covers Tipp City: its service-area list names Tipp City, and the site offers emergency plumbing service. Same address as All Drain Ohio, LLC on the City of Dayton Registered Plumbing Contractors list (Lic No 010637, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://therightbrothers.com/",
+    "tier": "standard",
+    "profile_url": "https://therightbrothers.com/"
+  },
+  {
+    "city_slug": "trotwood-oh",
+    "service_slug": "water-heater",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Trotwood"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Trotwood: it has a Trotwood service page, and the site offers water heater repair and replacement. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/dayton/geo/trotwood/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/dayton/geo/trotwood/"
+  },
+  {
+    "city_slug": "trotwood-oh",
+    "service_slug": "water-heater",
+    "name": "Evergreen Plumbing & Drains",
+    "areas_served": [
+      "Trotwood"
+    ],
+    "phone": "(937) 609-5256",
+    "license_id": "City of Dayton Plumbing Reg. 011228; Ohio PL.50860",
+    "blurb": "South-suburb plumbing and drain company (Senate Dr, Washington Twp). Covers Trotwood: it has a Trotwood service page, and the site offers water heater repair and replacement. On the City of Dayton Registered Plumbing Contractors list (Lic No 011228, active as of 6/4/2026); site lists Ohio license PL.50860. Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://egpohio.com/service-area/trotwood-oh",
+    "tier": "standard",
+    "profile_url": "https://egpohio.com/service-area/trotwood-oh"
+  },
+  {
+    "city_slug": "trotwood-oh",
+    "service_slug": "water-heater",
+    "name": "Roto-Rooter Plumbing & Water Cleanup (Miamisburg/Dayton)",
+    "areas_served": [
+      "Trotwood"
+    ],
+    "phone": "(937) 228-7686",
+    "license_id": "City of Dayton Plumbing Reg. 1498",
+    "blurb": "Roto-Rooter branch on Byers Rd, Miamisburg. Covers Trotwood: its service-area list names Trotwood, and the site offers water heater repair and replacement. On the City of Dayton Registered Plumbing Contractors list (Lic No 1498, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.rotorooter.com/miamisburgoh/",
+    "tier": "standard",
+    "profile_url": "https://www.rotorooter.com/miamisburgoh/"
+  },
+  {
+    "city_slug": "trotwood-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Trotwood"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Trotwood: it has a Trotwood service page, and the site offers emergency plumbing service. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/dayton/geo/trotwood/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/dayton/geo/trotwood/"
+  },
+  {
+    "city_slug": "trotwood-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Evergreen Plumbing & Drains",
+    "areas_served": [
+      "Trotwood"
+    ],
+    "phone": "(937) 609-5256",
+    "license_id": "City of Dayton Plumbing Reg. 011228; Ohio PL.50860",
+    "blurb": "South-suburb plumbing and drain company (Senate Dr, Washington Twp). Covers Trotwood: it has a Trotwood service page, and the site offers emergency plumbing service. On the City of Dayton Registered Plumbing Contractors list (Lic No 011228, active as of 6/4/2026); site lists Ohio license PL.50860. Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://egpohio.com/service-area/trotwood-oh",
+    "tier": "standard",
+    "profile_url": "https://egpohio.com/service-area/trotwood-oh"
+  },
+  {
+    "city_slug": "trotwood-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Roto-Rooter Plumbing & Water Cleanup (Miamisburg/Dayton)",
+    "areas_served": [
+      "Trotwood"
+    ],
+    "phone": "(937) 228-7686",
+    "license_id": "City of Dayton Plumbing Reg. 1498",
+    "blurb": "Roto-Rooter branch on Byers Rd, Miamisburg. Covers Trotwood: its service-area list names Trotwood, and the site offers emergency plumbing service. On the City of Dayton Registered Plumbing Contractors list (Lic No 1498, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.rotorooter.com/miamisburgoh/",
+    "tier": "standard",
+    "profile_url": "https://www.rotorooter.com/miamisburgoh/"
+  },
+  {
+    "city_slug": "troy-oh",
+    "service_slug": "drain-cleaning",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Troy"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Troy: it has a Troy service page, and the site offers drain cleaning. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/troy-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/troy-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "troy-oh",
+    "service_slug": "drain-cleaning",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Troy"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Troy: it has a Troy service page, and the site offers drain cleaning. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/locations/ohio/troy/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/locations/ohio/troy/"
+  },
+  {
+    "city_slug": "troy-oh",
+    "service_slug": "drain-cleaning",
+    "name": "The Right Brothers Plumbing & Drains (All Drain Ohio, LLC)",
+    "areas_served": [
+      "Troy"
+    ],
+    "phone": "(937) 884-3540",
+    "license_id": "City of Dayton Plumbing Reg. 010637 (All Drain Ohio, LLC, same 155 Haas Dr address)",
+    "blurb": "Greater Dayton plumbing and drain company (155 Haas Dr, Englewood). Covers Troy: it has a Troy service page, and the site offers drain cleaning. Same address as All Drain Ohio, LLC on the City of Dayton Registered Plumbing Contractors list (Lic No 010637, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://therightbrothers.com/area-served/troy/",
+    "tier": "standard",
+    "profile_url": "https://therightbrothers.com/area-served/troy/"
+  },
+  {
+    "city_slug": "troy-oh",
+    "service_slug": "water-heater",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Troy"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Troy: it has a Troy service page, and the site offers water heater repair and replacement. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/troy-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/troy-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "troy-oh",
+    "service_slug": "water-heater",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Troy"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Troy: it has a Troy service page, and the site offers water heater repair and replacement. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/locations/ohio/troy/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/locations/ohio/troy/"
+  },
+  {
+    "city_slug": "troy-oh",
+    "service_slug": "water-heater",
+    "name": "The Right Brothers Plumbing & Drains (All Drain Ohio, LLC)",
+    "areas_served": [
+      "Troy"
+    ],
+    "phone": "(937) 884-3540",
+    "license_id": "City of Dayton Plumbing Reg. 010637 (All Drain Ohio, LLC, same 155 Haas Dr address)",
+    "blurb": "Greater Dayton plumbing and drain company (155 Haas Dr, Englewood). Covers Troy: it has a Troy service page, and the site offers water heater repair and replacement. Same address as All Drain Ohio, LLC on the City of Dayton Registered Plumbing Contractors list (Lic No 010637, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://therightbrothers.com/area-served/troy/",
+    "tier": "standard",
+    "profile_url": "https://therightbrothers.com/area-served/troy/"
+  },
+  {
+    "city_slug": "troy-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Troy"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Troy: it has a Troy service page, and the site offers emergency plumbing service. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/troy-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/troy-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "troy-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Troy"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Troy: it has a Troy service page, and the site offers emergency plumbing service. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/locations/ohio/troy/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/locations/ohio/troy/"
+  },
+  {
+    "city_slug": "troy-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "The Right Brothers Plumbing & Drains (All Drain Ohio, LLC)",
+    "areas_served": [
+      "Troy"
+    ],
+    "phone": "(937) 884-3540",
+    "license_id": "City of Dayton Plumbing Reg. 010637 (All Drain Ohio, LLC, same 155 Haas Dr address)",
+    "blurb": "Greater Dayton plumbing and drain company (155 Haas Dr, Englewood). Covers Troy: it has a Troy service page, and the site offers emergency plumbing service. Same address as All Drain Ohio, LLC on the City of Dayton Registered Plumbing Contractors list (Lic No 010637, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://therightbrothers.com/area-served/troy/",
+    "tier": "standard",
+    "profile_url": "https://therightbrothers.com/area-served/troy/"
+  },
+  {
+    "city_slug": "vandalia-oh",
+    "service_slug": "water-heater",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Vandalia"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Vandalia: it has a Vandalia service page, and the site offers water heater repair and replacement. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/vandalia-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/vandalia-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "vandalia-oh",
+    "service_slug": "water-heater",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Vandalia"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Vandalia: it has a Vandalia service page, and the site offers water heater repair and replacement. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/locations/ohio/vandalia/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/locations/ohio/vandalia/"
+  },
+  {
+    "city_slug": "vandalia-oh",
+    "service_slug": "water-heater",
+    "name": "The Right Brothers Plumbing & Drains (All Drain Ohio, LLC)",
+    "areas_served": [
+      "Vandalia"
+    ],
+    "phone": "(937) 884-3540",
+    "license_id": "City of Dayton Plumbing Reg. 010637 (All Drain Ohio, LLC, same 155 Haas Dr address)",
+    "blurb": "Greater Dayton plumbing and drain company (155 Haas Dr, Englewood). Covers Vandalia: it has a Vandalia service page, and the site offers water heater repair and replacement. Same address as All Drain Ohio, LLC on the City of Dayton Registered Plumbing Contractors list (Lic No 010637, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://therightbrothers.com/area-served/vandalia/",
+    "tier": "standard",
+    "profile_url": "https://therightbrothers.com/area-served/vandalia/"
+  },
+  {
+    "city_slug": "vandalia-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Vandalia"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Vandalia: it has a Vandalia service page, and the site offers emergency plumbing service. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/vandalia-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/vandalia-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "vandalia-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Vandalia"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Vandalia: it has a Vandalia service page, and the site offers emergency plumbing service. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/locations/ohio/vandalia/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/locations/ohio/vandalia/"
+  },
+  {
+    "city_slug": "vandalia-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "The Right Brothers Plumbing & Drains (All Drain Ohio, LLC)",
+    "areas_served": [
+      "Vandalia"
+    ],
+    "phone": "(937) 884-3540",
+    "license_id": "City of Dayton Plumbing Reg. 010637 (All Drain Ohio, LLC, same 155 Haas Dr address)",
+    "blurb": "Greater Dayton plumbing and drain company (155 Haas Dr, Englewood). Covers Vandalia: it has a Vandalia service page, and the site offers emergency plumbing service. Same address as All Drain Ohio, LLC on the City of Dayton Registered Plumbing Contractors list (Lic No 010637, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://therightbrothers.com/area-served/vandalia/",
+    "tier": "standard",
+    "profile_url": "https://therightbrothers.com/area-served/vandalia/"
+  },
+  {
+    "city_slug": "xenia-oh",
+    "service_slug": "water-heater",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Xenia"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Xenia: it has a Xenia service page, and the site offers water heater repair and replacement. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/xenia-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/xenia-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "xenia-oh",
+    "service_slug": "water-heater",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Xenia"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Xenia: it has a Xenia service page, and the site offers water heater repair and replacement. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/dayton/geo/xenia/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/dayton/geo/xenia/"
+  },
+  {
+    "city_slug": "xenia-oh",
+    "service_slug": "water-heater",
+    "name": "The Right Brothers Plumbing & Drains (All Drain Ohio, LLC)",
+    "areas_served": [
+      "Xenia"
+    ],
+    "phone": "(937) 884-3540",
+    "license_id": "City of Dayton Plumbing Reg. 010637 (All Drain Ohio, LLC, same 155 Haas Dr address)",
+    "blurb": "Greater Dayton plumbing and drain company (155 Haas Dr, Englewood). Covers Xenia: it has a Xenia service page, and the site offers water heater repair and replacement. Same address as All Drain Ohio, LLC on the City of Dayton Registered Plumbing Contractors list (Lic No 010637, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://therightbrothers.com/area-served/xenia/",
+    "tier": "standard",
+    "profile_url": "https://therightbrothers.com/area-served/xenia/"
+  },
+  {
+    "city_slug": "xenia-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Summers Plumbing Heating & Cooling",
+    "areas_served": [
+      "Xenia"
+    ],
+    "phone": "(937) 400-3920",
+    "license_id": "City of Dayton Plumbing Reg. 1843 (Summers of Dayton, Inc.); Ohio Plumbing Lic. 26672",
+    "blurb": "Centerville-based (Compark Rd) plumbing and HVAC company. Covers Xenia: it has a Xenia service page, and the site offers emergency plumbing service. Summers of Dayton, Inc. is on the City of Dayton Registered Plumbing Contractors list (Lic No 1843, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://summersphc.com/dayton/city/xenia-oh-plumbing-heating-cooling/",
+    "tier": "standard",
+    "profile_url": "https://summersphc.com/dayton/city/xenia-oh-plumbing-heating-cooling/"
+  },
+  {
+    "city_slug": "xenia-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "areas_served": [
+      "Xenia"
+    ],
+    "phone": "(937) 306-7542",
+    "license_id": "Lic. #13244 (per company site)",
+    "blurb": "Locally owned franchise (Linden Ave, Dayton). Covers Xenia: it has a Xenia service page, and the site offers emergency plumbing service. Its site lists License #13244. Phone from the company site. Sources: https://www.mrrooter.com/dayton/geo/xenia/",
+    "tier": "standard",
+    "profile_url": "https://www.mrrooter.com/dayton/geo/xenia/"
+  },
+  {
+    "city_slug": "xenia-oh",
+    "service_slug": "emergency-plumbing",
+    "name": "The Right Brothers Plumbing & Drains (All Drain Ohio, LLC)",
+    "areas_served": [
+      "Xenia"
+    ],
+    "phone": "(937) 884-3540",
+    "license_id": "City of Dayton Plumbing Reg. 010637 (All Drain Ohio, LLC, same 155 Haas Dr address)",
+    "blurb": "Greater Dayton plumbing and drain company (155 Haas Dr, Englewood). Covers Xenia: it has a Xenia service page, and the site offers emergency plumbing service. Same address as All Drain Ohio, LLC on the City of Dayton Registered Plumbing Contractors list (Lic No 010637, active as of 6/4/2026). Phone from the company site. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://therightbrothers.com/area-served/xenia/",
+    "tier": "standard",
+    "profile_url": "https://therightbrothers.com/area-served/xenia/"
   }
 ]
