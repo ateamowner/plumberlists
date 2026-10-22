@@ -15,3 +15,10 @@
 - Every listed company comes from a public source cited on the page.
 - Homeowners can call a listed company directly or send a quote request; requests go to owner@ateamcontractings.com.
 - Featured (paid placement) is labeled on the page.
+
+## Company profiles
+Independent profiles of plumbing companies people search for by name. Each shows Ohio OCILB license status, City of Dayton registration where it exists, services and areas as the company lists them, and the public sources. The companies did not write or pay for these pages.
+- [All company profiles](https://plumberlists.com/companies/)
+- [Huber Plumbing Inc. (Huber Plumbing & Heating), Cincinnati, OH](https://plumberlists.com/companies/huber-plumbing-cincinnati-oh/): Ohio plumbing license PL.32453, active; not located in Huber Heights
+- [The Right Brothers Plumbing & Drains (All Drain Ohio, LLC), Englewood/Dayton, OH](https://plumberlists.com/companies/the-right-brothers-plumbing-drains/): City of Dayton plumbing registration 010637; Ohio license PL.23099
+- [Heeter Plumbing, LLC, Dayton, OH](https://plumberlists.com/companies/heeter-plumbing-dayton-oh/): Ohio plumbing licenses PL.32605 and PL.18464; City of Dayton registration 1691
