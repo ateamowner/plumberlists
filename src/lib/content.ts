@@ -138,7 +138,7 @@ export function hubFaqs(city: City): Faq[] {
     },
     {
       question: `How do contractors get on this ${city.name} page?`,
-      answer: `See the For Pros page. Companies can buy Featured (paid placement) ($99/month, self-serve). That is a labeled ad. There is no lead-count SLA. There is no credit-card form on this site.`,
+      answer: `See the For Pros page. Companies can buy Featured (paid placement) ($99/month, self-serve). That is a labeled ad that puts your business in the top spot on every page you're listed on. Leads are not guaranteed. Checkout is handled securely by Stripe; this site never sees or stores card numbers.`,
     },
   ];
 }
