@@ -95,6 +95,15 @@ export default async function CityHubPage({
             a listing is live, we still take the request and follow up.
           </p>
           <p className="mt-3 text-base leading-7">{city.setting}</p>
+          {city.slug === "dayton-oh" ? (
+            <p className="mt-3 text-base leading-7">
+              Comparing companies? See our{" "}
+              <Link href="/best-plumbers-dayton-oh-2027/" className="underline">
+                best plumbers in Dayton for 2027
+              </Link>{" "}
+              list, every one checked against the city registry.
+            </p>
+          ) : null}
           <p className="mt-3 text-base leading-7">
             {city.housing} {city.winter}
           </p>
