@@ -1905,6 +1905,86 @@
     "profile_url": "https://schottplumbing.com/"
   },
   {
+    "city_slug": "dayton-oh",
+    "service_slug": "plumbing",
+    "name": "A-Abel Plumbing Inc.",
+    "areas_served": [
+      "Dayton",
+      "Centerville",
+      "Kettering",
+      "Miamisburg"
+    ],
+    "phone": "(937) 434-4343",
+    "license_id": "City of Dayton Plumbing Reg. 1693",
+    "blurb": "Dayton family of companies (440 Congress Park Dr) doing residential plumbing alongside HVAC and electrical. Active on the City of Dayton Registered Plumbing Contractors list (as of 6/4/2026, Lic No 1693). Business phone from a-abel.com. Last verified 10/26/2026. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://a-abel.com/",
+    "tier": "standard",
+    "profile_url": "https://a-abel.com/"
+  },
+  {
+    "city_slug": "dayton-oh",
+    "service_slug": "plumbing",
+    "name": "Complete Plumbing",
+    "areas_served": [
+      "Dayton",
+      "Moraine",
+      "Kettering",
+      "Centerville"
+    ],
+    "phone": "(937) 299-7044",
+    "license_id": "City of Dayton Plumbing Reg. 1555",
+    "blurb": "Family-owned Dayton/Moraine shop (3060 Springboro Pike) since 1997. Active on the City of Dayton Registered Plumbing Contractors list (as of 6/4/2026, Lic No 1555). Phone from completeplumbingdayton.com. Last verified 10/26/2026. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.completeplumbingdayton.com/",
+    "tier": "standard",
+    "profile_url": "https://www.completeplumbingdayton.com/"
+  },
+  {
+    "city_slug": "dayton-oh",
+    "service_slug": "plumbing",
+    "name": "Five Star Plumbing, LLC",
+    "areas_served": [
+      "Dayton",
+      "Moraine",
+      "West Carrollton",
+      "Kettering"
+    ],
+    "phone": "(937) 902-6195",
+    "license_id": "City of Dayton Plumbing Reg. 1675",
+    "blurb": "Family-owned Moraine shop (2200 Sandridge Dr) whose site describes plumbing services in Dayton, OH: repairs, installs and tankless water heaters. Active on the City of Dayton Registered Plumbing Contractors list (as of 6/4/2026, Lic No 1675). Phone from fivestarplumbingservices.com. Last verified 10/26/2026. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://www.fivestarplumbingservices.com/",
+    "tier": "standard",
+    "profile_url": "https://www.fivestarplumbingservices.com/"
+  },
+  {
+    "city_slug": "dayton-oh",
+    "service_slug": "plumbing",
+    "name": "Korrect Plumbing, Heating & A/C",
+    "areas_served": [
+      "Dayton",
+      "Trotwood",
+      "Englewood",
+      "Huber Heights"
+    ],
+    "phone": "(937) 837-2333",
+    "license_id": "City of Dayton Plumbing Reg. 1244; Ohio Lic. #21100, #48006",
+    "blurb": "Family-owned since 1950 with a Dayton shop at 7967 W. Third St. Active on the City of Dayton Registered Plumbing Contractors list (as of 6/4/2026, Lic No 1244); state license numbers from korrectplumbing.com. Phone matches the city list and company site. Last verified 10/26/2026. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://korrectplumbing.com/",
+    "tier": "standard",
+    "profile_url": "https://korrectplumbing.com/"
+  },
+  {
+    "city_slug": "dayton-oh",
+    "service_slug": "plumbing",
+    "name": "Thomas & Galbraith Heating, Cooling & Plumbing",
+    "areas_served": [
+      "Dayton",
+      "Riverside",
+      "Kettering",
+      "Centerville"
+    ],
+    "phone": "(513) 327-2578",
+    "license_id": "City of Dayton Plumbing Reg. 010843; Ohio PL.49661",
+    "blurb": "Dayton office (6344 Webster St) with a dedicated Dayton plumbers page and 24/7 service. Active on the City of Dayton Registered Plumbing Contractors list (as of 6/4/2026, Lic No 010843); Ohio plumbing license PL.49661 from the company site. Phone from its Dayton page. Last verified 10/26/2026. Sources: https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF and https://thomasgalbraith.com/location/dayton-plumbers/",
+    "tier": "standard",
+    "profile_url": "https://thomasgalbraith.com/location/dayton-plumbers/"
+  },
+  {
     "city_slug": "kettering-oh",
     "service_slug": "plumbing",
     "name": "Dean's Plumbing",

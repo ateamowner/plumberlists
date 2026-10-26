@@ -5,6 +5,7 @@ import { Breadcrumbs } from "@/components/breadcrumbs";
 import { Disclosure } from "@/components/disclosure";
 import { FaqList } from "@/components/faq-list";
 import { NearbyCityLinks } from "@/components/internal-links";
+import { HubListings } from "@/components/hub-listings";
 import { JsonLd } from "@/components/json-ld";
 import { QuoteFormLoader } from "@/components/quote-form-loader";
 import { TrustStrip } from "@/components/trust-strip";
@@ -22,8 +23,10 @@ import { hubFaqs } from "@/lib/content";
 import {
   faqPageSchema,
   hubBreadcrumbs,
+  hubListingsItemListSchema,
   publisherLocalBusiness,
 } from "@/lib/schema";
+import { getCityListings } from "@/lib/listings";
 import { shareMeta } from "@/lib/share-meta";
 
 export const dynamicParams = false;
@@ -62,6 +65,11 @@ export default async function CityHubPage({
 
   const plumbing = getService("plumbing");
   const questions = hubFaqs(city);
+  const cityListings = getCityListings(city.slug);
+  const hubItemList = hubListingsItemListSchema(
+    city,
+    cityListings.map((entry) => entry.listing)
+  );
 
   return (
     <article className="mx-auto w-full max-w-6xl px-4 py-8 sm:px-6 sm:py-10">
@@ -70,6 +78,7 @@ export default async function CityHubPage({
           publisherLocalBusiness(city),
           faqPageSchema(questions),
           hubBreadcrumbs(city),
+          ...(hubItemList ? [hubItemList] : []),
         ]}
       />
       <Breadcrumbs
@@ -107,6 +116,7 @@ export default async function CityHubPage({
 
         <div className="lg:col-start-1">
           <TrustStrip />
+          <HubListings city={city} entries={cityListings} />
           <h2 className="mt-8 font-heading text-xl font-semibold">
             {`Services in ${city.name}`}
           </h2>
