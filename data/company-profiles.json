@@ -498,5 +498,700 @@
       }
     ],
     "checked": "2026-10-22"
+  },
+  {
+    "slug": "summers-plumbing-heating-cooling-dayton-oh",
+    "name": "Summers Plumbing Heating & Cooling (Dayton)",
+    "legal_name": "Summers of Dayton, Inc.",
+    "also_known_as": [
+      "Summers PHC",
+      "Summers of Dayton",
+      "Summers Plumbing Heating & Cooling"
+    ],
+    "listing_names": [
+      "Summers Plumbing Heating & Cooling"
+    ],
+    "schema_type": "Plumber",
+    "title": "Summers Plumbing Heating & Cooling Dayton: License, Areas",
+    "meta_description": "Summers Plumbing Heating & Cooling (Summers of Dayton, Inc.), Centerville/Dayton: City of Dayton plumbing reg. 1843 and heating reg. 1994, services, 40 listed towns, and what the state license record shows. Independent profile.",
+    "headline": "Summers Plumbing Heating & Cooling: the Dayton branch of a multi-state plumbing and HVAC company",
+    "base_location": "Centerville / Dayton, OH",
+    "summary": [
+      "Summers Plumbing Heating & Cooling runs its only Ohio location from Compark Road in Centerville, south of Dayton, and does plumbing, drain, water heater, heating, air conditioning and indoor air work. The City of Dayton's registered contractor lists (active as of June 4, 2026) carry the company as Summers of Dayton, Inc., with plumbing registration 1843 and heating registration 1994.",
+      "The Dayton shop is one branch of a larger Summers company. Its BBB headquarters profile is in Brownsburg, Indiana, and the Summers site says the company operates in Indiana, Illinois and Ohio. Most searches for \"Summers plumbing\" are for the Indiana locations, so this page sticks to the Dayton branch: its registrations, services, the towns it names, and one licensing detail worth asking about before you book."
+    ],
+    "address": {
+      "street": "93 Compark Rd.",
+      "locality": "Centerville",
+      "region": "OH",
+      "postal_code": "45459",
+      "source": "https://summersphc.com/dayton/"
+    },
+    "phone": {
+      "number": "(937) 400-3920",
+      "source": "https://summersphc.com/dayton/"
+    },
+    "website": "https://summersphc.com/dayton/",
+    "facts": [
+      {
+        "label": "Other addresses on public records",
+        "value": "City of Dayton plumbing list: 93 F Compark Road; heating list and BBB: 55 R Compark Rd, Centerville, OH 45459. Same Compark Road complex as the site address.",
+        "source": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      },
+      {
+        "label": "Hours",
+        "value": "The site advertises 24-hour service. We did not find posted office hours on the Dayton pages, so call to confirm.",
+        "source": "https://summersphc.com/dayton/"
+      },
+      {
+        "label": "BBB profile",
+        "value": "Summers Plumbing Heating & Cooling of Dayton has its own BBB profile (BBB of Dayton and Miami Valley), accredited since June 17, 2013. Open the profile for BBB's current details.",
+        "source": "https://www.bbb.org/us/oh/centerville/profile/heating-and-air-conditioning/summers-plumbing-heating-cooling-of-dayton-0322-29535"
+      },
+      {
+        "label": "Company history",
+        "value": "The site says Summers has served customers since 1969. BBB lists the business start as 1969 and the Dayton entity's incorporation as March 27, 2008, so the 1969 date belongs to the wider Summers company.",
+        "source": "https://www.bbb.org/us/oh/centerville/profile/heating-and-air-conditioning/summers-plumbing-heating-cooling-of-dayton-0322-29535"
+      },
+      {
+        "label": "Owner and manager (per BBB)",
+        "value": "Frank Weaver, owner; Jimmy Scott, manager",
+        "source": "https://www.bbb.org/us/oh/centerville/profile/heating-and-air-conditioning/summers-plumbing-heating-cooling-of-dayton-0322-29535"
+      }
+    ],
+    "licenses": [
+      {
+        "authority": "City of Dayton",
+        "credential": "Registered plumbing contractor",
+        "number": "1843",
+        "holder": "Summers of Dayton, Inc, 93 F Compark Road",
+        "status": "Active as of 6/4/2026 (latest city list)",
+        "source": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      },
+      {
+        "authority": "City of Dayton",
+        "credential": "Registered heating contractor",
+        "number": "1994",
+        "holder": "Summers of Dayton, 55 R Compark Rd",
+        "status": "Active as of 6/4/2026 (latest city list)",
+        "source": "https://www.daytonohio.gov/DocumentCenter/View/254/Registered-Heating-Contractors-PDF"
+      },
+      {
+        "authority": "Ohio OCILB",
+        "credential": "Plumbing license number shown on the Summers website",
+        "number": "26672",
+        "status": "Not verified to Summers (OCILB roster, Oct 27, 2026)",
+        "note": "The Summers Dayton site footer shows \"Plumbing License: 26672\". In the Ohio OCILB roster we downloaded on October 27, 2026, PL.26672 and HV.26672 are active, but both are listed under the company name Ace Hardware Home Services Inc in Fairborn, not under a Summers name, and we found no active OCILB plumbing or HVAC contractor license under a Summers company name. This may be a stale or shared license record. Ask the company which Ohio license and which license holder cover your job.",
+        "source": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      }
+    ],
+    "services": [
+      "Plumbing repair and installation",
+      "24/7 emergency plumbing",
+      "Drain cleaning and camera inspection",
+      "Sewer line inspection, repair and replacement",
+      "Water heaters (tank and tankless)",
+      "Sump pumps",
+      "Slab leak detection and repair",
+      "Burst and frozen pipes, repiping",
+      "Toilets, faucets and garbage disposals",
+      "Water softeners, filtration and reverse osmosis",
+      "Furnace repair, maintenance and replacement",
+      "Boilers",
+      "Heat pumps",
+      "Air conditioning repair and installation",
+      "Ductless mini-splits",
+      "Duct cleaning and duct sealing",
+      "Air purification, HEPA and UV lights",
+      "Whole-home humidifiers"
+    ],
+    "services_source": "https://summersphc.com/dayton/",
+    "areas_served": [
+      "Beavercreek",
+      "Bellbrook",
+      "Blanchester",
+      "Brookville",
+      "Centerville",
+      "Clayton",
+      "Dayton",
+      "Englewood",
+      "Enon",
+      "Fairborn",
+      "Franklin",
+      "Germantown",
+      "Hamilton",
+      "Huber Heights",
+      "Kettering",
+      "Lebanon",
+      "Maineville",
+      "Mason",
+      "Medway",
+      "Miamisburg",
+      "Middletown",
+      "Monroe",
+      "Moraine",
+      "New Carlisle",
+      "Oakwood",
+      "Riverside",
+      "South Lebanon",
+      "Spring Valley",
+      "Springboro",
+      "Springfield",
+      "Tipp City",
+      "Trenton",
+      "Troy",
+      "Vandalia",
+      "Waynesville",
+      "West Carrollton",
+      "West Chester",
+      "Wilmington",
+      "Xenia",
+      "Yellow Springs"
+    ],
+    "areas_source": "https://summersphc.com/dayton/",
+    "notes": [
+      {
+        "title": "Dayton branch, Indiana headquarters",
+        "body": "Summers' Dayton page calls Centerville its only current location in Ohio. The other Summers branches, including the BBB headquarters profile in Brownsburg, are in Indiana. If you searched \"Summers plumbing\" from the Dayton area, the Centerville office at (937) 400-3920 is the one that serves you."
+      },
+      {
+        "title": "Ask which Ohio license covers the job",
+        "body": "The City of Dayton registrations (plumbing 1843, heating 1994) are active under Summers of Dayton. The state license number on the website, 26672, shows up in the Ohio roster under a different company name. That does not mean anything is wrong with your job, but for a water heater, sewer, gas line or furnace replacement that needs a permit, ask who will pull the permit and which Ohio license number is on it."
+      },
+      {
+        "title": "Best fit",
+        "body": "Summers covers plumbing, drains, heating, cooling and indoor air under one roof, so it fits households that want one company for both a water heater and a furnace. For a big replacement, get the price, model and labor warranty in writing and compare at least one other quote."
+      },
+      {
+        "title": "What this page is not",
+        "body": "PlumberLists has not hired this company and does not publish star ratings or review counts. Quote requests from this page go to PlumberLists, not to Summers. To reach the Dayton branch directly, call (937) 400-3920."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Summers Plumbing Heating & Cooling in Dayton?",
+        "answer": "The Summers Dayton site lists 93 Compark Rd., Centerville, OH 45459, with phone (937) 400-3920. City of Dayton and BBB records use nearby Compark Road unit addresses (93 F and 55 R Compark Rd)."
+      },
+      {
+        "question": "Is Summers registered with the City of Dayton?",
+        "answer": "Yes. The City of Dayton registered contractor lists, active as of June 4, 2026, show Summers of Dayton, Inc. with plumbing registration 1843 and Summers of Dayton with heating registration 1994."
+      },
+      {
+        "question": "Is Summers licensed by the State of Ohio?",
+        "answer": "The website footer shows plumbing license 26672. In the OCILB roster we downloaded on October 27, 2026, license 26672 is active but listed under Ace Hardware Home Services Inc in Fairborn, and we found no OCILB contractor license under a Summers company name. Ask Summers which Ohio license covers your job, and check it at the OCILB eLicense lookup."
+      },
+      {
+        "question": "Is the Dayton Summers the same as Summers in Indiana?",
+        "answer": "It is part of the same Summers company. BBB shows the headquarters in Brownsburg, Indiana, with the Dayton office in Centerville as one of its locations, and the Summers site says Dayton is its only current Ohio location."
+      },
+      {
+        "question": "Does Summers do both plumbing and HVAC?",
+        "answer": "Yes. The Dayton site lists plumbing, drains, sewer and water heater work along with furnaces, boilers, heat pumps, air conditioning, ductless mini-splits, duct cleaning and indoor air quality."
+      },
+      {
+        "question": "Which towns does Summers Dayton serve?",
+        "answer": "Its Dayton page lists 40 towns, including Dayton, Kettering, Centerville, Beavercreek, Huber Heights, Miamisburg, Springboro, Xenia, Fairborn, Troy, Springfield, Middletown, Mason and West Chester."
+      },
+      {
+        "question": "Is PlumberLists affiliated with Summers?",
+        "answer": "No. PlumberLists is an independent directory. This profile was compiled from public records and the company's own site, and the company did not write or pay for it."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Summers Plumbing Heating & Cooling, Dayton page (services, 40-town service area, address, phone, license number shown)",
+        "url": "https://summersphc.com/dayton/"
+      },
+      {
+        "label": "Summers Dayton: About Us",
+        "url": "https://summersphc.com/dayton/about-us/"
+      },
+      {
+        "label": "BBB profile: Summers Plumbing Heating & Cooling of Dayton",
+        "url": "https://www.bbb.org/us/oh/centerville/profile/heating-and-air-conditioning/summers-plumbing-heating-cooling-of-dayton-0322-29535"
+      },
+      {
+        "label": "BBB profile: Summers Plumbing Heating and Cooling headquarters (Brownsburg, IN) and locations",
+        "url": "https://www.bbb.org/us/in/brownsburg/profile/plumber/summers-plumbing-heating-and-cooling-0382-29000098"
+      },
+      {
+        "label": "City of Dayton Registered Plumbing Contractors list (active as of 6/4/2026)",
+        "url": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      },
+      {
+        "label": "City of Dayton Registered Heating Contractors list (active as of 6/4/2026)",
+        "url": "https://www.daytonohio.gov/DocumentCenter/View/254/Registered-Heating-Contractors-PDF"
+      },
+      {
+        "label": "Ohio OCILB license lookup (search license 26672)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "label": "Ohio OCILB HVAC and plumbing contractor roster download (generated Oct 27, 2026)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/GenerateRoster.aspx"
+      }
+    ],
+    "checked": "2026-10-27"
+  },
+  {
+    "slug": "evergreen-plumbing-drains-dayton-oh",
+    "name": "Evergreen Plumbing & Drains",
+    "legal_name": "Evergreen Plumbing LLC",
+    "also_known_as": [
+      "Evergreen Plumbing",
+      "EGP Ohio"
+    ],
+    "listing_names": [
+      "Evergreen Plumbing & Drains"
+    ],
+    "schema_type": "Plumber",
+    "title": "Evergreen Plumbing & Drains (Dayton, OH): License, Areas",
+    "meta_description": "Evergreen Plumbing & Drains, Dayton/Washington Twp: active Ohio plumbing license PL.50860 (OCILB, checked Oct 27, 2026), City of Dayton reg. 011228, services, Dayton and north Cincinnati areas. Independent profile.",
+    "headline": "Evergreen Plumbing & Drains: Dayton-area plumbing and drain company",
+    "base_location": "Dayton (Washington Township), OH",
+    "summary": [
+      "Evergreen Plumbing & Drains is a residential plumbing and drain company on Senate Drive in the Dayton suburbs (ZIP 45459, Washington Township near Centerville). The Ohio Construction Industry Licensing Board roster we downloaded on October 27, 2026 shows its plumbing contractor license, PL.50860, as active through October 10, 2027, held by Shawn R. Bush, whom the company's FAQ names as a co-owner. The City of Dayton lists it as a registered plumbing contractor (011228, active as of June 4, 2026).",
+      "It is a young company: BBB records a start date of April 1, 2023, and the site says it was founded by three friends. Its service-area page covers the south Dayton suburbs and a second cluster in north Cincinnati around Mason, so this page lays out exactly which towns it names, what it does, and how to tell it apart from the unrelated Evergreen Plumbing businesses in other states."
+    ],
+    "address": {
+      "street": "991 Senate Drive",
+      "locality": "Dayton",
+      "region": "OH",
+      "postal_code": "45459",
+      "source": "https://egpohio.com/contact"
+    },
+    "phone": {
+      "number": "(937) 210-4386",
+      "source": "https://egpohio.com/contact"
+    },
+    "website": "https://egpohio.com/",
+    "facts": [
+      {
+        "label": "Office hours listed",
+        "value": "Contact page: Mon to Fri 7 AM to 5 PM, Sat and Sun closed. The site footer on other pages says 24 hours a day, 7 days a week, so call to confirm after-hours service.",
+        "source": "https://egpohio.com/contact"
+      },
+      {
+        "label": "Second location (per BBB)",
+        "value": "93 W Franklin Street, Centerville, OH 45459",
+        "source": "https://www.bbb.org/us/oh/dayton/profile/plumber/evergreen-plumbing-drains-0322-1440105713"
+      },
+      {
+        "label": "BBB profile",
+        "value": "BBB of Dayton and Miami Valley lists Evergreen Plumbing & Drains as accredited since July 15, 2024. Open the profile for BBB's current details.",
+        "source": "https://www.bbb.org/us/oh/dayton/profile/plumber/evergreen-plumbing-drains-0322-1440105713"
+      },
+      {
+        "label": "Business started (per BBB)",
+        "value": "April 1, 2023; LLC incorporated April 23, 2023",
+        "source": "https://www.bbb.org/us/oh/dayton/profile/plumber/evergreen-plumbing-drains-0322-1440105713"
+      },
+      {
+        "label": "Maintenance plan",
+        "value": "The site advertises a maintenance program that includes a drain inspection; check current terms with the company.",
+        "source": "https://egpohio.com/"
+      }
+    ],
+    "licenses": [
+      {
+        "authority": "Ohio OCILB",
+        "credential": "Plumbing contractor license",
+        "number": "PL.50860",
+        "holder": "Shawn R Bush, for Evergreen Plumbing LLC",
+        "status": "Active (OCILB roster, Oct 27, 2026)",
+        "expires": "2027-10-10",
+        "note": "The company FAQ names Shawn Bush as co-owner and license holder. The roster lists a residential mailing address for the license, which we do not republish; the business address is the Senate Drive office.",
+        "source": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "authority": "City of Dayton",
+        "credential": "Registered plumbing contractor",
+        "number": "011228",
+        "holder": "Evergreen Plumbing & Drains, 991 Senate Drive",
+        "status": "Active as of 6/4/2026 (latest city list)",
+        "source": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      }
+    ],
+    "services": [
+      "Drain cleaning",
+      "Drain and sewer repair",
+      "Excavation and underground work",
+      "Water heater installation, repair and maintenance",
+      "Sump pump installation and maintenance",
+      "Water softeners and filtration",
+      "Gas lines",
+      "Repiping",
+      "Outdoor plumbing",
+      "Well system and well pump service",
+      "Backflow prevention",
+      "General plumbing repair"
+    ],
+    "services_source": "https://egpohio.com/service-area",
+    "areas_served": [
+      "Dayton",
+      "Kettering",
+      "Miamisburg",
+      "Beavercreek",
+      "Centerville",
+      "Huber Heights",
+      "Oakwood",
+      "Trotwood",
+      "Bellbrook",
+      "Riverside",
+      "Springboro",
+      "Washington Township",
+      "Mason",
+      "Monroe",
+      "Morrow",
+      "Hamilton",
+      "Fairfield",
+      "Sharonville",
+      "Kings Mills",
+      "Lebanon",
+      "Liberty Township",
+      "Maineville",
+      "Glendale",
+      "Blue Ash",
+      "Loveland",
+      "South Lebanon"
+    ],
+    "areas_source": "https://egpohio.com/service-area",
+    "notes": [
+      {
+        "title": "Not the other Evergreen Plumbing companies",
+        "body": "\"Evergreen Plumbing\" is a common business name, and searches for it pull up unrelated companies in other states. The Dayton company on this page uses the domain egpohio.com, the phone (937) 210-4386 and Ohio license PL.50860. Check those three before you book."
+      },
+      {
+        "title": "Best fit",
+        "body": "Its site leads with drains, sewers, water heaters, sump pumps and water treatment, and it also handles well pumps and excavation, which matters on the rural edges of Greene and Warren counties. For a sewer job, ask whether the camera inspection is included and get dig versus repair options in writing."
+      },
+      {
+        "title": "Young company, checked records",
+        "body": "BBB dates the business to 2023, so it has a shorter track record than the decades-old shops in our lists. The state license and City of Dayton registration were both active when we checked."
+      },
+      {
+        "title": "What this page is not",
+        "body": "PlumberLists has not hired this company and does not publish star ratings or review counts. Quote requests from this page go to PlumberLists, not to Evergreen. To reach Evergreen directly, call (937) 210-4386."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is Evergreen Plumbing & Drains licensed in Ohio?",
+        "answer": "Yes. The OCILB roster we downloaded on October 27, 2026 lists Evergreen Plumbing LLC with plumbing contractor license PL.50860, status Active, held by Shawn R Bush and expiring October 10, 2027. The company's FAQ lists the same license."
+      },
+      {
+        "question": "Is Evergreen registered with the City of Dayton?",
+        "answer": "Yes. The City of Dayton Registered Plumbing Contractors list, active as of June 4, 2026, includes Evergreen Plumbing & Drains at 991 Senate Drive with registration 011228."
+      },
+      {
+        "question": "Where is Evergreen Plumbing & Drains, and what are its hours?",
+        "answer": "The office is at 991 Senate Drive, Dayton, OH 45459, phone (937) 210-4386. The contact page lists Monday to Friday, 7 AM to 5 PM, while other pages advertise 24/7 availability, so call to confirm emergency hours."
+      },
+      {
+        "question": "What areas does Evergreen serve?",
+        "answer": "Its service-area page names Dayton, Kettering, Miamisburg, Beavercreek, Centerville, Huber Heights, Oakwood, Trotwood, Bellbrook, Riverside, Springboro and Washington Township, plus a north Cincinnati group including Mason, Lebanon, Fairfield, Hamilton, Liberty Township, Blue Ash and Loveland."
+      },
+      {
+        "question": "How long has Evergreen been in business?",
+        "answer": "BBB lists a business start date of April 1, 2023, and the company says it was founded by three friends with more than 10 years of experience each."
+      },
+      {
+        "question": "Is PlumberLists affiliated with Evergreen Plumbing & Drains?",
+        "answer": "No. PlumberLists is an independent directory. This profile was compiled from public records and the company's own site, and the company did not write or pay for it."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Evergreen Plumbing & Drains home page (about, license, address)",
+        "url": "https://egpohio.com/"
+      },
+      {
+        "label": "Evergreen: service area and services",
+        "url": "https://egpohio.com/service-area"
+      },
+      {
+        "label": "Evergreen: FAQ (license holder)",
+        "url": "https://egpohio.com/faq"
+      },
+      {
+        "label": "Evergreen: contact page (hours, phone)",
+        "url": "https://egpohio.com/contact"
+      },
+      {
+        "label": "BBB profile: Evergreen Plumbing & Drains",
+        "url": "https://www.bbb.org/us/oh/dayton/profile/plumber/evergreen-plumbing-drains-0322-1440105713"
+      },
+      {
+        "label": "City of Dayton Registered Plumbing Contractors list (active as of 6/4/2026)",
+        "url": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      },
+      {
+        "label": "Ohio OCILB license lookup (plumbing license 50860)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "label": "Ohio OCILB HVAC and plumbing contractor roster download (generated Oct 27, 2026)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/GenerateRoster.aspx"
+      }
+    ],
+    "checked": "2026-10-27"
+  },
+  {
+    "slug": "thomas-galbraith-heating-cooling-plumbing",
+    "name": "Thomas & Galbraith Heating, Cooling & Plumbing",
+    "legal_name": "Thomas & Galbraith",
+    "also_known_as": [
+      "Thomas & Galbraith Heating, Cooling, Plumbing & Electrical",
+      "Thomas and Galbraith"
+    ],
+    "listing_names": [
+      "Thomas & Galbraith Heating, Cooling & Plumbing"
+    ],
+    "schema_type": "Plumber",
+    "title": "Thomas & Galbraith Plumbing (Dayton & Cincinnati): License",
+    "meta_description": "Thomas & Galbraith Heating, Cooling & Plumbing: Ohio plumbing PL.51014 and HVAC HV.49040 (OCILB, Oct 27, 2026), City of Dayton regs, Dayton, Centerville, Mason and Fairfield offices, service area. Independent profile.",
+    "headline": "Thomas & Galbraith: Cincinnati and Dayton plumbing, heating, cooling and electrical company",
+    "base_location": "Fairfield (Cincinnati area) and Dayton, OH",
+    "summary": [
+      "Thomas & Galbraith is a southwest Ohio home services company headquartered on LeSaint Drive in Fairfield, north of Cincinnati, with offices it lists in Dayton (Webster Street), Centerville and Mason. It does plumbing, drains and sewers, heating, air conditioning and electrical work. The Ohio OCILB roster we downloaded on October 27, 2026 shows active plumbing license PL.51014 and HVAC license HV.49040 under the Thomas & Galbraith name, and the City of Dayton lists it as both a registered plumbing contractor (010843) and a registered heating contractor (010855), active as of June 4, 2026.",
+      "This page covers the plumbing side for Dayton-area homeowners: which offices and towns it names, which license numbers check out on the state roster, and a mismatch in the license numbers printed on its own site that is worth knowing about."
+    ],
+    "address": {
+      "street": "9520 LeSaint Drive",
+      "locality": "Fairfield",
+      "region": "OH",
+      "postal_code": "45014",
+      "source": "https://thomasgalbraith.com/"
+    },
+    "phone": {
+      "number": "(513) 327-2578",
+      "source": "https://thomasgalbraith.com/"
+    },
+    "website": "https://thomasgalbraith.com/",
+    "facts": [
+      {
+        "label": "Other offices listed",
+        "value": "Dayton: 6344 Webster Street, Dayton, OH 45414. Centerville: 93 W Franklin St, Ste 305, Centerville, OH 45459. Mason: 8563 Mason Montgomery Rd, Ste 30 C, Mason, OH 45040.",
+        "source": "https://thomasgalbraith.com/"
+      },
+      {
+        "label": "Hours",
+        "value": "The site advertises 24-hour service, and BBB lists the headquarters as open 24 hours, 7 days.",
+        "source": "https://www.bbb.org/us/oh/fairfield/profile/heating-and-air-conditioning/thomas-galbraith-heating-cooling-plumbing-0292-90013473"
+      },
+      {
+        "label": "BBB profile",
+        "value": "BBB Cincinnati lists the Fairfield headquarters as accredited since September 23, 2015, with the Dayton Webster Street office as a second location. Open the profile for BBB's current details.",
+        "source": "https://www.bbb.org/us/oh/fairfield/profile/heating-and-air-conditioning/thomas-galbraith-heating-cooling-plumbing-0292-90013473"
+      },
+      {
+        "label": "Ownership (per BBB)",
+        "value": "BBB notes that Thomas & Galbraith, previously under Williams Comfort Air, was acquired by The Wrench Group. BBB lists Adam Hanekamp as general manager.",
+        "source": "https://www.bbb.org/us/oh/fairfield/profile/heating-and-air-conditioning/thomas-galbraith-heating-cooling-plumbing-0292-90013473"
+      },
+      {
+        "label": "Company history",
+        "value": "The site says the company has offered its service approach since 1977. BBB lists the current business as started December 31, 2014.",
+        "source": "https://www.bbb.org/us/oh/fairfield/profile/heating-and-air-conditioning/thomas-galbraith-heating-cooling-plumbing-0292-90013473"
+      },
+      {
+        "label": "Kentucky licenses (company-stated, not checked)",
+        "value": "The site lists KY HVAC HM06160, KY plumbing M5308 and KY electrical ME67222. We did not check Kentucky records for this Ohio profile.",
+        "source": "https://thomasgalbraith.com/"
+      }
+    ],
+    "licenses": [
+      {
+        "authority": "Ohio OCILB",
+        "credential": "Plumbing contractor license",
+        "number": "PL.51014",
+        "holder": "Adam C Hanekamp, for Thomas & Galbraith",
+        "status": "Active (OCILB roster, Oct 27, 2026)",
+        "expires": "2027-02-25",
+        "note": "Matches the Ohio plumbing license in the site footer and the Fairfield LeSaint Dr address.",
+        "source": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "authority": "Ohio OCILB",
+        "credential": "HVAC contractor license",
+        "number": "HV.49040",
+        "holder": "Roger W Elkins, for Thomas & Galbraith",
+        "status": "Active (OCILB roster, Oct 27, 2026)",
+        "expires": "2027-11-22",
+        "note": "Matches the Ohio HVAC license on the site. The roster lists an out-of-state mailing address for this license record.",
+        "source": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "authority": "City of Dayton",
+        "credential": "Registered plumbing contractor",
+        "number": "010843",
+        "holder": "Thomas & Galbraith, 6344 Webster St",
+        "status": "Active as of 6/4/2026 (latest city list)",
+        "source": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      },
+      {
+        "authority": "City of Dayton",
+        "credential": "Registered heating contractor",
+        "number": "010855",
+        "holder": "Thomas & Galbraith, 9520 Le Saint Drive",
+        "status": "Active as of 6/4/2026 (latest city list)",
+        "source": "https://www.daytonohio.gov/DocumentCenter/View/254/Registered-Heating-Contractors-PDF"
+      }
+    ],
+    "services": [
+      "Plumbing repair",
+      "Emergency plumbing",
+      "Leak repair",
+      "Water heaters",
+      "Sump pumps",
+      "Water softening",
+      "Toilets, faucets and garbage disposals",
+      "Drain cleaning and rooter service",
+      "Hydro jetting",
+      "Sewer repair and replacement",
+      "Pipe lining",
+      "Furnace and heating repair and replacement",
+      "Air conditioning repair and replacement",
+      "Heat pumps",
+      "Boilers",
+      "Ductless systems",
+      "Indoor air quality and duct cleaning",
+      "Electrical repair, panels and surge protection",
+      "Generator installation and repair",
+      "EV charging stations"
+    ],
+    "services_source": "https://thomasgalbraith.com/",
+    "areas_served": [
+      "Dayton",
+      "Beavercreek",
+      "Bellbrook",
+      "Centerville",
+      "Englewood",
+      "Fairborn",
+      "Franklin",
+      "Germantown",
+      "Huber Heights",
+      "Kettering",
+      "Miamisburg",
+      "Moraine",
+      "Oakwood",
+      "Riverside",
+      "Springboro",
+      "Springfield",
+      "Tipp City",
+      "Trotwood",
+      "Troy",
+      "Vandalia",
+      "Waynesville",
+      "West Carrollton",
+      "Lebanon",
+      "Middletown",
+      "Hamilton",
+      "Fairfield",
+      "Mason",
+      "West Chester",
+      "Wilmington",
+      "Oxford",
+      "Anderson Township",
+      "Blue Ash",
+      "Cheviot",
+      "Colerain",
+      "Forest Park",
+      "Indian Hill",
+      "Kenwood",
+      "Loveland",
+      "Montgomery",
+      "Norwood",
+      "Oakley",
+      "Sharonville",
+      "Springdale",
+      "Covington, KY",
+      "Erlanger, KY",
+      "Florence, KY",
+      "Fort Thomas, KY",
+      "Independence, KY",
+      "Maysville, KY",
+      "Newport, KY"
+    ],
+    "areas_source": "https://thomasgalbraith.com/location/",
+    "notes": [
+      {
+        "title": "Two Ohio plumbing numbers on its own site",
+        "body": "The site header lists Ohio plumbing license PL.49661, while the footer lists PL.51014. In the OCILB roster we downloaded on October 27, 2026, PL.51014 is active under Thomas & Galbraith in Fairfield. PL.49661 is active but listed under a different company, Buckeye Heating, Cooling & Plumbing in Worthington. Use PL.51014 when you check the license, and ask whose license will be on your permit."
+      },
+      {
+        "title": "Cincinnati company with a Dayton office",
+        "body": "Headquarters and most of the named towns are in Greater Cincinnati and northern Kentucky. For Dayton-area work, the Webster Street office on the north side and the Centerville office are the relevant ones, and the City of Dayton registrations list the Webster Street and LeSaint Drive addresses."
+      },
+      {
+        "title": "Best fit",
+        "body": "It covers plumbing, drains, HVAC and electrical, so it suits jobs that cross trades, like a water heater swap that needs a new gas line or a generator with panel work. For larger jobs, get the scope, model numbers and warranty terms in writing."
+      },
+      {
+        "title": "What this page is not",
+        "body": "PlumberLists has not hired this company and does not publish star ratings or review counts. Quote requests from this page go to PlumberLists, not to Thomas & Galbraith. To reach the company directly, call (513) 327-2578."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is Thomas & Galbraith licensed in Ohio?",
+        "answer": "Yes. The OCILB roster we downloaded on October 27, 2026 lists Thomas & Galbraith with plumbing contractor license PL.51014 (held by Adam C Hanekamp, expires February 25, 2027) and HVAC contractor license HV.49040 (held by Roger W Elkins, expires November 22, 2027), both active."
+      },
+      {
+        "question": "Is Thomas & Galbraith registered with the City of Dayton?",
+        "answer": "Yes. The City of Dayton lists, active as of June 4, 2026, show Thomas & Galbraith as a registered plumbing contractor (010843, 6344 Webster St) and a registered heating contractor (010855, 9520 Le Saint Drive)."
+      },
+      {
+        "question": "Why does the Thomas & Galbraith site show two plumbing license numbers?",
+        "answer": "Its header lists PL.49661 and its footer lists PL.51014. The state roster shows PL.51014 under Thomas & Galbraith and PL.49661 under Buckeye Heating, Cooling & Plumbing in Worthington. We could not confirm why both appear; check PL.51014 and ask the company whose license will be on your permit."
+      },
+      {
+        "question": "Does Thomas & Galbraith have a Dayton office?",
+        "answer": "Yes. The site lists a Dayton office at 6344 Webster Street, Dayton, OH 45414, and a Centerville office at 93 W Franklin St, Ste 305. The headquarters is at 9520 LeSaint Drive in Fairfield."
+      },
+      {
+        "question": "Is Thomas & Galbraith open 24/7?",
+        "answer": "The site advertises 24-hour service, and BBB lists the headquarters as open 24 hours every day."
+      },
+      {
+        "question": "Who owns Thomas & Galbraith?",
+        "answer": "BBB says the company, previously under Williams Comfort Air, was acquired by The Wrench Group, a national home services group. We did not find an ownership statement on the company's own site."
+      },
+      {
+        "question": "Is PlumberLists affiliated with Thomas & Galbraith?",
+        "answer": "No. PlumberLists is an independent directory. This profile was compiled from public records and the company's own site, and the company did not write or pay for it."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Thomas & Galbraith home page (services, offices, license numbers shown)",
+        "url": "https://thomasgalbraith.com/"
+      },
+      {
+        "label": "Thomas & Galbraith: service-area index",
+        "url": "https://thomasgalbraith.com/location/"
+      },
+      {
+        "label": "BBB profile: Thomas & Galbraith Heating, Cooling & Plumbing (Fairfield HQ and Dayton location)",
+        "url": "https://www.bbb.org/us/oh/fairfield/profile/heating-and-air-conditioning/thomas-galbraith-heating-cooling-plumbing-0292-90013473"
+      },
+      {
+        "label": "City of Dayton Registered Plumbing Contractors list (active as of 6/4/2026)",
+        "url": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      },
+      {
+        "label": "City of Dayton Registered Heating Contractors list (active as of 6/4/2026)",
+        "url": "https://www.daytonohio.gov/DocumentCenter/View/254/Registered-Heating-Contractors-PDF"
+      },
+      {
+        "label": "Ohio OCILB license lookup (plumbing 51014, HVAC 49040, plumbing 49661)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "label": "Ohio OCILB HVAC and plumbing contractor roster download (generated Oct 27, 2026)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/GenerateRoster.aspx"
+      }
+    ],
+    "checked": "2026-10-27"
   }
 ]
