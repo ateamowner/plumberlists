@@ -118,7 +118,18 @@ export function faqs(city: City, service: Service): Faq[] {
   ];
 }
 
+/** Dayton-only FAQ, answered from the City of Dayton's own registration pages (2026-10-26). */
+const DAYTON_REGISTRATION_FAQ: Faq = {
+  question: 'Does Dayton require plumbers to be registered?',
+  answer: "Yes. The City of Dayton's Division of Building Inspection runs a registration program for plumbing, mechanical (HVAC) and electrical contractors. The City's 2026 Plumbing Contractor Registration Application asks for a certificate of liability insurance naming the City of Dayton, a surety bond for the calendar year, and a copy of the contractor's current State of Ohio plumbing contractor license, and it is renewed every year. The City publishes the active list as Registered Plumbing Contractors (PDF) at daytonohio.gov/691/Registered-Contractors-Lists. Every Dayton company on PlumberLists was checked against that list; ask any plumber for their City registration number before work starts. Sources: https://daytonohio.gov/190/Building-Inspection and https://www.daytonohio.gov/DocumentCenter/View/16908/Plumbing-Contractor-Registration-Form-PDF",
+};
+
 export function hubFaqs(city: City): Faq[] {
+  const base = baseHubFaqs(city);
+  return city.slug === "dayton-oh" ? [...base, DAYTON_REGISTRATION_FAQ] : base;
+}
+
+function baseHubFaqs(city: City): Faq[] {
   return [
     {
       question: `What is the ${city.name} ${site.name} hub?`,

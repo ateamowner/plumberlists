@@ -24,9 +24,14 @@ import {
   faqPageSchema,
   hubBreadcrumbs,
   hubListingsItemListSchema,
+  webPageSchema,
   publisherLocalBusiness,
 } from "@/lib/schema";
-import { getCityListings } from "@/lib/listings";
+import {
+  formatVerifiedDate,
+  getCityListings,
+  newestVerifiedDate,
+} from "@/lib/listings";
 import { shareMeta } from "@/lib/share-meta";
 
 export const dynamicParams = false;
@@ -66,6 +71,9 @@ export default async function CityHubPage({
   const plumbing = getService("plumbing");
   const questions = hubFaqs(city);
   const cityListings = getCityListings(city.slug);
+  const updated = newestVerifiedDate(
+    cityListings.map((entry) => entry.listing)
+  );
   const hubItemList = hubListingsItemListSchema(
     city,
     cityListings.map((entry) => entry.listing)
@@ -78,6 +86,7 @@ export default async function CityHubPage({
           publisherLocalBusiness(city),
           faqPageSchema(questions),
           hubBreadcrumbs(city),
+          webPageSchema(cityPath(city), hubTitle(city), updated),
           ...(hubItemList ? [hubItemList] : []),
         ]}
       />
@@ -92,8 +101,17 @@ export default async function CityHubPage({
         <header id="hero" className="lg:col-start-1">
           <p className="text-sm font-medium text-primary">{city.state}</p>
           <h1 className="type-h1 mt-2 font-heading font-semibold tracking-tight">
-            {`Plumbing in ${city.name}, ${city.stateAbbr}`}
+            {cityListings.length > 0
+              ? `Best Plumbers in ${city.name}, ${city.stateAbbr}`
+              : `Plumbing in ${city.name}, ${city.stateAbbr}`}
           </h1>
+          {updated ? (
+            <p className="mt-2 text-sm text-muted-foreground">
+              Updated{" "}
+              <time dateTime={updated}>{formatVerifiedDate(updated)}</time>
+              {` · ${cityListings.length} verified ${cityListings.length === 1 ? "company" : "companies"}`}
+            </p>
+          ) : null}
           <p className="mt-3 rounded-md border border-border bg-muted/60 px-3 py-2 text-sm">
             {site.name} is a directory, not a plumber. Paid spots are labeled.
           </p>

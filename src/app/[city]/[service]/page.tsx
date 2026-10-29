@@ -30,12 +30,17 @@ import {
   introParagraphs,
   metaDescription,
 } from "@/lib/content";
-import { getListings } from "@/lib/listings";
+import {
+  getListings,
+  formatVerifiedDate,
+  newestVerifiedDate,
+} from "@/lib/listings";
 import {
   faqPageSchema,
   listingsItemListSchema,
   publisherLocalBusiness,
   servicePageBreadcrumbs,
+  webPageSchema,
 } from "@/lib/schema";
 import { shareMeta } from "@/lib/share-meta";
 
@@ -93,6 +98,7 @@ export default async function ServicePage({
   const cost = costGuideCopy(city, service);
   const questions = faqs(city, service);
   const listings = getListings(city.slug, service.slug);
+  const updated = newestVerifiedDate(listings);
 
   return (
     <article className="mx-auto w-full max-w-6xl px-4 py-8 sm:px-6 sm:py-10">
@@ -101,6 +107,7 @@ export default async function ServicePage({
           publisherLocalBusiness(city),
           faqPageSchema(questions),
           servicePageBreadcrumbs(city, service),
+          webPageSchema(servicePath(city, service), heading, updated),
           listingsItemListSchema(city, service, listings),
         ].filter(Boolean)}
       />
@@ -121,6 +128,13 @@ export default async function ServicePage({
           <h1 className="type-h1 mt-2 font-heading font-semibold tracking-tight sm:text-balance">
             {heading}
           </h1>
+          {updated ? (
+            <p className="mt-2 text-sm text-muted-foreground">
+              Updated{" "}
+              <time dateTime={updated}>{formatVerifiedDate(updated)}</time>
+              {` · ${listings.length} verified ${listings.length === 1 ? "listing" : "listings"}`}
+            </p>
+          ) : null}
           <p className="mt-3 rounded-md border border-border bg-muted/60 px-3 py-2 text-sm">
             {site.name} is a directory, not a plumber. Paid spots are labeled.
           </p>
