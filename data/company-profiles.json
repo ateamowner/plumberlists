@@ -1193,5 +1193,733 @@
       }
     ],
     "checked": "2026-10-27"
+  },
+  {
+    "slug": "mr-rooter-plumbing-of-dayton-oh",
+    "name": "Mr. Rooter Plumbing of Dayton",
+    "also_known_as": [
+      "Mr. Rooter Dayton",
+      "Mr. Rooter Plumbing Dayton OH"
+    ],
+    "listing_names": [
+      "Mr. Rooter Plumbing of Dayton"
+    ],
+    "schema_type": "Plumber",
+    "title": "Mr. Rooter Plumbing of Dayton: Ohio License, Hours, Areas",
+    "meta_description": "Mr. Rooter Plumbing of Dayton (1400 Linden Ave): Ohio plumbing license PL.13244 (OCILB, Oct 29, 2026), City of Dayton reg. 011207, posted hours, 47 towns, warranties, and how it differs from Roto-Rooter. Independent profile.",
+    "headline": "Mr. Rooter Plumbing of Dayton: the local Mr. Rooter franchise on Linden Avenue",
+    "base_location": "Dayton, OH",
+    "summary": [
+      "Mr. Rooter Plumbing of Dayton is the independently owned Mr. Rooter franchise that serves the Dayton area from 1400 Linden Ave in Dayton. It handles residential and commercial plumbing: drain cleaning, water heaters, sump pumps, gas lines, well pumps and emergency calls. The license number on its site, 13244, matches Ohio plumbing contractor license PL.13244 in the OCILB roster we downloaded on October 29, 2026, filed under the company name Trades RTR, LLC. The City of Dayton's registered plumbing contractor list (active as of June 4, 2026) carries Trades RTR under registration 011207.",
+      "Mr. Rooter is a national brand owned by Neighborly, and each location is independently owned. This page covers the Dayton location only: its license and city registration, posted hours, the 47 towns its location pages name, its written warranty terms, and the details that differ between its site and its BBB profile. It is not the same company as Roto-Rooter."
+    ],
+    "address": {
+      "street": "1400 Linden Ave",
+      "locality": "Dayton",
+      "region": "OH",
+      "postal_code": "45410",
+      "source": "https://www.bbb.org/us/oh/dayton/profile/plumber/mr-rooter-plumbing-of-dayton-0322-29183"
+    },
+    "phone": {
+      "number": "(937) 306-7542",
+      "source": "https://www.mrrooter.com/dayton/"
+    },
+    "website": "https://www.mrrooter.com/dayton/",
+    "facts": [
+      {
+        "label": "Hours",
+        "value": "The location page's business data lists Monday to Thursday 8:00 AM to 7:00 PM, Friday 8:00 AM to 6:00 PM, Saturday 9:00 AM to 6:00 PM and Sunday 9:00 AM to 5:00 PM. The site also says calls are answered 24/7 for scheduling, and BBB lists the business as open 24 hours.",
+        "source": "https://www.mrrooter.com/locations/ohio/germantown/"
+      },
+      {
+        "label": "After-hours pricing claim",
+        "value": "The about page says the company does not charge more for weekend, holiday or middle-of-the-night calls. Confirm the price before work starts.",
+        "source": "https://www.mrrooter.com/dayton/about-us/"
+      },
+      {
+        "label": "Written warranty terms (per company site)",
+        "value": "Residential drain cleaning 30 days, general repairs 90 days, full replacements 1 year. Commercial workmanship 30 days.",
+        "source": "https://www.mrrooter.com/dayton/about-us/"
+      },
+      {
+        "label": "Financing",
+        "value": "The site names Greensky and Goodleap as its financing options.",
+        "source": "https://www.mrrooter.com/dayton/about-us/"
+      },
+      {
+        "label": "ZIP code on the website",
+        "value": "The site footer prints the address as \"1400 Linden Ave, Dayton OH, 45014\". BBB uses Dayton, OH 45410-3010. We show the BBB ZIP.",
+        "source": "https://www.mrrooter.com/locations/ohio/germantown/"
+      },
+      {
+        "label": "BBB profile",
+        "value": "BBB of Dayton and Miami Valley lists the business as accredited since September 16, 2024 (file opened April 16, 2013). Open the profile for BBB's current details.",
+        "source": "https://www.bbb.org/us/oh/dayton/profile/plumber/mr-rooter-plumbing-of-dayton-0322-29183"
+      },
+      {
+        "label": "Ownership and history (per BBB)",
+        "value": "BBB lists a business start of January 1, 1987, a date of new ownership of March 1, 2024, and Bill Hammond as CEO. The Dayton home page says \"since 1993\" and the about page says \"since 1994\".",
+        "source": "https://www.bbb.org/us/oh/dayton/profile/plumber/mr-rooter-plumbing-of-dayton-0322-29183"
+      },
+      {
+        "label": "Other phone on BBB",
+        "value": "BBB lists (937) 518-6172. The website number is (937) 306-7542.",
+        "source": "https://www.bbb.org/us/oh/dayton/profile/plumber/mr-rooter-plumbing-of-dayton-0322-29183"
+      }
+    ],
+    "licenses": [
+      {
+        "authority": "Ohio OCILB",
+        "credential": "Plumbing contractor license",
+        "number": "PL.13244",
+        "holder": "Leonard R Dolly III, for Trades RTR, LLC (Blacklick, OH)",
+        "status": "Active in renewal (OCILB roster, Oct 29, 2026)",
+        "expires": "2026-12-31",
+        "note": "The Mr. Rooter Dayton location page shows \"License # 13244\", and BBB lists PL.13244 for this business. The state roster files it under Trades RTR, LLC rather than the Mr. Rooter name.",
+        "source": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "authority": "City of Dayton",
+        "credential": "Registered plumbing contractor",
+        "number": "011207",
+        "holder": "Trades RTR, 405 N Brice Rd",
+        "status": "Active as of 6/4/2026 (latest city list)",
+        "source": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      }
+    ],
+    "services": [
+      "Drain cleaning (kitchen, bathroom and main sewer lines)",
+      "Camera inspection of drains",
+      "Basement drains",
+      "Water heater repair, replacement and installation",
+      "Tankless water heater installation",
+      "Sump pump installation, repair and replacement",
+      "Well pump replacement and well systems",
+      "Gas line repair",
+      "Backflow testing (certified testers, per company site)",
+      "Sink repair and plumbing remodeling",
+      "Plumbing maintenance",
+      "24/7 emergency service",
+      "Commercial drain cleaning and pipe repair"
+    ],
+    "services_source": "https://www.mrrooter.com/dayton/",
+    "areas_served": [
+      "Alpha",
+      "Beavercreek",
+      "Bellbrook",
+      "Bowersville",
+      "Bradford",
+      "Brookville",
+      "Casstown",
+      "Cedarville",
+      "Centerville",
+      "Clayton",
+      "Clifton",
+      "Conover",
+      "Covington",
+      "Dayton",
+      "Donnelsville",
+      "Englewood",
+      "Enon",
+      "Fairborn",
+      "Farmersville",
+      "Fletcher",
+      "Germantown",
+      "Gettysburg",
+      "Huber Heights",
+      "Jamestown",
+      "Laura",
+      "Ludlow Falls",
+      "Medway",
+      "Miamisburg",
+      "New Carlisle",
+      "New Lebanon",
+      "North Hampton",
+      "Phillipsburg",
+      "Piqua",
+      "Pleasant Hill",
+      "South Charleston",
+      "South Vienna",
+      "Spring Valley",
+      "Springfield",
+      "Tipp City",
+      "Tremont City",
+      "Trotwood",
+      "Troy",
+      "Vandalia",
+      "West Milton",
+      "Wilberforce",
+      "Xenia",
+      "Yellow Springs"
+    ],
+    "areas_source": "https://www.mrrooter.com/locations/ohio/germantown/",
+    "notes": [
+      {
+        "title": "Mr. Rooter is not Roto-Rooter",
+        "body": "The names are close but the companies are not related. Mr. Rooter is a Neighborly franchise brand. Roto-Rooter has its own Dayton operation, licensed separately (OCILB PL.28958, Roto-Rooter Services Company, Stanley Ave). If you are calling back about a past job, check which one did the work."
+      },
+      {
+        "title": "Who holds the license",
+        "body": "The state license and the City of Dayton registration are filed under Trades RTR, LLC at a Blacklick (Columbus-area) address, not under the Mr. Rooter name or the Linden Ave shop. The number matches the one on the Dayton site and on BBB. For a permit job like a water heater, gas line or sewer repair, ask which license will be on the permit."
+      },
+      {
+        "title": "Hours vs. 24/7",
+        "body": "The location page lists regular hours seven days a week, and the phone line takes scheduling calls around the clock. The about page says it does not charge more for nights, weekends or holidays. Get the price in writing before work starts, whatever time you call."
+      },
+      {
+        "title": "Best fit",
+        "body": "Drain and sewer backups, water heater swaps, sump pumps and well pumps across a wide area north and east of Dayton, including Miami, Greene and Clark County towns. For a big job like sewer replacement or repiping, get the scope and warranty in writing and compare at least one other quote."
+      },
+      {
+        "title": "What this page is not",
+        "body": "PlumberLists has not hired this company and does not publish star ratings or review counts. Quote requests from this page go to PlumberLists, not to Mr. Rooter. To reach the Dayton location directly, call (937) 306-7542."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is Mr. Rooter Plumbing of Dayton licensed in Ohio?",
+        "answer": "Yes. The license number on its site, 13244, is active in the OCILB roster we downloaded on October 29, 2026 as plumbing contractor license PL.13244 (status Active in renewal, expires December 31, 2026). The roster lists the company as Trades RTR, LLC. BBB lists the same license for Mr. Rooter Plumbing of Dayton."
+      },
+      {
+        "question": "Is Mr. Rooter of Dayton registered with the City of Dayton?",
+        "answer": "Yes. The City of Dayton registered plumbing contractor list, active as of June 4, 2026, includes Trades RTR (405 N Brice Rd) with registration 011207, the company named on the state license."
+      },
+      {
+        "question": "Where is Mr. Rooter Plumbing of Dayton located?",
+        "answer": "1400 Linden Ave, Dayton, OH, per the company site and BBB. BBB gives the ZIP as 45410. The site footer prints 45014. Phone: (937) 306-7542."
+      },
+      {
+        "question": "What are Mr. Rooter Dayton's hours?",
+        "answer": "Its location page lists Monday to Thursday 8 AM to 7 PM, Friday 8 AM to 6 PM, Saturday 9 AM to 6 PM and Sunday 9 AM to 5 PM, with 24/7 phone scheduling. BBB lists it as open 24 hours."
+      },
+      {
+        "question": "Is Mr. Rooter the same as Roto-Rooter?",
+        "answer": "No. They are separate companies with separate Ohio licenses. Mr. Rooter Plumbing of Dayton holds PL.13244 (Trades RTR, LLC). Roto-Rooter's Dayton branch is licensed under Roto-Rooter Services Company (PL.28958)."
+      },
+      {
+        "question": "What warranty does Mr. Rooter Dayton offer?",
+        "answer": "Its about page lists 30 days on residential drain cleaning, 90 days on general repairs, one year on full replacements, and 30 days on commercial workmanship. Ask for the warranty on your invoice."
+      },
+      {
+        "question": "Who owns Mr. Rooter Plumbing of Dayton?",
+        "answer": "Each Mr. Rooter location is independently owned and operated, per the site. BBB lists Bill Hammond as CEO and a change of ownership on March 1, 2024."
+      },
+      {
+        "question": "Is PlumberLists affiliated with Mr. Rooter?",
+        "answer": "No. PlumberLists is an independent directory. This profile was compiled from public records and the company's own site, and the company did not write or pay for it."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Mr. Rooter Plumbing of Dayton home page (services, phone, since 1993)",
+        "url": "https://www.mrrooter.com/dayton/"
+      },
+      {
+        "label": "Mr. Rooter Dayton: about page (warranty terms, financing, after-hours pricing)",
+        "url": "https://www.mrrooter.com/dayton/about-us/"
+      },
+      {
+        "label": "Mr. Rooter: Germantown, OH location page (address, License # 13244, hours data, areas served)",
+        "url": "https://www.mrrooter.com/locations/ohio/germantown/"
+      },
+      {
+        "label": "BBB profile: Mr. Rooter Plumbing of Dayton",
+        "url": "https://www.bbb.org/us/oh/dayton/profile/plumber/mr-rooter-plumbing-of-dayton-0322-29183"
+      },
+      {
+        "label": "City of Dayton Registered Plumbing Contractors list (active as of 6/4/2026)",
+        "url": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      },
+      {
+        "label": "Ohio OCILB license lookup (plumbing 13244; Roto-Rooter 28958)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "label": "Ohio OCILB HVAC and plumbing contractor roster download (generated Oct 29, 2026)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/GenerateRoster.aspx"
+      }
+    ],
+    "checked": "2026-10-29"
+  },
+  {
+    "slug": "complete-plumbing-dayton-oh",
+    "name": "Complete Plumbing",
+    "legal_name": "Complete Plumbing Sales & Service, Inc.",
+    "also_known_as": [
+      "Complete Plumbing Dayton",
+      "Complete Plumbing Sales & Service"
+    ],
+    "listing_names": [
+      "Complete Plumbing"
+    ],
+    "schema_type": "Plumber",
+    "title": "Complete Plumbing (Dayton/Moraine, OH): License, Hours, Areas",
+    "meta_description": "Complete Plumbing (Complete Plumbing Sales & Service, Inc.), 3060 Springboro Pike: Ohio plumbing license PL.33784 (OCILB, Oct 29, 2026), City of Dayton reg. 1555, weekday hours, services, 24 towns. Independent profile.",
+    "headline": "Complete Plumbing: family-owned Dayton plumber on Springboro Pike since the late 1990s",
+    "base_location": "Moraine / Dayton, OH",
+    "summary": [
+      "Complete Plumbing is a small, family-owned residential and commercial plumbing company at 3060 Springboro Pike, on the Moraine side of south Dayton. The Ohio OCILB roster we downloaded on October 29, 2026 lists Complete Plumbing Sales & Service, Inc. with an active plumbing contractor license, PL.33784, and the City of Dayton's registered plumbing contractor list (active as of June 4, 2026) carries it under registration 1555.",
+      "The company says it was founded in 1997 by Layne and Tonya Skidmore and does not use subcontractors. This page lists its posted hours, the 24 towns it names, its services, both public license records, and one license number on its website that does not match the state roster."
+    ],
+    "address": {
+      "street": "3060 Springboro Pike",
+      "locality": "Moraine",
+      "region": "OH",
+      "postal_code": "45439",
+      "source": "https://www.bbb.org/us/oh/moraine/profile/plumber/complete-plumbing-0322-40000299"
+    },
+    "phone": {
+      "number": "(937) 299-7044",
+      "source": "https://www.completeplumbingdayton.com/contact-us"
+    },
+    "website": "https://www.completeplumbingdayton.com/",
+    "facts": [
+      {
+        "label": "Hours",
+        "value": "Monday to Friday 7:30 AM to 5:00 PM; closed Saturday and Sunday. The site and BBB list the same hours.",
+        "source": "https://www.completeplumbingdayton.com/contact-us"
+      },
+      {
+        "label": "Mailing city",
+        "value": "The site uses \"3060 Springboro Pike, Dayton, OH 45439\". BBB and the state license list the same street address in Moraine.",
+        "source": "https://www.completeplumbingdayton.com/contact-us"
+      },
+      {
+        "label": "Founded",
+        "value": "The site says the company was founded in 1997 by Layne and Tonya Skidmore. BBB lists a business start of December 1, 1996.",
+        "source": "https://www.completeplumbingdayton.com/about-us"
+      },
+      {
+        "label": "Management (per BBB)",
+        "value": "Benjiman L. Skidmore, President; Tonya Skidmore, Vice President.",
+        "source": "https://www.bbb.org/us/oh/moraine/profile/plumber/complete-plumbing-0322-40000299"
+      },
+      {
+        "label": "BBB profile",
+        "value": "BBB of Dayton and Miami Valley lists Complete Plumbing as accredited since August 17, 1998. Open the profile for BBB's current details.",
+        "source": "https://www.bbb.org/us/oh/moraine/profile/plumber/complete-plumbing-0322-40000299"
+      },
+      {
+        "label": "Discounts advertised",
+        "value": "The site advertises a senior and military discount. Ask for the terms when you call.",
+        "source": "https://www.completeplumbingdayton.com/"
+      },
+      {
+        "label": "Payment methods (per BBB)",
+        "value": "American Express, cash, check, Discover, MasterCard and Visa.",
+        "source": "https://www.bbb.org/us/oh/moraine/profile/plumber/complete-plumbing-0322-40000299"
+      }
+    ],
+    "licenses": [
+      {
+        "authority": "Ohio OCILB",
+        "credential": "Plumbing contractor license",
+        "number": "PL.33784",
+        "holder": "Benjiman L Skidmore, for Complete Plumbing Sales & Service Inc",
+        "status": "Active (OCILB roster, Oct 29, 2026)",
+        "expires": "2028-10-22",
+        "source": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "authority": "City of Dayton",
+        "credential": "Registered plumbing contractor",
+        "number": "1555",
+        "holder": "Complete Plumbing, 3060 Springboro Pike",
+        "status": "Active as of 6/4/2026 (latest city list)",
+        "source": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      },
+      {
+        "authority": "Ohio OCILB",
+        "credential": "\"Ohio License\" number shown on the company website",
+        "number": "33764",
+        "status": "Not verified (OCILB roster, Oct 29, 2026)",
+        "note": "The site lists \"Ohio License #33764\". We found no OCILB plumbing or HVAC license with that number. The active license for this company in the roster is PL.33784, one digit different. The site's \"Master Plumber License #1555\" matches the City of Dayton registration number.",
+        "source": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      }
+    ],
+    "services": [
+      "Residential and commercial plumbing repair and installation",
+      "Water heaters (installation and repair)",
+      "Water softeners and water filtration",
+      "Drain and sewer cleaning",
+      "Sewer camera inspection",
+      "Sump pumps and well pumps",
+      "Gas line, water line, sewer line and service line repair and replacement",
+      "Leak detection",
+      "Backflow prevention",
+      "Faucets, toilets, tubs, showers and garbage disposals",
+      "Bathroom remodeling",
+      "Waterproofing (per BBB)"
+    ],
+    "services_source": "https://www.completeplumbingdayton.com/",
+    "areas_served": [
+      "Dayton",
+      "Beavercreek",
+      "Bellbrook",
+      "Centerville",
+      "Clayton",
+      "Englewood",
+      "Fairborn",
+      "Franklin",
+      "Germantown",
+      "Huber Heights",
+      "Kettering",
+      "Lebanon",
+      "Miamisburg",
+      "Moraine",
+      "New Carlisle",
+      "Oakwood",
+      "Springboro",
+      "Tipp City",
+      "Troy",
+      "Vandalia",
+      "Waynesville",
+      "West Carrollton",
+      "Xenia",
+      "Yellow Springs"
+    ],
+    "areas_source": "https://www.completeplumbingdayton.com/contact-us",
+    "notes": [
+      {
+        "title": "Check PL.33784, not 33764",
+        "body": "The website lists \"Ohio License #33764\". The state roster shows the company's active license as PL.33784, held by Benjiman L Skidmore and good through October 22, 2028. It is most likely a typo on the site, but use PL.33784 when you look the company up on the OCILB eLicense site."
+      },
+      {
+        "title": "\"Master Plumber License #1555\"",
+        "body": "The site calls 1555 a master plumber license. That number is the company's City of Dayton plumbing contractor registration, which is active on the city's June 4, 2026 list. Ohio's state plumbing license is the PL number above."
+      },
+      {
+        "title": "Weekday shop",
+        "body": "Posted hours are weekdays 7:30 to 5, closed on weekends, and the site does not advertise 24/7 service. For a weekend emergency, call first to see whether anyone is on call, or pick a 24/7 company from our emergency plumbing pages."
+      },
+      {
+        "title": "Best fit",
+        "body": "Planned residential work in south Dayton and the surrounding suburbs: water heaters, softeners, fixture swaps, sewer and water line repairs, and bathroom remodel plumbing, done by the company's own crew. Get the price in writing before work starts."
+      },
+      {
+        "title": "What this page is not",
+        "body": "PlumberLists has not hired this company and does not publish star ratings or review counts. Quote requests from this page go to PlumberLists, not to Complete Plumbing. To reach the company directly, call (937) 299-7044."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is Complete Plumbing licensed in Ohio?",
+        "answer": "Yes. The OCILB roster we downloaded on October 29, 2026 lists Complete Plumbing Sales & Service, Inc. with plumbing contractor license PL.33784, active, held by Benjiman L Skidmore, expiring October 22, 2028."
+      },
+      {
+        "question": "Why doesn't the license number on Complete Plumbing's website match?",
+        "answer": "The site lists \"Ohio License #33764\". We found no OCILB plumbing or HVAC license with that number. The company's active state license is PL.33784, one digit different, so check that one."
+      },
+      {
+        "question": "Is Complete Plumbing registered with the City of Dayton?",
+        "answer": "Yes. The City of Dayton registered plumbing contractor list, active as of June 4, 2026, shows Complete Plumbing at 3060 Springboro Pike with registration 1555."
+      },
+      {
+        "question": "What are Complete Plumbing's hours?",
+        "answer": "Monday to Friday, 7:30 AM to 5:00 PM. It is closed Saturday and Sunday, per its contact page and BBB."
+      },
+      {
+        "question": "Where is Complete Plumbing located?",
+        "answer": "3060 Springboro Pike, Moraine, OH 45439 (the site uses a Dayton mailing address). Phone: (937) 299-7044."
+      },
+      {
+        "question": "Who owns Complete Plumbing?",
+        "answer": "The site says Layne and Tonya Skidmore founded the company in 1997 and that it is family-owned. BBB lists Benjiman L. Skidmore as president and Tonya Skidmore as vice president."
+      },
+      {
+        "question": "Does Complete Plumbing use subcontractors?",
+        "answer": "The site says no: work is done by its own in-house team, never subcontractors or rental crews."
+      },
+      {
+        "question": "Is PlumberLists affiliated with Complete Plumbing?",
+        "answer": "No. PlumberLists is an independent directory. This profile was compiled from public records and the company's own site, and the company did not write or pay for it."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Complete Plumbing home page (services, license numbers shown, FAQ)",
+        "url": "https://www.completeplumbingdayton.com/"
+      },
+      {
+        "label": "Complete Plumbing: about page (founders, since 1997)",
+        "url": "https://www.completeplumbingdayton.com/about-us"
+      },
+      {
+        "label": "Complete Plumbing: contact page (address, hours, service area)",
+        "url": "https://www.completeplumbingdayton.com/contact-us"
+      },
+      {
+        "label": "BBB profile: Complete Plumbing (Moraine)",
+        "url": "https://www.bbb.org/us/oh/moraine/profile/plumber/complete-plumbing-0322-40000299"
+      },
+      {
+        "label": "City of Dayton Registered Plumbing Contractors list (active as of 6/4/2026)",
+        "url": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      },
+      {
+        "label": "Ohio OCILB license lookup (plumbing 33784)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "label": "Ohio OCILB HVAC and plumbing contractor roster download (generated Oct 29, 2026)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/GenerateRoster.aspx"
+      }
+    ],
+    "checked": "2026-10-29"
+  },
+  {
+    "slug": "integrity-plumbing-drain-services-dayton-oh",
+    "name": "Integrity Plumbing & Drain Services",
+    "legal_name": "Integrity Plumbing & Drain Services, LLC",
+    "also_known_as": [
+      "Integrity Plumbing and Drain Service",
+      "Integrity Plumbing and Drains"
+    ],
+    "listing_names": [
+      "Integrity Plumbing & Drain Services, LLC"
+    ],
+    "schema_type": "Plumber",
+    "title": "Integrity Plumbing & Drain Services (Dayton): License, Areas",
+    "meta_description": "Integrity Plumbing & Drain Services, LLC (Dayton/Kettering and Lebanon): Ohio plumbing license PL.50631 (OCILB, Oct 29, 2026), City of Dayton reg. 011147, services, towns, and how to tell it apart from other \"Integrity\" plumbers. Independent profile.",
+    "headline": "Integrity Plumbing & Drain Services: owner-run plumbing and drain company serving Dayton and Warren County",
+    "base_location": "Kettering / Lebanon, OH",
+    "summary": [
+      "Integrity Plumbing & Drain Services, LLC is an owner-run residential and commercial plumbing and drain company that works across the Dayton suburbs and north of Cincinnati. Its BBB headquarters listing is in the Kettering area (Dayton 45429), and its website lists a Lebanon office that is open by appointment only. The Ohio OCILB roster we downloaded on October 29, 2026 lists the LLC with an active plumbing contractor license, PL.50631, held by William C Lynch Jr. BBB names William C. Lynch as owner.",
+      "The City of Dayton's registered plumbing contractor list (active as of June 4, 2026) also carries the company, under registration 011147. Several unrelated Ohio plumbing and HVAC companies use the name \"Integrity\", so this page lists the license and registration numbers that belong to this one, along with its services, the towns its site names, and its two phone numbers."
+    ],
+    "address": {
+      "street": "3515 Columbia Rd",
+      "locality": "Lebanon",
+      "region": "OH",
+      "postal_code": "45036",
+      "source": "https://integrityplumbinganddrains.com/"
+    },
+    "phone": {
+      "number": "(513) 277-3230",
+      "source": "https://integrityplumbinganddrains.com/"
+    },
+    "website": "https://integrityplumbinganddrains.com/",
+    "facts": [
+      {
+        "label": "Office visits",
+        "value": "The site lists 3515 Columbia Rd, Lebanon, OH 45036 (shown as both Suite #8103 and Unit 1512) and says office appointments are by appointment only.",
+        "source": "https://integrityplumbinganddrains.com/"
+      },
+      {
+        "label": "Dayton-area phone",
+        "value": "BBB's headquarters listing and the City of Dayton list use (937) 901-6186. The website uses (513) 277-3230.",
+        "source": "https://www.bbb.org/us/oh/dayton/profile/plumber/integrity-plumbing-and-drain-service-0322-1440105472"
+      },
+      {
+        "label": "Hours",
+        "value": "The site advertises 24-hour emergency plumbing. We did not find posted office hours, so call to confirm.",
+        "source": "https://integrityplumbinganddrains.com/"
+      },
+      {
+        "label": "BBB profiles",
+        "value": "BBB of Dayton and Miami Valley has the headquarters profile, accredited since May 13, 2024. BBB Cincinnati has a second profile for the Lebanon location (file opened April 10, 2026). Open the profiles for BBB's current details.",
+        "source": "https://www.bbb.org/us/oh/dayton/profile/plumber/integrity-plumbing-and-drain-service-0322-1440105472"
+      },
+      {
+        "label": "Business history (per BBB)",
+        "value": "BBB lists a business start of January 1, 2011 and the LLC's incorporation as January 25, 2024. The website describes the company's experience as \"over 2 decades\", \"over 26 years\" and \"30+ years\" in different places.",
+        "source": "https://www.bbb.org/us/oh/dayton/profile/plumber/integrity-plumbing-and-drain-service-0322-1440105472"
+      },
+      {
+        "label": "BBB service area",
+        "value": "Clark, Darke, Greene, Miami, Montgomery, Preble, Shelby and Warren counties.",
+        "source": "https://www.bbb.org/us/oh/dayton/profile/plumber/integrity-plumbing-and-drain-service-0322-1440105472"
+      },
+      {
+        "label": "Financing",
+        "value": "The site advertises financing with up to 24 months interest-free, subject to pre-qualification.",
+        "source": "https://integrityplumbinganddrains.com/"
+      }
+    ],
+    "licenses": [
+      {
+        "authority": "Ohio OCILB",
+        "credential": "Plumbing contractor license",
+        "number": "PL.50631",
+        "holder": "William C Lynch Jr, for Integrity Plumbing & Drain Services, LLC",
+        "status": "Active (OCILB roster, Oct 29, 2026)",
+        "expires": "2028-05-13",
+        "note": "BBB lists the same license and expiration date. We did not find a license number printed on the company website.",
+        "source": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "authority": "City of Dayton",
+        "credential": "Registered plumbing contractor",
+        "number": "011147",
+        "holder": "Integrity Plumbing & Drain Services LLC",
+        "status": "Active as of 6/4/2026 (latest city list)",
+        "source": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      }
+    ],
+    "services": [
+      "24-hour emergency plumbing",
+      "Drain cleaning and hydro jetting",
+      "Main-line cleaning and sewer camera inspection",
+      "Sewer line repair, including trenchless pipe-burst replacement",
+      "Water heaters, tank and tankless (installation and repair)",
+      "Leak detection and pipe repair",
+      "Whole-home repiping of galvanized lines",
+      "Sump pump installation",
+      "Bathroom and kitchen plumbing, faucets, toilets and garbage disposals",
+      "Gas line services",
+      "Commercial and property-management plumbing"
+    ],
+    "services_source": "https://integrityplumbinganddrains.com/location/kettering-oh/",
+    "areas_served": [
+      "Dayton",
+      "Beavercreek",
+      "Bellbrook",
+      "Bowersville",
+      "Cedarville",
+      "Fairborn",
+      "Jamestown",
+      "Xenia",
+      "Yellow Springs",
+      "Carlisle",
+      "Franklin",
+      "Harveysburg",
+      "Lebanon",
+      "Loveland",
+      "Mason",
+      "Springboro",
+      "Waynesville",
+      "Fairfield Township",
+      "Fairfield",
+      "Hamilton",
+      "Liberty Township",
+      "Middletown",
+      "Monroe",
+      "Oxford",
+      "Ross Township",
+      "Trenton",
+      "West Chester",
+      "Brookville",
+      "Centerville",
+      "Clayton",
+      "Englewood",
+      "Farmersville",
+      "Germantown",
+      "Huber Heights",
+      "Kettering",
+      "Miamisburg",
+      "Moraine",
+      "Oakwood",
+      "Riverside",
+      "West Carrollton",
+      "Trotwood",
+      "Union",
+      "Vandalia",
+      "Blue Ash",
+      "Cincinnati",
+      "Colerain Township",
+      "Delhi Township",
+      "Forest Park",
+      "Green Township",
+      "Montgomery",
+      "Norwood",
+      "Sharonville",
+      "Springdale",
+      "Amelia",
+      "Batavia",
+      "Miami Township",
+      "Milford",
+      "New Richmond",
+      "Pierce Township",
+      "Union Township",
+      "Williamsburg"
+    ],
+    "areas_source": "https://integrityplumbinganddrains.com/",
+    "notes": [
+      {
+        "title": "Which \"Integrity\" is this?",
+        "body": "This is Integrity Plumbing & Drain Services, LLC: OCILB PL.50631, City of Dayton registration 011147, owner William C. Lynch. It is not Integrity Plumbing Solutions LLC on Webster Street in Dayton (OCILB PL.49222, City of Dayton registration 010537), and not Integrity Heating and Cooling in Germantown (OCILB HV.48091). Check the license number on your estimate."
+      },
+      {
+        "title": "Two phone numbers, two BBB profiles",
+        "body": "The website and the Lebanon BBB profile use a 513 number. The Dayton BBB profile and the City of Dayton list use (937) 901-6186. Both belong to the same LLC and license. The Lebanon office sees visitors by appointment only."
+      },
+      {
+        "title": "Experience claims vary",
+        "body": "Different pages on the website describe more than 20, 26 and 30 years of experience, while BBB lists a 2011 business start and a 2024 LLC. The longer figures may count the owner's own time in the trade. If it matters to you, ask."
+      },
+      {
+        "title": "Best fit",
+        "body": "Drain and sewer work in older Dayton suburbs, such as Kettering's mid-century homes with cast-iron sewer lines. The site offers camera inspection, hydro jetting and trenchless pipe-burst replacement. Get the scope, price and warranty in writing before a sewer job starts."
+      },
+      {
+        "title": "What this page is not",
+        "body": "PlumberLists has not hired this company and does not publish star ratings or review counts. Quote requests from this page go to PlumberLists, not to Integrity. To reach the company directly, call (513) 277-3230 or (937) 901-6186."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is Integrity Plumbing & Drain Services licensed in Ohio?",
+        "answer": "Yes. The OCILB roster we downloaded on October 29, 2026 lists Integrity Plumbing & Drain Services, LLC with plumbing contractor license PL.50631, active, held by William C Lynch Jr, expiring May 13, 2028. BBB shows the same license."
+      },
+      {
+        "question": "Is Integrity Plumbing & Drain registered with the City of Dayton?",
+        "answer": "Yes. The City of Dayton registered plumbing contractor list, active as of June 4, 2026, includes Integrity Plumbing & Drain Services LLC with registration 011147."
+      },
+      {
+        "question": "Where is Integrity Plumbing & Drain Services located?",
+        "answer": "The website lists an appointment-only office at 3515 Columbia Rd, Lebanon, OH 45036. BBB's headquarters listing is in the Kettering area (Dayton, OH 45429)."
+      },
+      {
+        "question": "What is Integrity Plumbing & Drain's phone number?",
+        "answer": "The website uses (513) 277-3230. BBB's Dayton listing and the City of Dayton list use (937) 901-6186."
+      },
+      {
+        "question": "Is it the same company as Integrity Plumbing Solutions?",
+        "answer": "No. Integrity Plumbing Solutions LLC is a separate Dayton company with its own license (OCILB PL.49222). Integrity Plumbing & Drain Services is PL.50631."
+      },
+      {
+        "question": "Does Integrity Plumbing & Drain offer 24/7 service?",
+        "answer": "The website advertises 24-hour emergency plumbing. It does not post regular office hours."
+      },
+      {
+        "question": "Who owns Integrity Plumbing & Drain Services?",
+        "answer": "BBB lists William C. Lynch as owner, and the state license is held by William C Lynch Jr."
+      },
+      {
+        "question": "Is PlumberLists affiliated with Integrity Plumbing & Drain Services?",
+        "answer": "No. PlumberLists is an independent directory. This profile was compiled from public records and the company's own site, and the company did not write or pay for it."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Integrity Plumbing and Drain Service home page (services, office, phone, location index)",
+        "url": "https://integrityplumbinganddrains.com/"
+      },
+      {
+        "label": "Integrity: Kettering, OH service page (sewer and repiping services)",
+        "url": "https://integrityplumbinganddrains.com/location/kettering-oh/"
+      },
+      {
+        "label": "BBB profile: Integrity Plumbing and Drain Service (Dayton headquarters)",
+        "url": "https://www.bbb.org/us/oh/dayton/profile/plumber/integrity-plumbing-and-drain-service-0322-1440105472"
+      },
+      {
+        "label": "BBB profile: Integrity Plumbing and Drain Service LLC (Lebanon)",
+        "url": "https://www.bbb.org/us/oh/lebanon/profile/plumber/integrity-plumbing-and-drain-service-llc-0292-90054765"
+      },
+      {
+        "label": "City of Dayton Registered Plumbing Contractors list (active as of 6/4/2026)",
+        "url": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      },
+      {
+        "label": "Ohio OCILB license lookup (plumbing 50631; also 49222 and HVAC 48091 for disambiguation)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "label": "Ohio OCILB HVAC and plumbing contractor roster download (generated Oct 29, 2026)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/GenerateRoster.aspx"
+      }
+    ],
+    "checked": "2026-10-29"
   }
 ]
