@@ -1921,5 +1921,630 @@
       }
     ],
     "checked": "2026-10-29"
+  },
+  {
+    "slug": "deans-plumbing-beavercreek-oh",
+    "name": "Dean's Plumbing",
+    "legal_name": "Dean's Plumbing",
+    "also_known_as": [
+      "Deans Plumbing",
+      "Dean's Plumbing Beavercreek",
+      "Dean's Plumbing Xenia"
+    ],
+    "listing_names": [
+      "Dean's Plumbing"
+    ],
+    "schema_type": "Plumber",
+    "title": "Dean's Plumbing (Beavercreek & Xenia, OH): License, Areas",
+    "meta_description": "Dean's Plumbing, Beavercreek and Xenia, OH: Ohio plumbing license PL.49650 (OCILB, Nov 3, 2026), City of Dayton reg. 1787, family-run since 1990, services, 12 towns, and how to tell it apart from other Dean's Plumbing companies. Independent profile.",
+    "headline": "Dean's Plumbing: family-run plumber in Beavercreek and Xenia since 1990",
+    "base_location": "Beavercreek / Xenia, OH",
+    "summary": [
+      "Dean's Plumbing is a family-run residential plumbing company with its main shop at 742 N Fairfield Rd in Beavercreek and a second location at 65 S Detroit St in Xenia. Bill and Pamela Dean started it, and the site says it has served the area since 1990. It is now run by four of their children, Isaiah, Noah, Levi and Grace Dean. The Ohio OCILB roster we downloaded on November 3, 2026 lists Dean's Plumbing with an active plumbing contractor license, PL.49650, held by Isaiah J Dean. The City of Dayton's registered plumbing contractor list (active as of June 4, 2026) carries it under registration 1787.",
+      "Many unrelated plumbing companies across the country use the name Dean's Plumbing, so this page sticks to the Greene County company: its license and registration numbers, its two addresses, the services and towns on its site, and its membership plan."
+    ],
+    "address": {
+      "street": "742 N Fairfield Rd",
+      "locality": "Beavercreek",
+      "region": "OH",
+      "postal_code": "45434",
+      "source": "https://www.deansplumbing.net/"
+    },
+    "phone": {
+      "number": "(937) 372-0821",
+      "source": "https://www.deansplumbing.net/"
+    },
+    "website": "https://www.deansplumbing.net/",
+    "facts": [
+      {
+        "label": "Second location",
+        "value": "65 S Detroit St, Xenia, OH 45385, per the site footer.",
+        "source": "https://www.deansplumbing.net/"
+      },
+      {
+        "label": "Hours",
+        "value": "The site says calls are answered 24/7 and advertises same-day drain cleaning. We did not find posted office hours, so call to confirm.",
+        "source": "https://www.deansplumbing.net/"
+      },
+      {
+        "label": "Who runs it",
+        "value": "The about page says founders Bill and Pamela Dean have retired and four of their children, Isaiah, Noah, Levi and Grace, now run the business, with a combined 40 years in plumbing.",
+        "source": "https://www.deansplumbing.net/about-us"
+      },
+      {
+        "label": "Team size (per company site)",
+        "value": "The home page says it has 16 technicians providing same-day service, and that its team is licensed, insured, bonded and background-checked.",
+        "source": "https://www.deansplumbing.net/"
+      },
+      {
+        "label": "Membership plan",
+        "value": "The Dean's Family Plan lists an annual plumbing evaluation, a waived emergency fee, an annual water heater flush and water softener salt delivery.",
+        "source": "https://www.deansplumbing.net/"
+      },
+      {
+        "label": "Financing",
+        "value": "The site advertises financing with no-interest payment plans, zero down and instant approval, subject to the lender's terms.",
+        "source": "https://www.deansplumbing.net/"
+      },
+      {
+        "label": "Phone number in site data",
+        "value": "The site's business data prints the phone as 973-372-0821. The number shown on the page, and on the City of Dayton list, is (937) 372-0821.",
+        "source": "https://www.deansplumbing.net/"
+      },
+      {
+        "label": "BBB profile",
+        "value": "The site links to its BBB profile (BBB of Dayton and Miami Valley). Open the profile for BBB's current details.",
+        "source": "https://www.bbb.org/us/oh/beavercreek/profile/plumber/deans-plumbing-0322-5087"
+      }
+    ],
+    "licenses": [
+      {
+        "authority": "Ohio OCILB",
+        "credential": "Plumbing contractor license",
+        "number": "PL.49650",
+        "holder": "Isaiah J Dean, for Dean's Plumbing",
+        "status": "Active (OCILB roster, Nov 3, 2026)",
+        "expires": "2027-01-12",
+        "note": "We did not find a license number printed on the company website. The roster lists a Xenia mailing address for the license record.",
+        "source": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "authority": "City of Dayton",
+        "credential": "Registered plumbing contractor",
+        "number": "1787",
+        "holder": "Deans Plumbing, 742 N Fairfield Rd",
+        "status": "Active as of 6/4/2026 (latest city list)",
+        "source": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      }
+    ],
+    "services": [
+      "Water heater repair and replacement (electric, gas and tankless)",
+      "Pressure tanks",
+      "Water softeners, iron and sulfur filters, and reverse osmosis",
+      "Drain cleaning and clogged drains",
+      "Drain camera inspection",
+      "Line jetting",
+      "Drain line relining",
+      "Water line installation",
+      "Frozen and burst pipe repair",
+      "Repiping",
+      "Water leak detection",
+      "Sump pump installation and repair",
+      "Sewage ejector pumps",
+      "Gas line repair and gas appliance hook-up",
+      "Toilet, faucet, sink, vanity and garbage disposal repair and replacement",
+      "Tub and shower replacement",
+      "Laundry sinks, washer boxes and dryer vents"
+    ],
+    "services_source": "https://www.deansplumbing.net/",
+    "areas_served": [
+      "Beavercreek",
+      "Xenia",
+      "Dayton",
+      "Fairborn",
+      "Yellow Springs",
+      "Cedarville",
+      "Bellbrook",
+      "Kettering",
+      "Oakwood",
+      "Centerville",
+      "Springboro",
+      "Huber Heights"
+    ],
+    "areas_source": "https://www.deansplumbing.net/",
+    "notes": [
+      {
+        "title": "Which Dean's Plumbing is this?",
+        "body": "This is the Greene County company: main shop at 742 N Fairfield Rd in Beavercreek, second location in downtown Xenia, phone (937) 372-0821, OCILB PL.49650, City of Dayton registration 1787. Other companies named Dean's Plumbing in other states are not related."
+      },
+      {
+        "title": "License checks out",
+        "body": "The state roster shows an active plumbing contractor license under the Dean's Plumbing name, held by Isaiah J Dean, and the company is on the City of Dayton registered list at its Beavercreek address. The site does not print the license number, so this page lists it for you."
+      },
+      {
+        "title": "Best fit",
+        "body": "Homes east of Dayton in Beavercreek, Xenia, Fairborn and the Greene County villages, especially for water heaters, softeners and well-style water treatment, sump pumps and drain work. For a larger job like repiping or drain relining, get the scope and warranty in writing and compare at least one other quote."
+      },
+      {
+        "title": "What this page is not",
+        "body": "PlumberLists has not hired this company and does not publish star ratings or review counts. Quote requests from this page go to PlumberLists, not to Dean's Plumbing. To reach the company directly, call (937) 372-0821."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is Dean's Plumbing licensed in Ohio?",
+        "answer": "Yes. The OCILB roster we downloaded on November 3, 2026 lists Dean's Plumbing with plumbing contractor license PL.49650, active, held by Isaiah J Dean, expiring January 12, 2027."
+      },
+      {
+        "question": "Is Dean's Plumbing registered with the City of Dayton?",
+        "answer": "Yes. The City of Dayton registered plumbing contractor list, active as of June 4, 2026, includes Deans Plumbing at 742 N Fairfield Rd with registration 1787."
+      },
+      {
+        "question": "Where is Dean's Plumbing located?",
+        "answer": "Its main location is 742 N Fairfield Rd, Beavercreek, OH 45434, and its second location is 65 S Detroit St, Xenia, OH 45385. Phone: (937) 372-0821."
+      },
+      {
+        "question": "How long has Dean's Plumbing been in business?",
+        "answer": "The site says it has served the area since 1990. Founders Bill and Pamela Dean have retired, and four of their children now run the company."
+      },
+      {
+        "question": "Does Dean's Plumbing offer emergency service?",
+        "answer": "The site says calls are answered 24/7 and advertises same-day drain cleaning. The Dean's Family Plan includes a waived emergency fee."
+      },
+      {
+        "question": "Does Dean's Plumbing install water softeners?",
+        "answer": "Yes. The site lists water softeners, iron and sulfur filters, reverse osmosis and filter replacements, and its membership plan includes salt delivery."
+      },
+      {
+        "question": "Which towns does Dean's Plumbing serve?",
+        "answer": "Its site names Beavercreek, Xenia, Dayton, Fairborn, Yellow Springs, Cedarville, Bellbrook, Kettering, Oakwood, Centerville, Springboro and Huber Heights."
+      },
+      {
+        "question": "Is PlumberLists affiliated with Dean's Plumbing?",
+        "answer": "No. PlumberLists is an independent directory. This profile was compiled from public records and the company's own site, and the company did not write or pay for it."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Dean's Plumbing home page (services, locations, phone, since 1990, membership plan)",
+        "url": "https://www.deansplumbing.net/"
+      },
+      {
+        "label": "Dean's Plumbing: about page (family history, owners)",
+        "url": "https://www.deansplumbing.net/about-us"
+      },
+      {
+        "label": "BBB profile: Dean's Plumbing (linked from the company site)",
+        "url": "https://www.bbb.org/us/oh/beavercreek/profile/plumber/deans-plumbing-0322-5087"
+      },
+      {
+        "label": "City of Dayton Registered Plumbing Contractors list (active as of 6/4/2026)",
+        "url": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      },
+      {
+        "label": "Ohio OCILB license lookup (plumbing 49650)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "label": "Ohio OCILB HVAC and plumbing contractor roster download (generated Nov 3, 2026)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/GenerateRoster.aspx"
+      }
+    ],
+    "checked": "2026-11-03"
+  },
+  {
+    "slug": "roto-rooter-plumbing-water-cleanup-miamisburg-dayton-oh",
+    "name": "Roto-Rooter Plumbing & Water Cleanup (Miamisburg/Dayton)",
+    "also_known_as": [
+      "Roto-Rooter Miamisburg",
+      "Roto-Rooter Dayton",
+      "Roto-Rooter Plumbing & Drain Service"
+    ],
+    "listing_names": [
+      "Roto-Rooter Plumbing & Water Cleanup (Miamisburg/Dayton)"
+    ],
+    "schema_type": "Plumber",
+    "title": "Roto-Rooter Dayton (Miamisburg, Byers Rd): License, Areas",
+    "meta_description": "Roto-Rooter Plumbing & Water Cleanup, 9490 Byers Rd, Miamisburg: the Roto-Rooter branch for Dayton. City of Dayton plumbing reg. 1498, what the Ohio license roster shows, 24/7 hours, 29 towns, and how it differs from Mr. Rooter. Independent profile.",
+    "headline": "Roto-Rooter Plumbing & Water Cleanup: the Byers Road branch that answers Dayton-area Roto-Rooter calls",
+    "base_location": "Miamisburg / Dayton, OH",
+    "summary": [
+      "Searches for \"Roto-Rooter Dayton\" land on Roto-Rooter's Miamisburg location page, the branch at 9490 Byers Rd in Miamisburg, just south of Dayton. It runs 24 hours a day, seven days a week and handles plumbing repair, drain and sewer cleaning, water heaters, water damage cleanup and mold remediation, and water softeners and filtration, for homes and commercial properties. The City of Dayton's registered plumbing contractor list (active as of June 4, 2026) carries Roto-Rooter at 9490 Byers Rd under registration 1498.",
+      "Roto-Rooter is a national brand that dates to 1935. This page covers the Dayton-area branch only: its city registration, what the Ohio state license roster shows for Roto-Rooter in Dayton, the 29 towns its location page names, the service promises it puts in writing, and how it differs from Mr. Rooter, a separate company with a similar name."
+    ],
+    "address": {
+      "street": "9490 Byers Rd",
+      "locality": "Miamisburg",
+      "region": "OH",
+      "postal_code": "45342",
+      "source": "https://www.rotorooter.com/miamisburgoh/"
+    },
+    "phone": {
+      "number": "(937) 228-7686",
+      "source": "https://www.rotorooter.com/miamisburgoh/"
+    },
+    "website": "https://www.rotorooter.com/miamisburgoh/",
+    "facts": [
+      {
+        "label": "Hours",
+        "value": "The location page says it is open 24/7, 7 days a week, and its business data lists every day from 12:00 AM to 11:59 PM.",
+        "source": "https://www.rotorooter.com/miamisburgoh/"
+      },
+      {
+        "label": "After-hours pricing claim",
+        "value": "The page says there is no extra charge for plumbing or drain service on holidays, nights or weekends, and that onsite estimates are free and upfront. Get the price in writing before work starts.",
+        "source": "https://www.rotorooter.com/miamisburgoh/"
+      },
+      {
+        "label": "Discounts and financing",
+        "value": "The page lists senior and military discounts and special financing options, and posts online coupons.",
+        "source": "https://www.rotorooter.com/miamisburgoh/"
+      },
+      {
+        "label": "Company name in site data",
+        "value": "The location page's business data names the legal entity as Roto-Rooter Group, Inc and lists Alan Sheplak as manager.",
+        "source": "https://www.rotorooter.com/miamisburgoh/"
+      },
+      {
+        "label": "Payment",
+        "value": "Visa, Mastercard, Discover, cash and debit, per the location page's business data.",
+        "source": "https://www.rotorooter.com/miamisburgoh/"
+      },
+      {
+        "label": "Memberships",
+        "value": "The location page lists membership in the Greater Dayton Apartment Association.",
+        "source": "https://www.rotorooter.com/miamisburgoh/"
+      },
+      {
+        "label": "BBB profile",
+        "value": "BBB of Dayton and Miami Valley has a profile for Roto-Rooter Plumbing & Water Cleanup in Miamisburg. Open the profile for BBB's current details.",
+        "source": "https://www.bbb.org/us/oh/miamisburg/profile/sewer-cleaning/roto-rooter-plumbing-water-cleanup-0322-5626"
+      }
+    ],
+    "licenses": [
+      {
+        "authority": "City of Dayton",
+        "credential": "Registered plumbing contractor",
+        "number": "1498",
+        "holder": "Roto-Rooter, 9490 Byers Rd",
+        "status": "Active as of 6/4/2026 (latest city list)",
+        "source": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      },
+      {
+        "authority": "Ohio OCILB",
+        "credential": "State plumbing contractor license",
+        "number": "Not confirmed for this branch",
+        "status": "Not verified (OCILB roster, Nov 3, 2026)",
+        "note": "The location page says the branch is fully licensed but prints no Ohio license number, and no OCILB license record lists the Byers Rd address. The OCILB roster we downloaded on November 3, 2026 shows an active plumbing contractor license in Dayton under Roto-Rooter Services Company, PL.28958 (Greg Carsner, 2549 Stanley Ave, Dayton; current term runs to December 31, 2027). We could not confirm that this license covers the Miamisburg branch. Ask which Ohio license number will be on your permit.",
+        "source": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      }
+    ],
+    "services": [
+      "24/7 emergency plumbing",
+      "Drain cleaning (sink, tub, toilet, floor and main lines)",
+      "Sewer line cleaning, repair and replacement",
+      "Video camera line inspection",
+      "Root intrusion removal",
+      "Water heater repair and replacement",
+      "Leak detection and pipe repair",
+      "Toilet, faucet and fixture repair and installation",
+      "Water damage restoration and water removal",
+      "Basement flooding cleanup",
+      "Mold remediation",
+      "Water softeners and water filtration",
+      "Commercial plumbing repair and maintenance"
+    ],
+    "services_source": "https://www.rotorooter.com/miamisburgoh/",
+    "areas_served": [
+      "Miamisburg",
+      "Dayton",
+      "Kettering",
+      "Centerville",
+      "West Carrollton",
+      "Oakwood",
+      "Vandalia",
+      "Englewood",
+      "Trotwood",
+      "Huber Heights",
+      "Riverside",
+      "Troy",
+      "Piqua",
+      "Sidney",
+      "Tipp City",
+      "Greenville",
+      "Xenia",
+      "Fairborn",
+      "Beavercreek",
+      "Springfield",
+      "Wilmington",
+      "Washington Court House",
+      "Hillsboro",
+      "Eaton",
+      "Lima",
+      "St. Marys",
+      "Celina",
+      "Bellefontaine",
+      "Urbana"
+    ],
+    "areas_source": "https://www.rotorooter.com/miamisburgoh/",
+    "notes": [
+      {
+        "title": "Roto-Rooter is not Mr. Rooter",
+        "body": "The names are close but the companies are not related. Mr. Rooter Plumbing of Dayton is a Neighborly franchise on Linden Ave, licensed under Trades RTR, LLC (OCILB PL.13244). Roto-Rooter is a separate national company. If you are calling back about a past job, check which one did the work."
+      },
+      {
+        "title": "Ask whose license is on the permit",
+        "body": "The City of Dayton registration (1498) is filed under Roto-Rooter at the Byers Rd address. The location page does not print a state license number, and the Dayton-area Roto-Rooter license on the state roster (PL.28958) is filed at a Stanley Ave address in Dayton. For a water heater, gas line or sewer job that needs a permit, ask which Ohio license number will be on it."
+      },
+      {
+        "title": "Wide service area",
+        "body": "The branch names 28 towns beyond Miamisburg, from Lima and Celina to the north to Hillsboro and Wilmington to the south. If you are far from Miamisburg, ask how long a non-emergency visit usually takes to schedule."
+      },
+      {
+        "title": "Best fit",
+        "body": "Night and weekend drain backups, sewer camera work, and jobs where water has already reached the floor, since the same branch does plumbing and water cleanup. For a large job like sewer replacement or repiping, get the scope and warranty in writing and compare at least one other quote."
+      },
+      {
+        "title": "What this page is not",
+        "body": "PlumberLists has not hired this company and does not publish star ratings or review counts. Quote requests from this page go to PlumberLists, not to Roto-Rooter. To reach the Miamisburg/Dayton branch directly, call (937) 228-7686."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is Roto-Rooter in Dayton, Ohio?",
+        "answer": "The Roto-Rooter branch that serves Dayton is at 9490 Byers Rd, Miamisburg, OH 45342, per its location page. Phone: (937) 228-7686."
+      },
+      {
+        "question": "Is Roto-Rooter Dayton open 24 hours?",
+        "answer": "Yes. The location page says it is open 24/7, 7 days a week, and says there is no extra charge for plumbing or drain service on holidays, nights or weekends."
+      },
+      {
+        "question": "Is Roto-Rooter registered with the City of Dayton?",
+        "answer": "Yes. The City of Dayton registered plumbing contractor list, active as of June 4, 2026, includes Roto-Rooter at 9490 Byers Rd with registration 1498."
+      },
+      {
+        "question": "What Ohio plumbing license does Roto-Rooter Dayton hold?",
+        "answer": "The location page does not print one. The OCILB roster we downloaded on November 3, 2026 lists an active plumbing contractor license in Dayton under Roto-Rooter Services Company, PL.28958, at a Stanley Ave address. We could not confirm it covers the Byers Rd branch, so ask which license number will be on your permit."
+      },
+      {
+        "question": "Is Roto-Rooter the same as Mr. Rooter?",
+        "answer": "No. Mr. Rooter Plumbing of Dayton is a separate franchise company licensed under Trades RTR, LLC (PL.13244). Roto-Rooter is its own national company."
+      },
+      {
+        "question": "Does Roto-Rooter Dayton do water damage cleanup?",
+        "answer": "Yes. The location page lists water extraction, drying, basement flooding cleanup and mold remediation along with plumbing and drain work."
+      },
+      {
+        "question": "Which towns does the Miamisburg Roto-Rooter serve?",
+        "answer": "Its location page names Dayton, Kettering, Centerville, West Carrollton, Oakwood, Vandalia, Englewood, Trotwood, Huber Heights, Riverside, Troy, Piqua, Sidney, Tipp City, Greenville, Xenia, Fairborn, Beavercreek, Springfield, Wilmington, Washington Court House, Hillsboro, Eaton, Lima, St. Marys, Celina, Bellefontaine and Urbana, along with Miamisburg."
+      },
+      {
+        "question": "Is PlumberLists affiliated with Roto-Rooter?",
+        "answer": "No. PlumberLists is an independent directory. This profile was compiled from public records and the company's own site, and the company did not write or pay for it."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Roto-Rooter Miamisburg, OH location page (address, phone, hours, services, areas, business data)",
+        "url": "https://www.rotorooter.com/miamisburgoh/"
+      },
+      {
+        "label": "BBB profile: Roto-Rooter Plumbing & Water Cleanup, Miamisburg",
+        "url": "https://www.bbb.org/us/oh/miamisburg/profile/sewer-cleaning/roto-rooter-plumbing-water-cleanup-0322-5626"
+      },
+      {
+        "label": "City of Dayton Registered Plumbing Contractors list (active as of 6/4/2026)",
+        "url": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      },
+      {
+        "label": "Ohio OCILB license lookup (Roto-Rooter Services Company PL.28958; Trades RTR PL.13244)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "label": "Ohio OCILB HVAC and plumbing contractor roster download (generated Nov 3, 2026)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/GenerateRoster.aspx"
+      }
+    ],
+    "checked": "2026-11-03"
+  },
+  {
+    "slug": "schott-plumbing-dayton-oh",
+    "name": "Schott Plumbing, Inc.",
+    "legal_name": "Schott Plumbing Inc",
+    "also_known_as": [
+      "Schott Plumbing",
+      "Schott Plumbing Dayton"
+    ],
+    "listing_names": [
+      "Schott Plumbing, Inc."
+    ],
+    "schema_type": "Plumber",
+    "title": "Schott Plumbing, Inc. (Dayton, since 1954): License, Services",
+    "meta_description": "Schott Plumbing, Inc., 2551 Lance Dr, Dayton: Ohio plumbing licenses PL.14638 and PL.25468 (OCILB, Nov 3, 2026), City of Dayton reg. 009942, serving Dayton since 1954, gas and backflow work, and excavation. Independent profile.",
+    "headline": "Schott Plumbing, Inc.: south Dayton plumbing contractor since 1954",
+    "base_location": "Dayton / Moraine, OH",
+    "summary": [
+      "Schott Plumbing, Inc. is a residential and light commercial plumbing contractor at 2551 Lance Dr on the south side of Dayton, near Moraine. Its site says it has served the Dayton area since 1954 and that it does service repairs, remodels, water heaters and boilers, new construction, gas lines, backflow testing and installation, and its own trenching and backhoe work. The Ohio OCILB roster we downloaded on November 3, 2026 lists two active plumbing contractor licenses under Schott Plumbing Inc: PL.14638, held by Mark Mitchell, and PL.25468, held by Christian L Mitchell.",
+      "The City of Dayton's registered plumbing contractor list (active as of June 4, 2026) carries Schott Plumbing under registration 009942. Its website is short, so this page pulls together what the public records show along with what the site lists."
+    ],
+    "address": {
+      "street": "2551 Lance Dr",
+      "locality": "Dayton",
+      "region": "OH",
+      "postal_code": "45409",
+      "source": "https://schottplumbing.com/"
+    },
+    "phone": {
+      "number": "(937) 299-7751",
+      "source": "https://schottplumbing.com/"
+    },
+    "website": "https://schottplumbing.com/",
+    "facts": [
+      {
+        "label": "Email",
+        "value": "info@schottplumbing.com, per the site header.",
+        "source": "https://schottplumbing.com/"
+      },
+      {
+        "label": "Hours",
+        "value": "The info page says its plumbers are available seven days a week. We did not find posted office hours, so call to confirm.",
+        "source": "https://schottplumbing.com/info/"
+      },
+      {
+        "label": "Estimates",
+        "value": "The site says estimates are free and can be given by phone or email.",
+        "source": "https://schottplumbing.com/info/"
+      },
+      {
+        "label": "Insurance and safety (per company site)",
+        "value": "The site says the company is licensed, bonded and insured, carries workers' compensation, and takes part in a drug and safety program.",
+        "source": "https://schottplumbing.com/"
+      },
+      {
+        "label": "Gas and backflow",
+        "value": "The site says the company is gas qualified and has backflow certification.",
+        "source": "https://schottplumbing.com/"
+      },
+      {
+        "label": "Equipment",
+        "value": "The site lists bobcat, trenching and backhoe work, and says gas, water and sewer lines can be replaced with minimum digging.",
+        "source": "https://schottplumbing.com/services/"
+      },
+      {
+        "label": "Address on the state roster",
+        "value": "The OCILB roster lists 2551 Lance Dr with Moraine, 45409 as the city. The site uses Dayton, 45409.",
+        "source": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      }
+    ],
+    "licenses": [
+      {
+        "authority": "Ohio OCILB",
+        "credential": "Plumbing contractor license",
+        "number": "PL.14638",
+        "holder": "Mark Mitchell, for Schott Plumbing Inc (2551 Lance Dr)",
+        "status": "Active (OCILB roster, Nov 3, 2026)",
+        "expires": "2027-06-30",
+        "note": "We did not find a license number printed on the company website.",
+        "source": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "authority": "Ohio OCILB",
+        "credential": "Plumbing contractor license",
+        "number": "PL.25468",
+        "holder": "Christian L Mitchell, for Schott Plumbing Inc",
+        "status": "Active (OCILB roster, Nov 3, 2026)",
+        "expires": "2027-06-30",
+        "source": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "authority": "City of Dayton",
+        "credential": "Registered plumbing contractor",
+        "number": "009942",
+        "holder": "Schott Plumbing, 2551 Lance Dr",
+        "status": "Active as of 6/4/2026 (latest city list)",
+        "source": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      }
+    ],
+    "services": [
+      "Plumbing service repairs",
+      "Bathroom and kitchen plumbing, fixtures, faucets and sinks",
+      "Bathroom remodels and additions",
+      "Leak detection",
+      "Drain and toilet clearing",
+      "Sewer line repair and replacement",
+      "Septic and sump pumps",
+      "Gas line installation, including gas lines for fireplaces",
+      "Gas, water and sewer line replacement with minimum digging",
+      "Backflow certification and installation",
+      "Water heaters, tank and tankless",
+      "Boilers",
+      "New construction plumbing",
+      "Bobcat, trenching and backhoe work",
+      "Residential, multi-family and light commercial plumbing"
+    ],
+    "services_source": "https://schottplumbing.com/services/",
+    "areas_served": [
+      "Dayton area"
+    ],
+    "areas_source": "https://schottplumbing.com/",
+    "notes": [
+      {
+        "title": "Long-running, low-key shop",
+        "body": "Schott has been in the Dayton area since 1954, per its site, but the website is brief: no town list, no posted hours and no online booking. Call or email to confirm it covers your address."
+      },
+      {
+        "title": "License checks out",
+        "body": "Two active Ohio plumbing contractor licenses are filed under Schott Plumbing Inc on the state roster, and the company is on the City of Dayton registered list at its Lance Dr address. The site does not print a license number, so this page lists both."
+      },
+      {
+        "title": "Best fit",
+        "body": "Jobs that need digging or line work, like a sewer, water or gas line replacement, plus backflow testing and new construction or remodel plumbing. Get the scope and price in writing and compare at least one other quote on larger jobs."
+      },
+      {
+        "title": "What this page is not",
+        "body": "PlumberLists has not hired this company and does not publish star ratings or review counts. Quote requests from this page go to PlumberLists, not to Schott Plumbing. To reach the company directly, call (937) 299-7751."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is Schott Plumbing licensed in Ohio?",
+        "answer": "Yes. The OCILB roster we downloaded on November 3, 2026 lists two active plumbing contractor licenses under Schott Plumbing Inc: PL.14638 (Mark Mitchell) and PL.25468 (Christian L Mitchell), both expiring June 30, 2027."
+      },
+      {
+        "question": "Is Schott Plumbing registered with the City of Dayton?",
+        "answer": "Yes. The City of Dayton registered plumbing contractor list, active as of June 4, 2026, includes Schott Plumbing at 2551 Lance Dr with registration 009942."
+      },
+      {
+        "question": "Where is Schott Plumbing located?",
+        "answer": "2551 Lance Dr, Dayton, OH 45409, per its site. The state roster lists the same street with Moraine as the city. Phone: (937) 299-7751. Email: info@schottplumbing.com."
+      },
+      {
+        "question": "How long has Schott Plumbing been in business?",
+        "answer": "Its site says it has served the Dayton area since 1954."
+      },
+      {
+        "question": "Does Schott Plumbing do backflow testing?",
+        "answer": "Its site says it has backflow certification and lists backflow certification and installation among its services."
+      },
+      {
+        "question": "Does Schott Plumbing replace sewer and water lines?",
+        "answer": "Yes. The site lists sewer line repair and replacement and says gas, water and sewer lines can be replaced with minimum digging, using its own bobcat, trenching and backhoe equipment."
+      },
+      {
+        "question": "Does Schott Plumbing give free estimates?",
+        "answer": "The site says estimates are free and can be given by phone or email."
+      },
+      {
+        "question": "Is PlumberLists affiliated with Schott Plumbing?",
+        "answer": "No. PlumberLists is an independent directory. This profile was compiled from public records and the company's own site, and the company did not write or pay for it."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Schott Plumbing home page (since 1954, address, phone, gas and backflow)",
+        "url": "https://schottplumbing.com/"
+      },
+      {
+        "label": "Schott Plumbing: services page",
+        "url": "https://schottplumbing.com/services/"
+      },
+      {
+        "label": "Schott Plumbing: info page (free estimates, seven days a week)",
+        "url": "https://schottplumbing.com/info/"
+      },
+      {
+        "label": "City of Dayton Registered Plumbing Contractors list (active as of 6/4/2026)",
+        "url": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      },
+      {
+        "label": "Ohio OCILB license lookup (plumbing 14638 and 25468)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "label": "Ohio OCILB HVAC and plumbing contractor roster download (generated Nov 3, 2026)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/GenerateRoster.aspx"
+      }
+    ],
+    "checked": "2026-11-03"
   }
 ]
