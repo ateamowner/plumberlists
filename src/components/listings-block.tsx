@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { EmptyMatchState } from "@/components/empty-match-state";
 import { site } from "@/config/site";
+import { profileForListing, profilePath } from "@/lib/company-profiles";
 import type { Listing } from "@/types/listing";
 
 const TIER_LABEL: Record<Listing["tier"], string> = {
@@ -85,6 +86,16 @@ export function ListingsBlock({ listings }: { listings: Listing[] }) {
                   </div>
                 ) : null}
               </dl>
+              {profileForListing(listing.name) ? (
+                <p className="mt-3">
+                  <a
+                    href={profilePath(profileForListing(listing.name)!)}
+                    className="text-sm font-medium underline underline-offset-2"
+                  >
+                    {`${listing.name.replace(/ \(.*\)$/, "")} profile: license, services, areas`}
+                  </a>
+                </p>
+              ) : null}
               {listing.name ? (
                 <p className="mt-3">
                   <a
