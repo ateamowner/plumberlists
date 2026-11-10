@@ -27,11 +27,7 @@ export function MobileStickyCta() {
 
   useEffect(() => {
     const form = document.getElementById("quote");
-    if (!form) {
-      setSubmitInView(false);
-      setFormFocused(false);
-      return;
-    }
+    if (!form) return;
 
     const submit =
       form.querySelector<HTMLElement>('button[type="submit"]') ?? form;
@@ -57,6 +53,10 @@ export function MobileStickyCta() {
       observer.disconnect();
       form.removeEventListener("focusin", onFocusIn);
       form.removeEventListener("focusout", onFocusOut);
+      // Reset on route change so a stale "in view" / "focused" state does
+      // not hide the bar on the next page.
+      setSubmitInView(false);
+      setFormFocused(false);
     };
   }, [pathname]);
 
