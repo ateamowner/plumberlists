@@ -2546,5 +2546,611 @@
       }
     ],
     "checked": "2026-11-03"
+  },
+  {
+    "slug": "bear-plumbing-beavercreek-oh",
+    "name": "Bear Plumbing Services, LLC",
+    "legal_name": "Bear Plumbing & Pump Service",
+    "also_known_as": [
+      "Bear Plumbing",
+      "Bear Plumbing Beavercreek",
+      "Bear Plumbing Dayton",
+      "Bear Plumbing & Pump Service"
+    ],
+    "listing_names": [
+      "Bear Plumbing Services, LLC"
+    ],
+    "schema_type": "Plumber",
+    "title": "Bear Plumbing (Beavercreek, OH): License, Hours, Wells",
+    "meta_description": "Bear Plumbing, 792 Space Dr, Beavercreek: Ohio plumbing license PL.18374 (OCILB, Nov 10, 2026), City of Dayton reg. 1637, weekday hours, emergency calls, and well pump work across Greene and Montgomery County. Independent profile.",
+    "headline": "Bear Plumbing: Beavercreek plumbing and well pump contractor on Space Drive",
+    "base_location": "Beavercreek, OH",
+    "summary": [
+      "Bear Plumbing is a family-owned plumbing company at 792 Space Dr in Beavercreek that works across Greene and Montgomery County. Its site covers residential, commercial, and construction and remodel plumbing, plus water well and pump service, which many city-focused plumbers don't offer. The Ohio OCILB roster we downloaded on November 10, 2026 lists an active plumbing contractor license, PL.18374, held by Gary L Lester under the name Bear Plumbing & Pump Service at the same Space Dr address. The City of Dayton's registered plumbing contractor list (active as of June 4, 2026) carries it as Bear Plbg under registration 1637.",
+      "Other companies around the country use the Bear Plumbing name, so this page sticks to the Beavercreek company: its license and registration, posted hours, services and how to reach it."
+    ],
+    "address": {
+      "street": "792 Space Dr",
+      "locality": "Beavercreek",
+      "region": "OH",
+      "postal_code": "45434",
+      "source": "https://www.bearplumbingservices.com/contact"
+    },
+    "phone": {
+      "number": "(937) 426-6901",
+      "source": "https://www.bearplumbingservices.com/contact"
+    },
+    "website": "https://www.bearplumbingservices.com/",
+    "facts": [
+      {
+        "label": "Hours",
+        "value": "Monday to Friday, 8 AM to 6 PM. The contact page adds that the company tries to stay available 24/7 for emergencies.",
+        "source": "https://www.bearplumbingservices.com/contact"
+      },
+      {
+        "label": "Emergency work",
+        "value": "Its emergency page lists burst pipes, clogged drains and sewer backups, and water heater failures, including nights, holidays and storms.",
+        "source": "https://www.bearplumbingservices.com/emergency-plumbing"
+      },
+      {
+        "label": "Ownership",
+        "value": "The site describes Bear Plumbing as a family-owned, full-service plumbing company. Its blog posts are written by Gary Lester, the name on the state license.",
+        "source": "https://www.bearplumbingservices.com/plumbing-blog-faq"
+      },
+      {
+        "label": "Free quotes",
+        "value": "The site offers free plumbing quotes and free in-person consultations.",
+        "source": "https://www.bearplumbingservices.com/services"
+      },
+      {
+        "label": "Email",
+        "value": "bearplumbingdayton@gmail.com, per the contact page.",
+        "source": "https://www.bearplumbingservices.com/contact"
+      },
+      {
+        "label": "Phone on the city list",
+        "value": "The City of Dayton list shows a different business number, (937) 673-8970. The company site shows (937) 426-6901, which is the number on this page.",
+        "source": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      }
+    ],
+    "licenses": [
+      {
+        "authority": "Ohio OCILB",
+        "credential": "Plumbing contractor license",
+        "number": "PL.18374",
+        "holder": "Gary L Lester, for Bear Plumbing & Pump Service (792 Space Dr, Beavercreek)",
+        "status": "Active (OCILB roster, Nov 10, 2026)",
+        "expires": "2027-03-31",
+        "note": "We did not find a license number printed on the company website.",
+        "source": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "authority": "City of Dayton",
+        "credential": "Registered plumbing contractor",
+        "number": "1637",
+        "holder": "Bear Plbg, 792 Space Dr",
+        "status": "Active as of 6/4/2026 (latest city list)",
+        "source": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      }
+    ],
+    "services": [
+      "Leaky faucets and fixture repair",
+      "Clogged drains",
+      "Water heater repair and installation",
+      "Sewer line repair",
+      "Sump pump installation",
+      "Burst pipe repair",
+      "Sewer backup cleanup and drain clearing",
+      "Commercial pipe installation and restroom plumbing maintenance",
+      "Backflow prevention",
+      "New construction and remodel plumbing, including pipe relocation and fixture upgrades",
+      "Well pump installation, replacement and repair",
+      "Pressure tank maintenance",
+      "Well water testing",
+      "Emergency well service"
+    ],
+    "services_source": "https://www.bearplumbingservices.com/services",
+    "areas_served": [
+      "Beavercreek",
+      "Dayton",
+      "Greene County",
+      "Montgomery County"
+    ],
+    "areas_source": "https://www.bearplumbingservices.com/services",
+    "notes": [
+      {
+        "title": "Which Bear Plumbing is this?",
+        "body": "This is the Beavercreek company at 792 Space Dr, phone (937) 426-6901, OCILB PL.18374, City of Dayton registration 1637. Companies named Bear Plumbing in other states are not related."
+      },
+      {
+        "title": "License checks out",
+        "body": "The state roster shows an active plumbing contractor license at the same Space Dr address, held by Gary L Lester, and the company is on the City of Dayton registered list. The state record uses the name Bear Plumbing & Pump Service, which matches its well and pump work."
+      },
+      {
+        "title": "Best fit",
+        "body": "Homes and businesses east of Dayton, especially in Beavercreek and rural Greene County, that need a plumber who also handles well pumps and pressure tanks. For a sewer line or remodel job, get the scope and price in writing and compare at least one other quote."
+      },
+      {
+        "title": "What this page is not",
+        "body": "PlumberLists has not hired this company and does not publish star ratings or review counts. Quote requests from this page go to PlumberLists, not to Bear Plumbing. To reach the company directly, call (937) 426-6901."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is Bear Plumbing licensed in Ohio?",
+        "answer": "Yes. The OCILB roster we downloaded on November 10, 2026 lists plumbing contractor license PL.18374, active, held by Gary L Lester for Bear Plumbing & Pump Service at 792 Space Dr, Beavercreek, expiring March 31, 2027."
+      },
+      {
+        "question": "Is Bear Plumbing registered with the City of Dayton?",
+        "answer": "Yes. The City of Dayton registered plumbing contractor list, active as of June 4, 2026, includes Bear Plbg at 792 Space Dr with registration 1637."
+      },
+      {
+        "question": "Where is Bear Plumbing located?",
+        "answer": "792 Space Dr, Beavercreek, OH 45434. Phone: (937) 426-6901."
+      },
+      {
+        "question": "What are Bear Plumbing's hours?",
+        "answer": "Monday to Friday, 8 AM to 6 PM, per its contact page, which also says the company tries to stay available 24/7 for emergencies."
+      },
+      {
+        "question": "Does Bear Plumbing work on wells?",
+        "answer": "Yes. Its services page lists well pump installation, replacement and repair, pressure tank maintenance, water testing and emergency well service."
+      },
+      {
+        "question": "Does Bear Plumbing do commercial plumbing?",
+        "answer": "Yes. The site lists commercial pipe installation, restroom plumbing maintenance and backflow prevention for businesses, plus new construction and remodel plumbing."
+      },
+      {
+        "question": "Which areas does Bear Plumbing serve?",
+        "answer": "Its site says it serves Greene and Montgomery County and the surrounding area, with Beavercreek and Dayton named on its pages."
+      },
+      {
+        "question": "Is PlumberLists affiliated with Bear Plumbing?",
+        "answer": "No. PlumberLists is an independent directory. This profile was compiled from public records and the company's own site, and the company did not write or pay for it."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Bear Plumbing home page (services, phone, email)",
+        "url": "https://www.bearplumbingservices.com/"
+      },
+      {
+        "label": "Bear Plumbing: services page (service list, service area)",
+        "url": "https://www.bearplumbingservices.com/services"
+      },
+      {
+        "label": "Bear Plumbing: emergency plumbing page",
+        "url": "https://www.bearplumbingservices.com/emergency-plumbing"
+      },
+      {
+        "label": "Bear Plumbing: contact page (address, hours)",
+        "url": "https://www.bearplumbingservices.com/contact"
+      },
+      {
+        "label": "Bear Plumbing: why Bear (family-owned)",
+        "url": "https://www.bearplumbingservices.com/why-bear"
+      },
+      {
+        "label": "Bear Plumbing blog (author Gary Lester)",
+        "url": "https://www.bearplumbingservices.com/plumbing-blog-faq"
+      },
+      {
+        "label": "City of Dayton Registered Plumbing Contractors list (active as of 6/4/2026)",
+        "url": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      },
+      {
+        "label": "Ohio OCILB license lookup (plumbing 18374)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "label": "Ohio OCILB HVAC and plumbing contractor roster download (generated Nov 10, 2026)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/GenerateRoster.aspx"
+      }
+    ],
+    "checked": "2026-11-10"
+  },
+  {
+    "slug": "oakwood-plumbing-company-dayton-oh",
+    "name": "Oakwood Plumbing Company",
+    "legal_name": "Oakwood Plumbing Company",
+    "also_known_as": [
+      "Oakwood Plumbing",
+      "Oakwood Plumbing Co",
+      "Oakwood Plumbing Dayton"
+    ],
+    "listing_names": [
+      "Oakwood Plumbing Company"
+    ],
+    "schema_type": "Plumber",
+    "title": "Oakwood Plumbing Company (Oakwood, OH): License, Team",
+    "meta_description": "Oakwood Plumbing Company, Oakwood, OH 45419: Ohio plumbing license PL.49247 (OCILB, Nov 10, 2026), City of Dayton reg. 010543, founded 2018 by master plumber Gordon Mains, plumbing, water treatment and remodeling. Independent profile.",
+    "headline": "Oakwood Plumbing Company: owner-run plumbing and remodeling for Oakwood and south Dayton",
+    "base_location": "Oakwood / Dayton, OH",
+    "summary": [
+      "Oakwood Plumbing Company is a small plumbing and remodeling company that lists its office as Oakwood, Ohio 45419. Founder Gordon Mains started it in 2018, and the site says he has worked in plumbing for over 15 years and holds a master plumbing license. It handles residential and commercial plumbing, tank and tankless water heaters, water softeners and reverse osmosis, gas lines, backflow devices, and kitchen and bathroom remodels.",
+      "The license number on its site, 49247, matches the Ohio OCILB roster we downloaded on November 10, 2026: plumbing contractor license PL.49247, active, held by Gordon R Mains for Oakwood Plumbing Company. The City of Dayton's registered plumbing contractor list (active as of June 4, 2026) carries it under registration 010543, with a shop on Encrete Lane."
+    ],
+    "phone": {
+      "number": "(937) 985-4077",
+      "source": "https://www.oakwoodplumbingcompany.com/contact"
+    },
+    "website": "https://www.oakwoodplumbingcompany.com/",
+    "facts": [
+      {
+        "label": "Founded",
+        "value": "2018, by Gordon Mains, per the about page.",
+        "source": "https://www.oakwoodplumbingcompany.com/about-us"
+      },
+      {
+        "label": "Team (per company site)",
+        "value": "Gordon Mains handles estimating, larger plumbing jobs and remodel support. Matt, a licensed journeyman plumber who joined in 2021, handles most service work. Elliott, who joined in 2021, leads remodel projects.",
+        "source": "https://www.oakwoodplumbingcompany.com/about-us"
+      },
+      {
+        "label": "Licensed, bonded, insured",
+        "value": "The about page says the company is licensed, bonded and insured and qualified to work on water lines, drain lines, gas lines, backflow devices and water quality products.",
+        "source": "https://www.oakwoodplumbingcompany.com/about-us"
+      },
+      {
+        "label": "Hours",
+        "value": "We did not find posted hours on the site, so call to confirm.",
+        "source": "https://www.oakwoodplumbingcompany.com/contact"
+      },
+      {
+        "label": "Service area",
+        "value": "The site lists its office as Oakwood, Ohio 45419 and does not name other towns, so ask whether your address is in range.",
+        "source": "https://www.oakwoodplumbingcompany.com/contact"
+      },
+      {
+        "label": "Email",
+        "value": "service@oakwoodplumbingcompany.com, per the contact page.",
+        "source": "https://www.oakwoodplumbingcompany.com/contact"
+      },
+      {
+        "label": "Shop location",
+        "value": "The City of Dayton list gives a shop address on Encrete Lane in Moraine. The company site lists only Oakwood, Ohio 45419.",
+        "source": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      },
+      {
+        "label": "Sales approach",
+        "value": "The about page says customers get their plumbing issue solved without sales pressure.",
+        "source": "https://www.oakwoodplumbingcompany.com/about-us"
+      }
+    ],
+    "licenses": [
+      {
+        "authority": "Ohio OCILB",
+        "credential": "Plumbing contractor license",
+        "number": "PL.49247",
+        "holder": "Gordon R Mains, for Oakwood Plumbing Company",
+        "status": "Active (OCILB roster, Nov 10, 2026)",
+        "expires": "2028-10-13",
+        "note": "Matches \"OH License # 49247\" in the company's site footer.",
+        "source": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "authority": "City of Dayton",
+        "credential": "Registered plumbing contractor",
+        "number": "010543",
+        "holder": "Oakwood Plumbing Company, Encrete Lane",
+        "status": "Active as of 6/4/2026 (latest city list)",
+        "source": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      }
+    ],
+    "services": [
+      "Residential and commercial plumbing repair and service",
+      "Water heaters, tank and tankless",
+      "Water softeners",
+      "Reverse osmosis drinking water systems",
+      "Gas line repair and installation",
+      "Water lines and drain lines",
+      "Leak repair",
+      "Backflow devices",
+      "Kitchen and bathroom remodeling, including tile, cultured stone and fixture changes",
+      "Full and partial home remodels"
+    ],
+    "services_source": "https://www.oakwoodplumbingcompany.com/services",
+    "areas_served": [
+      "Oakwood",
+      "Dayton area"
+    ],
+    "areas_source": "https://www.oakwoodplumbingcompany.com/contact",
+    "notes": [
+      {
+        "title": "License checks out",
+        "body": "The license number in the site footer, 49247, is an active state plumbing contractor license under the Oakwood Plumbing Company name, held by founder Gordon R Mains, and the company is on the City of Dayton registered list."
+      },
+      {
+        "title": "Plumber and remodeler in one",
+        "body": "Unlike most plumbers on this site, Oakwood Plumbing runs a remodeling team for kitchens and bathrooms. If you want a bathroom redone, it can handle the plumbing and the finish work. Get the full scope, timeline and price in writing."
+      },
+      {
+        "title": "Best fit",
+        "body": "Older homes in Oakwood and nearby south Dayton neighborhoods that want an owner-run shop for water heaters, water treatment, gas lines or a bathroom remodel. The team is small, so ask about scheduling for urgent calls."
+      },
+      {
+        "title": "What this page is not",
+        "body": "PlumberLists has not hired this company and does not publish star ratings or review counts. Quote requests from this page go to PlumberLists, not to Oakwood Plumbing Company. To reach the company directly, call (937) 985-4077."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is Oakwood Plumbing Company licensed in Ohio?",
+        "answer": "Yes. The license number on its site, 49247, is Ohio plumbing contractor license PL.49247 in the OCILB roster we downloaded on November 10, 2026, active, held by Gordon R Mains for Oakwood Plumbing Company, expiring October 13, 2028."
+      },
+      {
+        "question": "Is Oakwood Plumbing Company registered with the City of Dayton?",
+        "answer": "Yes. The City of Dayton registered plumbing contractor list, active as of June 4, 2026, includes Oakwood Plumbing Company with registration 010543."
+      },
+      {
+        "question": "Where is Oakwood Plumbing Company located?",
+        "answer": "Its site lists Oakwood, Ohio 45419. The City of Dayton list places its shop on Encrete Lane in Moraine. Phone: (937) 985-4077."
+      },
+      {
+        "question": "Who owns Oakwood Plumbing Company?",
+        "answer": "Gordon Mains founded it in 2018. The site says he has over 15 years in plumbing and holds a master plumbing license."
+      },
+      {
+        "question": "Does Oakwood Plumbing install tankless water heaters?",
+        "answer": "Yes. Its services page lists tank and tankless water heaters."
+      },
+      {
+        "question": "Does Oakwood Plumbing install water softeners?",
+        "answer": "Yes. It installs water softeners and reverse osmosis drinking water systems, per its home and services pages."
+      },
+      {
+        "question": "Does Oakwood Plumbing do bathroom remodels?",
+        "answer": "Yes. It has a remodeling team for full and partial remodels, kitchens, bathrooms, tile, cultured stone and fixture changes."
+      },
+      {
+        "question": "Is PlumberLists affiliated with Oakwood Plumbing Company?",
+        "answer": "No. PlumberLists is an independent directory. This profile was compiled from public records and the company's own site, and the company did not write or pay for it."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Oakwood Plumbing Company home page (services, license number)",
+        "url": "https://www.oakwoodplumbingcompany.com/"
+      },
+      {
+        "label": "Oakwood Plumbing Company: about page (founded 2018, team)",
+        "url": "https://www.oakwoodplumbingcompany.com/about-us"
+      },
+      {
+        "label": "Oakwood Plumbing Company: services page",
+        "url": "https://www.oakwoodplumbingcompany.com/services"
+      },
+      {
+        "label": "Oakwood Plumbing Company: contact page",
+        "url": "https://www.oakwoodplumbingcompany.com/contact"
+      },
+      {
+        "label": "City of Dayton Registered Plumbing Contractors list (active as of 6/4/2026)",
+        "url": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      },
+      {
+        "label": "Ohio OCILB license lookup (plumbing 49247)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "label": "Ohio OCILB HVAC and plumbing contractor roster download (generated Nov 10, 2026)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/GenerateRoster.aspx"
+      }
+    ],
+    "checked": "2026-11-10"
+  },
+  {
+    "slug": "rw-louderback-son-plumbing-xenia-oh",
+    "name": "R.W. Louderback & Son Plumbing Co.",
+    "legal_name": "RW Louderback & Son Plumbing Co",
+    "also_known_as": [
+      "Louderback Plumbing",
+      "RW Louderback & Son Plumbing",
+      "Louderback Plumbing Xenia"
+    ],
+    "listing_names": [
+      "R.W. Louderback & Son Plumbing Co."
+    ],
+    "schema_type": "Plumber",
+    "title": "Louderback Plumbing (Xenia, since 1968): License, Hours",
+    "meta_description": "RW Louderback & Son Plumbing, 51 W Third St, Xenia: Ohio plumbing license PL.18426 (OCILB, Nov 10, 2026), City of Dayton reg. 010013, weekday hours, 24-hour emergency service, wells, backflow and 12 towns. Independent profile.",
+    "headline": "RW Louderback & Son Plumbing: Xenia's family plumber since 1968",
+    "base_location": "Xenia, OH",
+    "summary": [
+      "RW Louderback & Son Plumbing is a family-owned plumbing company at 51 W Third St in Xenia that has served Xenia and Beavercreek since 1968, per its site. It does residential and commercial plumbing, including mobile homes, and offers 24-hour emergency service and free estimates across Greene and Montgomery County. Its menu also includes well repair and replacement, backflow prevention, gas lines, water softeners, sump pumps with battery backups, and dryer vent cleaning.",
+      "The license number on its site, 18426, matches the Ohio OCILB roster we downloaded on November 10, 2026: plumbing contractor license PL.18426, active, held by Robert W Louderback Sr at the 51 W Third St address. The City of Dayton's registered plumbing contractor list (active as of June 4, 2026) carries it under registration 010013."
+    ],
+    "address": {
+      "street": "51 W Third St",
+      "locality": "Xenia",
+      "region": "OH",
+      "postal_code": "45385",
+      "source": "https://www.louderbackplumbing.com/contact"
+    },
+    "phone": {
+      "number": "(937) 376-1201",
+      "source": "https://www.louderbackplumbing.com/contact"
+    },
+    "website": "https://www.louderbackplumbing.com/",
+    "facts": [
+      {
+        "label": "Hours",
+        "value": "Monday to Friday, 8 AM to 5 PM, closed Saturday and Sunday, with 24-hour emergency service, per the contact page.",
+        "source": "https://www.louderbackplumbing.com/contact"
+      },
+      {
+        "label": "Since",
+        "value": "1968, per the home page.",
+        "source": "https://www.louderbackplumbing.com/"
+      },
+      {
+        "label": "Guarantee",
+        "value": "The home page advertises a \"No-Fault\" six-year parts and labor guarantee. Ask what it covers before you sign.",
+        "source": "https://www.louderbackplumbing.com/"
+      },
+      {
+        "label": "Certifications (per company site)",
+        "value": "Bob Louderback is certified by the State of Ohio to replace well pumps and upgrade or chlorinate wells, and the company lists backflow prevention, gas line service and Vectren certification.",
+        "source": "https://www.louderbackplumbing.com/contact"
+      },
+      {
+        "label": "Brands",
+        "value": "Sta-Rite, AO Smith and Rheem, per the contact page.",
+        "source": "https://www.louderbackplumbing.com/contact"
+      },
+      {
+        "label": "Payment address",
+        "value": "Payments go to 900 Birch Rd, Xenia, which is also the address on the City of Dayton list.",
+        "source": "https://www.louderbackplumbing.com/contact"
+      },
+      {
+        "label": "Email",
+        "value": "louderbackplumbing@sbcglobal.net, per the contact page.",
+        "source": "https://www.louderbackplumbing.com/contact"
+      },
+      {
+        "label": "Seasonal offer",
+        "value": "The home page advertises savings from December through February. Ask for current terms.",
+        "source": "https://www.louderbackplumbing.com/"
+      }
+    ],
+    "licenses": [
+      {
+        "authority": "Ohio OCILB",
+        "credential": "Plumbing contractor license",
+        "number": "PL.18426",
+        "holder": "Robert W Louderback Sr, for RW Louderback & Son Plumbing Co (51 W Third St, Xenia)",
+        "status": "Active (OCILB roster, Nov 10, 2026)",
+        "expires": "2027-03-31",
+        "note": "Matches \"License No: 18426\" on the company site.",
+        "source": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "authority": "City of Dayton",
+        "credential": "Registered plumbing contractor",
+        "number": "010013",
+        "holder": "RW Louderback & Son Plumbing Co, 900 Birch Rd",
+        "status": "Active as of 6/4/2026 (latest city list)",
+        "source": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      }
+    ],
+    "services": [
+      "Plumbing repair and installation",
+      "Sewer and drain cleaning and repair",
+      "Water heaters",
+      "Water softeners",
+      "Well repair and replacement",
+      "Backflow prevention",
+      "Gas lines",
+      "Sump pumps and battery backups",
+      "Frozen pipes",
+      "Mobile home plumbing",
+      "Bathroom and kitchen remodeling",
+      "Dryer vent cleaning",
+      "Mold-resistant paint"
+    ],
+    "services_source": "https://www.louderbackplumbing.com/",
+    "areas_served": [
+      "Xenia",
+      "Beavercreek",
+      "Centerville",
+      "Dayton",
+      "Enon",
+      "Huber Heights",
+      "Kettering",
+      "Oakwood",
+      "Riverside",
+      "Springfield",
+      "Waynesville",
+      "Yellow Springs"
+    ],
+    "areas_source": "https://www.louderbackplumbing.com/areas-we-serve",
+    "notes": [
+      {
+        "title": "License checks out",
+        "body": "The license number on the site, 18426, is an active state plumbing contractor license under the Louderback name at the Third St shop, and the company is on the City of Dayton registered list."
+      },
+      {
+        "title": "Long history, family run",
+        "body": "The family has run the business since 1968, and it names Bob Louderback's state well certification on its contact page, which is useful if you're on a private well."
+      },
+      {
+        "title": "Best fit",
+        "body": "Homes in Xenia, Beavercreek and the rest of Greene County, including mobile homes and well systems, plus drain and sewer calls. Office hours end at 5 PM on weekdays, so use the emergency line after hours."
+      },
+      {
+        "title": "What this page is not",
+        "body": "PlumberLists has not hired this company and does not publish star ratings or review counts. Quote requests from this page go to PlumberLists, not to RW Louderback & Son Plumbing. To reach the company directly, call (937) 376-1201."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is Louderback Plumbing licensed in Ohio?",
+        "answer": "Yes. The license number on its site, 18426, is Ohio plumbing contractor license PL.18426 in the OCILB roster we downloaded on November 10, 2026, active, held by Robert W Louderback Sr for RW Louderback & Son Plumbing Co, expiring March 31, 2027."
+      },
+      {
+        "question": "Is Louderback Plumbing registered with the City of Dayton?",
+        "answer": "Yes. The City of Dayton registered plumbing contractor list, active as of June 4, 2026, includes RW Louderback & Son Plumbing Co with registration 010013."
+      },
+      {
+        "question": "Where is Louderback Plumbing located?",
+        "answer": "51 W Third St, Xenia, OH 45385. Payments go to 900 Birch Rd, Xenia. Phone: (937) 376-1201."
+      },
+      {
+        "question": "What are Louderback Plumbing's hours?",
+        "answer": "Monday to Friday, 8 AM to 5 PM, closed weekends, with 24-hour emergency service, per its contact page."
+      },
+      {
+        "question": "How long has Louderback Plumbing been in business?",
+        "answer": "The Louderback family has served Xenia as a local plumber since 1968, per the company site."
+      },
+      {
+        "question": "Does Louderback Plumbing work on wells?",
+        "answer": "Yes. It lists well repair and replacement, and its contact page says Bob Louderback is state certified to replace well pumps and upgrade or chlorinate wells."
+      },
+      {
+        "question": "Which towns does Louderback Plumbing serve?",
+        "answer": "Its areas page names Beavercreek, Centerville, Dayton, Enon, Huber Heights, Kettering, Oakwood, Riverside, Springfield, Waynesville, Xenia and Yellow Springs."
+      },
+      {
+        "question": "Is PlumberLists affiliated with Louderback Plumbing?",
+        "answer": "No. PlumberLists is an independent directory. This profile was compiled from public records and the company's own site, and the company did not write or pay for it."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Louderback Plumbing home page (since 1968, services, license number, guarantee)",
+        "url": "https://www.louderbackplumbing.com/"
+      },
+      {
+        "label": "Louderback Plumbing: areas we serve",
+        "url": "https://www.louderbackplumbing.com/areas-we-serve"
+      },
+      {
+        "label": "Louderback Plumbing: contact page (address, hours, certifications, brands)",
+        "url": "https://www.louderbackplumbing.com/contact"
+      },
+      {
+        "label": "Louderback Plumbing: sewer and drain page",
+        "url": "https://www.louderbackplumbing.com/sewer-drain"
+      },
+      {
+        "label": "Louderback Plumbing: plumbing repair and installation page",
+        "url": "https://www.louderbackplumbing.com/plumbing"
+      },
+      {
+        "label": "City of Dayton Registered Plumbing Contractors list (active as of 6/4/2026)",
+        "url": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      },
+      {
+        "label": "Ohio OCILB license lookup (plumbing 18426)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "label": "Ohio OCILB HVAC and plumbing contractor roster download (generated Nov 10, 2026)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/GenerateRoster.aspx"
+      }
+    ],
+    "checked": "2026-11-10"
   }
 ]
