@@ -3152,5 +3152,802 @@
       }
     ],
     "checked": "2026-11-10"
+  },
+  {
+    "slug": "stebbins-plumbing-heating-west-carrollton-oh",
+    "name": "Stebbins Plumbing & Heating",
+    "legal_name": "Stebbins Plumbing & Heating",
+    "also_known_as": [
+      "Stebbins Plumbing",
+      "Stebbins Plumbing West Carrollton",
+      "Stebbins Plumbing Dayton",
+      "Stebbins Plumbing and Heating"
+    ],
+    "listing_names": [
+      "Stebbins Plumbing & Heating"
+    ],
+    "schema_type": "Plumber",
+    "title": "Stebbins Plumbing (West Carrollton, since 1926): License, Hours",
+    "meta_description": "Stebbins Plumbing & Heating, 621 E Dixie Dr, West Carrollton: Ohio plumbing and HVAC licenses PL.12884 and HV.12884 (OCILB, Nov 12, 2026), City of Dayton reg. 009945, weekday hours, backflow testing and 100 years of family history. Independent profile.",
+    "headline": "Stebbins Plumbing & Heating: West Carrollton's family plumber since 1926",
+    "base_location": "West Carrollton, OH",
+    "summary": [
+      "Stebbins Plumbing & Heating is a third-generation family plumbing company at 621 E Dixie Dr in West Carrollton. Cecil Stebbins started the shop in 1926, so 2026 is its 100th year, and Bruce Stebbins now runs it, per the company site. It does residential and commercial plumbing: drain cleaning and scheduled clean-outs, water heaters, fixtures and replacement parts, gas lines, backflow testing, and commercial new construction and pipe fitting around the Miami Valley.",
+      "The Ohio OCILB roster we downloaded on November 12, 2026 lists two active contractor licenses held by Bruce A Stebbins for Stebbins Plumbing & Heating at the E Dixie Dr address: plumbing PL.12884 and HVAC HV.12884, both expiring September 30, 2028. The City of Dayton's registered plumbing contractor list (active as of June 4, 2026) carries it under registration 009945."
+    ],
+    "address": {
+      "street": "621 E Dixie Dr",
+      "locality": "West Carrollton",
+      "region": "OH",
+      "postal_code": "45449",
+      "source": "https://stebbinsplumbing.com/"
+    },
+    "phone": {
+      "number": "(937) 859-4534",
+      "source": "https://stebbinsplumbing.com/contact"
+    },
+    "website": "https://stebbinsplumbing.com/",
+    "facts": [
+      {
+        "label": "Hours",
+        "value": "The contact page says service hours are Monday to Friday, 8 AM to 4 PM. The home page lists Monday to Friday, 7:30 AM to 4 PM. No weekend or after-hours service is published, so call to confirm.",
+        "source": "https://stebbinsplumbing.com/contact"
+      },
+      {
+        "label": "Since",
+        "value": "1926. The site says Cecil Stebbins began the shop that year and that Bruce Stebbins took it over after working with his father, uncles and aunts.",
+        "source": "https://stebbinsplumbing.com/celebrating-100-years"
+      },
+      {
+        "label": "Text line",
+        "value": "The contact page lists a separate SMS/MMS number, (937) 314-4501, and the email stebbins621@gmail.com.",
+        "source": "https://stebbinsplumbing.com/contact"
+      },
+      {
+        "label": "BBB",
+        "value": "Its BBB profile shows it as accredited since December 24, 1993, with Bruce A. Stebbins as president and owner. Open the profile for current details.",
+        "source": "https://www.bbb.org/us/oh/dayton/profile/plumber/stebbins-plumbing-0322-6140"
+      },
+      {
+        "label": "Memberships",
+        "value": "The home page says it is a longstanding member of the Dayton PHCC (Plumbing-Heating-Cooling Contractors).",
+        "source": "https://stebbinsplumbing.com/"
+      },
+      {
+        "label": "Water heaters",
+        "value": "The home page names AO Smith and Bradford White tank heaters plus tankless lines.",
+        "source": "https://stebbinsplumbing.com/"
+      },
+      {
+        "label": "Commercial work",
+        "value": "The home page describes new construction work for fuel stations, grocers, hospitals, restaurants and hotels, and industrial pipe fitting. The site also has service request pages for several commercial and school accounts.",
+        "source": "https://stebbinsplumbing.com/"
+      },
+      {
+        "label": "Backflow testing",
+        "value": "The site has an online backflow request form for scheduling tests.",
+        "source": "https://stebbinsplumbing.com/backflow-request"
+      },
+      {
+        "label": "Payments",
+        "value": "Invoices can be paid online through a link on the home page.",
+        "source": "https://stebbinsplumbing.com/"
+      }
+    ],
+    "licenses": [
+      {
+        "authority": "Ohio OCILB",
+        "credential": "Plumbing contractor license",
+        "number": "PL.12884",
+        "holder": "Bruce A Stebbins, for Stebbins Plumbing & Heating (621 E Dixie Dr, West Carrollton)",
+        "status": "Active (OCILB roster, Nov 12, 2026)",
+        "expires": "2028-09-30",
+        "note": "We did not find a license number printed on the company website.",
+        "source": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "authority": "Ohio OCILB",
+        "credential": "HVAC contractor license",
+        "number": "HV.12884",
+        "holder": "Bruce A Stebbins, for Stebbins Plumbing & Heating",
+        "status": "Active (OCILB roster, Nov 12, 2026)",
+        "expires": "2028-09-30",
+        "source": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "authority": "City of Dayton",
+        "credential": "Registered plumbing contractor",
+        "number": "009945",
+        "holder": "Stebbins Plumbing & Heating, 621 E Dixie Dr",
+        "status": "Active as of 6/4/2026 (latest city list)",
+        "source": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      }
+    ],
+    "services": [
+      "Drain cleaning",
+      "Scheduled drain clean-out maintenance",
+      "Water heater service and installation (tank and tankless)",
+      "Fixture sales and installation",
+      "New and replacement plumbing parts",
+      "Faucet installation and repair",
+      "Gas line installation",
+      "Backflow testing",
+      "Commercial new construction plumbing",
+      "Industrial pipe fitting",
+      "Heating work (state HVAC license on file)"
+    ],
+    "services_source": "https://stebbinsplumbing.com/",
+    "areas_served": [
+      "West Carrollton",
+      "Miamisburg",
+      "Dayton",
+      "Greater Miami Valley (commercial projects)"
+    ],
+    "areas_source": "https://stebbinsplumbing.com/celebrating-100-years",
+    "related_links": [
+      {
+        "href": "/west-carrollton-oh/plumbing/",
+        "label": "Plumbers in West Carrollton, OH",
+        "why": "where Stebbins is listed on PlumberLists"
+      },
+      {
+        "href": "/west-carrollton-oh/water-heater/",
+        "label": "Water heater repair in West Carrollton, OH",
+        "why": "compare licensed plumbers near its E Dixie Dr shop"
+      },
+      {
+        "href": "/west-carrollton-oh/drain-cleaning/",
+        "label": "Drain cleaning in West Carrollton, OH",
+        "why": "drain clean-outs are a core Stebbins service"
+      },
+      {
+        "href": "/miamisburg-oh/plumbing/",
+        "label": "Plumbers in Miamisburg, OH",
+        "why": "a town Stebbins names"
+      },
+      {
+        "href": "/miamisburg-oh/drain-cleaning/",
+        "label": "Drain cleaning in Miamisburg, OH",
+        "why": "next door to its shop"
+      },
+      {
+        "href": "/dayton-oh/plumbing/",
+        "label": "Plumbers in Dayton, OH",
+        "why": "registered with the City of Dayton"
+      }
+    ],
+    "notes": [
+      {
+        "title": "License checks out",
+        "body": "Bruce A Stebbins holds active state plumbing and HVAC contractor licenses (PL.12884 and HV.12884) at the E Dixie Dr shop, and the company is on the City of Dayton registered plumbing list. The site doesn't print a license number, so this page is the quick way to see it."
+      },
+      {
+        "title": "A century in one place",
+        "body": "Few Dayton-area plumbers can point to 100 years under one family name. Stebbins has been at it since 1926 and has been BBB accredited since 1993, per its BBB profile."
+      },
+      {
+        "title": "Best fit",
+        "body": "Homes and businesses in West Carrollton, Miamisburg and the south Dayton suburbs that want an established local shop for drains, water heaters, fixtures, gas lines and backflow tests. It publishes weekday hours only, so plan non-urgent work for weekdays and ask how it handles after-hours calls."
+      },
+      {
+        "title": "What this page is not",
+        "body": "PlumberLists has not hired this company and does not publish star ratings or review counts. Quote requests from this page go to PlumberLists, not to Stebbins. To reach the company directly, call (937) 859-4534."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is Stebbins Plumbing licensed in Ohio?",
+        "answer": "Yes. The OCILB roster we downloaded on November 12, 2026 lists plumbing contractor license PL.12884 and HVAC contractor license HV.12884, both active, held by Bruce A Stebbins for Stebbins Plumbing & Heating at 621 E Dixie Dr, expiring September 30, 2028."
+      },
+      {
+        "question": "Is Stebbins registered with the City of Dayton?",
+        "answer": "Yes. The City of Dayton registered plumbing contractor list, active as of June 4, 2026, includes Stebbins Plumbing & Heating at 621 E Dixie Dr with registration 009945."
+      },
+      {
+        "question": "Where is Stebbins Plumbing located?",
+        "answer": "621 E Dixie Dr, West Carrollton, OH 45449. Phone: (937) 859-4534. Text: (937) 314-4501."
+      },
+      {
+        "question": "What are Stebbins Plumbing's hours?",
+        "answer": "The contact page says Monday to Friday, 8 AM to 4 PM, and the home page lists 7:30 AM to 4 PM on weekdays. Weekend hours are not published."
+      },
+      {
+        "question": "How long has Stebbins Plumbing been in business?",
+        "answer": "Since 1926, when Cecil Stebbins started the shop. The site says the family has run it for three generations and is celebrating 100 years in 2026."
+      },
+      {
+        "question": "Does Stebbins do backflow testing?",
+        "answer": "Yes. The site has a backflow request form for scheduling a test."
+      },
+      {
+        "question": "What water heaters does Stebbins install?",
+        "answer": "Its home page names American-made AO Smith and Bradford White water heaters, plus tankless lines."
+      },
+      {
+        "question": "Is PlumberLists affiliated with Stebbins Plumbing?",
+        "answer": "No. PlumberLists is an independent directory. This profile was compiled from public records and the company's own site, and the company did not write or pay for it."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Stebbins Plumbing & Heating home page (address, services, history, hours, PHCC)",
+        "url": "https://stebbinsplumbing.com/"
+      },
+      {
+        "label": "Stebbins: contact page (service hours, phone, SMS, email)",
+        "url": "https://stebbinsplumbing.com/contact"
+      },
+      {
+        "label": "Stebbins: Celebrating 100 Years (founding in 1926, towns)",
+        "url": "https://stebbinsplumbing.com/celebrating-100-years"
+      },
+      {
+        "label": "Stebbins: backflow request form",
+        "url": "https://stebbinsplumbing.com/backflow-request"
+      },
+      {
+        "label": "BBB profile: Stebbins Plumbing (accredited since 1993, owner)",
+        "url": "https://www.bbb.org/us/oh/dayton/profile/plumber/stebbins-plumbing-0322-6140"
+      },
+      {
+        "label": "City of Dayton Registered Plumbing Contractors list (active as of 6/4/2026)",
+        "url": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      },
+      {
+        "label": "Ohio OCILB license lookup (plumbing and HVAC 12884)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "label": "Ohio OCILB HVAC and plumbing contractor roster download (generated Nov 12, 2026)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/GenerateRoster.aspx"
+      }
+    ],
+    "checked": "2026-11-12"
+  },
+  {
+    "slug": "puckett-plumbing-heating-air-electrical-fairborn-oh",
+    "name": "Puckett Plumbing, Heating, Air & Electrical",
+    "legal_name": "Pucketts Plumbing Heating Air & Electric LLC",
+    "also_known_as": [
+      "Puckett Plumbing",
+      "Puckett's Plumbing, Heating & Air",
+      "Puckett Plumbing Fairborn",
+      "Puckett Heating and Air"
+    ],
+    "listing_names": [
+      "Puckett Plumbing, Heating, Air & Electrical"
+    ],
+    "schema_type": "Plumber",
+    "title": "Puckett Plumbing (Fairborn, since 1953): License, Hours",
+    "meta_description": "Puckett Plumbing, Heating, Air & Electrical, 10926 Haddix Rd, Fairborn: Ohio plumbing and HVAC licenses PL.16186 and HV.16186 (OCILB, Nov 12, 2026), City of Dayton reg. 1829, backflow certified, hours and counties served. Independent profile.",
+    "headline": "Puckett Plumbing, Heating, Air & Electrical: Fairborn family contractor since 1953",
+    "base_location": "Fairborn, OH",
+    "summary": [
+      "Puckett Plumbing, Heating, Air & Electrical is a family-owned contractor at 10926 Haddix Rd in Fairborn that serves Clark, Montgomery and Greene County. Its about page says Ken Puckett's uncle founded the business in 1953, Ken's father bought it from his brother in 1970, and Ken took over in 1989. It handles residential and commercial plumbing and drain work, heating and air conditioning (including oil furnaces, boilers and mobile homes), and electrical work.",
+      "The Ohio OCILB roster we downloaded on November 12, 2026 lists plumbing contractor license PL.16186 and HVAC contractor license HV.16186, both active, held by Kenneth R Puckett for Pucketts Plumbing Heating Air & Electric LLC at the Haddix Rd address. The City of Dayton's registered plumbing contractor list (active as of June 4, 2026) carries it under registration 1829, and the Clark County Combined Health District lists Puckett Plumbing among registered businesses with certified backflow inspectors."
+    ],
+    "address": {
+      "street": "10926 Haddix Rd",
+      "locality": "Fairborn",
+      "region": "OH",
+      "postal_code": "45324",
+      "source": "https://www.puckettplumbingheatingandair.com/contact-us"
+    },
+    "phone": {
+      "number": "(937) 879-7657",
+      "source": "https://www.puckettplumbingheatingandair.com/contact-us"
+    },
+    "website": "https://www.puckettplumbingheatingandair.com/",
+    "facts": [
+      {
+        "label": "Hours",
+        "value": "Monday to Friday, 8 AM to 5 PM, per the site. No weekend or emergency hours are published.",
+        "source": "https://www.puckettplumbingheatingandair.com/contact-us"
+      },
+      {
+        "label": "History",
+        "value": "Founded in 1953 by Ken Puckett's uncle; Ken's father bought the business in 1970, and Ken took over in 1989, per the about page. Its BBB profile lists a 1970 start date, which matches the father's purchase.",
+        "source": "https://www.puckettplumbingheatingandair.com/about-us"
+      },
+      {
+        "label": "Owner",
+        "value": "Ken Puckett is the contact named on every page of the site and the license holder on the state roster.",
+        "source": "https://www.puckettplumbingheatingandair.com/"
+      },
+      {
+        "label": "Guarantee and estimates",
+        "value": "The home page says it guarantees all of its work and offers free estimates before every job. Ask what the guarantee covers before you sign.",
+        "source": "https://www.puckettplumbingheatingandair.com/"
+      },
+      {
+        "label": "Backflow",
+        "value": "The about page says it is state licensed and certified for backflow prevention, and it appears on the Clark County Combined Health District's 2026 backflow inspector business list.",
+        "source": "https://ccchd.com/wp-content/uploads/2026/07/2026_BackflowInspectorsList_.pdf"
+      },
+      {
+        "label": "BBB",
+        "value": "Its BBB profile, under the name Puckett's Plumbing, Heating & Air, LLC, shows it as accredited since August 1, 2013. Open the profile for current details.",
+        "source": "https://www.bbb.org/us/oh/fairborn/profile/heating-and-air-conditioning/pucketts-plumbing-heating-air-llc-0322-14000247"
+      },
+      {
+        "label": "Electrical license",
+        "value": "Its BBB profile shows OCILB electrical license EL.16186, expiring 6/30/2027. We pulled only the state's plumbing and HVAC roster today, so we did not confirm the electrical record ourselves.",
+        "source": "https://www.bbb.org/us/oh/fairborn/profile/heating-and-air-conditioning/pucketts-plumbing-heating-air-llc-0322-14000247"
+      }
+    ],
+    "licenses": [
+      {
+        "authority": "Ohio OCILB",
+        "credential": "Plumbing contractor license",
+        "number": "PL.16186",
+        "holder": "Kenneth R Puckett, for Pucketts Plumbing Heating Air & Electric LLC (10926 Haddix Rd, Fairborn)",
+        "status": "Active (OCILB roster, Nov 12, 2026)",
+        "expires": "2027-06-30",
+        "note": "We did not find a license number printed on the company website.",
+        "source": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "authority": "Ohio OCILB",
+        "credential": "HVAC contractor license",
+        "number": "HV.16186",
+        "holder": "Kenneth R Puckett, for Pucketts Plumbing Heating Air & Electric LLC",
+        "status": "Active (OCILB roster, Nov 12, 2026)",
+        "expires": "2027-06-30",
+        "source": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "authority": "City of Dayton",
+        "credential": "Registered plumbing contractor",
+        "number": "1829",
+        "holder": "Puckett Plumbing, Htg Air & Ele, 10926 Haddix Rd",
+        "status": "Active as of 6/4/2026 (latest city list)",
+        "source": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      },
+      {
+        "authority": "Clark County Combined Health District",
+        "credential": "Registered business with certified backflow inspectors",
+        "number": "Not published",
+        "holder": "Puckett Plumbing, (937) 879-7657",
+        "status": "Listed on the 2026 list",
+        "source": "https://ccchd.com/wp-content/uploads/2026/07/2026_BackflowInspectorsList_.pdf"
+      }
+    ],
+    "services": [
+      "Complete plumbing and drain service",
+      "Water lines",
+      "Sewer lines",
+      "Bathroom and kitchen plumbing",
+      "Video leak detection and line locating",
+      "Electric eel drain cleaning",
+      "Backflow prevention testing",
+      "Heat pumps",
+      "Boilers",
+      "Oil furnaces",
+      "Central heating and air",
+      "Window unit repairs",
+      "Mobile home heating and cooling",
+      "Electrical work",
+      "Residential and commercial service"
+    ],
+    "services_source": "https://www.puckettplumbingheatingandair.com/services",
+    "areas_served": [
+      "Fairborn",
+      "Clark County",
+      "Montgomery County",
+      "Greene County"
+    ],
+    "areas_source": "https://www.puckettplumbingheatingandair.com/",
+    "related_links": [
+      {
+        "href": "/fairborn-oh/plumbing/",
+        "label": "Plumbers in Fairborn, OH",
+        "why": "compare licensed plumbers near its Haddix Rd shop"
+      },
+      {
+        "href": "/fairborn-oh/drain-cleaning/",
+        "label": "Drain cleaning in Fairborn, OH",
+        "why": "Puckett offers electric eel and video line work"
+      },
+      {
+        "href": "/springfield-oh/plumbing/",
+        "label": "Plumbers in Springfield, OH",
+        "why": "where Puckett is listed on PlumberLists (Clark County)"
+      },
+      {
+        "href": "/riverside-oh/plumbing/",
+        "label": "Plumbers in Riverside, OH",
+        "why": "where Puckett is listed on PlumberLists"
+      },
+      {
+        "href": "/beavercreek-oh/plumbing/",
+        "label": "Plumbers in Beavercreek, OH",
+        "why": "Greene County, which Puckett serves"
+      },
+      {
+        "href": "/xenia-oh/water-heater/",
+        "label": "Water heater repair in Xenia, OH",
+        "why": "Greene County, which Puckett serves"
+      }
+    ],
+    "notes": [
+      {
+        "title": "License checks out",
+        "body": "Kenneth R Puckett holds active state plumbing and HVAC contractor licenses (PL.16186 and HV.16186) at the Haddix Rd shop. The company is also on the City of Dayton registered plumbing list and the Clark County backflow list."
+      },
+      {
+        "title": "One call for plumbing, heating and electrical",
+        "body": "Puckett covers plumbing, HVAC and electrical work, including oil furnaces, boilers, window units and mobile homes, which suits older and rural homes around Fairborn and Clark County."
+      },
+      {
+        "title": "Best fit",
+        "body": "Homes and small businesses near Fairborn, Wright-Patterson, Enon and the Clark and Greene County line that want a long-running family contractor. Hours are weekday 8 to 5, so ask how it handles after-hours problems."
+      },
+      {
+        "title": "What this page is not",
+        "body": "PlumberLists has not hired this company and does not publish star ratings or review counts. Quote requests from this page go to PlumberLists, not to Puckett. To reach the company directly, call (937) 879-7657."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is Puckett Plumbing licensed in Ohio?",
+        "answer": "Yes. The OCILB roster we downloaded on November 12, 2026 lists plumbing contractor license PL.16186 and HVAC contractor license HV.16186, both active, held by Kenneth R Puckett for Pucketts Plumbing Heating Air & Electric LLC at 10926 Haddix Rd, Fairborn, expiring June 30, 2027."
+      },
+      {
+        "question": "Is Puckett registered with the City of Dayton?",
+        "answer": "Yes. The City of Dayton registered plumbing contractor list, active as of June 4, 2026, includes Puckett Plumbing, Htg Air & Ele at 10926 Haddix Rd with registration 1829."
+      },
+      {
+        "question": "Where is Puckett Plumbing located?",
+        "answer": "10926 Haddix Rd, Fairborn, OH 45324. Phone: (937) 879-7657."
+      },
+      {
+        "question": "What are Puckett Plumbing's hours?",
+        "answer": "Monday to Friday, 8 AM to 5 PM, per its site."
+      },
+      {
+        "question": "How long has Puckett been in business?",
+        "answer": "Since 1953, per its about page. Ken Puckett's uncle founded it, his father bought it in 1970, and Ken has run it since 1989."
+      },
+      {
+        "question": "Does Puckett do backflow testing?",
+        "answer": "Its about page says it is certified for backflow prevention, and it is on the Clark County Combined Health District's 2026 list of businesses with certified backflow inspectors."
+      },
+      {
+        "question": "Which areas does Puckett serve?",
+        "answer": "Clark, Montgomery and Greene County, per its home page, from its shop in Fairborn."
+      },
+      {
+        "question": "Is PlumberLists affiliated with Puckett Plumbing?",
+        "answer": "No. PlumberLists is an independent directory. This profile was compiled from public records and the company's own site, and the company did not write or pay for it."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Puckett home page (counties, guarantee, free estimates, contact, hours)",
+        "url": "https://www.puckettplumbingheatingandair.com/"
+      },
+      {
+        "label": "Puckett: about us (history since 1953, backflow, BBB)",
+        "url": "https://www.puckettplumbingheatingandair.com/about-us"
+      },
+      {
+        "label": "Puckett: services",
+        "url": "https://www.puckettplumbingheatingandair.com/services"
+      },
+      {
+        "label": "Puckett: contact us (address, phone, hours)",
+        "url": "https://www.puckettplumbingheatingandair.com/contact-us"
+      },
+      {
+        "label": "BBB profile: Puckett's Plumbing, Heating & Air, LLC (accredited since 2013, EL.16186)",
+        "url": "https://www.bbb.org/us/oh/fairborn/profile/heating-and-air-conditioning/pucketts-plumbing-heating-air-llc-0322-14000247"
+      },
+      {
+        "label": "Clark County Combined Health District 2026 backflow inspector business list",
+        "url": "https://ccchd.com/wp-content/uploads/2026/07/2026_BackflowInspectorsList_.pdf"
+      },
+      {
+        "label": "City of Dayton Registered Plumbing Contractors list (active as of 6/4/2026)",
+        "url": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      },
+      {
+        "label": "Ohio OCILB license lookup (plumbing and HVAC 16186)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "label": "Ohio OCILB HVAC and plumbing contractor roster download (generated Nov 12, 2026)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/GenerateRoster.aspx"
+      }
+    ],
+    "checked": "2026-11-12"
+  },
+  {
+    "slug": "advantage-plumbing-heating-air-vandalia-oh",
+    "name": "Advantage Plumbing Heating & Air",
+    "legal_name": "Advantage Plumbing and Drain Solutions LLC",
+    "also_known_as": [
+      "Advantage Plumbing",
+      "Advantage Plumbing & Drain Solutions",
+      "Advantage Plumbing Dayton",
+      "Advantage Plumbing Vandalia",
+      "The Advantage Team"
+    ],
+    "listing_names": [
+      "Advantage Plumbing & Drain Solutions"
+    ],
+    "schema_type": "Plumber",
+    "title": "Advantage Plumbing (Vandalia/Dayton): License, Hours, Areas",
+    "meta_description": "Advantage Plumbing Heating & Air, 165 N Dixie Dr, Vandalia: Ohio plumbing license PL.51044 and HVAC HV.51401 (OCILB, Nov 12, 2026), City of Dayton reg. 011255, 8 AM to 10 PM daily, labor warranties and 33 towns. Independent profile.",
+    "headline": "Advantage Plumbing Heating & Air: Vandalia-based plumbing, drain and HVAC company",
+    "base_location": "Vandalia, OH",
+    "summary": [
+      "Advantage Plumbing Heating & Air (legal name Advantage Plumbing and Drain Solutions LLC) is a plumbing, drain, water heater and HVAC company at 165 N Dixie Dr in Vandalia, north of Dayton. Founder Colby Harris started it in 2020 with $1,500 and one truck, per its about page, and it now serves 33 towns across the Miami Valley. It books calls 8 AM to 10 PM, seven days a week, and offers same-day service on most calls in those hours.",
+      "The license numbers on its site match the Ohio OCILB roster we downloaded on November 12, 2026: plumbing contractor license PL.51044 (held by Shawn Colby Harris) and HVAC contractor license HV.51401 (held by Josh M McClellan), both active for Advantage Plumbing and Drain Solutions LLC at the N Dixie Dr address. The City of Dayton's registered plumbing contractor list (active as of June 4, 2026) carries it under registration 011255.",
+      "Many unrelated companies around the country use the name Advantage Plumbing, so this page covers only the Vandalia company."
+    ],
+    "address": {
+      "street": "165 N Dixie Dr",
+      "locality": "Vandalia",
+      "region": "OH",
+      "postal_code": "45377",
+      "source": "https://theadvantageteam.com/"
+    },
+    "phone": {
+      "number": "(937) 519-1430",
+      "source": "https://theadvantageteam.com/"
+    },
+    "website": "https://theadvantageteam.com/",
+    "facts": [
+      {
+        "label": "Hours",
+        "value": "Monday to Sunday, 8 AM to 10 PM, per the site. Its BBB profile lists shorter office hours (weekdays 7:30 AM to 4 PM, weekends by appointment), so the longer window appears to be for booking service calls.",
+        "source": "https://theadvantageteam.com/"
+      },
+      {
+        "label": "Same-day service",
+        "value": "Same-day service is available for most calls during standard hours with a 4-hour arrival window. Burst pipes and sewer backups get priority, per the plumbing page.",
+        "source": "https://theadvantageteam.com/plumbing-company/"
+      },
+      {
+        "label": "Warranty",
+        "value": "Every repair and installation carries at least a 1-year labor warranty. Water heater installs that include a water softener, pressure reducing valve and expansion tank get a 6-year labor warranty, per the plumbing page.",
+        "source": "https://theadvantageteam.com/plumbing-company/"
+      },
+      {
+        "label": "Founded",
+        "value": "2020, by Colby Harris, who learned the trade from his father, per the about page. Its BBB profile lists an October 1, 2020 start and Colby C. Harris as owner.",
+        "source": "https://theadvantageteam.com/about-us/"
+      },
+      {
+        "label": "Membership plan",
+        "value": "The Advantage Protection Plan covers annual plumbing, heating and cooling visits, priority scheduling and member discounts. The home page lists memberships starting at $24.95 a month; confirm current terms.",
+        "source": "https://theadvantageteam.com/"
+      },
+      {
+        "label": "Payments and financing",
+        "value": "It accepts major credit cards, checks and cash, and offers financing for qualified homeowners.",
+        "source": "https://theadvantageteam.com/plumbing-company/"
+      },
+      {
+        "label": "BBB",
+        "value": "Its BBB profile shows it as accredited since March 31, 2025. Open the profile for current details.",
+        "source": "https://www.bbb.org/us/oh/vandalia/profile/heating-and-air-conditioning/advantage-plumbing-heating-air-0322-1440097012"
+      },
+      {
+        "label": "Second phone number",
+        "value": "The home page also shows (937) 280-5166 as a call button. The header, BBB profile and our listings use (937) 519-1430.",
+        "source": "https://theadvantageteam.com/"
+      }
+    ],
+    "licenses": [
+      {
+        "authority": "Ohio OCILB",
+        "credential": "Plumbing contractor license",
+        "number": "PL.51044",
+        "holder": "Shawn Colby Harris, for Advantage Plumbing and Drain Solutions LLC (165 N Dixie Dr, Vandalia)",
+        "status": "Active (OCILB roster, Nov 12, 2026)",
+        "expires": "2027-03-14",
+        "note": "Matches \"Plumbing License #51044\" on the company site.",
+        "source": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "authority": "Ohio OCILB",
+        "credential": "HVAC contractor license",
+        "number": "HV.51401",
+        "holder": "Josh M McClellan, for Advantage Plumbing and Drain Solutions LLC",
+        "status": "Active (OCILB roster, Nov 12, 2026)",
+        "expires": "2027-10-27",
+        "note": "Matches \"HVAC License #51401\" on the company site. The roster shows it took effect October 28, 2026.",
+        "source": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "authority": "City of Dayton",
+        "credential": "Registered plumbing contractor",
+        "number": "011255",
+        "holder": "Advantage Plumbing & Drain Solutions LLC, 165 N. Dixie Dr.",
+        "status": "Active as of 6/4/2026 (latest city list)",
+        "source": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      }
+    ],
+    "services": [
+      "Emergency plumbing",
+      "Whole house repiping",
+      "Water leak detection",
+      "Gas leak detection",
+      "Water filtration systems",
+      "Sump pump installation",
+      "Drain cleaning, repair and replacement",
+      "Hydro jetting",
+      "Sewer camera inspection",
+      "Sewer line replacement",
+      "Water and sewer pumps",
+      "Water heater repair and installation",
+      "Tankless water heater installation and repair",
+      "Furnace repair and replacement",
+      "Boiler repair and installation",
+      "AC repair and installation",
+      "Heat pumps and mini-splits",
+      "Heating and AC tune-ups"
+    ],
+    "services_source": "https://theadvantageteam.com/",
+    "areas_served": [
+      "Dayton",
+      "Vandalia",
+      "Beavercreek",
+      "Bellbrook",
+      "Brookville",
+      "Cedarville",
+      "Centerville",
+      "Clayton",
+      "Englewood",
+      "Enon",
+      "Fairborn",
+      "Huber Heights",
+      "Kettering",
+      "Miamisburg",
+      "Moraine",
+      "New Carlisle",
+      "Oakwood",
+      "Piqua",
+      "Riverside",
+      "Spring Valley",
+      "Springboro",
+      "Springfield",
+      "Sugarcreek Township",
+      "Tipp City",
+      "Trotwood",
+      "Troy",
+      "Union",
+      "Waynesville",
+      "West Carrollton",
+      "West Milton",
+      "Wilberforce",
+      "Xenia",
+      "Yellow Springs"
+    ],
+    "areas_source": "https://theadvantageteam.com/service-area/",
+    "related_links": [
+      {
+        "href": "/vandalia-oh/plumbing/",
+        "label": "Plumbers in Vandalia, OH",
+        "why": "compare licensed plumbers near its N Dixie Dr shop"
+      },
+      {
+        "href": "/riverside-oh/plumbing/",
+        "label": "Plumbers in Riverside, OH",
+        "why": "where Advantage is listed on PlumberLists"
+      },
+      {
+        "href": "/huber-heights-oh/drain-cleaning/",
+        "label": "Drain cleaning in Huber Heights, OH",
+        "why": "where Advantage is listed on PlumberLists"
+      },
+      {
+        "href": "/tipp-city-oh/plumbing/",
+        "label": "Plumbers in Tipp City, OH",
+        "why": "a town Advantage names"
+      },
+      {
+        "href": "/troy-oh/drain-cleaning/",
+        "label": "Drain cleaning in Troy, OH",
+        "why": "a town Advantage names"
+      },
+      {
+        "href": "/dayton-oh/emergency-plumbing/",
+        "label": "Emergency plumbers in Dayton, OH",
+        "why": "Advantage books calls until 10 PM daily"
+      }
+    ],
+    "notes": [
+      {
+        "title": "Which Advantage Plumbing is this?",
+        "body": "This is the Vandalia company at 165 N Dixie Dr, phone (937) 519-1430, OCILB PL.51044 and HV.51401, City of Dayton registration 011255. Companies named Advantage Plumbing in other states are not related."
+      },
+      {
+        "title": "Licenses check out",
+        "body": "Both license numbers printed on the site are active state contractor licenses under the company's legal name at the N Dixie Dr address. The HVAC license is new as of late October 2026, so for a furnace or AC job, ask which license will be on the permit."
+      },
+      {
+        "title": "Best fit",
+        "body": "Homes north and east of Dayton (Vandalia, Huber Heights, Tipp City, Troy, Fairborn) that want evening or weekend booking for drains, water heaters, sewer lines or repiping. For sewer line or repipe work, get the flat-rate price in writing and compare at least one other quote."
+      },
+      {
+        "title": "What this page is not",
+        "body": "PlumberLists has not hired this company and does not publish star ratings or review counts. Quote requests from this page go to PlumberLists, not to Advantage. To reach the company directly, call (937) 519-1430."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is Advantage Plumbing licensed in Ohio?",
+        "answer": "Yes. The OCILB roster we downloaded on November 12, 2026 lists plumbing contractor license PL.51044 (expires March 14, 2027) and HVAC contractor license HV.51401 (expires October 27, 2027), both active for Advantage Plumbing and Drain Solutions LLC at 165 N Dixie Dr, Vandalia. Both numbers match the ones on its site."
+      },
+      {
+        "question": "Is Advantage registered with the City of Dayton?",
+        "answer": "Yes. The City of Dayton registered plumbing contractor list, active as of June 4, 2026, includes Advantage Plumbing & Drain Solutions LLC at 165 N. Dixie Dr. with registration 011255."
+      },
+      {
+        "question": "Where is Advantage Plumbing located?",
+        "answer": "165 N Dixie Dr, Vandalia, OH 45377. Phone: (937) 519-1430."
+      },
+      {
+        "question": "What are Advantage Plumbing's hours?",
+        "answer": "Monday to Sunday, 8 AM to 10 PM, per its site, with same-day service on most calls in those hours. Its BBB profile lists weekday office hours of 7:30 AM to 4 PM."
+      },
+      {
+        "question": "What warranty does Advantage offer?",
+        "answer": "At least a 1-year labor warranty on every repair and installation, and a 6-year labor warranty on water heater installs that include a softener, pressure reducing valve and expansion tank, per its plumbing page."
+      },
+      {
+        "question": "How long has Advantage been in business?",
+        "answer": "Since 2020, when Colby Harris started it with one truck, per its about page."
+      },
+      {
+        "question": "Which areas does Advantage serve?",
+        "answer": "Its service area page names 33 towns, including Dayton, Vandalia, Huber Heights, Tipp City, Troy, Fairborn, Beavercreek, Kettering, Centerville, Springboro, Springfield, Piqua and Xenia."
+      },
+      {
+        "question": "Is PlumberLists affiliated with Advantage Plumbing?",
+        "answer": "No. PlumberLists is an independent directory. This profile was compiled from public records and the company's own site, and the company did not write or pay for it."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Advantage home page (address, hours, phones, license numbers, membership plan)",
+        "url": "https://theadvantageteam.com/"
+      },
+      {
+        "label": "Advantage: about us (founded 2020, Colby Harris)",
+        "url": "https://theadvantageteam.com/about-us/"
+      },
+      {
+        "label": "Advantage: plumbing services (warranty, same-day, payments, license)",
+        "url": "https://theadvantageteam.com/plumbing-company/"
+      },
+      {
+        "label": "Advantage: service area (33 towns)",
+        "url": "https://theadvantageteam.com/service-area/"
+      },
+      {
+        "label": "Advantage: contact us",
+        "url": "https://theadvantageteam.com/contact-us/"
+      },
+      {
+        "label": "BBB profile: Advantage Plumbing Heating & Air (accredited since 2025, owner, office hours)",
+        "url": "https://www.bbb.org/us/oh/vandalia/profile/heating-and-air-conditioning/advantage-plumbing-heating-air-0322-1440097012"
+      },
+      {
+        "label": "City of Dayton Registered Plumbing Contractors list (active as of 6/4/2026)",
+        "url": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      },
+      {
+        "label": "Ohio OCILB license lookup (plumbing 51044, HVAC 51401)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "label": "Ohio OCILB HVAC and plumbing contractor roster download (generated Nov 12, 2026)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/GenerateRoster.aspx"
+      }
+    ],
+    "checked": "2026-11-12"
   }
 ]
