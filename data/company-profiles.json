@@ -3949,5 +3949,822 @@
       }
     ],
     "checked": "2026-11-12"
+  },
+  {
+    "slug": "ed-rike-plumbing-heating-air-lewisburg-oh",
+    "name": "Ed Rike Plumbing, Heating & Air",
+    "legal_name": "Ed Rike Plumbing Inc",
+    "also_known_as": [
+      "Ed Rike Plumbing",
+      "Ed Rike",
+      "Ed Rike Plumbing Heating and Air",
+      "Ed Rike Plumbing Dayton",
+      "Ed Rike Plumbing Lewisburg",
+      "Ed Rike Plumbing Brookville"
+    ],
+    "listing_names": [
+      "Ed Rike Plumbing, Heating & Air"
+    ],
+    "schema_type": "Plumber",
+    "title": "Ed Rike Plumbing (Lewisburg/Dayton): Licenses, Locations, Hours",
+    "meta_description": "Ed Rike Plumbing, Heating & Air: Ohio plumbing licenses PL.24235 and PL.24236 plus HVAC HV.24236 (OCILB, Nov 17, 2026), City of Dayton regs 1727 and 010309, 5 offices, 24/7 live answer, farm plumbing and counties served. Independent profile.",
+    "headline": "Ed Rike Plumbing, Heating & Air: family plumbing and HVAC company from Lewisburg, now with five Miami Valley offices",
+    "base_location": "Lewisburg, OH",
+    "summary": [
+      "Ed Rike Plumbing, Heating & Air (legal name Ed Rike Plumbing Inc) is a veteran-owned, family-run plumbing, heating and cooling company that started in Lewisburg in Preble County in 1992. It now lists five offices on its site, in Lewisburg, Brookville, Dayton (W Dorothy Ln), Miamisburg and Vandalia, and does residential, commercial, industrial and farm work: drains and sewers, water heaters, wells, septic, water softeners, furnaces, boilers, radiant heat, heat pumps and central air. It answers the phone live 24/7.",
+      "The Ohio OCILB roster we downloaded on November 17, 2026 lists three active contractor licenses for Ed Rike Plumbing Inc at 7667 Verona Rd, Lewisburg: plumbing PL.24235 (held by Edkor E. Rike), plumbing PL.24236 and HVAC HV.24236 (both held by Richard D Rike), all expiring June 30, 2028. The City of Dayton's registered contractor lists (active as of June 4, 2026) carry it as a plumbing contractor (registration 1727) and a heating contractor (registration 010309).",
+      "Its BBB profile names Ed Rike as owner and Richard Rike as president, and lists the headquarters at 10 Nutrition Way in Brookville."
+    ],
+    "address": {
+      "street": "7667 Verona Rd",
+      "locality": "Lewisburg",
+      "region": "OH",
+      "postal_code": "45338",
+      "source": "https://edrikeplumbing.com/locations/lewisburg/"
+    },
+    "phone": {
+      "number": "(937) 962-2939",
+      "source": "https://edrikeplumbing.com/"
+    },
+    "website": "https://edrikeplumbing.com/",
+    "facts": [
+      {
+        "label": "Offices",
+        "value": "Lewisburg (7667 Verona Rd), Brookville (10 Nutrition Way), Dayton (1325 W Dorothy Ln), Miamisburg (8 Prestige Plaza Dr, Suite 108) and Vandalia (30 N Dixie Dr), per the site footer. BBB lists Brookville as the headquarters. All offices use (937) 962-2939.",
+        "source": "https://edrikeplumbing.com/"
+      },
+      {
+        "label": "Hours",
+        "value": "The Lewisburg and Dayton location pages list business hours as open 24 hours, with emergency service 24/7, and the home page says the phone is answered live 24/7. Same-day service is offered on most jobs.",
+        "source": "https://edrikeplumbing.com/locations/lewisburg/"
+      },
+      {
+        "label": "Since",
+        "value": "1992. The location pages say the company has served the area since 1992, and BBB lists a January 1, 1992 business start.",
+        "source": "https://edrikeplumbing.com/locations/dayton/"
+      },
+      {
+        "label": "Veteran-owned",
+        "value": "The site describes Ed Rike Plumbing, Heating & Air as veteran-owned and operated and family-owned.",
+        "source": "https://edrikeplumbing.com/about-us/"
+      },
+      {
+        "label": "Pricing approach",
+        "value": "The service area page says it uses flat-rate pricing and gives the price before work starts. Free estimates are offered on equipment replacement and major repairs, per the home page.",
+        "source": "https://edrikeplumbing.com/service-area/"
+      },
+      {
+        "label": "Plumbing membership",
+        "value": "The Residential Plumbing Membership is listed at $52 a month, renews yearly, and includes inspections, a yearly drain cleaning and 15% off eligible repairs found during a membership visit, per the membership page. Confirm current terms before enrolling.",
+        "source": "https://edrikeplumbing.com/residential-plumbing-membership/"
+      },
+      {
+        "label": "Farm and rural work",
+        "value": "It runs a farm and agricultural plumbing service and installs wells and septic systems, which few Dayton city shops do.",
+        "source": "https://edrikeplumbing.com/"
+      },
+      {
+        "label": "BBB",
+        "value": "Its BBB profile shows it as accredited since December 17, 2012, with an additional phone number, (513) 935-7075. Open the profile for current details.",
+        "source": "https://www.bbb.org/us/oh/brookville/profile/plumber/ed-rike-plumbing-heating-air-0322-7005973"
+      }
+    ],
+    "licenses": [
+      {
+        "authority": "Ohio OCILB",
+        "credential": "Plumbing contractor license",
+        "number": "PL.24235",
+        "holder": "Edkor E. Rike, for Ed Rike Plumbing Inc (7667 Verona Rd, Lewisburg)",
+        "status": "Active (OCILB roster, Nov 17, 2026)",
+        "expires": "2028-06-30",
+        "note": "BBB lists the same number and expiration date.",
+        "source": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "authority": "Ohio OCILB",
+        "credential": "Plumbing contractor license",
+        "number": "PL.24236",
+        "holder": "Richard D Rike, for Ed Rike Plumbing Inc",
+        "status": "Active (OCILB roster, Nov 17, 2026)",
+        "expires": "2028-06-30",
+        "source": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "authority": "Ohio OCILB",
+        "credential": "HVAC contractor license",
+        "number": "HV.24236",
+        "holder": "Richard D Rike, for Ed Rike Plumbing Inc",
+        "status": "Active (OCILB roster, Nov 17, 2026)",
+        "expires": "2028-06-30",
+        "source": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "authority": "City of Dayton",
+        "credential": "Registered plumbing contractor",
+        "number": "1727",
+        "holder": "Ed Rike Plbg, 7667 Verona Rd",
+        "status": "Active as of 6/4/2026 (latest city list)",
+        "source": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      },
+      {
+        "authority": "City of Dayton",
+        "credential": "Registered heating contractor",
+        "number": "010309",
+        "holder": "Ed Rike Plumbing Inc, 7667 Verona Rd",
+        "status": "Active as of 6/4/2026 (latest city list)",
+        "source": "https://www.daytonohio.gov/DocumentCenter/View/254/Registered-Heating-Contractors-PDF"
+      }
+    ],
+    "services": [
+      "24-hour emergency plumbing",
+      "Drain cleaning and hydro jetting",
+      "Sewer video inspection",
+      "Sewer line repair",
+      "Burst water line repair",
+      "Water and gas leak detection",
+      "House repiping",
+      "Water heater repair and replacement",
+      "Tankless water heaters",
+      "Water softeners",
+      "Water wells and well pumps",
+      "Septic system installation and septic tank pumping",
+      "Farm and agricultural plumbing",
+      "Kitchen plumbing, garbage disposals and bathroom renovation",
+      "Commercial plumbing",
+      "Furnace repair and replacement",
+      "Boilers and radiant (underfloor) heating",
+      "Heat pumps and ductless mini-splits",
+      "AC repair and replacement, air handlers and evaporator coils",
+      "Commercial HVAC"
+    ],
+    "services_source": "https://edrikeplumbing.com/",
+    "areas_served": [
+      "Dayton",
+      "Lewisburg",
+      "Brookville",
+      "Englewood",
+      "Miamisburg",
+      "Huber Heights",
+      "Vandalia",
+      "Oakwood",
+      "Kettering",
+      "Centerville",
+      "Greenville",
+      "Eaton",
+      "Richmond (IN)",
+      "Cincinnati",
+      "Butler, Clark, Darke, Greene, Hamilton, Miami, Montgomery, Preble and Warren counties"
+    ],
+    "areas_source": "https://edrikeplumbing.com/service-area/",
+    "related_links": [
+      {
+        "href": "/brookville-oh/plumbing/",
+        "label": "Plumbers in Brookville, OH",
+        "why": "where Ed Rike is listed on PlumberLists, near its Nutrition Way office"
+      },
+      {
+        "href": "/dayton-oh/emergency-plumbing/",
+        "label": "Emergency plumbers in Dayton, OH",
+        "why": "Ed Rike answers live 24/7"
+      },
+      {
+        "href": "/miamisburg-oh/plumbing/",
+        "label": "Plumbers in Miamisburg, OH",
+        "why": "one of its five offices"
+      },
+      {
+        "href": "/vandalia-oh/water-heater/",
+        "label": "Water heater service in Vandalia, OH",
+        "why": "one of its five offices"
+      },
+      {
+        "href": "/englewood-oh/drain-cleaning/",
+        "label": "Drain cleaning in Englewood, OH",
+        "why": "a town Ed Rike names"
+      },
+      {
+        "href": "/kettering-oh/plumbing/",
+        "label": "Plumbers in Kettering, OH",
+        "why": "close to its W Dorothy Ln office"
+      }
+    ],
+    "notes": [
+      {
+        "title": "Which Ed Rike address is the main one?",
+        "body": "The state licenses and both City of Dayton registrations use 7667 Verona Rd in Lewisburg, where the company started. BBB lists 10 Nutrition Way in Brookville as headquarters. The site's contact page also shows a \"Springfield, 123 Main St\" location that does not appear anywhere else and looks like a placeholder, so we left it out."
+      },
+      {
+        "title": "Licenses check out",
+        "body": "Three active state contractor licenses (two plumbing, one HVAC) sit under Ed Rike Plumbing Inc, and the company is registered with the City of Dayton for both plumbing and heating. For a furnace or AC job, the HVAC license is HV.24236."
+      },
+      {
+        "title": "Best fit",
+        "body": "Rural and small-town homes and farms west and north of Dayton (Preble, Darke and northern Montgomery County) that need well, septic or long service-line work, plus Dayton-area homes that want one company for plumbing and HVAC with 24/7 phone answer. For a sewer line, repipe or system replacement, get the flat-rate price in writing and compare at least one other quote."
+      },
+      {
+        "title": "What this page is not",
+        "body": "PlumberLists has not hired this company and does not publish star ratings or review counts. Quote requests from this page go to PlumberLists, not to Ed Rike. To reach the company directly, call (937) 962-2939."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is Ed Rike Plumbing licensed in Ohio?",
+        "answer": "Yes. The OCILB roster we downloaded on November 17, 2026 lists plumbing contractor licenses PL.24235 (Edkor E. Rike) and PL.24236 (Richard D Rike) and HVAC contractor license HV.24236 (Richard D Rike), all active for Ed Rike Plumbing Inc at 7667 Verona Rd, Lewisburg, and all expiring June 30, 2028."
+      },
+      {
+        "question": "Is Ed Rike registered with the City of Dayton?",
+        "answer": "Yes. The City of Dayton lists active as of June 4, 2026 include it as a registered plumbing contractor (registration 1727) and a registered heating contractor (registration 010309), both at 7667 Verona Rd."
+      },
+      {
+        "question": "Where is Ed Rike Plumbing located?",
+        "answer": "The licenses use 7667 Verona Rd, Lewisburg, OH 45338. The site also lists offices at 10 Nutrition Way, Brookville; 1325 W Dorothy Ln, Dayton; 8 Prestige Plaza Dr, Suite 108, Miamisburg; and 30 N Dixie Dr, Vandalia. Phone: (937) 962-2939."
+      },
+      {
+        "question": "Is Ed Rike Plumbing open 24 hours?",
+        "answer": "Its location pages list the business as open 24 hours with 24/7 emergency service, and the home page says calls are answered live around the clock. Same-day service is offered on most jobs."
+      },
+      {
+        "question": "How long has Ed Rike been in business?",
+        "answer": "Since 1992, per its location pages and BBB profile. The site describes it as family-owned and veteran-owned."
+      },
+      {
+        "question": "Does Ed Rike do well, septic and farm plumbing?",
+        "answer": "Yes. Its site lists water well installation, septic system installation, septic tank pumping and a farm and agricultural plumbing service, along with standard residential and commercial plumbing."
+      },
+      {
+        "question": "Does Ed Rike offer a plumbing maintenance plan?",
+        "answer": "Yes. The Residential Plumbing Membership page lists $52 a month, renewing yearly, with inspections, a yearly drain cleaning and 15% off eligible repairs found during a membership visit. Check current terms with the company."
+      },
+      {
+        "question": "Which areas does Ed Rike serve?",
+        "answer": "Its service area page names Butler, Clark, Darke, Greene, Hamilton, Montgomery, Miami, Preble and Warren counties, including Lewisburg, Englewood, Miamisburg, Huber Heights, Vandalia, Oakwood, Kettering, Centerville, Greenville, Eaton, Richmond and Cincinnati."
+      },
+      {
+        "question": "Is PlumberLists affiliated with Ed Rike Plumbing?",
+        "answer": "No. PlumberLists is an independent directory. This profile was compiled from public records and the company's own site, and the company did not write or pay for it."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Ed Rike home page (offices, 24/7 live answer, services, free estimates, veteran-owned)",
+        "url": "https://edrikeplumbing.com/"
+      },
+      {
+        "label": "Ed Rike: about us (counties, veteran-owned)",
+        "url": "https://edrikeplumbing.com/about-us/"
+      },
+      {
+        "label": "Ed Rike: Lewisburg location (7667 Verona Rd, open 24 hours, since 1992)",
+        "url": "https://edrikeplumbing.com/locations/lewisburg/"
+      },
+      {
+        "label": "Ed Rike: Dayton location (1325 W Dorothy Ln, since 1992)",
+        "url": "https://edrikeplumbing.com/locations/dayton/"
+      },
+      {
+        "label": "Ed Rike: service area (counties and towns, flat-rate pricing)",
+        "url": "https://edrikeplumbing.com/service-area/"
+      },
+      {
+        "label": "Ed Rike: residential plumbing membership ($52/month terms)",
+        "url": "https://edrikeplumbing.com/residential-plumbing-membership/"
+      },
+      {
+        "label": "Ed Rike: contact us",
+        "url": "https://edrikeplumbing.com/contact-us/"
+      },
+      {
+        "label": "BBB profile: Ed Rike Plumbing, Heating & Air (accredited since 2012, owner, HQ, license)",
+        "url": "https://www.bbb.org/us/oh/brookville/profile/plumber/ed-rike-plumbing-heating-air-0322-7005973"
+      },
+      {
+        "label": "City of Dayton Registered Plumbing Contractors list (active as of 6/4/2026)",
+        "url": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      },
+      {
+        "label": "City of Dayton Registered Heating Contractors list (active as of 6/4/2026)",
+        "url": "https://www.daytonohio.gov/DocumentCenter/View/254/Registered-Heating-Contractors-PDF"
+      },
+      {
+        "label": "Ohio OCILB license lookup (plumbing 24235 and 24236, HVAC 24236)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "label": "Ohio OCILB HVAC and plumbing contractor roster download (generated Nov 17, 2026)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/GenerateRoster.aspx"
+      }
+    ],
+    "checked": "2026-11-17"
+  },
+  {
+    "slug": "trust-plumbing-troy-oh",
+    "name": "Trust Plumbing",
+    "legal_name": "Trust Plumbing LLC",
+    "also_known_as": [
+      "Trust Plumbing LLC",
+      "Trust Plumbing & Home Services",
+      "Trust Plumbing Troy",
+      "Trust Plumbing Brookville",
+      "Trust Plumbing Dayton"
+    ],
+    "listing_names": [
+      "Trust Plumbing LLC"
+    ],
+    "schema_type": "Plumber",
+    "title": "Trust Plumbing (Troy/Brookville, OH): License, Hours, Services",
+    "meta_description": "Trust Plumbing LLC, 315 Public Square, Troy, with Brookville roots: Ohio plumbing license PL.48700 (OCILB, Nov 17, 2026), weekday hours, water heaters, well pumps, what it does not do, and towns served. Independent profile.",
+    "headline": "Trust Plumbing: husband-and-wife master plumber shop serving Troy, Brookville and north Dayton",
+    "base_location": "Troy, OH",
+    "summary": [
+      "Trust Plumbing LLC is a residential service plumbing company started in early 2020 by Troy and Erin Ketchen, per its site. Troy Ketchen is the master plumber. The company began in Brookville and opened an office at 315 Public Square in Troy in May 2025, according to Miami Valley Today. It works mostly on water heaters (tank and tankless), well pumps, water softeners, water, gas and drain lines, fixtures, sump and ejector pumps, and basic shower installs, across 15 towns from Troy and Tipp City south to Kettering and Springboro.",
+      "The license number on its site, OH License #48700, matches the Ohio OCILB roster we downloaded on November 17, 2026: plumbing contractor license PL.48700, held by Troy E Ketchen for Trust Plumbing LLC (533 Flanders Ave, Brookville), active through September 26, 2027.",
+      "Many unrelated businesses use \"Trust Plumbing\" or similar names, so this page covers only the Troy/Brookville, Ohio company at (937) 329-6534."
+    ],
+    "address": {
+      "street": "315 Public Square #220",
+      "locality": "Troy",
+      "region": "OH",
+      "postal_code": "45373",
+      "source": "https://www.trustplumbingllc.com/"
+    },
+    "phone": {
+      "number": "(937) 329-6534",
+      "source": "https://www.trustplumbingllc.com/"
+    },
+    "website": "https://www.trustplumbingllc.com/",
+    "facts": [
+      {
+        "label": "Hours",
+        "value": "Monday to Friday, 7:30 AM to 5 PM. Closed Saturday and Sunday. Its site and BBB profile show the same hours, and no after-hours or emergency service is published.",
+        "source": "https://www.trustplumbingllc.com/"
+      },
+      {
+        "label": "Founded",
+        "value": "Early 2020, by Troy and Erin Ketchen, per the site. BBB lists an October 1, 2019 business start and February 3, 2020 incorporation.",
+        "source": "https://www.bbb.org/us/oh/troy/profile/plumber/trust-plumbing-llc-0322-52822"
+      },
+      {
+        "label": "Troy office",
+        "value": "Trust Plumbing held a ribbon cutting with the Troy Area Chamber of Commerce for its 315 Public Square office on May 8, 2025.",
+        "source": "https://miamivalleytoday.com/trust-plumbing-celebrates-troy-location-opening/"
+      },
+      {
+        "label": "Does not do",
+        "value": "The site says it does not offer drain cleaning (only minor toilet augering or small drain clears), tile work or major bathroom remodels, and that commercial work depends on the facility.",
+        "source": "https://www.trustplumbingllc.com/"
+      },
+      {
+        "label": "Backflow",
+        "value": "The site footer lists Backflow #11755. We did not find a public state record to confirm that number, so ask for a current backflow tester certificate if you need a test.",
+        "source": "https://www.trustplumbingllc.com/"
+      },
+      {
+        "label": "City of Dayton registration",
+        "value": "Trust Plumbing LLC is not on the City of Dayton registered plumbing contractor list active as of June 4, 2026 (a different company, Trusted Plumbing Services, is). For a permit job inside Dayton city limits, ask whether it is registered now.",
+        "source": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      },
+      {
+        "label": "Financing",
+        "value": "The site says financing is available for plumbing work.",
+        "source": "https://www.trustplumbingllc.com/"
+      },
+      {
+        "label": "BBB",
+        "value": "Its BBB profile lists Troy Ketchen as owner, locations in Troy and Brookville (501 Westbrook Rd), and shows it as not BBB accredited. Open the profile for current details.",
+        "source": "https://www.bbb.org/us/oh/troy/profile/plumber/trust-plumbing-llc-0322-52822"
+      }
+    ],
+    "licenses": [
+      {
+        "authority": "Ohio OCILB",
+        "credential": "Plumbing contractor license",
+        "number": "PL.48700",
+        "holder": "Troy E Ketchen, for Trust Plumbing LLC (533 Flanders Ave, Brookville)",
+        "status": "Active (OCILB roster, Nov 17, 2026)",
+        "expires": "2027-09-26",
+        "note": "Matches \"OH License #48700\" on the company site. The roster shows the current term started September 27, 2026.",
+        "source": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      }
+    ],
+    "services": [
+      "Water heater repair and installation (tank)",
+      "Tankless water heater installation and repair",
+      "Water softeners",
+      "Well pumps",
+      "Water lines",
+      "Gas lines",
+      "Drain lines",
+      "Faucets, toilets, shower valves, hose spigots and valves",
+      "Sump pumps and battery backups",
+      "Sewage ejector pumps",
+      "Garbage disposals",
+      "Laundry hookups",
+      "Basic shower system installation",
+      "Minor toilet augering and small drain clears",
+      "Some commercial service"
+    ],
+    "services_source": "https://www.trustplumbingllc.com/",
+    "areas_served": [
+      "Troy",
+      "Tipp City",
+      "Vandalia",
+      "Clayton",
+      "Brookville",
+      "Englewood",
+      "Huber Heights",
+      "Dayton",
+      "Kettering",
+      "Eaton",
+      "Arcanum",
+      "Greenville",
+      "Springboro",
+      "Centerville",
+      "Beavercreek"
+    ],
+    "areas_source": "https://www.trustplumbingllc.com/",
+    "related_links": [
+      {
+        "href": "/troy-oh/plumbing/",
+        "label": "Plumbers in Troy, OH",
+        "why": "where Trust Plumbing is listed on PlumberLists, near its Public Square office"
+      },
+      {
+        "href": "/brookville-oh/plumbing/",
+        "label": "Plumbers in Brookville, OH",
+        "why": "where Trust Plumbing is listed and where its state license is registered"
+      },
+      {
+        "href": "/tipp-city-oh/water-heater/",
+        "label": "Water heater service in Tipp City, OH",
+        "why": "water heaters are its main line of work"
+      },
+      {
+        "href": "/clayton-oh/plumbing/",
+        "label": "Plumbers in Clayton, OH",
+        "why": "a town Trust Plumbing names first"
+      },
+      {
+        "href": "/englewood-oh/water-heater/",
+        "label": "Water heater service in Englewood, OH",
+        "why": "a town Trust Plumbing names"
+      },
+      {
+        "href": "/troy-oh/drain-cleaning/",
+        "label": "Drain cleaning in Troy, OH",
+        "why": "Trust Plumbing does not offer drain cleaning, so compare companies that do"
+      }
+    ],
+    "notes": [
+      {
+        "title": "License checks out",
+        "body": "The number on the site is an active state plumbing contractor license under the company's legal name, held by owner Troy Ketchen. The state record uses a Brookville address, while the office is now in Troy."
+      },
+      {
+        "title": "Not on the Dayton city list",
+        "body": "Trust Plumbing was not on the City of Dayton registered plumbing contractor list (active as of June 4, 2026). That does not affect work in Troy, Brookville or other towns, but for a permit job inside Dayton city limits, ask first."
+      },
+      {
+        "title": "Best fit",
+        "body": "Homes in Miami County and northern Montgomery County (Troy, Tipp City, Vandalia, Clayton, Brookville, Englewood) that need a water heater, well pump, softener or fixture job during weekday hours. It is not the call for a clogged main line, after-hours emergencies or a full bathroom remodel."
+      },
+      {
+        "title": "What this page is not",
+        "body": "PlumberLists has not hired this company and does not publish star ratings or review counts. Quote requests from this page go to PlumberLists, not to Trust Plumbing. To reach the company directly, call (937) 329-6534."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is Trust Plumbing licensed in Ohio?",
+        "answer": "Yes. The OCILB roster we downloaded on November 17, 2026 lists plumbing contractor license PL.48700, held by Troy E Ketchen for Trust Plumbing LLC, active through September 26, 2027. The number matches the one on its site."
+      },
+      {
+        "question": "Where is Trust Plumbing located?",
+        "answer": "Its site lists 315 Public Square #220, Troy, OH 45373. The state license record uses 533 Flanders Ave in Brookville, and BBB also lists a Brookville location at 501 Westbrook Rd. Phone: (937) 329-6534."
+      },
+      {
+        "question": "What are Trust Plumbing's hours?",
+        "answer": "Monday to Friday, 7:30 AM to 5 PM, closed weekends, per its site and BBB profile. No emergency or after-hours service is published."
+      },
+      {
+        "question": "Does Trust Plumbing do drain cleaning?",
+        "answer": "No, not as a regular service. Its site says it does not currently offer drain cleaning, aside from minor toilet augering or small drain clears, and that calls are triaged up front."
+      },
+      {
+        "question": "What does Trust Plumbing mainly do?",
+        "answer": "Tank and tankless water heaters, water softeners, well pumps, water, gas and drain lines, fixtures, sump and ejector pumps, garbage disposals, laundry hookups and basic shower installs. It does not do tile work or major bathroom remodels."
+      },
+      {
+        "question": "Who owns Trust Plumbing?",
+        "answer": "Troy Ketchen, a licensed master plumber, and his wife Erin Ketchen, who started it in early 2020, per the site. BBB lists Troy Ketchen as owner."
+      },
+      {
+        "question": "Is Trust Plumbing registered with the City of Dayton?",
+        "answer": "We did not find it on the City of Dayton registered plumbing contractor list active as of June 4, 2026. For permit work inside Dayton city limits, ask the company about its current registration."
+      },
+      {
+        "question": "Which areas does Trust Plumbing serve?",
+        "answer": "Its site names Clayton, Brookville, Englewood, Troy, Vandalia, Tipp City, Eaton, Arcanum, Huber Heights, Dayton, Kettering, Greenville, Springboro, Centerville and Beavercreek."
+      },
+      {
+        "question": "Is PlumberLists affiliated with Trust Plumbing?",
+        "answer": "No. PlumberLists is an independent directory. This profile was compiled from public records and the company's own site, and the company did not write or pay for it."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Trust Plumbing home page (hours, address, owners, services, exclusions, towns, license and backflow numbers)",
+        "url": "https://www.trustplumbingllc.com/"
+      },
+      {
+        "label": "BBB profile: Trust Plumbing, LLC (owner, start date, locations, hours)",
+        "url": "https://www.bbb.org/us/oh/troy/profile/plumber/trust-plumbing-llc-0322-52822"
+      },
+      {
+        "label": "Miami Valley Today: Trust Plumbing celebrates Troy location opening (May 8, 2025)",
+        "url": "https://miamivalleytoday.com/trust-plumbing-celebrates-troy-location-opening/"
+      },
+      {
+        "label": "Troy Area Chamber of Commerce member listing",
+        "url": "https://business.troyohiochamber.com/list/details/trust-plumbing-llc-4037294"
+      },
+      {
+        "label": "City of Dayton Registered Plumbing Contractors list (active as of 6/4/2026; Trust Plumbing not listed)",
+        "url": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      },
+      {
+        "label": "Ohio OCILB license lookup (plumbing 48700)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "label": "Ohio OCILB HVAC and plumbing contractor roster download (generated Nov 17, 2026)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/GenerateRoster.aspx"
+      }
+    ],
+    "checked": "2026-11-17"
+  },
+  {
+    "slug": "a-abel-plumbing-dayton-oh",
+    "name": "A-Abel Plumbing",
+    "legal_name": "A-Abel Plumbing, Inc.",
+    "also_known_as": [
+      "A-Abel Plumbing Inc.",
+      "A Abel Plumbing",
+      "AAbel Plumbing",
+      "A-Abel",
+      "A-Abel Plumbing Dayton",
+      "A-Abel Plumbing Centerville"
+    ],
+    "listing_names": [
+      "A-Abel Plumbing Inc."
+    ],
+    "schema_type": "Plumber",
+    "title": "A-Abel Plumbing (Dayton, Congress Park Dr): License, Hours",
+    "meta_description": "A-Abel Plumbing, Inc., 440 Congress Park Dr, Dayton: Ohio plumbing license PL.50316 (OCILB, Nov 17, 2026), City of Dayton plumbing reg. 1693, 7-day plumbing hours, water heater warranties and brands. Independent profile.",
+    "headline": "A-Abel Plumbing: the plumbing company in the A-Abel family on Congress Park Dr, south Dayton",
+    "base_location": "Dayton, OH",
+    "summary": [
+      "A-Abel Plumbing, Inc. is the plumbing company in the A-Abel family of companies at 440 Congress Park Dr, on the Dayton/Centerville line, alongside A-Abel Heating and Air Conditioning and A-Abel Electric. It handles water heaters (tank and tankless), leaks and fixtures, drain cleaning and camera inspection, sump, well and ejector pumps, water softeners and filtration, gas lines, and main water and sewer line replacement with excavation, across Dayton and the northern Cincinnati area. Plumbing calls are booked seven days a week, 8 AM to 9 PM.",
+      "The Ohio OCILB roster we downloaded on November 17, 2026 lists plumbing contractor license PL.50316, held by Chalmer N Hirth for Aabel Plumbing Inc at 440 Congress Park Dr, active through September 22, 2027. The site cites \"Ohio license #50316\" on its drain cleaning page, and its about page names Nick Hirth as the plumbing manager who earned his Ohio master plumbing and contractor license. The City of Dayton's registered plumbing contractor list (active as of June 4, 2026) carries A-Abel Plumbing Inc. under registration 1693.",
+      "The A-Abel name dates to 1937, per the site. BBB lists A-Abel Plumbing, Inc. as incorporated January 3, 2006 with Charles R. Norman as president and owner."
+    ],
+    "address": {
+      "street": "440 Congress Park Dr",
+      "locality": "Dayton",
+      "region": "OH",
+      "postal_code": "45459",
+      "source": "https://a-abel.com/contact/"
+    },
+    "phone": {
+      "number": "(937) 434-4343",
+      "source": "https://a-abel.com/contact/"
+    },
+    "website": "https://a-abel.com/plumbing/",
+    "facts": [
+      {
+        "label": "Hours",
+        "value": "Plumbing service is available Monday to Sunday, 8 AM to 9 PM. Drain cleaning is available Monday to Friday, 8 AM to 9 PM, per the plumbing page. The sump pump page also advertises 24/7 emergency sump pump repair.",
+        "source": "https://a-abel.com/plumbing/"
+      },
+      {
+        "label": "Water heater warranty",
+        "value": "The water heater page says most units carry manufacturer warranties of 6 years on tank models (15 years on the heat exchanger) and 5 years on parts for tankless models, with 1 year of labor. Replacement includes delivery, permits when required, haul-away of the old unit and testing.",
+        "source": "https://a-abel.com/plumbing/water-heater/"
+      },
+      {
+        "label": "Brands installed",
+        "value": "AO Smith water heaters, North Star and Sterling water softeners, Moen faucets, American Standard toilets, Blue Angel sump pumps and InSinkErator disposals, per the plumbing page.",
+        "source": "https://a-abel.com/plumbing/"
+      },
+      {
+        "label": "Policies",
+        "value": "Upfront pricing before work starts, military discounts, and licensed, insured and bonded plumbers, per the plumbing page.",
+        "source": "https://a-abel.com/plumbing/"
+      },
+      {
+        "label": "Plumbing manager",
+        "value": "The about page names Nick Hirth, who joined A-Abel Plumbing in 2006 and holds an Ohio master plumbing and contractor license. The state license PL.50316 is held by Chalmer N Hirth.",
+        "source": "https://a-abel.com/about/"
+      },
+      {
+        "label": "BBB",
+        "value": "Its BBB profile shows A-Abel Plumbing, Inc. as accredited since February 20, 2007, with Charles R. Norman as president and owner. Open the profile for current details.",
+        "source": "https://www.bbb.org/us/oh/dayton/profile/plumber/a-abel-plumbing-inc-0322-2726"
+      },
+      {
+        "label": "Email",
+        "value": "info@a-abel.com, per the contact page.",
+        "source": "https://a-abel.com/contact/"
+      }
+    ],
+    "licenses": [
+      {
+        "authority": "Ohio OCILB",
+        "credential": "Plumbing contractor license",
+        "number": "PL.50316",
+        "holder": "Chalmer N Hirth, for Aabel Plumbing Inc (440 Congress Park Dr, Dayton)",
+        "status": "Active (OCILB roster, Nov 17, 2026)",
+        "expires": "2027-09-22",
+        "note": "Matches \"Ohio license #50316\" on the drain cleaning page. The roster shows the current term started September 23, 2026.",
+        "source": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "authority": "City of Dayton",
+        "credential": "Registered plumbing contractor",
+        "number": "1693",
+        "holder": "A-Abel Plumbing Inc., 440 Congress Park Dr",
+        "status": "Active as of 6/4/2026 (latest city list)",
+        "source": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      },
+      {
+        "authority": "Ohio OCILB",
+        "credential": "Plumbing contractor license (sister company A-Abel Heating & Air)",
+        "number": "PL.21951",
+        "holder": "James P Cain, for A Abel Heating & Air Inc (440 Congress Park Dr, Centerville)",
+        "status": "Active in renewal (OCILB roster, Nov 17, 2026)",
+        "expires": "2026-12-31",
+        "note": "BBB's A-Abel Plumbing profile shows license 21951 with this expiration date. This license belongs to the sister HVAC company; it also holds HVAC license HV.21951.",
+        "source": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      }
+    ],
+    "services": [
+      "Water heater repair and replacement",
+      "Tankless water heater installation",
+      "Plumbing leaks and fixture repairs",
+      "Drain cleaning and drain repairs",
+      "Camera inspections",
+      "Sump pumps and battery backups",
+      "Well pumps",
+      "Sewage ejection pumps",
+      "Water softeners and water filtration",
+      "Main water and sewer line replacement",
+      "Sewer repair and replacement",
+      "Water service repair and replacement",
+      "Excavation work",
+      "Outdoor drainage",
+      "Gas line installation and repair (fireplaces, stoves, generators, pool heaters, grills, fire pits)",
+      "Garbage disposals",
+      "Water leak detectors"
+    ],
+    "services_source": "https://a-abel.com/plumbing/",
+    "areas_served": [
+      "Dayton",
+      "Northern Cincinnati area"
+    ],
+    "areas_source": "https://a-abel.com/plumbing/",
+    "related_links": [
+      {
+        "href": "/centerville-oh/plumbing/",
+        "label": "Plumbers in Centerville, OH",
+        "why": "where A-Abel Plumbing is listed on PlumberLists, near Congress Park Dr"
+      },
+      {
+        "href": "/miamisburg-oh/plumbing/",
+        "label": "Plumbers in Miamisburg, OH",
+        "why": "where A-Abel Plumbing is listed on PlumberLists"
+      },
+      {
+        "href": "/kettering-oh/water-heater/",
+        "label": "Water heater service in Kettering, OH",
+        "why": "close to its Congress Park Dr office"
+      },
+      {
+        "href": "/dayton-oh/drain-cleaning/",
+        "label": "Drain cleaning in Dayton, OH",
+        "why": "A-Abel does drain cleaning weekdays until 9 PM"
+      },
+      {
+        "href": "/springboro-oh/plumbing/",
+        "label": "Plumbers in Springboro, OH",
+        "why": "on the way to the northern Cincinnati area it serves"
+      },
+      {
+        "href": "/dayton-oh/emergency-plumbing/",
+        "label": "Emergency plumbers in Dayton, OH",
+        "why": "compare evening and weekend plumbing options"
+      }
+    ],
+    "notes": [
+      {
+        "title": "Which A-Abel is this?",
+        "body": "This page covers A-Abel Plumbing, Inc. For heating and cooling, the sister company A-Abel Heating and Air Conditioning has its own profile on our HVACLists site. Both share 440 Congress Park Dr and (937) 434-4343."
+      },
+      {
+        "title": "Licenses check out",
+        "body": "The plumbing company's own state contractor license, PL.50316, is active under its name and matches the number on its site. The sister HVAC company's plumbing license PL.21951 (the number BBB shows) was \"Active in renewal\" with the term ending December 31, 2026, which is normal late in a license cycle."
+      },
+      {
+        "title": "Best fit",
+        "body": "South Dayton suburbs (Centerville, Kettering, Washington Township, Miamisburg, Springboro) that want evening or weekend plumbing booking from a large, long-standing local company, or one company for plumbing, HVAC and electrical. On a water heater or sewer line, get the upfront price in writing and compare at least one other quote."
+      },
+      {
+        "title": "What this page is not",
+        "body": "PlumberLists has not hired this company and does not publish star ratings or review counts. Quote requests from this page go to PlumberLists, not to A-Abel. To reach the company directly, call (937) 434-4343."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is A-Abel Plumbing licensed in Ohio?",
+        "answer": "Yes. The OCILB roster we downloaded on November 17, 2026 lists plumbing contractor license PL.50316, held by Chalmer N Hirth for Aabel Plumbing Inc at 440 Congress Park Dr, active through September 22, 2027. The site cites the same number."
+      },
+      {
+        "question": "Is A-Abel Plumbing registered with the City of Dayton?",
+        "answer": "Yes. The City of Dayton registered plumbing contractor list, active as of June 4, 2026, includes A-Abel Plumbing Inc. at 440 Congress Park Dr with registration 1693."
+      },
+      {
+        "question": "What license number does BBB show for A-Abel Plumbing?",
+        "answer": "BBB shows 21951, expiring December 31, 2026. On the state roster, PL.21951 belongs to the sister company A Abel Heating & Air Inc and was active in renewal on November 17, 2026. The plumbing company's own license is PL.50316."
+      },
+      {
+        "question": "Where is A-Abel Plumbing located?",
+        "answer": "440 Congress Park Dr, Dayton, OH 45459, per its site and BBB. Phone: (937) 434-4343. Email: info@a-abel.com."
+      },
+      {
+        "question": "What are A-Abel Plumbing's hours?",
+        "answer": "Plumbing service Monday to Sunday, 8 AM to 9 PM, and drain cleaning Monday to Friday, 8 AM to 9 PM, per its plumbing page. Its sump pump page advertises 24/7 emergency sump pump repair."
+      },
+      {
+        "question": "What warranty comes with an A-Abel water heater?",
+        "answer": "Its water heater page lists manufacturer warranties of 6 years on tank models (15 years on the heat exchanger) and 5 years on parts for tankless models, plus 1 year of labor."
+      },
+      {
+        "question": "How long has A-Abel been in business?",
+        "answer": "The A-Abel name dates to 1937, per its site. BBB lists A-Abel Plumbing, Inc. as incorporated in 2006, and the about page says the group has bought several local trade businesses since 1997."
+      },
+      {
+        "question": "Which areas does A-Abel Plumbing serve?",
+        "answer": "Dayton and the northern Cincinnati area, per its plumbing page. It does not publish a town-by-town list for plumbing."
+      },
+      {
+        "question": "Is PlumberLists affiliated with A-Abel Plumbing?",
+        "answer": "No. PlumberLists is an independent directory. This profile was compiled from public records and the company's own site, and the company did not write or pay for it."
+      }
+    ],
+    "sources": [
+      {
+        "label": "A-Abel: plumbing page (services, hours, brands, policies, service area)",
+        "url": "https://a-abel.com/plumbing/"
+      },
+      {
+        "label": "A-Abel: drain cleaning page (Ohio license #50316)",
+        "url": "https://a-abel.com/plumbing/drain-clearning/"
+      },
+      {
+        "label": "A-Abel: water heater page (warranty, what replacement includes)",
+        "url": "https://a-abel.com/plumbing/water-heater/"
+      },
+      {
+        "label": "A-Abel: sump pump page (24/7 emergency sump pump repair)",
+        "url": "https://a-abel.com/sump-pump-installation-maintenance/"
+      },
+      {
+        "label": "A-Abel: gas line page",
+        "url": "https://a-abel.com/plumbing/gas-line-installation-repair-dayton-oh/"
+      },
+      {
+        "label": "A-Abel: about page (since 1937, Nick Hirth, Chuck Norman)",
+        "url": "https://a-abel.com/about/"
+      },
+      {
+        "label": "A-Abel: contact page (address, phone, email)",
+        "url": "https://a-abel.com/contact/"
+      },
+      {
+        "label": "BBB profile: A-Abel Plumbing, Inc. (accredited since 2007, owner, license 21951)",
+        "url": "https://www.bbb.org/us/oh/dayton/profile/plumber/a-abel-plumbing-inc-0322-2726"
+      },
+      {
+        "label": "City of Dayton Registered Plumbing Contractors list (active as of 6/4/2026)",
+        "url": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      },
+      {
+        "label": "Ohio OCILB license lookup (plumbing 50316, plumbing 21951)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "label": "Ohio OCILB HVAC and plumbing contractor roster download (generated Nov 17, 2026)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/GenerateRoster.aspx"
+      }
+    ],
+    "checked": "2026-11-17"
   }
 ]
