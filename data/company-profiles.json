@@ -4766,5 +4766,557 @@
       }
     ],
     "checked": "2026-11-17"
+  },
+  {
+    "slug": "waker-plumbing-kettering-oh",
+    "name": "Waker Plumbing",
+    "legal_name": "Waker Plumbing, Inc.",
+    "also_known_as": [
+      "Waker Plumbing Inc",
+      "Waker Plumbing Kettering",
+      "Waker Plumbing Dayton",
+      "Waker Plumbing directional boring"
+    ],
+    "listing_names": [],
+    "schema_type": "Plumber",
+    "title": "Waker Plumbing (Kettering, since 1979): Licenses, Hours, Boring",
+    "meta_description": "Waker Plumbing, Inc., 1760 E David Rd, Kettering: Ohio plumbing licenses PL.24806, PL.13185 and PL.51227 (OCILB, Nov 19, 2026), City of Dayton reg. 009850, weekday hours, directional boring and water and gas line replacement. Independent profile.",
+    "headline": "Waker Plumbing: Kettering family shop that replaces water, gas and sewer lines by directional boring",
+    "base_location": "Kettering, OH",
+    "summary": [
+      "Waker Plumbing, Inc. is a family-owned plumbing company on E David Rd in Kettering. Tom Waker founded it in 1979, and brothers Steve Waker (president, per BBB) and Mike Waker own it now, per the company's team page. Its specialty is underground work: replacing and installing water, natural gas and sewer lines by directional boring (no open trench), hydro excavation, plus gas line runs for stoves, grills, fireplaces and gas logs. It also does general residential plumbing, water heaters (tank and tankless) and bathroom and kitchen plumbing.",
+      "The Ohio OCILB roster we downloaded on November 19, 2026 lists three active plumbing contractor licenses for Waker Plumbing at 1760 E David Rd: PL.24806 (Steve Waker) and PL.13185 (Michael L Waker), both expiring September 30, 2028, and PL.51227 (Benjamin M Waker, Waker Plumbing Inc), expiring July 3, 2027. The City of Dayton's registered plumbing contractor list (active as of June 4, 2026) carries Waker Plumbing Inc. under registration 009850."
+    ],
+    "address": {
+      "street": "1760 E David Rd",
+      "locality": "Kettering",
+      "region": "OH",
+      "postal_code": "45440",
+      "source": "https://www.bbb.org/us/oh/kettering/profile/plumber/waker-plumbing-inc-0322-6972"
+    },
+    "phone": {
+      "number": "(937) 434-2678",
+      "source": "https://wakerplumbing.com/contact/"
+    },
+    "website": "https://wakerplumbing.com/",
+    "facts": [
+      {
+        "label": "Hours",
+        "value": "Monday to Friday, 7 AM to 5 PM; closed Saturday and Sunday, per the contact page and BBB.",
+        "source": "https://wakerplumbing.com/contact/"
+      },
+      {
+        "label": "Since",
+        "value": "1979. The site says Waker has been family owned and operated in the Dayton area since 1979, and BBB lists an August 23, 1979 business start and incorporation date.",
+        "source": "https://www.bbb.org/us/oh/kettering/profile/plumber/waker-plumbing-inc-0322-6972"
+      },
+      {
+        "label": "Owners",
+        "value": "The team page lists Tom Waker (founder, 1979) and Steve Waker and Mike Waker (owners). BBB lists Steve C. Waker as president, Mike Waker as vice president and Ben Waker as office manager.",
+        "source": "https://wakerplumbing.com/our-team/"
+      },
+      {
+        "label": "Directional boring",
+        "value": "Waker installs water, sewer and gas lines underground by directional boring, which avoids digging a trench across lawns, driveways and sidewalks. The services page says line jobs run from 2 feet to 1,000 feet and that the company president does the free estimate.",
+        "source": "https://wakerplumbing.com/insurance-solutions/"
+      },
+      {
+        "label": "Hydro excavation",
+        "value": "It runs hydro excavation equipment (high-pressure water plus vacuum) to dig and locate buried utilities without damaging them.",
+        "source": "https://wakerplumbing.com/hydro-excavation/"
+      },
+      {
+        "label": "Gas work",
+        "value": "Gas line installs for cooktops, dryers, fireplaces and gas logs, grills, fire pits, gas lights, patio heaters, pool and spa heaters and wall heaters, plus gas fireplace inserts.",
+        "source": "https://wakerplumbing.com/installation-of-gas-lines/"
+      },
+      {
+        "label": "Utility and safety programs",
+        "value": "The about page says Waker is a subcontractor for CenterPoint Energy (formerly Vectren), is enrolled in the ISNetworld safety program and follows PHMSA and FMCSA compliance through National Compliance Services.",
+        "source": "https://wakerplumbing.com/about/"
+      },
+      {
+        "label": "Estimates",
+        "value": "Free estimates, per the home and services pages.",
+        "source": "https://wakerplumbing.com/"
+      },
+      {
+        "label": "BBB",
+        "value": "BBB shows Waker Plumbing, Inc. as accredited since June 17, 2002, with a file opened in 1989 and fax (937) 434-1674. Open the profile for current details.",
+        "source": "https://www.bbb.org/us/oh/kettering/profile/plumber/waker-plumbing-inc-0322-6972"
+      }
+    ],
+    "licenses": [
+      {
+        "authority": "Ohio OCILB",
+        "credential": "Plumbing contractor license",
+        "number": "PL.24806",
+        "holder": "Steve Waker, for Waker Plumbing (1760 E David Rd, Kettering)",
+        "status": "Active (OCILB roster, Nov 19, 2026)",
+        "expires": "2028-09-30",
+        "source": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "authority": "Ohio OCILB",
+        "credential": "Plumbing contractor license",
+        "number": "PL.13185",
+        "holder": "Michael L Waker, for Waker Plumbing (1760 E David Rd, Kettering)",
+        "status": "Active (OCILB roster, Nov 19, 2026)",
+        "expires": "2028-09-30",
+        "source": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "authority": "Ohio OCILB",
+        "credential": "Plumbing contractor license",
+        "number": "PL.51227",
+        "holder": "Benjamin M Waker, for Waker Plumbing Inc (1760 E David Rd)",
+        "status": "Active (OCILB roster, Nov 19, 2026)",
+        "expires": "2027-07-03",
+        "source": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "authority": "City of Dayton",
+        "credential": "Registered plumbing contractor",
+        "number": "009850",
+        "holder": "Waker Plumbing Inc., 1760 E. David Rd.",
+        "status": "Active as of 6/4/2026 (latest city list)",
+        "source": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      }
+    ],
+    "services": [
+      "Water line replacement, repair and new installation",
+      "Natural gas line replacement, repair and new installation",
+      "Sewer line replacement",
+      "Directional boring (trenchless line installs)",
+      "Hydro excavation and utility locating",
+      "Gas line installs for stoves, dryers, grills, fire pits, patio, pool and spa heaters",
+      "Gas fireplace inserts and gas logs",
+      "Tank and tankless water heater installation",
+      "Residential plumbing repair and whole-house plumbing",
+      "Bathroom and kitchen plumbing, faucets, toilets, disposals and washer hookups",
+      "Septic and sump pumps",
+      "Commercial plumbing"
+    ],
+    "services_source": "https://wakerplumbing.com/insurance-solutions/",
+    "areas_served": [
+      "Kettering",
+      "Dayton",
+      "Surrounding Dayton area (no town list published)"
+    ],
+    "areas_source": "https://wakerplumbing.com/",
+    "related_links": [
+      {
+        "href": "/kettering-oh/plumbing/",
+        "label": "Plumbers in Kettering, OH",
+        "why": "Waker's home base on E David Rd"
+      },
+      {
+        "href": "/dayton-oh/plumbing/",
+        "label": "Plumbers in Dayton, OH",
+        "why": "Waker is a City of Dayton registered plumbing contractor"
+      },
+      {
+        "href": "/oakwood-oh/plumbing/",
+        "label": "Plumbers in Oakwood, OH",
+        "why": "next door to Kettering"
+      },
+      {
+        "href": "/centerville-oh/plumbing/",
+        "label": "Plumbers in Centerville, OH",
+        "why": "just south of its Kettering shop"
+      },
+      {
+        "href": "/kettering-oh/water-heater/",
+        "label": "Water heater service in Kettering, OH",
+        "why": "Waker installs tank and tankless heaters"
+      },
+      {
+        "href": "/kettering-oh/emergency-plumbing/",
+        "label": "Emergency plumbers in Kettering, OH",
+        "why": "Waker keeps weekday hours, so compare after-hours options here"
+      }
+    ],
+    "notes": [
+      {
+        "title": "Which license number is right?",
+        "body": "The about page says \"Ohio License #26806.\" We could not find 26806 as a plumbing or HVAC contractor license in the OCILB roster downloaded November 19, 2026. The roster does list three active plumbing licenses for Waker Plumbing at the E David Rd shop (PL.24806, PL.13185 and PL.51227), so the company is licensed; the number on its site just does not match a current record."
+      },
+      {
+        "title": "1760 or 1770 E David Rd?",
+        "body": "The state licenses, the City of Dayton list and BBB all use 1760 E David Rd. The company website lists 1770 East David Rd. We use the address on the licenses and BBB; call (937) 434-2678 before visiting in person."
+      },
+      {
+        "title": "Best fit",
+        "body": "Homes with an old galvanized or leaking water main, a gas line to add or replace, or a sewer lateral to swap, where you want to avoid tearing up a lawn or driveway. For trenchless line work, get the footage, pipe material, permit and restoration terms in writing and compare at least one other quote. For drain clogs or a night or weekend emergency, Waker keeps weekday hours, so use the emergency page."
+      },
+      {
+        "title": "What this page is not",
+        "body": "PlumberLists has not hired this company and does not publish star ratings or review counts. Quote requests from this page go to PlumberLists, not to Waker Plumbing. To reach the company directly, call (937) 434-2678."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is Waker Plumbing licensed in Ohio?",
+        "answer": "Yes. The OCILB roster we downloaded on November 19, 2026 lists active plumbing contractor licenses PL.24806 (Steve Waker) and PL.13185 (Michael L Waker), both through September 30, 2028, and PL.51227 (Benjamin M Waker), through July 3, 2027, all at 1760 E David Rd. The \"License #26806\" printed on its site did not match a current state record."
+      },
+      {
+        "question": "Is Waker Plumbing registered with the City of Dayton?",
+        "answer": "Yes. The City of Dayton registered plumbing contractor list, active as of June 4, 2026, includes Waker Plumbing Inc. at 1760 E. David Rd. with registration 009850."
+      },
+      {
+        "question": "Where is Waker Plumbing located?",
+        "answer": "1760 E David Rd, Kettering, OH 45440, per the state licenses and BBB (the website shows 1770 East David Rd). Phone: (937) 434-2678."
+      },
+      {
+        "question": "What are Waker Plumbing's hours?",
+        "answer": "Monday to Friday, 7 AM to 5 PM. It is closed Saturday and Sunday, per its contact page and BBB."
+      },
+      {
+        "question": "Does Waker Plumbing do trenchless water and gas line replacement?",
+        "answer": "Yes. Directional boring is its main specialty: it installs and replaces water, natural gas and sewer lines underground without digging a trench, on runs from 2 feet up to 1,000 feet, per its services page. It also does hydro excavation."
+      },
+      {
+        "question": "How long has Waker Plumbing been in business?",
+        "answer": "Since 1979, when Tom Waker founded it. BBB lists an August 23, 1979 start. Steve and Mike Waker own it today."
+      },
+      {
+        "question": "Does Waker Plumbing install gas lines for grills, stoves and fireplaces?",
+        "answer": "Yes. Its gas line page lists cooktops and stoves, dryers, fireplaces and gas logs, grills, fire pits, gas lights, patio heaters, pool and spa heaters and wall heaters, and it installs gas fireplace inserts."
+      },
+      {
+        "question": "Does Waker Plumbing give free estimates?",
+        "answer": "Yes. The site offers free estimates and says the company president comes out to estimate water and gas line jobs."
+      },
+      {
+        "question": "Is PlumberLists affiliated with Waker Plumbing?",
+        "answer": "No. PlumberLists is an independent directory. This profile was compiled from public records and the company's own site, and the company did not write or pay for it."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Waker Plumbing home page (since 1979, specialties, address, hours, free estimates)",
+        "url": "https://wakerplumbing.com/"
+      },
+      {
+        "label": "Waker Plumbing: about (Ohio License #26806 claim, BBB since 2002, CenterPoint subcontractor, ISNetworld)",
+        "url": "https://wakerplumbing.com/about/"
+      },
+      {
+        "label": "Waker Plumbing: services (directional boring, hydro excavation, 2 to 1,000 ft lines, gas appliances, water heaters)",
+        "url": "https://wakerplumbing.com/insurance-solutions/"
+      },
+      {
+        "label": "Waker Plumbing: our team (Tom, Steve and Mike Waker)",
+        "url": "https://wakerplumbing.com/our-team/"
+      },
+      {
+        "label": "Waker Plumbing: gas, water and sewer lines",
+        "url": "https://wakerplumbing.com/gas-water-and-sewer-lines/"
+      },
+      {
+        "label": "Waker Plumbing: gas line installation",
+        "url": "https://wakerplumbing.com/installation-of-gas-lines/"
+      },
+      {
+        "label": "Waker Plumbing: water heater installation",
+        "url": "https://wakerplumbing.com/water-heater-installation/"
+      },
+      {
+        "label": "Waker Plumbing: residential plumbing repairs",
+        "url": "https://wakerplumbing.com/residential-plumbing-repairs/"
+      },
+      {
+        "label": "Waker Plumbing: contact (phone, address, hours)",
+        "url": "https://wakerplumbing.com/contact/"
+      },
+      {
+        "label": "BBB profile: Waker Plumbing, Inc. (accredited since 2002, start date, management, hours, address)",
+        "url": "https://www.bbb.org/us/oh/kettering/profile/plumber/waker-plumbing-inc-0322-6972"
+      },
+      {
+        "label": "City of Dayton Registered Plumbing Contractors list (active as of 6/4/2026)",
+        "url": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      },
+      {
+        "label": "Ohio OCILB license lookup (plumbing 24806, 13185, 51227)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "label": "Ohio OCILB HVAC and plumbing contractor roster download (generated Nov 19, 2026)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/GenerateRoster.aspx"
+      }
+    ],
+    "checked": "2026-11-19"
+  },
+  {
+    "slug": "howerton-plumbing-heating-cooling-kettering-oh",
+    "name": "Howerton Plumbing, Heating & Cooling",
+    "legal_name": "Howerton Plumbing Inc",
+    "also_known_as": [
+      "Howerton Plumbing",
+      "Howerton Plumbing Inc",
+      "Howerton Plumbing Dayton",
+      "Howerton Plumbing Kettering",
+      "Howerton Plumbing Heating and Cooling",
+      "Howerton Services"
+    ],
+    "listing_names": [],
+    "schema_type": "Plumber",
+    "title": "Howerton Plumbing (S Dixie Dr, since 1983): License, Hours, Areas",
+    "meta_description": "Howerton Plumbing, Heating & Cooling, 2367 S Dixie Dr (Kettering/Dayton 45409): Ohio plumbing license PL.19650 (OCILB, Nov 19, 2026), weekday hours with 24-hour answering, HVAC by Kirkwood, 19 towns in 3 counties. Independent profile.",
+    "headline": "Howerton Plumbing, Heating & Cooling: S Dixie Dr plumbing shop since 1983, with HVAC through Kirkwood",
+    "base_location": "Kettering, OH",
+    "summary": [
+      "Howerton Plumbing, Heating & Cooling is a plumbing-first home services company at 2367 S Dixie Dr, on the Dayton and Kettering line (ZIP 45409). Its site says it began serving Dayton in 1983 as a small locally owned plumbing company. It handles residential and commercial plumbing: water heaters (tank and tankless), water and gas line repair, leak and slab leak detection, drain cleaning, sump pumps, backflow testing, softeners and filtration, plus new construction plumbing. Heating and cooling work is branded \"HVAC by Kirkwood\" and booked on a separate phone line.",
+      "The Ohio OCILB roster we downloaded on November 19, 2026 lists plumbing contractor license PL.19650, held by Dean C Howerton for Howerton Plumbing Inc at 2367 S Dixie Dr, Kettering, active through March 31, 2027. We did not find Howerton on the City of Dayton registered plumbing contractor list (active as of June 4, 2026), and we did not find an OCILB HVAC contractor license under the Howerton name."
+    ],
+    "address": {
+      "street": "2367 S Dixie Dr",
+      "locality": "Dayton",
+      "region": "OH",
+      "postal_code": "45409",
+      "source": "https://howertonplumbing.com/contact-us/"
+    },
+    "phone": {
+      "number": "(937) 980-0859",
+      "source": "https://howertonplumbing.com/contact-us/"
+    },
+    "website": "https://howertonplumbing.com/",
+    "facts": [
+      {
+        "label": "Phones",
+        "value": "Plumbing (937) 980-0859; HVAC (937) 709-5684, per the contact page. The state license record lists (937) 293-5534.",
+        "source": "https://howertonplumbing.com/contact-us/"
+      },
+      {
+        "label": "Hours",
+        "value": "Monday to Friday, 8 AM to 4:30 PM; closed Saturday and Sunday. The contact page says 24-hour answering is available, and the home page says same-day service is offered whenever possible.",
+        "source": "https://howertonplumbing.com/contact-us/"
+      },
+      {
+        "label": "Since",
+        "value": "1983, per the about page (\"in business for over 4 decades\").",
+        "source": "https://howertonplumbing.com/about-us/"
+      },
+      {
+        "label": "HVAC by Kirkwood",
+        "value": "The site header reads \"Plumbing by Howerton. HVAC by Kirkwood\" and links to kirkwoodhvac.com. The City of Dayton heating list (6/4/2026) carries a separate Kirkwood Heating & Cooling at 9025 Bellefontaine Rd under registration 009915. Ask which company and license will do your HVAC job.",
+        "source": "https://howertonplumbing.com/"
+      },
+      {
+        "label": "City of Dayton registration",
+        "value": "Howerton is not on the City of Dayton registered plumbing contractor list active as of June 4, 2026. For a home inside Dayton city limits, ask who will pull the plumbing permit.",
+        "source": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      },
+      {
+        "label": "Counties",
+        "value": "Montgomery, Greene and Warren counties, per the service areas page.",
+        "source": "https://howertonplumbing.com/service-areas/"
+      },
+      {
+        "label": "Coupons",
+        "value": "The home page listed a $79 standard drain cleaning (accessible cleanout) and $100 off a water heater or softener, both marked as expiring 2/28/27, and the service areas page listed $25 off for first-time customers. Coupons change, so confirm before booking.",
+        "source": "https://howertonplumbing.com/"
+      },
+      {
+        "label": "Plans and financing",
+        "value": "The site has a Comfort Club maintenance plan page and a financing page; check terms directly.",
+        "source": "https://howertonplumbing.com/"
+      },
+      {
+        "label": "BBB",
+        "value": "The company's about page says it is a BBB accredited business. Open the BBB profile for current accreditation details.",
+        "source": "https://www.bbb.org/us/oh/dayton/profile/plumber/howerton-plumbing-heating-cooling-inc-0322-17000399"
+      }
+    ],
+    "licenses": [
+      {
+        "authority": "Ohio OCILB",
+        "credential": "Plumbing contractor license",
+        "number": "PL.19650",
+        "holder": "Dean C Howerton, for Howerton Plumbing Inc (2367 S Dixie Dr, Kettering)",
+        "status": "Active (OCILB roster, Nov 19, 2026)",
+        "expires": "2027-03-31",
+        "note": "No OCILB HVAC contractor license was found under the Howerton name; heating and cooling is offered as \"HVAC by Kirkwood.\"",
+        "source": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      }
+    ],
+    "services": [
+      "24-hour answering and emergency plumbing",
+      "Water heater repair and installation",
+      "Tankless water heaters",
+      "Water line repair and installation",
+      "Burst pipe repair",
+      "Water leak and slab leak detection and repair",
+      "Gas leak detection and gas line repair and installation",
+      "Drain cleaning and clogged toilet repair",
+      "Kitchen and bathroom plumbing, faucets and fixtures",
+      "Bathroom remodeling plumbing",
+      "Sump pumps and battery backups",
+      "Backflow testing and repair",
+      "Water softeners and water filtration",
+      "Commercial plumbing, remodeling and new construction plumbing",
+      "Furnace, heat pump and AC service and installation (HVAC by Kirkwood)",
+      "Ductwork, humidifiers and indoor air quality"
+    ],
+    "services_source": "https://howertonplumbing.com/",
+    "areas_served": [
+      "Dayton",
+      "Beavercreek",
+      "Bellbrook",
+      "Centerville",
+      "Englewood",
+      "Fairborn",
+      "Franklin",
+      "Huber Heights",
+      "Kettering",
+      "Miamisburg",
+      "Middletown",
+      "Moraine",
+      "Oakwood",
+      "Riverside",
+      "Springboro",
+      "Trotwood",
+      "Vandalia",
+      "West Carrollton",
+      "Xenia",
+      "Montgomery, Greene and Warren counties"
+    ],
+    "areas_source": "https://howertonplumbing.com/service-areas/",
+    "related_links": [
+      {
+        "href": "/kettering-oh/plumbing/",
+        "label": "Plumbers in Kettering, OH",
+        "why": "its S Dixie Dr shop sits on the Kettering line"
+      },
+      {
+        "href": "/oakwood-oh/plumbing/",
+        "label": "Plumbers in Oakwood, OH",
+        "why": "a few minutes from S Dixie Dr and on its town list"
+      },
+      {
+        "href": "/moraine-oh/plumbing/",
+        "label": "Plumbers in Moraine, OH",
+        "why": "next door to the shop and on its town list"
+      },
+      {
+        "href": "/west-carrollton-oh/water-heater/",
+        "label": "Water heater service in West Carrollton, OH",
+        "why": "water heaters are a core Howerton service"
+      },
+      {
+        "href": "/centerville-oh/drain-cleaning/",
+        "label": "Drain cleaning in Centerville, OH",
+        "why": "a town it names, with a drain cleaning coupon on its site"
+      },
+      {
+        "href": "/dayton-oh/plumbing/",
+        "label": "Plumbers in Dayton, OH",
+        "why": "compare City of Dayton registered plumbers for jobs inside city limits"
+      }
+    ],
+    "notes": [
+      {
+        "title": "License checks out, with one gap for Dayton addresses",
+        "body": "PL.19650 is an active state plumbing contractor license held by Dean C Howerton at the shop address. Howerton does not appear on the City of Dayton registered plumbing list dated June 4, 2026, so if your home is inside Dayton city limits, ask who will pull the plumbing permit."
+      },
+      {
+        "title": "Plumbing by Howerton, HVAC by Kirkwood",
+        "body": "Howerton markets heating and cooling as \"HVAC by Kirkwood\" with its own phone number and website. We did not find a state HVAC license under the Howerton name. For a furnace, heat pump or AC job, ask for the HVAC license number on the proposal and check it on the OCILB lookup."
+      },
+      {
+        "title": "Best fit",
+        "body": "South Dayton, Kettering, Oakwood and Moraine homes that want an established local plumber for water heaters, water and gas lines, leaks and drains during the week, with a person answering the phone after hours. On a water line, slab leak or water heater replacement, get a written price and compare at least one other quote."
+      },
+      {
+        "title": "What this page is not",
+        "body": "PlumberLists has not hired this company and does not publish star ratings or review counts. Quote requests from this page go to PlumberLists, not to Howerton. To reach the company directly, call (937) 980-0859 for plumbing."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is Howerton Plumbing licensed in Ohio?",
+        "answer": "Yes. The OCILB roster we downloaded on November 19, 2026 lists plumbing contractor license PL.19650, held by Dean C Howerton for Howerton Plumbing Inc at 2367 S Dixie Dr, Kettering, active through March 31, 2027."
+      },
+      {
+        "question": "Is Howerton registered with the City of Dayton?",
+        "answer": "We did not find Howerton Plumbing on the City of Dayton registered plumbing contractor list active as of June 4, 2026. For a job inside Dayton city limits, ask who will pull the city plumbing permit."
+      },
+      {
+        "question": "Where is Howerton Plumbing located?",
+        "answer": "2367 S Dixie Dr, Dayton, OH 45409, per its contact page. The state license record lists the same street address with Kettering as the city. Plumbing: (937) 980-0859. HVAC: (937) 709-5684."
+      },
+      {
+        "question": "What are Howerton Plumbing's hours?",
+        "answer": "Monday to Friday, 8 AM to 4:30 PM, closed weekends, per its contact page. It says 24-hour answering is available and offers same-day service when possible."
+      },
+      {
+        "question": "How long has Howerton been in business?",
+        "answer": "Since 1983, per its about page, which describes it as starting as a small locally owned Dayton plumbing company."
+      },
+      {
+        "question": "Does Howerton do heating and air conditioning?",
+        "answer": "Yes, through what it calls \"HVAC by Kirkwood,\" with a separate phone line, (937) 709-5684, and website. We did not find an Ohio HVAC contractor license under the Howerton name, so ask for the HVAC license on any heating or cooling proposal."
+      },
+      {
+        "question": "Does Howerton fix slab leaks and water lines?",
+        "answer": "Yes. Its site lists water leak detection, slab leak repair, water line repair and installation, burst pipe repair and gas line work."
+      },
+      {
+        "question": "Which areas does Howerton serve?",
+        "answer": "Montgomery, Greene and Warren counties, including Dayton, Beavercreek, Bellbrook, Centerville, Englewood, Fairborn, Franklin, Huber Heights, Kettering, Miamisburg, Middletown, Moraine, Oakwood, Riverside, Springboro, Trotwood, Vandalia, West Carrollton and Xenia, per its service areas page."
+      },
+      {
+        "question": "Is PlumberLists affiliated with Howerton Plumbing?",
+        "answer": "No. PlumberLists is an independent directory. This profile was compiled from public records and the company's own site, and the company did not write or pay for it."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Howerton home page (services, Plumbing by Howerton / HVAC by Kirkwood, coupons, same-day service)",
+        "url": "https://howertonplumbing.com/"
+      },
+      {
+        "label": "Howerton: about us (since 1983, history, plumbing focus)",
+        "url": "https://howertonplumbing.com/about-us/"
+      },
+      {
+        "label": "Howerton: contact us (address, phones, hours, 24-hour answering)",
+        "url": "https://howertonplumbing.com/contact-us/"
+      },
+      {
+        "label": "Howerton: service areas (counties and 19 cities)",
+        "url": "https://howertonplumbing.com/service-areas/"
+      },
+      {
+        "label": "Howerton: FAQs (plumbing services)",
+        "url": "https://howertonplumbing.com/frequently-asked-questions/"
+      },
+      {
+        "label": "Kirkwood HVAC site (linked from Howerton for heating and cooling)",
+        "url": "https://www.kirkwoodhvac.com/"
+      },
+      {
+        "label": "BBB profile: Howerton Plumbing, Heating & Cooling Inc",
+        "url": "https://www.bbb.org/us/oh/dayton/profile/plumber/howerton-plumbing-heating-cooling-inc-0322-17000399"
+      },
+      {
+        "label": "City of Dayton Registered Plumbing Contractors list (active as of 6/4/2026; Howerton not listed)",
+        "url": "https://www.daytonohio.gov/DocumentCenter/View/256/Registered-Plumbing-Contractors-PDF"
+      },
+      {
+        "label": "City of Dayton Registered Heating Contractors list (Kirkwood Heating & Cooling, reg. 009915)",
+        "url": "https://www.daytonohio.gov/DocumentCenter/View/254/Registered-Heating-Contractors-PDF"
+      },
+      {
+        "label": "Ohio OCILB license lookup (plumbing 19650)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/LicenseLookup.aspx"
+      },
+      {
+        "label": "Ohio OCILB HVAC and plumbing contractor roster download (generated Nov 19, 2026)",
+        "url": "https://elicense4.com.ohio.gov/Lookup/GenerateRoster.aspx"
+      }
+    ],
+    "checked": "2026-11-19"
   }
 ]
