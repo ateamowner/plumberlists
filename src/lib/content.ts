@@ -103,7 +103,7 @@ export function faqs(city: City, service: Service): Faq[] {
     },
     {
       question: `What happens after I submit the form on this ${city.name} page?`,
-      answer: `Your request goes to ${site.leadsEmail}. We review it, usually within one business day, and follow up about next steps. When a local company takes the job, that company calls you directly, not a ${site.name} plumber. You can also call any company listed on this page yourself.`,
+      answer: `Your request goes to the ${site.name} inbox. We review it, usually within one business day, and follow up about next steps. When a local company takes the job, that company calls you directly, not a ${site.name} plumber. You can also call any company listed on this page yourself.`,
     },
     {
       question:
@@ -157,7 +157,7 @@ export function homeFaqs(): Faq[] {
     },
     {
       question: "What happens after I submit the form?",
-      answer: `We store the request at ${site.leadsEmail} and review it. We only pass a request to a local company we have checked, and we never invent a contractor to fill a page.`,
+      answer: `Your request goes to the ${site.name} inbox and we review it. We only pass a request to a local company we have checked, and we never invent a contractor to fill a page.`,
     },
     {
       question: "Do you invent star ratings or city-specific prices?",

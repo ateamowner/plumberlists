@@ -16,8 +16,8 @@ export default function RequestSentPage() {
         Request sent. We will follow up, usually within one business day.
       </h1>
       <p className="mt-4 leading-7 text-muted-foreground">
-        {site.name} is a directory, not a plumber. Your request went to{" "}
-        {site.leadsEmail}. We review every request, usually within one business
+        {site.name} is a directory, not a plumber. Your request went to the{" "}
+        {site.name} inbox. We review every request, usually within one business
         day, and follow up with next steps. When a local company takes the job,
         that company calls you directly, not a {site.name} crew.
       </p>
