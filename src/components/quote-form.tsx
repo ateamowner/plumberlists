@@ -406,11 +406,7 @@ export function QuoteForm({ city, service, listingId, compact }: QuoteFormProps)
         Send request
       </button>
       <p className="mt-3 text-xs leading-5 text-muted-foreground">
-        If the form cannot send, email{" "}
-        <a href={`mailto:${site.leadsEmail}`} className="underline">
-          {site.leadsEmail}
-        </a>{" "}
-        with the same details.
+        If the form cannot send, try again in a moment. No credit card.
       </p>
     </form>
   );

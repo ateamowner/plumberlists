@@ -62,8 +62,8 @@ export default function ForProsPage() {
         field on {site.name}.
       </p>
       <p className="mt-3 leading-7">
-        Every quote request posts to Formsubmit at {site.leadsEmail}, and we
-        review each one. Companies listed on the page a homeowner used are the
+        Every quote request posts to Formsubmit and is delivered to the{" "}
+        {site.name} inbox, and we review each one. Companies listed on the page a homeowner used are the
         first we contact about that job. We never invent a contractor to fill a
         page, and we never send a lead to a company we have not checked.
       </p>
