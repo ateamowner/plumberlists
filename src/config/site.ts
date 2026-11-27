@@ -738,8 +738,9 @@ export function hubTitle(city: City): string {
   const options = [
     `Best Plumbers in ${city.name}, ${city.stateAbbr}: Compare Local Plumbing Companies`,
     `Best Plumbers in ${city.name}, ${city.stateAbbr}: Compare Local Companies`,
+    `Best Plumbers in ${city.name}, ${city.stateAbbr}: Local Companies`,
   ];
-  return options.find((title) => title.length <= 65) ?? `Best Plumbers in ${city.name}, ${city.stateAbbr}`;
+  return options.find((title) => title.length <= 60) ?? `Best Plumbers in ${city.name}, ${city.stateAbbr}`;
 }
 
 /** Search-style noun per service for title tags ("Best Plumbers", not "Best Plumbing"). */
@@ -756,9 +757,10 @@ export function pageTitle(service: Service, city: City): string {
   const options = [
     `Best ${noun} in ${city.name}, ${city.stateAbbr} (${site.year})`,
     `Best ${noun} in ${city.name}, ${city.stateAbbr}`,
+    `Best ${service.name} in ${city.name}, ${city.stateAbbr} (${site.year})`,
     `Best ${service.name} in ${city.name}, ${city.stateAbbr}`,
   ];
-  return options.find((title) => title.length <= 65) ?? lockedH1(service, city);
+  return options.find((title) => title.length <= 60) ?? `Best ${service.name} in ${city.name}`;
 }
 
 export type CostGuide = {
